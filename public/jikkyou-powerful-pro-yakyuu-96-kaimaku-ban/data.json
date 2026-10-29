@@ -33,6 +33,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BC9B4391",
+   "md5": "E2B12838CF7167BD108BE550FAEC0780",
+   "sha1": "B4EFC86977342C01246BC5B4A7ECF18963ECDC9C",
+   "region": "Japan",
+   "file": "Jikkyou Powerful Pro Yakyuu '96 - Kaimaku Ban (Japan).sfc"
+  },
+  {
+   "crc32": "FB487712",
+   "md5": "153E3A8A9DD84EDC8F6C780F553291C7",
+   "sha1": "CD72925CA1A135BC3FA8160E4C92664836294055",
+   "region": "Japan",
+   "file": "Jikkyou Powerful Pro Yakyuu '96 - Kaimaku Ban (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

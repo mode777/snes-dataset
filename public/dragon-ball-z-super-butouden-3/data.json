@@ -22,6 +22,15 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "CBFDE2D0",
+   "md5": "BE0E2609E0D14F49E9820F81224EFA63",
+   "sha1": "D4BBF593338BE7E495A306B3980EF1EF45A251F4",
+   "region": "Japan",
+   "file": "Dragon Ball Z - Super Butouden 3 (Japan).sfc"
+  }
+ ],
  "gf_score": 3.23,
  "metascore": null,
  "cover_urls": [

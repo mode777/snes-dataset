@@ -37,6 +37,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "C858EAC4",
+   "md5": "D78FD637750AE93B422F90EB68B5638B",
+   "sha1": "76A01492CFB656E9FCE0094BCA356C312ADFEA0E",
+   "region": "USA",
+   "file": "NHLPA Hockey 93 (USA).sfc"
+  },
+  {
+   "crc32": "AD70FAF2",
+   "md5": "7FB33136DFD9EC02268FEE3D3413E048",
+   "sha1": "C65499E0B008B485D812E894496AE40D35E104C1",
+   "region": "Europe",
+   "file": "NHLPA Hockey 93 (Europe).sfc"
+  }
+ ],
  "gf_score": 3.51,
  "metascore": null,
  "cover_urls": [

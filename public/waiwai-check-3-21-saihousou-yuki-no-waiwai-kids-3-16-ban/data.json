@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "17239E91",
+   "md5": "9D531ACB20F61B40F59427A9B23009BC",
+   "sha1": "FE67F40912E7C4D290EEB175A2BD2122BFA3AE8C",
+   "region": "Japan",
+   "file": "Waiwai Check 3-21 Saihousou + Yuki no Waiwai Kids 3-16 Ban (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

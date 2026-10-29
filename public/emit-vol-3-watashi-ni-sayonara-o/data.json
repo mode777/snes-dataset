@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CBC5DA6D",
+   "md5": "57E799507169DE0F9472D7EF5EDDA7F1",
+   "sha1": "07855124E58574BAC2119608A2554B680DF336EB",
+   "region": "Japan",
+   "file": "Emit Vol. 3 - Watashi ni Sayonara o (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

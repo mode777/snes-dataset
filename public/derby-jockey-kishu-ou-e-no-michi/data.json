@@ -21,6 +21,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7D6C9203",
+   "md5": "484D35828BD8A51E4876772891662B6F",
+   "sha1": "1FC2C443A69DE7279217E87C25519EDD7598B1B0",
+   "region": "Japan",
+   "file": "Derby Jockey - Kishu Ou e no Michi (Japan).sfc"
+  },
+  {
+   "crc32": "8516C373",
+   "md5": "87150FF3E13BFA13E021D40D7AE355AA",
+   "sha1": "4C2C387B4212B9298D4B8BDB3E7A010D28E13303",
+   "region": "Japan",
+   "file": "Derby Jockey - Kishu Ou e no Michi (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "523B0D02",
+   "md5": "813B0041900F2BB13D21DC5B582FAC8B",
+   "sha1": "6B896E49B57E9001335A71B3D4DB134988D0993A",
+   "region": "USA",
+   "file": "Romance of the Three Kingdoms III - Dragon of Destiny (USA).sfc"
+  }
+ ],
  "gf_score": 3.66,
  "metascore": null,
  "cover_urls": [

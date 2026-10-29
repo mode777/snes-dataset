@@ -31,6 +31,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7AEDD703",
+   "md5": "E5BC92BCCD1F5DE77C41A9838B7D1F1B",
+   "sha1": "0634E9FE3849A7071612B665376EB95C59071F62",
+   "region": "Japan",
+   "file": "Langrisser, Der (Japan).sfc"
+  },
+  {
+   "crc32": "35F9EECC",
+   "md5": "91D62C4CB790FC2FB38B10B68616E228",
+   "sha1": "E2CB4935CFB5B442928ECAD43DA8B59EE5B159E4",
+   "region": "Japan",
+   "file": "Langrisser, Der (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 4.0,
  "metascore": null,
  "cover_urls": [

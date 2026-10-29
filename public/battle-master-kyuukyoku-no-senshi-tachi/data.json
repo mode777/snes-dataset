@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DBF76BFD",
+   "md5": "1D410A114F6EEE33C5A55C8FBF11C5EE",
+   "sha1": "B8DB74D502389B761165382A62106C824CA17C50",
+   "region": "Japan",
+   "file": "Battle Master - Kyuukyoku no Senshi-tachi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

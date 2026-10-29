@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "65BB5DC4",
+   "md5": "6C3BF666A198666B3632F2786D5E5CE0",
+   "sha1": "2269681DB3BCA3730024DFA601E6648FD8AF4E02",
+   "region": "Japan",
+   "file": "Fighter's History - Mizoguchi Kikiippatsu!! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

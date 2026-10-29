@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "98F76260",
+   "md5": "9067CE954399AADE86E2D21665168715",
+   "sha1": "4B9050E1DAEB39952BE294E6A9BDCBAF5B8135D3",
+   "region": "Japan",
+   "file": "Ginga Sengoku Gunyuuden Rai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

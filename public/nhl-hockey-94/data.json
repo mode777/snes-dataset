@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "208FBF59",
+   "md5": "4D8F6F821E779839D9680FDDF11003B0",
+   "sha1": "7FF7F505DD76B9AB5C02FCFC7EF46D228922EB66",
+   "region": "Europe",
+   "file": "NHL Hockey '94 (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

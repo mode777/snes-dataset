@@ -32,6 +32,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "DBA677EB",
+   "md5": "FBF8D0E416D892A2E54BDDE9A16408DE",
+   "sha1": "DA036A4E45B09DDE40920F839E5760D2F11EA5A1",
+   "region": "Europe",
+   "file": "Troddlers (Europe).sfc"
+  },
+  {
+   "crc32": "5A80C4CB",
+   "md5": "944381C7EAB99877B207367994EB8C07",
+   "sha1": "C0F26AACF7890B7BD5B8292B90E61F874158C15E",
+   "region": "Europe",
+   "file": "Troddlers (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "6A7FF02D",
+   "md5": "8B417009CEF92249FADAED884ECB5AC4",
+   "sha1": "59A850462151F420E9B4B72284B481FE248A8EFA",
+   "region": "USA",
+   "file": "Troddlers (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B78BAE0E",
+   "md5": "1996649F7E8DCD02E733D7AF6A0B083F",
+   "sha1": "B45F33708E50F028AAB7291E8D684C617DEBC93C",
+   "region": "Europe",
+   "file": "Desert Fighter (Europe).sfc"
+  },
+  {
+   "crc32": "CD989804",
+   "md5": "C2E98CA2492B411D2A13DB5938601BBF",
+   "sha1": "31946D4381464F4FD9264B33FCF57C5CA29B132D",
+   "region": "Europe",
+   "file": "Desert Fighter (Europe) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

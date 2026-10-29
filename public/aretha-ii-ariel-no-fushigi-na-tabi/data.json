@@ -31,6 +31,29 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7F5A6F91",
+   "md5": "85265435DDCC6358A587895E0AAC8915",
+   "sha1": "8FEC486AE1A20434D53A04D9E8BCCA25922F700D",
+   "region": "Japan",
+   "file": "Aretha II - Ariel no Fushigi na Tabi (Japan) (Beta).sfc"
+  },
+  {
+   "crc32": "7B164161",
+   "md5": "70563C47FA4AFE306A2E110998005753",
+   "sha1": "2D682D2DEF490A6A7C622644E5BBF2A314B3A10A",
+   "region": "Japan",
+   "file": "Aretha II - Ariel no Fushigi na Tabi (Japan) (Beta) (Alt 1).sfc"
+  },
+  {
+   "crc32": "FF63EC26",
+   "md5": "0EE181FD933BE14CFA6D323FAE03AAE3",
+   "sha1": "1EB540648749F760EA23E6FB6C3AE3AD0B7CA1A5",
+   "region": "Japan",
+   "file": "Aretha II - Ariel no Fushigi na Tabi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

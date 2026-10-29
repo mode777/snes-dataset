@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C2D10E95",
+   "md5": "8FE73BB73145A217BE9E610020B5FE35",
+   "sha1": "7C20C21DA24876EFEFD4BA915929C265EBAA6CA5",
+   "region": "Japan",
+   "file": "Shounen Ninja Sasuke (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -34,6 +34,43 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BEA289FC",
+   "md5": "7424445C51692EAD97568E0A53B3D4A0",
+   "sha1": "BAD6EAD80316FF9C1105E2CB7F16529939A0BE50",
+   "region": "France",
+   "file": "Jimmy Connors Pro Tennis Tour (France).sfc"
+  },
+  {
+   "crc32": "913F1555",
+   "md5": "106290995E3295B9D13C888E806A491A",
+   "sha1": "1C1B57AD8C62F66DEFCE8CA9C6E087153E346999",
+   "region": "USA",
+   "file": "Jimmy Connors Pro Tennis Tour (USA).sfc"
+  },
+  {
+   "crc32": "A95BEF02",
+   "md5": "F9BE2CD00AA7DFAA64A963D099309E18",
+   "sha1": "7A65E3A89ED72A1E4C63FEB297FCDF05CFBE1C29",
+   "region": "Japan",
+   "file": "Jimmy Connors Pro Tennis Tour (Japan).sfc"
+  },
+  {
+   "crc32": "E2294A8E",
+   "md5": "6CA06D22206DCAD105A8426C943287B1",
+   "sha1": "0E0C581574851B09487CCB8EBC1CB7514BE05A31",
+   "region": "Germany",
+   "file": "Jimmy Connors Pro Tennis Tour (Germany).sfc"
+  },
+  {
+   "crc32": "BBA55BEC",
+   "md5": "C3FA909CD175B5E179D74F7B1BF0F9AD",
+   "sha1": "589B6CC2029D9846EDD65732BB8BD588E85CFF88",
+   "region": "Europe",
+   "file": "Jimmy Connors Pro Tennis Tour (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "ECDA1F8B",
+   "md5": "0C5DB1D1288F76E3F26F433805903EFE",
+   "sha1": "B01472490A3BABF5F7A6E61350F47F404DC2515B",
+   "region": "Japan",
+   "file": "Tsuppari Oozumou - Risshinshusse Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

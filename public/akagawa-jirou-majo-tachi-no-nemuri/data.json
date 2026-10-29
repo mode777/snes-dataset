@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "167E4C15",
+   "md5": "B166FC0F75E2EEF5E28CCF542A7CB355",
+   "sha1": "772C4E683771BA7E3A0EBA7A26B1690D13980C6A",
+   "region": "Japan",
+   "file": "Akagawa Jirou Majo-tachi no Nemuri (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

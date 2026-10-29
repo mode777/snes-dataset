@@ -36,6 +36,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A31D1F58",
+   "md5": "2EAD975340211E3F6893FDE8DD279689",
+   "sha1": "2BEFFD4D63FF4A868660C21C69650D9456908745",
+   "region": "Europe",
+   "file": "Alien vs Predator (Europe).sfc"
+  },
+  {
+   "crc32": "1803CF20",
+   "md5": "1FC2EAD45EADCAC586D65E218B895912",
+   "sha1": "309F5D60F15C2AF06ED30EF95112A8A287132AD5",
+   "region": "USA",
+   "file": "Alien vs Predator (USA).sfc"
+  }
+ ],
  "gf_score": 2.54,
  "metascore": null,
  "cover_urls": [

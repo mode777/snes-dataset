@@ -36,6 +36,36 @@
  "languages": [
   "English, German, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D2554270",
+   "md5": "9130D5C3259B6EA162762A93A93AD1E4",
+   "sha1": "416AAD89D76D4A74E2DB985DB1AEE3A50DBAFEC8",
+   "region": "USA",
+   "file": "Lagoon (USA).sfc"
+  },
+  {
+   "crc32": "6F2015FB",
+   "md5": "AF64F915AC6E960412F73DD052720ADA",
+   "sha1": "93CB073F0D63026067C4FDA11889B1ABE4E1CB22",
+   "region": "Japan",
+   "file": "Lagoon (Japan).sfc"
+  },
+  {
+   "crc32": "B24F5C0B",
+   "md5": "F644AD755DAF27BA4B92CB93D8B1451A",
+   "sha1": "05E48A5916B5C8D0E4F99FA18866AB1DB1454615",
+   "region": "Germany",
+   "file": "Lagoon (Germany).sfc"
+  },
+  {
+   "crc32": "840D0C53",
+   "md5": "3AEB9114483F6646A10C1AFAA0532AAC",
+   "sha1": "1DD1600C9EC94E114317E6F2306A1F651A30D750",
+   "region": "Europe",
+   "file": "Lagoon (Europe).sfc"
+  }
+ ],
  "gf_score": 3.11,
  "metascore": null,
  "cover_urls": [

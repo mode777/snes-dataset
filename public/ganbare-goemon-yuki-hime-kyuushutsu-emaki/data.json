@@ -18,6 +18,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "ADDE8D79",
+   "md5": "57222BF254226E8BB26216C2D064E8F1",
+   "sha1": "53997213FD8CCF4A8A46F448C2F2DBC45709263F",
+   "region": "Japan",
+   "file": "Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan).sfc"
+  },
+  {
+   "crc32": "6CD62399",
+   "md5": "8478D65A49CCD0FE68CEFC6757153730",
+   "sha1": "0E0F23D415F4EAFF718CB062C5B6A187E1303B01",
+   "region": "Japan",
+   "file": "Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan) (Rev 2).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

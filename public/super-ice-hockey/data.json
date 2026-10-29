@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FB1D16C4",
+   "md5": "BA0AAB6F4E9CFF302D4313041FCD6EE9",
+   "sha1": "EE9653D8AD1BA0814C21433F489144BBF2A7264A",
+   "region": "Europe",
+   "file": "Super Ice Hockey (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

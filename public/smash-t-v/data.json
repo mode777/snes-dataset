@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3147AD34",
+   "md5": "EAF7F6E246C04B0874854F30709AC705",
+   "sha1": "CC88454C2BFF47862F1764EB50D3A386A1236652",
+   "region": "Japan",
+   "file": "Smash T.V. (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

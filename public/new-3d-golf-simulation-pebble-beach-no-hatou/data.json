@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E8A7D379",
+   "md5": "F84A6DF8E3924D4F7A6EC6BBDAF98468",
+   "sha1": "45D7108B793AAA3B45E8E76FA8DD7FB84557FCF0",
+   "region": "Japan",
+   "file": "New 3D Golf Simulation - Pebble Beach no Hatou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

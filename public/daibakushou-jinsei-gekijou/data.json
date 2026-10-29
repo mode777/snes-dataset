@@ -25,6 +25,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5EB7A3E5",
+   "md5": "04E8701B433B99ACA432894733ADAF63",
+   "sha1": "C6DC571A70553701D2D9758544CE2D55BB4ED820",
+   "region": "Japan",
+   "file": "Daibakushou Jinsei Gekijou (Japan) (BS).sfc"
+  },
+  {
+   "crc32": "A5D41D2F",
+   "md5": "AD916C082CCAC3437BDFC45B83167FDD",
+   "sha1": "3D3D994CC934B6B11D495510048751AE33B59B94",
+   "region": "Japan",
+   "file": "Daibakushou Jinsei Gekijou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

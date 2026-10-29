@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "639022AB",
+   "md5": "A759B6A6812F38D6BB1F05AD98437EF6",
+   "sha1": "4F396648C9C60CD92769C1789F37B06CD1CFCD13",
+   "region": "Japan",
+   "file": "Takemiya Masaki Kudan no Igo Taishou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

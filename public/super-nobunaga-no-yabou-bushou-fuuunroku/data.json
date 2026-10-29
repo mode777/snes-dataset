@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E42CA25A",
+   "md5": "02DCB3303A414E58E9B2A09A7AB0A700",
+   "sha1": "589749852C4D4133232409FD613B3F8DB4BD8B9E",
+   "region": "Japan",
+   "file": "Super Nobunaga no Yabou - Bushou Fuuunroku (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "686F5A90",
+   "md5": "9AD0F73B1D5380899AC14F87C12C8C70",
+   "sha1": "BD8FCE89EB6759A3430F4DB057954C8B2C5C6842",
+   "region": "Japan",
+   "file": "Super Nobunaga no Yabou - Bushou Fuuunroku (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

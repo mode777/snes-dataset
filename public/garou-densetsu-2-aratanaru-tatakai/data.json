@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "FBF3ABDF",
+   "md5": "792DA145E618A034DE1A4CAF4EE2E612",
+   "sha1": "987EF1CB60592B0469DC2DF5364F372848515B37",
+   "region": "Japan",
+   "file": "Garou Densetsu 2 - Aratanaru Tatakai (Japan).sfc"
+  },
+  {
+   "crc32": "3EE1B2D2",
+   "md5": "490D3D56D05EABFB38C6ED3954EFC272",
+   "sha1": "41025FAA34B903B96F7819355628D07F6D7D90EE",
+   "region": "Japan",
+   "file": "Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

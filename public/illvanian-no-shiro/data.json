@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F568579F",
+   "md5": "3431098AEE5CCBB4586A9627A38B6299",
+   "sha1": "0398F95CE8EFC27FE794AE677E68B21F96C2E78D",
+   "region": "Japan",
+   "file": "Illvanian no Shiro (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

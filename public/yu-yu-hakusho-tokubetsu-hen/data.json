@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "535CCCAC",
+   "md5": "4442FA1537A32909DD1C6D914A12C246",
+   "sha1": "158CF857F54A45EDD2E8360495546FAAE35EDE05",
+   "region": "Japan",
+   "file": "Yu Yu Hakusho - Tokubetsu Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

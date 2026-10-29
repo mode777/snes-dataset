@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "721BC7CA",
+   "md5": "9D32651F297C10C2EDB351857BBD65C3",
+   "sha1": "6954A0F3979869F5AE322E51D9D90CFC6D341F2F",
+   "region": "Japan",
+   "file": "Ikari no Yousai (Japan) (BS).sfc"
+  },
+  {
+   "crc32": "4D5329F2",
+   "md5": "DA2511A4E81F4F889D85606FD9853DDB",
+   "sha1": "A7806A49890598C32B490C4A348EA52DEA3869C2",
+   "region": "Japan",
+   "file": "Ikari no Yousai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

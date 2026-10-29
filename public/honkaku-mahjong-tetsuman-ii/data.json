@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A43C5A39",
+   "md5": "3153BCDB377CDE82BBFBAC70B943AA96",
+   "sha1": "DAE24C25255807FE79F32D82442DE2321C1870CB",
+   "region": "Japan",
+   "file": "Honkaku Mahjong - Tetsuman II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

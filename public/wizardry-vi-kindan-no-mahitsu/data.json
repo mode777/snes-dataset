@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C17ECBA5",
+   "md5": "F5AE0C2811AC905F798C70A972184F43",
+   "sha1": "AF177665DEF09103330DE2DADDD86B4A2BFBE68A",
+   "region": "Japan",
+   "file": "Wizardry VI - Kindan no Mahitsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

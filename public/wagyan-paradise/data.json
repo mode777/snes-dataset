@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C06E6621",
+   "md5": "31415A716C7A7BAC1BA51894290A0B71",
+   "sha1": "E93757ED5244175C8DAACD32F813D0D20823537E",
+   "region": "Japan",
+   "file": "Wagyan Paradise (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

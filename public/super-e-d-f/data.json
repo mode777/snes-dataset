@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2DD53BA4",
+   "md5": "AB09F131DC565A9F2D4258CF52F27D2E",
+   "sha1": "5301AE75B3707DF9C60E4C7B1A2E6B90BECE1E6E",
+   "region": "Japan",
+   "file": "Super E.D.F. (Japan) (BS).sfc"
+  },
+  {
+   "crc32": "3E631524",
+   "md5": "935C5B4E37904435042B3EE17A77950D",
+   "sha1": "10B81318C3E30D1A3E33189BEFDA975C61B47573",
+   "region": "Japan",
+   "file": "Super E.D.F. (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

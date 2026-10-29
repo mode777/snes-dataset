@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6BCBBA10",
+   "md5": "AA9133B587272E5580A4567C72E9D43C",
+   "sha1": "4A89C391B8EEDF50BA3A03500044AB46F0FD7F8F",
+   "region": "USA",
+   "file": "Super Ninja Boy (USA).sfc"
+  }
+ ],
  "gf_score": 3.32,
  "metascore": null,
  "cover_urls": [

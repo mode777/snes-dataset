@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "CFE75BCB",
+   "md5": "BF692F974DD4F9760B4FF8F95695263D",
+   "sha1": "9C5AD2E322A4ADEB2A5545C13F96AE59F7F53519",
+   "region": "Japan",
+   "file": "Sonic Wings (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

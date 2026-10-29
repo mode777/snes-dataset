@@ -29,6 +29,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "98EF8414",
+   "md5": "40600EDCA42CE6B319A619E9F70DAF8E",
+   "sha1": "C27615DFFC57E0A5B9250A0613AC9B77EBE86256",
+   "region": "USA",
+   "file": "Championship Pool (USA).sfc"
+  },
+  {
+   "crc32": "2905C3DD",
+   "md5": "C59CEDF0710684781B1570506023E44F",
+   "sha1": "CA2903B442130B85C8304F9863ECEFB1BD0923B1",
+   "region": "Europe",
+   "file": "Championship Pool (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

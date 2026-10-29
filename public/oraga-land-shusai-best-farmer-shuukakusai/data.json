@@ -26,6 +26,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "27CED447",
+   "md5": "0980981D212FCAE1933B6296CD37BD8A",
+   "sha1": "1799A26D19FA86E49EE33351374A9084441E0DCF",
+   "region": "Japan",
+   "file": "Oraga Land Shusai - Best Farmer Shuukakusai (Japan) (Sample).sfc"
+  },
+  {
+   "crc32": "32A4612F",
+   "md5": "B571F6EDC8ABC65AADB9BCA55C9E1B87",
+   "sha1": "5D4C489F96C5C6165DC2686D94242A37FEB3815E",
+   "region": "Japan",
+   "file": "Oraga Land Shusai - Best Farmer Shuukakusai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

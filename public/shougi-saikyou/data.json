@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "12C42BC0",
+   "md5": "D5FDE14348C6F47012A803601E51D510",
+   "sha1": "8A4E90551877F43011E2773BE8E04ACB5696E718",
+   "region": "Japan",
+   "file": "Shougi Saikyou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

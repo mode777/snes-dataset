@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "FB1A2E4D",
+   "md5": "64CC98482DE6FAB9B750464B5F2A3D35",
+   "sha1": "B7FBA94A3BC5B7B46CF005E7F8116C4221005EE3",
+   "region": "Japan",
+   "file": "Golf Daisuki! O.B. Club (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

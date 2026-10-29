@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "56C7EB66",
+   "md5": "11AD0C7B260175C2C59A36669D251370",
+   "sha1": "82EDC06F026ABD169EB1F40D154E61F43FFF3541",
+   "region": "Japan",
+   "file": "BattleTech 3050 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

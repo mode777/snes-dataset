@@ -27,6 +27,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BA921443",
+   "md5": "3DAF41FDCFBCB8CE2C6CE1CF814E8A5C",
+   "sha1": "D5502CBB7A86B214867A43675F5CA64ED45478CA",
+   "region": "USA",
+   "file": "Cacoma Knight in Bizyland (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

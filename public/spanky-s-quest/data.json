@@ -30,6 +30,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7317705E",
+   "md5": "C9C1DC8561C8CAEAEF0E049D39E4D098",
+   "sha1": "EDE9B5319EA479F46A8F05387AC3B4FB1F98563B",
+   "region": "Europe",
+   "file": "Spanky's Quest (Europe).sfc"
+  },
+  {
+   "crc32": "CA68C5C3",
+   "md5": "F1EEDEB77A77D59476F33847F3275FC9",
+   "sha1": "2F9F643087A5856FB5C7DF374750015ADB8072A1",
+   "region": "USA",
+   "file": "Spanky's Quest (USA).sfc"
+  }
+ ],
  "gf_score": 3.52,
  "metascore": null,
  "cover_urls": [

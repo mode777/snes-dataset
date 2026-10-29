@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8556F5A2",
+   "md5": "6F5E5211705ADF20D18330DA188A6F5A",
+   "sha1": "34FC79D0545A84754CF0FE11A8276F67FE6EEA97",
+   "region": "USA",
+   "file": "Sylvester and Tweety (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

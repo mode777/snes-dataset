@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "34F2685E",
+   "md5": "B1B5F5EB7778AFABB4518A5406269B68",
+   "sha1": "01068ED4D7865372F3C22342F5898204A1EBCF5F",
+   "region": "Japan",
+   "file": "Daibakushou Jinsei Gekijou - Ooedo Nikki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

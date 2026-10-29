@@ -20,6 +20,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "70F5D440",
+   "md5": "A110A863DD8440806956667C83179B72",
+   "sha1": "C37763EEC397EE14A9F4C8510C1E886002A11B1A",
+   "region": "Japan",
+   "file": "Chou Aniki - Bakuretsu Rantou Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

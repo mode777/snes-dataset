@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6D971E71",
+   "md5": "934F500B6AA2E759BB28895C612D98E5",
+   "sha1": "473FD8168166E3F73ACCC6F2D2A71F14CE223AB8",
+   "region": "Japan",
+   "file": "Supapoon (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

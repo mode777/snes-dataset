@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4C2BEA69",
+   "md5": "A983663C02AE8CF51A3E42C3F8E9506C",
+   "sha1": "EBCB587DFE8BA85A98F8109F1C957F6F666F6DC4",
+   "region": "Japan",
+   "file": "Shiki Eiyuu Den - Jinryuu Densetsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

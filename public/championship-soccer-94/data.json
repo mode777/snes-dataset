@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "6B953095",
+   "md5": "E268853CE1A8F8921FD3A3382668DAAD",
+   "sha1": "94FE929852CF0794F64A58D689ACCF7ABEECC40B",
+   "region": "USA",
+   "file": "Championship Soccer '94 (USA) (En,Fr,De,It).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

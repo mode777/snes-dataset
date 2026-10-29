@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F0540D1B",
+   "md5": "A145B69AF53DFC9AF2B2625E7BE6104E",
+   "sha1": "88C063421A2C97AF4F8B744981704053E075EFC7",
+   "region": "USA",
+   "file": "Super Bases Loaded 3 - License to Steal (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

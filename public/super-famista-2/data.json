@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C4DFD188",
+   "md5": "4CA854B5AD1C29D3699AC7ACF469981E",
+   "sha1": "2B87BCB40002E49D53C2B3B351776CC6673A1E14",
+   "region": "Japan",
+   "file": "Super Famista 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,15 @@
  "languages": [
   "English, German, French"
  ],
+ "roms": [
+  {
+   "crc32": "0354F4B1",
+   "md5": "4CCA376F58DCA81AE9CC977844276E5B",
+   "sha1": "5E38DD23CDD68754B6469DA0725688D0AF34F867",
+   "region": "Europe",
+   "file": "Dirt Racer (Europe) (En,Fr,De).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

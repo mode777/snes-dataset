@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "7BDDD73F",
+   "md5": "FC649411424C5629D589CE6B89222F46",
+   "sha1": "649799EB28F47C54F077598A1C1445BF3F619FBC",
+   "region": "USA",
+   "file": "Street Sports - Jammit (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

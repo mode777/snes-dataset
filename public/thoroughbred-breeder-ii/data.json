@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9D89BD3A",
+   "md5": "C0AF73FEB258B801F911677111517BAA",
+   "sha1": "095BF29BE3FE83D44660BBDC2E47898176289F56",
+   "region": "Japan",
+   "file": "Thoroughbred Breeder II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

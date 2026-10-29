@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1D4AE6AB",
+   "md5": "64B9B14BA3A44D720DEEFC50CF8C2540",
+   "sha1": "9A7B6FA34A07ABBD9B9485B6AB9C2CD6D4D7051B",
+   "region": "Japan",
+   "file": "Hiouden - Mamono-tachi to no Chikai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

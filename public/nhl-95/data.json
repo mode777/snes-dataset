@@ -36,6 +36,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "6930B67A",
+   "md5": "A878A1C7C8A65B1E231987F1CDF8FEDC",
+   "sha1": "B7B8B974F970C39576ECC3612DA727947FC2FB85",
+   "region": "Europe",
+   "file": "NHL 95 (Europe).sfc"
+  },
+  {
+   "crc32": "2E9B1463",
+   "md5": "DEEA8F94027F374D432DEA56E0C72917",
+   "sha1": "0B939F267377801D2C805B05C06A7EE6C880C5FC",
+   "region": "USA",
+   "file": "NHL 95 (USA).sfc"
+  }
+ ],
  "gf_score": 3.53,
  "metascore": null,
  "cover_urls": [

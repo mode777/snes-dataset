@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "09E9E3BB",
+   "md5": "77865EE0E03A2E1A05AFDB93C5126C47",
+   "sha1": "A7B03C0807954A1BD9A05AB9927C28284E235208",
+   "region": "Japan",
+   "file": "Tetris Flash (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B0E684CC",
+   "md5": "38A956A46522869ABBE0608D55FA346F",
+   "sha1": "7C9DE677B72D0737512AD63CB04C67FFF8EA9918",
+   "region": "Europe",
+   "file": "Wile E Coyote's Revenge (Europe) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

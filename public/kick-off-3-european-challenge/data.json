@@ -33,6 +33,22 @@
  "languages": [
   "English, German, Spanish, French, Italian"
  ],
+ "roms": [
+  {
+   "crc32": "1AC7F523",
+   "md5": "211E9589DB9C1C007771E25BAB81198C",
+   "sha1": "7AB7898B0D00FA91E75365A060BD36DDBA232F6A",
+   "region": "Europe",
+   "file": "Kick Off 3 - European Challenge (Europe) (En,Fr,De,Es,It).sfc"
+  },
+  {
+   "crc32": "EA93AA27",
+   "md5": "1859333D6FD869B294F08E520C9114DA",
+   "sha1": "F54232A687288702559A6CB6F68D1196001FA7A3",
+   "region": "Europe",
+   "file": "Kick Off 3 - European Challenge (Europe) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

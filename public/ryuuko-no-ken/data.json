@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0DB2D9AB",
+   "md5": "5A87F18403DE943E597F0280A26D4FFE",
+   "sha1": "13C3F829DD73F49AC68FF49473AAC6DFF94B8432",
+   "region": "Japan",
+   "file": "Ryuuko no Ken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

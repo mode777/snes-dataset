@@ -30,6 +30,15 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "62ABAEE1",
+   "md5": "4DB096B5D157E41B5D26ACB6E6CF8420",
+   "sha1": "44C845EF4E75AB1881F3DDC89976DFF9D23C018F",
+   "region": "USA",
+   "file": "Elite Soccer (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

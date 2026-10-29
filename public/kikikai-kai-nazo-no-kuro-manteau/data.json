@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1C57F2C6",
+   "md5": "37453D3E43601BC7C4B3C6FAE4CB1397",
+   "sha1": "9AFC61FF13312112880D6D5854BAA6B529E0F250",
+   "region": "Japan",
+   "file": "Kikikai-kai - Nazo no Kuro Manteau (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

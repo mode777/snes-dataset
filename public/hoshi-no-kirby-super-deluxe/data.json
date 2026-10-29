@@ -19,6 +19,29 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1F35F230",
+   "md5": "D7B1247287D73713427B4E661A6C3613",
+   "sha1": "9AE2DB3BCB2699394937BC007CD6835609B7E18F",
+   "region": "Japan",
+   "file": "Hoshi no Kirby Super Deluxe (Japan) (Rev 2).sfc"
+  },
+  {
+   "crc32": "151BD470",
+   "md5": "8C4E1C308F4174FC506FECACE989CC39",
+   "sha1": "2F2FF2C75EAFA705363FEB435A88D2C914D301CF",
+   "region": "Japan",
+   "file": "Hoshi no Kirby Super Deluxe (Japan).sfc"
+  },
+  {
+   "crc32": "DBBCD010",
+   "md5": "512711D3D095BF9718B6A996A85074D8",
+   "sha1": "63F47B5F47BEC60147B9E75A71B3F038E5E0969E",
+   "region": "Japan",
+   "file": "Hoshi no Kirby Super Deluxe (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

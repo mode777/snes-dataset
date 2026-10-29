@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C8D286C9",
+   "md5": "9918DBF3F0D349CAC24631BDF77939F3",
+   "sha1": "827F6E0534E2317E3348CE76BD47BEC8691B3563",
+   "region": "Japan",
+   "file": "Kyuuyaku Megami Tensei (Japan).sfc"
+  }
+ ],
  "gf_score": 3.45,
  "metascore": null,
  "cover_urls": [

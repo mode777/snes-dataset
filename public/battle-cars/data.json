@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "46043454",
+   "md5": "0B14BD63104AB1E7C59E18B1E18B2002",
+   "sha1": "9135DDB50D303CB08B8D6ED5D2533EADA4B09F20",
+   "region": "USA",
+   "file": "Battle Cars (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

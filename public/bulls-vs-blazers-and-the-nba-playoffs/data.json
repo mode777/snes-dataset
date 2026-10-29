@@ -31,6 +31,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C2E91694",
+   "md5": "D9077A0430CFA5F43E3525B1669DA140",
+   "sha1": "8130855E4DB139A74025D4D08740FB55D5DE19CE",
+   "region": "USA",
+   "file": "Bulls vs Blazers and the NBA Playoffs (USA) (Rev 1).sfc"
+  },
+  {
+   "crc32": "F605C0AC",
+   "md5": "15454FD955ED5CFDD03E8A5E17EE2EF0",
+   "sha1": "3831742DD5035555FB15A56D49260691D9845B90",
+   "region": "Europe",
+   "file": "Bulls vs Blazers and the NBA Playoffs (Europe).sfc"
+  },
+  {
+   "crc32": "0C4B876B",
+   "md5": "08CD1F32E516D4DAFDDC8C3BD01280BA",
+   "sha1": "8773AC3A119A88B8799937B44C4969839D4ED04D",
+   "region": "Europe",
+   "file": "Bulls vs Blazers and the NBA Playoffs (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "15484AFD",
+   "md5": "6E63EBAB23F55034E9279ADC78A2CF76",
+   "sha1": "EA81DD75E69696C4B1D287C74B09F8030462D154",
+   "region": "USA",
+   "file": "Bulls vs Blazers and the NBA Playoffs (USA).sfc"
+  }
+ ],
  "gf_score": 3.05,
  "metascore": null,
  "cover_urls": [

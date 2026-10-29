@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A1306F3B",
+   "md5": "49F995FE928C7E8678DF171CB4F7EAA2",
+   "sha1": "5A7C0A88D439FDF5458E8EF4109B9F3CA75D9273",
+   "region": "Europe",
+   "file": "Kick Off (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

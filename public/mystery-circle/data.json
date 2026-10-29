@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7341CE40",
+   "md5": "ABF30A68AE9A597290B9BFE4E4D063FB",
+   "sha1": "042B8DAD2E8219CCA33351C68FFE1D8270D83156",
+   "region": "Japan",
+   "file": "Mystery Circle (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

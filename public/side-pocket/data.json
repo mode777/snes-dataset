@@ -35,6 +35,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "597C2BFE",
+   "md5": "10E339039DF1185206E2B8A236AF9248",
+   "sha1": "EF7DF519280DBB3E7EEC4E922EC5D79E80F1DFBB",
+   "region": "USA",
+   "file": "Side Pocket (USA).sfc"
+  },
+  {
+   "crc32": "0E074268",
+   "md5": "795DEA95B245CBDF063CF536B0FACB2E",
+   "sha1": "87644E8BF4444719C00C67FC4FE6E9D08AEE1297",
+   "region": "Japan",
+   "file": "Side Pocket (Japan).sfc"
+  },
+  {
+   "crc32": "3352A27C",
+   "md5": "4C4A9B6F26238763BC07C04928CD7202",
+   "sha1": "7D7B3061E1EB8A5AB683F0D550E624914404CA33",
+   "region": "Europe",
+   "file": "Side Pocket (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

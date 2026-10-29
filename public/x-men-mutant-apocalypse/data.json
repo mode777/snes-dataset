@@ -34,6 +34,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8E4AB536",
+   "md5": "20EF356938AF10EAD37A3AB5105A7A67",
+   "sha1": "3805BB70E4C6D4D3ED4164801C73AA355BB02E16",
+   "region": "Europe",
+   "file": "X-Men - Mutant Apocalypse (Europe).sfc"
+  },
+  {
+   "crc32": "4F02A304",
+   "md5": "630BE0968AB1C7DA7EC78725873EA20E",
+   "sha1": "5AB4C41337D4FED245EBC73EEC9F300AF123DB62",
+   "region": "Japan",
+   "file": "X-Men - Mutant Apocalypse (Japan).sfc"
+  },
+  {
+   "crc32": "5E34822A",
+   "md5": "0C8D8FD7E695499B86D39CC75E166671",
+   "sha1": "81F66A620352F6ECAD3BDFE0D47F42C55971080C",
+   "region": "USA",
+   "file": "X-Men - Mutant Apocalypse (USA).sfc"
+  }
+ ],
  "gf_score": 3.7,
  "metascore": null,
  "cover_urls": [

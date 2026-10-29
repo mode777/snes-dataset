@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "DFBAC4F2",
+   "md5": "539858C3F2B8CD6F4765AD4A96560005",
+   "sha1": "284D81EEEC5687FE066C704939D3980325BC28F1",
+   "region": "USA",
+   "file": "Super 8 (USA) (Unl).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "762EA6E9",
+   "md5": "429F0497BD72848E988DEAEB5C501EDC",
+   "sha1": "164B893BD67D4D3C926EA3AAE34F5257ACBBB006",
+   "region": "Japan",
+   "file": "World Class Rugby 2 - Kokunai Gekitou Hen '93 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

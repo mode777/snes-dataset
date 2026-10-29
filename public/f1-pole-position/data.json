@@ -31,6 +31,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B3DA1B1D",
+   "md5": "F5D6DE2EEE13052EDF75D9AC84F9B537",
+   "sha1": "199D607F2ABACB10F229F173616E414F473C4778",
+   "region": "USA",
+   "file": "F1 Pole Position (USA).sfc"
+  },
+  {
+   "crc32": "7049AAE8",
+   "md5": "E67BAF8C1F2875AE82EBA5EB99B790BA",
+   "sha1": "CC3A20CD8BFF2AAAF1B3BDE3E61A40D20F3421C6",
+   "region": "USA",
+   "file": "F1 Pole Position (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "E935886A",
+   "md5": "3A813107C0B95A2EA503BD1BD928BAC9",
+   "sha1": "3351F8DDF52E2AEB01AFFD7DD3A6A4623D96FF1D",
+   "region": "Europe",
+   "file": "F1 Pole Position (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

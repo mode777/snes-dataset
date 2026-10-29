@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A93C827E",
+   "md5": "0862FE3198B4BAD070F997E494F4FFE4",
+   "sha1": "D8B99D5386B6DC55A2C084A8730B7868DAFC9028",
+   "region": "Japan",
+   "file": "Game Tora no Taikoban - 5-17 Gou (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3DAEA8A1",
+   "md5": "EF103F8E4325E3C58D2F7FBBE7159677",
+   "sha1": "FE4DCCA5C3CB2E721F4DBF971CC06FE10F78E629",
+   "region": "USA",
+   "file": "SpellCraft - Aspects of Valor (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

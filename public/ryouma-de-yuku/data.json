@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F962E49B",
+   "md5": "530D948F95C4635B4CF2AFE4287FA614",
+   "sha1": "D06C8A51BDAE739BF9891CF54F3C540531210ED0",
+   "region": "Japan",
+   "file": "Ryouma de Yuku (Japan) (Data Pack) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

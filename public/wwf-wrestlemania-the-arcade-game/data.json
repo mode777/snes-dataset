@@ -38,6 +38,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "6B8C5603",
+   "md5": "FB0BEC0BBCD24B0E5DB937B5690E3434",
+   "sha1": "945806415415D8DDD47D0DD41561A4DB8C816F2E",
+   "region": "Europe",
+   "file": "WWF WrestleMania - The Arcade Game (Europe).sfc"
+  },
+  {
+   "crc32": "AFBEE7B1",
+   "md5": "BCFA10CCA3DFCF9B7E4167B1FBAE1096",
+   "sha1": "0C5EE45E15B8E7A654BCD517060912C0DA38B3EF",
+   "region": "Japan",
+   "file": "WWF WrestleMania - The Arcade Game (Japan).sfc"
+  },
+  {
+   "crc32": "1BA08495",
+   "md5": "815629AC8614ABE5DAF02BDB669595C3",
+   "sha1": "194885009C5FFDDC1CE310AD06AD9B9CC12A3C47",
+   "region": "USA",
+   "file": "WWF WrestleMania - The Arcade Game (USA).sfc"
+  }
+ ],
  "gf_score": 3.28,
  "metascore": null,
  "cover_urls": [

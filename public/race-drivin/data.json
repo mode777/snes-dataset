@@ -36,6 +36,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "12CB0A54",
+   "md5": "87D324A718383B7EDB6B651529BE2C62",
+   "sha1": "C39DDA44055E23782FA9A5EE650D87E555DEADD6",
+   "region": "Europe",
+   "file": "Race Drivin' (Europe).sfc"
+  },
+  {
+   "crc32": "C5BAB870",
+   "md5": "E2AE14FAF068F0B9C0E8A9374124C347",
+   "sha1": "0F93605F7596F76FE774BAAC8E5CC748168BC549",
+   "region": "USA",
+   "file": "Race Drivin' (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

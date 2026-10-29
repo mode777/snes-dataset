@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "14D70786",
+   "md5": "CE9B7F3572867F3C1C6FF889B02A63A4",
+   "sha1": "EAD855D774C9943F7FFB5B4F429B2DD07FB6F606",
+   "region": "Japan",
+   "file": "Panel de Pon (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

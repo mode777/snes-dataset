@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "54E92C91",
+   "md5": "80DC439AA9A7BDBF1A8A81C6481E37C4",
+   "sha1": "DD94EC199678E6F40D518ACC1A4886D097187258",
+   "region": "Japan",
+   "file": "Parlor! Mini 7 - Pachinko Jikki Simulation Game (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

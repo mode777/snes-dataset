@@ -37,6 +37,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C8FBFAA8",
+   "md5": "6A5B2F9BDE72F7D72DB7DFE9AFD0F47A",
+   "sha1": "E5319132495FD34D03F141962D9D6E3D76FE7B02",
+   "region": "USA",
+   "file": "Lion King, The (USA).sfc"
+  },
+  {
+   "crc32": "79A9B2D0",
+   "md5": "EF70FED8C54193FE314472F453C40865",
+   "sha1": "ABFE570D79ED91EB8DA0354B230CC6430EE123C6",
+   "region": "Japan",
+   "file": "Lion King, The (Japan).sfc"
+  },
+  {
+   "crc32": "8A46ED37",
+   "md5": "5AEE4392AE78C9B1BC25A86F135E08FD",
+   "sha1": "45C59FD06B00F6C7222E6A5904E66DAC9CF0BE07",
+   "region": "Europe",
+   "file": "Lion King, The (Europe).sfc"
+  }
+ ],
  "gf_score": 3.5,
  "metascore": null,
  "cover_urls": [

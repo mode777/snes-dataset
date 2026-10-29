@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E45A26C1",
+   "md5": "3D1AC9BBEFA0BABDC9DDF17000A15DAD",
+   "sha1": "481923F4B483446EFB128D5B70F9414E16FBC816",
+   "region": "Japan",
+   "file": "Columbus no Tamagoyaki - Dai-3-kai (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

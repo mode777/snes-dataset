@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "88E5BCDF",
+   "md5": "CF24FA170286D8589397CADA04EC71AD",
+   "sha1": "D3718D8CF62C74389ABA5005C9F59D4E626CD0C6",
+   "region": "Japan",
+   "file": "Popful Mail (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

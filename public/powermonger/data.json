@@ -28,6 +28,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BC06F982",
+   "md5": "CC6EBDA0842675456A8D6A5372E19683",
+   "sha1": "B91A582920C49FFB02E364987F76721E09A3AE68",
+   "region": "Europe",
+   "file": "PowerMonger (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

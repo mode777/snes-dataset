@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "19BDCB19",
+   "md5": "E1A6CFE35640EE9EB661C2239CCC0717",
+   "sha1": "24AF9A5A78635EC493BBBC2540AB98BD161C5798",
+   "region": "Japan",
+   "file": "Derby Stallion 96 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

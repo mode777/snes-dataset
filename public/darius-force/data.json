@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3E828E49",
+   "md5": "576E89EA12FC942B9A4F4B03DF5F72B9",
+   "sha1": "8F45123BCBDCD02FEF42DFBD131704A3B1E7226D",
+   "region": "Japan",
+   "file": "Darius Force (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0B6FB2F8",
+   "md5": "34E23CFB3C614607DB944DDBFCBDE3F2",
+   "sha1": "7C84674CE5BED9DE224C07D0D99D19C92A39E942",
+   "region": "Japan",
+   "file": "Pebble Beach no Hatou New - Tournament Edition (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

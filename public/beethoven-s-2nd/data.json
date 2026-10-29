@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "FB5747AC",
+   "md5": "42FEE081DCE166E2B7280F9CE8048FD9",
+   "sha1": "905EC7C58CAC4137A01BFF5CEF2FA19435C0C6BC",
+   "region": "USA",
+   "file": "Beethoven's 2nd (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

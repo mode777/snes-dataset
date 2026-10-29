@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "052167CC",
+   "md5": "E6F13860E50B921EC09A89FD5B585AC7",
+   "sha1": "4B5725AEB7F770FEADDA6CFEC5E609FF57FCE363",
+   "region": "Japan",
+   "file": "Kaite Tsukutte Asoberu Dezaemon (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

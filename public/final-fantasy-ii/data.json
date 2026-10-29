@@ -30,6 +30,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "65D0A825",
+   "md5": "4FA9E542B954DCB954D5CE38188D9D41",
+   "sha1": "2FA447E3E010CE8BA5B4E746F6609AA0E324D947",
+   "region": "USA",
+   "file": "Final Fantasy II (USA).sfc"
+  },
+  {
+   "crc32": "23084FCD",
+   "md5": "27D02A4F03E172E029C9B82AC3DB79F7",
+   "sha1": "41A74EB369A7A91815529EF99AB1B20E2BDF3E26",
+   "region": "USA",
+   "file": "Final Fantasy II (USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 4.28,
  "metascore": 85,
  "cover_urls": [

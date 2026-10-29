@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "32A810A6",
+   "md5": "594D25AB061E52409723F519D584C732",
+   "sha1": "F93250B2914C7550A0607C2197EE39F5834CEBAB",
+   "region": "Europe",
+   "file": "Super Full Metal (Europe) (It,Sv) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

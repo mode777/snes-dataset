@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "12A80829",
+   "md5": "9750A47B1689948233C98F54A2413DD8",
+   "sha1": "FF3E6B558AAA9C36A35460BA61821E09AEF50A9E",
+   "region": "Japan",
+   "file": "Same Game - Chara Data Shuu (Japan) (BSROM).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

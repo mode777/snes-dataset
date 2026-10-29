@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "184EF398",
+   "md5": "DB313D0C844CF97D18075317EC9F7756",
+   "sha1": "1748C5DF2CBCF2E1CC3720B6CB1206C0E966EC95",
+   "region": "USA",
+   "file": "Arcus Odyssey (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

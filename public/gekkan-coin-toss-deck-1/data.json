@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5CA412BC",
+   "md5": "AA7EBB3F8F76092AD5522F4BE0135353",
+   "sha1": "3F0B1A4CBE68AA13A452DAC8CEC532545E25B617",
+   "region": "Japan",
+   "file": "Gekkan Coin Toss - Deck 1 (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

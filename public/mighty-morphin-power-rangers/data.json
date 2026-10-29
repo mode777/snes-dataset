@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "A56EB77A",
+   "md5": "C0A6AE7A3CFF034232CB23D765BCB36D",
+   "sha1": "F2B093F57B511FC30D40114649DAFC342872186B",
+   "region": "USA",
+   "file": "Mighty Morphin Power Rangers (USA).sfc"
+  },
+  {
+   "crc32": "812329C2",
+   "md5": "6FC7D9663C350799D8F0B6168691385A",
+   "sha1": "5F2C815E36B3C7E1FD0B8E66DDDFE14D7A453FF2",
+   "region": "Japan",
+   "file": "Mighty Morphin Power Rangers (Japan).sfc"
+  }
+ ],
  "gf_score": 3.4,
  "metascore": null,
  "cover_urls": [

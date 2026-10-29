@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0E984752",
+   "md5": "C535B55CFD959674820C200EB026AC6E",
+   "sha1": "251D892C74E245CDE8EC684407D79E7720E389FA",
+   "region": "Japan",
+   "file": "Mujintou Monogatari (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

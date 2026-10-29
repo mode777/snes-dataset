@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "870427D0",
+   "md5": "092CAAE4772502499B43F2F026DAA0A5",
+   "sha1": "DAC852EA9FF3141DE5DC6377307B16811F607008",
+   "region": "Japan",
+   "file": "Alcahest (Japan).sfc"
+  }
+ ],
  "gf_score": 3.57,
  "metascore": null,
  "cover_urls": [

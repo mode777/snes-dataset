@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "143E5A7D",
+   "md5": "D027ED8073EB9DFF3B51747A738C1CB8",
+   "sha1": "5AB33F0D42EBAFE6E5956A0A27FFC647B1C317C3",
+   "region": "Japan",
+   "file": "Hokuto no Ken 7 - Seiken Retsuden Denshousha e no Michi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

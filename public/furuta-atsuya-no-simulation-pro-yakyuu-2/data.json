@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "566176FA",
+   "md5": "FCF1865B451FB60AE1318FCEE1D5A194",
+   "sha1": "7EC287367C0DB12F4A0D194505BBBD77ADDFF8EB",
+   "region": "Japan",
+   "file": "Furuta Atsuya no Simulation Pro Yakyuu 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

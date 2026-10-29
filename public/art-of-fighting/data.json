@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "143051A5",
+   "md5": "A29C0A3E8A340AAA7672B00B190BE396",
+   "sha1": "E8EE828BA3961CC76EDBAF74BB26A63AB274956E",
+   "region": "Europe",
+   "file": "Art of Fighting (Europe).sfc"
+  },
+  {
+   "crc32": "9FA74067",
+   "md5": "9E379F323ACC381163EDB6C6A24F9C1A",
+   "sha1": "DB0ED085BD28BF58EC050E6EB950471163F8367E",
+   "region": "USA",
+   "file": "Art of Fighting (USA).sfc"
+  }
+ ],
  "gf_score": 3.0,
  "metascore": null,
  "cover_urls": [

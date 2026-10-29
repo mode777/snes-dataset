@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "011907A4",
+   "md5": "87388C5A9EA98B215A29727DC4294C05",
+   "sha1": "0ED1DED11D9D7C3F52E68B974DFABBE82209DC03",
+   "region": "USA",
+   "file": "Musya - The Classic Japanese Tale of Horror (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

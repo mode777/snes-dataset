@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4DC3D903",
+   "md5": "3C9E14D90815BFC9FD154A30C85763CF",
+   "sha1": "A504B74D1E256F97BC05A7DD836A2457AE6F525E",
+   "region": "Japan",
+   "file": "SD Gundam GX (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -20,6 +20,15 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2D3B9662",
+   "md5": "5ECE56F9A92F4C243AE9311B9E1965F0",
+   "sha1": "04F200D4AE97F9AEE9EB461E02E8D1C91F2BB372",
+   "region": "USA",
+   "file": "Maui Mallard in Cold Shadow (USA).sfc"
+  }
+ ],
  "gf_score": 3.8,
  "metascore": null,
  "cover_urls": [

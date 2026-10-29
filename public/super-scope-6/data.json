@@ -30,6 +30,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7887F968",
+   "md5": "DF69587755E80A5A2B0EC747AEF19D74",
+   "sha1": "E8C0BE08B9394580FAD7EFDC8645E7E639089DAB",
+   "region": "Japan",
+   "file": "Super Scope 6 (Japan).sfc"
+  },
+  {
+   "crc32": "B141EA99",
+   "md5": "A17D52680CC29E46CE41DA360E8FEBE3",
+   "sha1": "11BA3BA6F7CBCFF6D22D74E4FFA3A0F447BB2E6B",
+   "region": "USA",
+   "file": "Super Scope 6 (USA).sfc"
+  }
+ ],
  "gf_score": 3.21,
  "metascore": null,
  "cover_urls": [

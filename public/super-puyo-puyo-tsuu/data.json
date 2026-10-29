@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "271E1F3F",
+   "md5": "D19486B22C8A4F11AA969671AE1967B2",
+   "sha1": "B4004CFFCC2F7D36CEFBF0DB89C64572A5B3CE8E",
+   "region": "Japan",
+   "file": "Super Puyo Puyo Tsuu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -27,6 +27,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4D098C5C",
+   "md5": "4E84E215F25001C109102575C2737110",
+   "sha1": "C8EF3E81A78D405E144AD4AD7A17E5EF0FAC78A3",
+   "region": "Japan",
+   "file": "Gambler Jiko Chuushinha 2 - Dorapon Quest (Japan).sfc"
+  },
+  {
+   "crc32": "11B8E93A",
+   "md5": "FB92C4F2AD7FF75625F84B213DC4F95B",
+   "sha1": "10ED890794C969654FCCC8B15E92D4CEF5D13382",
+   "region": "Japan",
+   "file": "Gambler Jiko Chuushinha 2 - Dorapon Quest (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

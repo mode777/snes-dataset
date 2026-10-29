@@ -1,8 +1,8 @@
 # snes-dataset
 
 A static, publishable dataset of **3,070 SNES games** — metadata, per-region
-release dates, and box art — merged from open sources and served as a simple
-JSON "API" on GitHub Pages.
+release dates, ROM checksums, and box art — merged from open sources and
+served as a simple JSON "API" on GitHub Pages.
 
 **Live:** https://mode777.github.io/snes-dataset/ ·
 **API & schema docs:** [docs/API.md](docs/API.md)
@@ -14,7 +14,8 @@ JSON "API" on GitHub Pages.
 | `/index.json` | `{ "<Original Title>": "<slug>" }` — title → folder |
 | `/index-reverse.json` | `{ "<slug>": "<Original Title>" }` — folder → title |
 | `/catalog.json` | one lightweight record per game (powers the grid UI) |
-| `/<slug>/data.json` | full metadata for one game |
+| `/by-crc.json` | `{ "<CRC32>": "<slug>" }` — exact ROM identity (uppercase hex) |
+| `/<slug>/data.json` | full metadata incl. `roms[]` checksums |
 | `/<slug>/thumb.png`, `/<slug>/box.jpeg` | box art, when available (1,645 games) |
 
 `index.html` is a dependency-free browser over this API: search, cover grid,
@@ -61,7 +62,14 @@ datasets cover everything it offered.
 
 > Attribution: data compiled from the sources above (Kaggle sets are CC0).
 > Box art remains the copyright of its respective publishers; provided here
-> for research/reference.
+> for research/reference. See [LICENSE](LICENSE).
+
+## License
+
+[CC0 1.0](LICENSE) — the merged metadata and pipeline code are dedicated to
+the public domain. This does not and cannot cover the box art images, which
+remain the property of their publishers; they are distributed as
+research/reference only.
 
 ## Status
 

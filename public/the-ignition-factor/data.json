@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EE441564",
+   "md5": "06E616E05363FB24D54409D12CDA7A35",
+   "sha1": "72061C0CA7549E6A9720421CE6EDAF4732BC2172",
+   "region": "USA",
+   "file": "Ignition Factor, The (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A9764A20",
+   "md5": "630AF84D172B4BAAE8B0E70C1E0EA793",
+   "sha1": "C5D52C27C4EEB1F34FBB91899CB809280867008B",
+   "region": "Europe",
+   "file": "Pierre le Chef Is... Out to Lunch (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

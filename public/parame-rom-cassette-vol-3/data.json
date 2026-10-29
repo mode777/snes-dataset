@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9F14E993",
+   "md5": "540D40B3C9D5C981362FB85E52C61372",
+   "sha1": "A3C5E3616977A066A7F54A2DF2CE91E004AEA190",
+   "region": "Japan",
+   "file": "Parame ROM Cassette Vol. 3 (Japan) (Unl).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

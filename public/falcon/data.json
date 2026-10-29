@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "6A3A6B8B",
+   "md5": "A4F382CB15E82D0B26DB818A3935497D",
+   "sha1": "3FCD5C9405BC5C261AE726E0CD91E98C87A359C9",
+   "region": "USA",
+   "file": "Falcon (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

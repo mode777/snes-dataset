@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "24FE792F",
+   "md5": "A7CF8B4A9DA276955118AEF0DF61987C",
+   "sha1": "DA6AC0D2C305C6C6FB8AB281560D2CF65648F048",
+   "region": "Japan",
+   "file": "Asameshimae Nyanko (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

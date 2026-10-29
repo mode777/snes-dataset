@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B6B92AE0",
+   "md5": "1F6B2FF721F8F0D92736D704F922BA37",
+   "sha1": "9986E5834D62CBEFCC9A9878C7F7B55A12B05024",
+   "region": "Japan",
+   "file": "Bishoujo Senshi Sailor Moon Super S - Fuwafuwa Panic (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

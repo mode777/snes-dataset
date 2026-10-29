@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A3890D4F",
+   "md5": "6AEEDAAD578AFD7BFF989388E486B48A",
+   "sha1": "FBA007AC62F1A307D17A0BFEED78DA07CBF65A33",
+   "region": "Japan",
+   "file": "Super Hockey '94 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

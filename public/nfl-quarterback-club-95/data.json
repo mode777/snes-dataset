@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1C036B4F",
+   "md5": "B22CDBFBBD47BF49E0D69C7EDB23323A",
+   "sha1": "39A57E0005E656E8E8D3F9FD63C4CFFC39617A8B",
+   "region": "Japan",
+   "file": "NFL Quarterback Club '95 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6742D51C",
+   "md5": "2D11339B1A2DD1FE166AB1AAAC8AAD7D",
+   "sha1": "5512A076116639E36E1BFDE38CA86B126CA0D867",
+   "region": "Japan",
+   "file": "Bastard!! - Ankoku no Hakaishin (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "470EABE5",
+   "md5": "3F872AA5EFBA54CD7D27F99E035784FA",
+   "sha1": "685CF7781356A0E354B3DD10FABBA898885BA81B",
+   "region": "Europe",
+   "file": "FIFA 97 (Europe) (En,Fr,De,Es,It,Sv).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

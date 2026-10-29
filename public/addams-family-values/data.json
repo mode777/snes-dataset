@@ -34,6 +34,22 @@
  "languages": [
   "English, German, French"
  ],
+ "roms": [
+  {
+   "crc32": "AE38ADB6",
+   "md5": "4A34AB48CC89B871D7B3E4C15FEDF2B6",
+   "sha1": "1F4DE5B9FF27CA58A451E5CBCC43EF0AB1EFD015",
+   "region": "Europe",
+   "file": "Addams Family Values (Europe) (En,Fr,De).sfc"
+  },
+  {
+   "crc32": "98B07DB8",
+   "md5": "7E52067E9CB3E6A190272A9D1D75A9AF",
+   "sha1": "24848E53E32CC16A30ACCE48D40CE09C37B669C4",
+   "region": "USA",
+   "file": "Addams Family Values (USA) (En,Fr,De).sfc"
+  }
+ ],
  "gf_score": 2.81,
  "metascore": null,
  "cover_urls": [

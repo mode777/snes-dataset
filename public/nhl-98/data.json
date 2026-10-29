@@ -34,6 +34,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "03CAD2D2",
+   "md5": "2B4A2F7722CA9C2C305F72D4A9D4E83E",
+   "sha1": "6CA7CEFA28D701C0BE8C2B987E1CE5893613F4C4",
+   "region": "USA",
+   "file": "NHL 98 (USA).sfc"
+  }
+ ],
  "gf_score": 4.04,
  "metascore": null,
  "cover_urls": [

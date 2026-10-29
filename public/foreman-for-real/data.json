@@ -32,6 +32,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "8C1B9F50",
+   "md5": "B92066B5A3BF1504836AAC5FFA3421F2",
+   "sha1": "88C2FA634324F05C8091E6AFEB3C4DAB2BD7D89D",
+   "region": "Europe",
+   "file": "Foreman for Real (Europe).sfc"
+  },
+  {
+   "crc32": "D7576775",
+   "md5": "6D6C629AD9E2BDB3C89E0587438BEDA8",
+   "sha1": "D55A25471F3B8188E4B2B41DED2457A62F3D1C2B",
+   "region": "Japan",
+   "file": "Foreman for Real (Japan).sfc"
+  },
+  {
+   "crc32": "5FA4D051",
+   "md5": "15F2659730163920BCF6290FD7CA6128",
+   "sha1": "AC57FE112326C33ACA153F2747457E3BA5D24260",
+   "region": "USA",
+   "file": "Foreman for Real (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

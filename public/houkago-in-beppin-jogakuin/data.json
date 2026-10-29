@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D3871866",
+   "md5": "99792ADF7C05868E12513D14DC4BDBDF",
+   "sha1": "6F7739B77B88764B1127BABDCD75250289843DDB",
+   "region": "Japan",
+   "file": "Houkago in Beppin Jogakuin (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

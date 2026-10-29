@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "55938E4E",
+   "md5": "55B2A79C117F03079A75F51A89990CA0",
+   "sha1": "BF14FFDEA30D4DF4D158A14E3B8F107DF38D167B",
+   "region": "Japan",
+   "file": "Aging Cassette (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

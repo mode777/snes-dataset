@@ -32,6 +32,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "3ED21333",
+   "md5": "8AB1FE6F37D3C826B01A09BE6C36933B",
+   "sha1": "2B217CBB0F499227412EDC3A36AC453639C1BE4A",
+   "region": "Europe",
+   "file": "Olympic Summer Games (Europe).sfc"
+  },
+  {
+   "crc32": "6B882D11",
+   "md5": "F082072B16E7ED337503EC4DF334171F",
+   "sha1": "878916B1CE5C535C5D167499EC282E2A6A0B824F",
+   "region": "USA",
+   "file": "Olympic Summer Games (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

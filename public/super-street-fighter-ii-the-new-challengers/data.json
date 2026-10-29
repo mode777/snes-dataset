@@ -25,6 +25,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "26CA246B",
+   "md5": "3A3EE93DB76E2C5CA85DF45564F9A9B0",
+   "sha1": "F68769887C299609A7CB7F43F3273B3E3146F56F",
+   "region": "Japan",
+   "file": "Super Street Fighter II - The New Challengers (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

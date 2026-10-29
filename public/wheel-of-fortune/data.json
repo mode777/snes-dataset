@@ -27,6 +27,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "1C384B11",
+   "md5": "A441CA7C8065711FF48417C094B888DB",
+   "sha1": "2E23F80D573B4047ED696AB1D901FA20C11136CC",
+   "region": "USA",
+   "file": "Wheel of Fortune (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

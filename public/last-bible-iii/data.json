@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5F1D73D7",
+   "md5": "4C836F4924544F8160DAB3260F43A732",
+   "sha1": "2BFD6DC6F3D16C501FC042A84875F9FD3A8B147E",
+   "region": "Japan",
+   "file": "Last Bible III (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

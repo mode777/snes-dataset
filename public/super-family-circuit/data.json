@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DC82850E",
+   "md5": "186EEE1672C7A296FFB79DFA157D5109",
+   "sha1": "D3B66D5B49D2257D146A0D126E98861A7D364974",
+   "region": "Japan",
+   "file": "Super Family Circuit (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

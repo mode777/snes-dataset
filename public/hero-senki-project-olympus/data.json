@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "789DA99C",
+   "md5": "4DB71054142A1DBE0D3DCCEEB4E5C7BB",
+   "sha1": "1C846FF08FF25325FBBEF1F9ACF10F6E73349F7E",
+   "region": "Japan",
+   "file": "Hero Senki - Project Olympus (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

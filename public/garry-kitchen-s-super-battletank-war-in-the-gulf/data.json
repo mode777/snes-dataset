@@ -18,6 +18,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "77811B34",
+   "md5": "7BF610F0E0F5A6867696424715853FCB",
+   "sha1": "85F6F3E84F5EE57E09424DBD9F89CF069BBC41EA",
+   "region": "USA",
+   "file": "Garry Kitchen's Super Battletank - War in the Gulf (USA) (Rev 1).sfc"
+  },
+  {
+   "crc32": "2CE0C852",
+   "md5": "87B3518E0E3A15655D2D8D4CBA0BDF9A",
+   "sha1": "CEB2BABCDBDCB55903BDFBF9A70EDF103C162BF3",
+   "region": "USA",
+   "file": "Garry Kitchen's Super Battletank - War in the Gulf (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

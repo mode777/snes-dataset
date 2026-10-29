@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "FBE35998",
+   "md5": "FBC71D587C4926DD85077848B46F3048",
+   "sha1": "179D3C01B6492E4A8180ACD90AA0FB49A2D8687A",
+   "region": "USA",
+   "file": "Brett Hull Hockey (USA).sfc"
+  },
+  {
+   "crc32": "77BBF192",
+   "md5": "5B91F0824FA43AAB8CC9B5C894150E41",
+   "sha1": "E9C08C471D76DEB1B2EF40A8D11020E1247B496C",
+   "region": "Europe",
+   "file": "Brett Hull Hockey (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

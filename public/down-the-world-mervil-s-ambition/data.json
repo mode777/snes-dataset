@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F1110FAD",
+   "md5": "F72D2187295B9803E29E810CBD2C78DA",
+   "sha1": "75DF5E4E2D577703EEDEDDEBA2314924DAE32263",
+   "region": "Japan",
+   "file": "Down the World - Mervil's Ambition (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

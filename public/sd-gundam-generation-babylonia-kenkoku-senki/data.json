@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "792D884C",
+   "md5": "C1305ECD913E12719C5EA07EEA4A440E",
+   "sha1": "F18F680B981077CFA025161CFE6C9594B6D18078",
+   "region": "Japan",
+   "file": "SD Gundam Generation - Babylonia Kenkoku Senki (Japan) (ST).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -30,6 +30,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "81C8EB4F",
+   "md5": "8B646E75C3A49326435DA52E769274B7",
+   "sha1": "9227F9C6E900B5F08EB14FC20CF9BD442522E599",
+   "region": "Japan",
+   "file": "Pro Yakyuu Nettou Puzzle Stadium (Japan).sfc"
+  },
+  {
+   "crc32": "5A4D7167",
+   "md5": "6906978CCFB60CEB517B5B7838050491",
+   "sha1": "909F83A13A05FD7B9121BE6A472D9B4A2BFC70C6",
+   "region": "Japan",
+   "file": "Pro Yakyuu Nettou Puzzle Stadium (Japan) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

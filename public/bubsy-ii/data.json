@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "E278E9B4",
+   "md5": "4B6EF2FFC7EEC225065689204B1F8E78",
+   "sha1": "E92DA82234C8EC4DA25179C99709462B4E19837B",
+   "region": "Europe",
+   "file": "Bubsy II (Europe).sfc"
+  },
+  {
+   "crc32": "D0D172FA",
+   "md5": "CF5C2CA9AF502A0F12CF9504FB0E748A",
+   "sha1": "C501D8779891A501CA4674CC39FC9D82CC05EB8C",
+   "region": "USA",
+   "file": "Bubsy II (USA).sfc"
+  }
+ ],
  "gf_score": 2.72,
  "metascore": null,
  "cover_urls": [

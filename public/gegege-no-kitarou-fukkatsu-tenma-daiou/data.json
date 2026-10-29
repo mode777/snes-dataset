@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E51FB6F8",
+   "md5": "8D3CDA486DC901EBC546C57513131323",
+   "sha1": "0451530F6ACB855583192D6257182B8D99EC9AA5",
+   "region": "Japan",
+   "file": "Gegege no Kitarou - Fukkatsu! Tenma Daiou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

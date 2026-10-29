@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3F18D0CC",
+   "md5": "3F9FF3501C02CB624283CBC1BFB4EFA1",
+   "sha1": "6DAD546D99CD73013BA86D2F9597D711BACA9C89",
+   "region": "Japan",
+   "file": "Koushien 3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

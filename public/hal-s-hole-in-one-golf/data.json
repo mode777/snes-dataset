@@ -29,6 +29,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "27C87D04",
+   "md5": "FAC9826D4F59D6C530A705E8DB25E2A7",
+   "sha1": "DC384EAD55910634DDC64E0DC0C36A172A4EF7BC",
+   "region": "Europe",
+   "file": "HAL's Hole in One Golf (Europe).sfc"
+  },
+  {
+   "crc32": "58752BAF",
+   "md5": "E64A9A001FC38A9FEF507734D2E1AAEF",
+   "sha1": "45BAF328EFA1E573AEF81B2A936207F8979206A4",
+   "region": "USA",
+   "file": "HAL's Hole in One Golf (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

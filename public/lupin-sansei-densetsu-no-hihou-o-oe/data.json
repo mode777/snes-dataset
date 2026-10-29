@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "74ADC6E2",
+   "md5": "E5B0CFCE81837D97A215DA82CB02A273",
+   "sha1": "99AE1FCD0B778D221D04F8980458824B809392E7",
+   "region": "Japan",
+   "file": "Lupin Sansei - Densetsu no Hihou o Oe! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

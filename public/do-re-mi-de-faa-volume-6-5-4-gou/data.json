@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0849123E",
+   "md5": "1E9ACCC2C7A5258463761E703B7AEE93",
+   "sha1": "13BEBA44F974C4B4139A6303B14C0A5239156A02",
+   "region": "Japan",
+   "file": "Do-Re-Mi de Faa Volume 6 - 5-4 Gou (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "F8DEE029",
+   "md5": "9E69C8EA3D82C7120099F5252CCC72CA",
+   "sha1": "2A946E8CE8FA20CD54FEA874110C39F30671F7A9",
+   "region": "Europe",
+   "file": "Daffy Duck - The Marvin Missions (Europe).sfc"
+  },
+  {
+   "crc32": "5F02A044",
+   "md5": "B4939C92787EFEFD6B48AEDE08973D84",
+   "sha1": "EE4C327F98E50EA7FBF94C79C8844909AE088289",
+   "region": "USA",
+   "file": "Daffy Duck - The Marvin Missions (USA).sfc"
+  }
+ ],
  "gf_score": 3.16,
  "metascore": null,
  "cover_urls": [

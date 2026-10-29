@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "FF6C80C6",
+   "md5": "2607D3D9BE31680D943C8DADBBCB3CED",
+   "sha1": "3819F341932A3E0A989E26E0199D65856FD1CA6E",
+   "region": "Japan",
+   "file": "Super Jangou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

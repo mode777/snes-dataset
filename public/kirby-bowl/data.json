@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2A24FC9B",
+   "md5": "B14696CDC0569A05647F2A3F2756AC07",
+   "sha1": "147A113711758D4D42618D4BED809BED69B85D34",
+   "region": "Japan",
+   "file": "Kirby Bowl (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

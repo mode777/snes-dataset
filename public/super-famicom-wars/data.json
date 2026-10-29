@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D6EACBEA",
+   "md5": "D88B4ED9A9D834696357CE4C9EF95359",
+   "sha1": "24279CA4B598F4CAA0CF4D7FA0A423F9E51BB6F7",
+   "region": "Japan",
+   "file": "Super Famicom Wars (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "856AB0BB",
+   "md5": "064890308850724BC7F1418FB201893C",
+   "sha1": "8EDCB54700BFD67743EFB48C65F488E9D62FBB49",
+   "region": "USA",
+   "file": "Wordtris (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8675B9DF",
+   "md5": "FDAE2214E02F47E0885DB8F2A271E128",
+   "sha1": "13808EEBEC3727DD436444A5EA34C061F7B6B5D5",
+   "region": "Japan",
+   "file": "Caravan Shooting Collection (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

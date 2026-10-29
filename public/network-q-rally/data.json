@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5B5F152F",
+   "md5": "F56C034933FE0613DBA01C3A8B7AA1A5",
+   "sha1": "94169AAEB1557A25B1E03A181A28B4B29ECE6F5F",
+   "region": "USA",
+   "file": "Network Q Rally (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

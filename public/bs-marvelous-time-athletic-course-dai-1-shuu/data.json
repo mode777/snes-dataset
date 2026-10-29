@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1639DB9D",
+   "md5": "46C5BF023E41D9F806C4B6A8DABEF733",
+   "sha1": "4D63A2457303BB55B5F647614C321881155DEDAA",
+   "region": "Japan",
+   "file": "BS Marvelous - Time Athletic Course - Dai-1-shuu (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

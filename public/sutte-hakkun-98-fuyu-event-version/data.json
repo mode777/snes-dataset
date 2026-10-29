@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5841C08E",
+   "md5": "B5F98A3CF4F345F948CC8DB8D2EB77CB",
+   "sha1": "981CF670CE034E604FCEC5977F7F8F1356E28602",
+   "region": "Japan",
+   "file": "Sutte Hakkun - 98 Fuyu Event Version (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

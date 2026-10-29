@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "AFD74DCB",
+   "md5": "84D83DED05C6EC31654DD1E2116E32D3",
+   "sha1": "ADC7716A4B081ABA5CDE3525881C51EE6D600396",
+   "region": "Japan",
+   "file": "SD Gundam Generation - Ichinen Sensouki (Japan) (ST).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

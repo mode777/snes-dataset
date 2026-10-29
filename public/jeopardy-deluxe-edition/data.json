@@ -32,6 +32,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "6301060C",
+   "md5": "5F904B8C2C346C3AEFBBE7F9781998A9",
+   "sha1": "71918D099DB1CC35496B9DD71F48AD78BBB2D815",
+   "region": "USA",
+   "file": "Jeopardy! - Deluxe Edition (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

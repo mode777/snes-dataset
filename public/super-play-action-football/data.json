@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "0F359A60",
+   "md5": "076DC30EC992C4EF7C90F38C6604751E",
+   "sha1": "D9A74EBB1807ABDBD3FD3662B5BF60E40253CB71",
+   "region": "USA",
+   "file": "Super Play Action Football (USA).sfc"
+  }
+ ],
  "gf_score": 2.74,
  "metascore": null,
  "cover_urls": [

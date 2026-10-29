@@ -36,6 +36,22 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D63ED5F8",
+   "md5": "21F3E98DF4780EE1C667B84E57D88675",
+   "sha1": "DA957F0D63D14CB441D215462904C4FA8519C613",
+   "region": "Japan, USA",
+   "file": "Super Metroid (Japan, USA) (En,Ja).sfc"
+  },
+  {
+   "crc32": "AD2CBF9C",
+   "md5": "3D64F89499A403D17D530388854A7DA5",
+   "sha1": "082ADAC9E38F86240F4378A6AA400DEE1716AE87",
+   "region": "Europe",
+   "file": "Super Metroid (Europe) (En,Fr,De).sfc"
+  }
+ ],
  "gf_score": 4.47,
  "metascore": null,
  "cover_urls": [

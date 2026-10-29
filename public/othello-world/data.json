@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1345ED19",
+   "md5": "92790593E896DC5B3892C7468A42E74B",
+   "sha1": "238F54922A4856C95C68D8A79E427114BA079624",
+   "region": "Japan",
+   "file": "Othello World (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

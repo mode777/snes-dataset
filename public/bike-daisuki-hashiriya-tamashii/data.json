@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B363FC99",
+   "md5": "9BC21069D1C9EBA86DAD2BA0E994E5A1",
+   "sha1": "D0457FC27ADFF1B0AD236535F60F91711B15F0DB",
+   "region": "Japan",
+   "file": "Bike Daisuki! Hashiriya Tamashii (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

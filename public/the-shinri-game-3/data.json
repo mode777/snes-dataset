@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B51D79B4",
+   "md5": "EC416CE58BD08CB7CD3045436D86EE5A",
+   "sha1": "0F685C234C6D1DC41BBD637E8F716DA6FC795411",
+   "region": "Japan",
+   "file": "Shinri Game 3, The (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

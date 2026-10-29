@@ -18,6 +18,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "232BB5B8",
+   "md5": "0B6D70D07523A8804CBBB94B154510A2",
+   "sha1": "BEE927B5FFE277EBD537B0872D2424EEAC37B8E3",
+   "region": "Japan",
+   "file": "Super Mario Collection (Japan).sfc"
+  },
+  {
+   "crc32": "91B28D56",
+   "md5": "41FCBC52BA98CB50AE1F87BA72E5B06C",
+   "sha1": "B83DD73D3D6049450BB8092D73C3AF879804F58C",
+   "region": "Japan",
+   "file": "Super Mario Collection (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "1E079AC0",
+   "md5": "15BF8DD13E3D155739F8103B8934CC80",
+   "sha1": "0F5B3DB4919F49D905F539F6128B03CCEBAB20CF",
+   "region": "Europe",
+   "file": "Tinhead (Europe) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -36,6 +36,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "B6C6E7F3",
+   "md5": "5558AA840D9F842B7A6C97B26C80C244",
+   "sha1": "E6114C7580398A07ADA26D740348B95756FC2858",
+   "region": "USA",
+   "file": "NHL 96 (USA).sfc"
+  },
+  {
+   "crc32": "148B2734",
+   "md5": "CFF67A517F479B64189C0A248D3C3D8D",
+   "sha1": "CA45C193BC908740FFFCD1D3FD39F2840342CD50",
+   "region": "Europe",
+   "file": "NHL 96 (Europe).sfc"
+  }
+ ],
  "gf_score": 3.76,
  "metascore": null,
  "cover_urls": [

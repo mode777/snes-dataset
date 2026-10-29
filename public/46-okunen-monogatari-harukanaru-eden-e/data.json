@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B090235A",
+   "md5": "116B082005E47A83D3E87FF97C525530",
+   "sha1": "6A9C8FB28EB524FC26561F9E193380EDAB3A8A58",
+   "region": "Japan",
+   "file": "46 Okunen Monogatari - Harukanaru Eden e (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

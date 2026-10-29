@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D8583ED7",
+   "md5": "2209427113F6535329C8B17EBAB8A2E5",
+   "sha1": "D39EC113EF153EC9B7BACF12ED4A47F1A6D63A06",
+   "region": "Europe",
+   "file": "Unirally (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

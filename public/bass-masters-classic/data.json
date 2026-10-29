@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "925206EA",
+   "md5": "1141024D45857A4570BD860F4D67B878",
+   "sha1": "C55DD321BD4239F42FF6A6B08318DCF7B449CCF9",
+   "region": "Japan",
+   "file": "Bass Masters Classic (Japan).sfc"
+  },
+  {
+   "crc32": "832A27C2",
+   "md5": "74BBB1AA480A01F53E7B8764D0750E23",
+   "sha1": "0539A9AD5B83E6FD752DFF7D7EB9195339FDCEEF",
+   "region": "USA",
+   "file": "Bass Masters Classic (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

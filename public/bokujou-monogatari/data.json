@@ -18,6 +18,29 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9485EC0F",
+   "md5": "C469E7A892C647A2F0284AE6863F6AF6",
+   "sha1": "DE85F5BD02C91C6F9F56DC626F81E44EEB990037",
+   "region": "Japan",
+   "file": "Bokujou Monogatari (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "D10C3CFA",
+   "md5": "E5F9703591FEE2644F32F61BC1663129",
+   "sha1": "2FE859C1DFB3304E50F6845A41712C4307743C3B",
+   "region": "Japan",
+   "file": "Bokujou Monogatari (Japan).sfc"
+  },
+  {
+   "crc32": "E2093836",
+   "md5": "F3C13E3EF16FFFF08ED9DA04D6C6AA8A",
+   "sha1": "97520F8AC8CB2C5B8175E9148741D2E0B477E08E",
+   "region": "Japan",
+   "file": "Bokujou Monogatari (Japan) (BS) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

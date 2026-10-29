@@ -31,6 +31,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DD49911E",
+   "md5": "2FFD5027D32F0EC5326981EE1BE1CA32",
+   "sha1": "BA6386D52C6F032225E299812E6F03E41FE8D0FF",
+   "region": "USA",
+   "file": "E.V.O. - Search for Eden (USA).sfc"
+  }
+ ],
  "gf_score": 3.8,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B708ADD4",
+   "md5": "B3347B8122674D176D752C6D473BEEDA",
+   "sha1": "AD0BD78F4991494D251E49AA54195535665119AC",
+   "region": "Japan",
+   "file": "Dun Quest - Majin Fuuin no Densetsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

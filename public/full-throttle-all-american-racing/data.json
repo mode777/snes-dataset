@@ -23,6 +23,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2A4A53CA",
+   "md5": "FF9755523906F939ADB67777552B67C9",
+   "sha1": "1E905F8781A2AD140D3438CC67FA101909188336",
+   "region": "USA",
+   "file": "Full Throttle - All-American Racing (USA).sfc"
+  },
+  {
+   "crc32": "E96E463C",
+   "md5": "530A2F1DB5471B962FBD58B493F115EF",
+   "sha1": "97F1FEFAD5067AED6DDB77C6EF60410B48DA7544",
+   "region": "USA",
+   "file": "Full Throttle - All-American Racing (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "861F2E42",
+   "md5": "94787721886FDDF84014BED682732B47",
+   "sha1": "E192D94A8D6615D9FCD417B8FB121A06A69D00D0",
+   "region": "Europe",
+   "file": "Full Throttle - All-American Racing (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

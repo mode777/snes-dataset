@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F1270406",
+   "md5": "6696025DD709892C807AA9C8D7F28128",
+   "sha1": "FFBDFE35D416C7D36BE665CD5C1C66BEE2AF07EE",
+   "region": "Japan",
+   "file": "Top Management II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

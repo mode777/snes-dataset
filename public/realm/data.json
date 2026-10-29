@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "9BE46820",
+   "md5": "50C7023C83FE19FE6570AEDB189D30F9",
+   "sha1": "63F376BD55ADD49E0893D01D9321207B9F68D6C8",
+   "region": "Europe",
+   "file": "Realm (Europe).sfc"
+  },
+  {
+   "crc32": "0744BA5B",
+   "md5": "7AAE64AA4F169EF71D879152EAC273B7",
+   "sha1": "7EF55367809CF62D63BBFF60BB633A76992F560D",
+   "region": "USA",
+   "file": "Realm (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

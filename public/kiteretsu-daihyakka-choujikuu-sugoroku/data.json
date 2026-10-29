@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "55219CA3",
+   "md5": "F735535E0A0E0273DCFB8A45508863F9",
+   "sha1": "D85A0B67B45F51204209A8FEF38F458998FB5535",
+   "region": "Japan",
+   "file": "Kiteretsu Daihyakka - Choujikuu Sugoroku (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

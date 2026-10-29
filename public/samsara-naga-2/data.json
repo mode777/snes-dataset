@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C1FFEF17",
+   "md5": "EA56BACEDC6057B0CEDAB067F4BB1485",
+   "sha1": "7D9658572B762AA325A4E66222C762D77B00EF69",
+   "region": "Japan",
+   "file": "Samsara Naga 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

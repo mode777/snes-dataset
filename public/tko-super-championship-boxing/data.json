@@ -28,6 +28,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8871E0FF",
+   "md5": "64CE2B4355BC57AA2DD0DB73882AC87B",
+   "sha1": "895BF7C26112D5F3F16AEFC91FB53F1AB8C45564",
+   "region": "Europe",
+   "file": "TKO Super Championship Boxing (Europe).sfc"
+  },
+  {
+   "crc32": "FD4AF462",
+   "md5": "CE4C0781255C881E57FA370ECFFB776F",
+   "sha1": "B3F4B93F6BA108F7360C1D7F1AE73D1EB4C2A390",
+   "region": "USA",
+   "file": "TKO Super Championship Boxing (USA).sfc"
+  },
+  {
+   "crc32": "5F2AB21D",
+   "md5": "CFDCD6A8EDE7EEB243B2FACF6344AAA8",
+   "sha1": "B0EF4E1C0DBF5F70BB699D5696925E78DBD9D00E",
+   "region": "USA",
+   "file": "TKO Super Championship Boxing (USA) (Sample).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

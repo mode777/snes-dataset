@@ -31,6 +31,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F8876331",
+   "md5": "F34B682C01BB159606667B9CCF25528B",
+   "sha1": "646B4BB9DF4CE9BA1F285F61FE6535F0CBE87833",
+   "region": "Japan",
+   "file": "Genocide 2 (Japan) (Beta).sfc"
+  },
+  {
+   "crc32": "DE40AA12",
+   "md5": "156E52E1CFC79738F0C731FF24AB0736",
+   "sha1": "947F72EBB7F3B19244103FA5A55C0A5A21267F23",
+   "region": "Japan",
+   "file": "Genocide 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

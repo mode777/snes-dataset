@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "55DCF09E",
+   "md5": "40A24B9A38645950F83A4F263A44AAE5",
+   "sha1": "D4F6B530BF6E94A71565DC74E4DCA23C64B92FD0",
+   "region": "USA",
+   "file": "Space Football - One on One (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

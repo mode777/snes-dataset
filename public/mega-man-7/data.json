@@ -33,6 +33,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "03579738",
+   "md5": "C533C4EF3D086ACEC510A6E3B55B3AF3",
+   "sha1": "D11E3793F46F2B1BD00150438D394E4B13489A14",
+   "region": "Europe",
+   "file": "Mega Man 7 (Europe).sfc"
+  },
+  {
+   "crc32": "2D947536",
+   "md5": "301D8C4F1B5DE2CD10B68686B17B281A",
+   "sha1": "6E7C9C9DD397F771303EE4AEC29D106B9F86C832",
+   "region": "USA",
+   "file": "Mega Man 7 (USA).sfc"
+  }
+ ],
  "gf_score": 3.84,
  "metascore": null,
  "cover_urls": [

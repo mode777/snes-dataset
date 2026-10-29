@@ -29,6 +29,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "C97D1D7B",
+   "md5": "3DFE9582FC493EF793CFA7CF3ED2ACEC",
+   "sha1": "F7501045B5326255F3BDE0543EB0A541B62588A9",
+   "region": "World",
+   "file": "Soul Blade (World) (Unl).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

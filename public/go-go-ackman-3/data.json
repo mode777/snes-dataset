@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9A18290C",
+   "md5": "E78DED3BCAE4CFDFE29250DB7F600176",
+   "sha1": "3059C420B63D7A6E9126037231021026C41E88C0",
+   "region": "Japan",
+   "file": "Go Go Ackman 3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

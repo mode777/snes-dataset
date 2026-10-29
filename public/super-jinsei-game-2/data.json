@@ -26,6 +26,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7D924C99",
+   "md5": "F4C5F716F1035CDF3D37C86D760FF8DC",
+   "sha1": "85BE3D5D3F3F001922EA37759D6D80422F9B06E1",
+   "region": "Japan",
+   "file": "Super Jinsei Game 2 (Japan).sfc"
+  },
+  {
+   "crc32": "7654E35F",
+   "md5": "AEEBF15EF01B35A5C3E615C1503B5D16",
+   "sha1": "407D68CD72E70722ECC4256BB94375664C742C28",
+   "region": "Japan",
+   "file": "Super Jinsei Game 2 (Japan) (Rev 2).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

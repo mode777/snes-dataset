@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1CF58DE9",
+   "md5": "EF22DFADC9C5F1DE69EE0416B144372A",
+   "sha1": "FC2C596CC601E7D7DBB4ABC7262BC91B97A5CEB7",
+   "region": "Japan",
+   "file": "Farland Story 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

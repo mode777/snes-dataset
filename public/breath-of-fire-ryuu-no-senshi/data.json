@@ -18,6 +18,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "FD96A42F",
+   "md5": "8396DBB5C335B76E3578EC95E1E8E3B4",
+   "sha1": "0C1708953683FAC3429838E512667FD6CBFEE6A0",
+   "region": "Japan",
+   "file": "Breath of Fire - Ryuu no Senshi (Japan).sfc"
+  },
+  {
+   "crc32": "E0B0BBEC",
+   "md5": "A8421D749DA1510DF9A37FED5909E129",
+   "sha1": "3AB85EE92F5E2C9069E3D2FA595FAB3D452C5D99",
+   "region": "Japan",
+   "file": "Breath of Fire - Ryuu no Senshi (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

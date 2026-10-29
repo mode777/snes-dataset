@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8F163DC1",
+   "md5": "13E41C703AF55BC4F40CE2C0A79A193B",
+   "sha1": "3A1008FC910F6EBBA9E14AAD1A2246A8021D70FB",
+   "region": "Japan",
+   "file": "Pachio-kun Special 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

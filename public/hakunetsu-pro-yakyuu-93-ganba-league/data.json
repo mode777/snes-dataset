@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A539CBC8",
+   "md5": "C3C8AE410C2802F2CE50941B1F646FA8",
+   "sha1": "392B250B6BF51A4CEA5BFEC674B31CC2A5E1D3BB",
+   "region": "Japan",
+   "file": "Hakunetsu Pro Yakyuu '93 - Ganba League (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

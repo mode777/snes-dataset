@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "76065E37",
+   "md5": "083CC827E556260298859F21CBF6F352",
+   "sha1": "DA5BE64FC5BFA4A512AEEE3AAC7ABCB699D0B9B9",
+   "region": "Japan",
+   "file": "Red October (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

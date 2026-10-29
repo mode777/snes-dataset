@@ -28,6 +28,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2F2A86A0",
+   "md5": "F8EA504D3295BBF1317648EC16BF5452",
+   "sha1": "EF5B47E82B7DFE7905538671D1D5F3B22F26DB2D",
+   "region": "Europe",
+   "file": "Super Putty (Europe) (Beta) [b].sfc"
+  },
+  {
+   "crc32": "746087C1",
+   "md5": "B9321C3F5CF67A9867F842028B2A6C59",
+   "sha1": "72C8A2B975EE571455410D87E2281ED63BF612FE",
+   "region": "USA",
+   "file": "Super Putty (USA).sfc"
+  },
+  {
+   "crc32": "94FD16A5",
+   "md5": "B706034EDE81B223BC69246F456355D6",
+   "sha1": "F49E2443FCB47EA945F9DF37ACD8D24FD58811EF",
+   "region": "Europe",
+   "file": "Super Putty (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

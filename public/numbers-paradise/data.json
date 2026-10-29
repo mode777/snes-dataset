@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "612A07F9",
+   "md5": "1606F031D9B1DA1FC8C38D8D7EFCF890",
+   "sha1": "D358CDCA75F67A5B932B13AEF8136C35FADAAF49",
+   "region": "Japan",
+   "file": "Numbers Paradise (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

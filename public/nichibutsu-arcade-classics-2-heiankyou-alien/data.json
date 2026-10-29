@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "65717023",
+   "md5": "AE3A95252E9CD6A0E83B915A9A9F8836",
+   "sha1": "C40C9BF482F8BFA2B4E1B27AB41CCCC737ED8004",
+   "region": "Japan",
+   "file": "Nichibutsu Arcade Classics 2 - Heiankyou Alien (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

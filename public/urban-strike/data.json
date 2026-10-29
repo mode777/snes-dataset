@@ -35,6 +35,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "B9BF7990",
+   "md5": "09FE7B4B78290B624FCC54EA79CF6034",
+   "sha1": "6BA4A5B8BA4552B6D1A6B8DB20182092E5C8F884",
+   "region": "USA",
+   "file": "Urban Strike (USA).sfc"
+  },
+  {
+   "crc32": "DE6E4FA7",
+   "md5": "BA062180AF345B7D546B38E21C38E982",
+   "sha1": "44284AF9DDF64B0D904D7952FE770ADB6D1DE7DB",
+   "region": "Europe",
+   "file": "Urban Strike (Europe).sfc"
+  }
+ ],
  "gf_score": 3.33,
  "metascore": null,
  "cover_urls": [

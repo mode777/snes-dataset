@@ -31,6 +31,22 @@
  "languages": [
   "English, German"
  ],
+ "roms": [
+  {
+   "crc32": "8B3FA5D3",
+   "md5": "439553C8E3F50F553F4810122B20A2AA",
+   "sha1": "7E2D53250EC9FCDB06BC105B4B10746EE49EC93B",
+   "region": "Europe",
+   "file": "Manchester United Championship Soccer (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "8D2596A7",
+   "md5": "BEA29A6D71E2DEE435E0B647B52B2462",
+   "sha1": "68AF2D08B94DDE84E3A3D82C76F0D4C5A48D0AEC",
+   "region": "Europe",
+   "file": "Manchester United Championship Soccer (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

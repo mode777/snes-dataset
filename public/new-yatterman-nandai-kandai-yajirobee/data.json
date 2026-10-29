@@ -26,6 +26,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E6A44A5F",
+   "md5": "69D367CC4664D1F579315578DBC1534E",
+   "sha1": "005CC0B35E2F76896C41531F915456EA90647684",
+   "region": "Japan",
+   "file": "New Yatterman - Nandai Kandai Yajirobee (Japan) (BS) [b].sfc"
+  },
+  {
+   "crc32": "FACC2423",
+   "md5": "8AAB2FE9122C1A139AC8AF58C6914B3C",
+   "sha1": "986CAAFF1DAEEA2DC16F90BC9072D56EAD23C2A0",
+   "region": "Japan",
+   "file": "New Yatterman - Nandai Kandai Yajirobee (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

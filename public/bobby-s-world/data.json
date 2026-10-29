@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "18BBEE33",
+   "md5": "6452748E3042C9B7A4FF37DDE5E9E69B",
+   "sha1": "93E740D37750E1F464B545DFB569B9D51C3473E4",
+   "region": "USA",
+   "file": "Bobby's World (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

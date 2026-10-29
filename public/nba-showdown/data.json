@@ -29,6 +29,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8F3C36AB",
+   "md5": "9F709B2B869CAFF15782E4B43A65055C",
+   "sha1": "45B8A603BCAC29034221403EF796B9ED0C9C4074",
+   "region": "USA",
+   "file": "NBA Showdown (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "65746F02",
+   "md5": "C89D5FBC1047DFAE5C256410C4056B3B",
+   "sha1": "22FFE4B8918E41D1A79A35F28869824F4D3FDB11",
+   "region": "USA",
+   "file": "NBA Showdown (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

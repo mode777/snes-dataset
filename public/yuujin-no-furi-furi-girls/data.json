@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "02855382",
+   "md5": "AAC5B6D034C6ECE60AA0BE540AA5AF53",
+   "sha1": "EB0B180E4BEDE40580C60B0AF6A8359074D8670E",
+   "region": "Japan",
+   "file": "Yuujin no Furi Furi Girls (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

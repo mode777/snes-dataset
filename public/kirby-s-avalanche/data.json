@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "21E658B8",
+   "md5": "BDDD943215857AD77EA48D2A1A138EC8",
+   "sha1": "95E4AC5F3F95863FFD8C6519F93A52B631C97D4A",
+   "region": "USA",
+   "file": "Kirby's Avalanche (USA).sfc"
+  }
+ ],
  "gf_score": 3.54,
  "metascore": null,
  "cover_urls": [

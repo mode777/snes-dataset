@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "49B60293",
+   "md5": "CB77D74F37A91EED3603B541BB456B49",
+   "sha1": "5E17CDADDC7DE3FC553FA7048EB036C877A7BC74",
+   "region": "Japan",
+   "file": "Katou Hifumi Kudan - Shougi Club (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

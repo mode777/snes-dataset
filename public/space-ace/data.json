@@ -34,6 +34,36 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "CE74EC97",
+   "md5": "364E90EF9F7C00E203204357C8E1D289",
+   "sha1": "EBB1F74B3EB3C4EE2CBF773513F42AA779198802",
+   "region": "Europe",
+   "file": "Space Ace (Europe).sfc"
+  },
+  {
+   "crc32": "62904E35",
+   "md5": "BFB35AA992B217264BBAAEE76444AA4A",
+   "sha1": "2E864A78354E67F432303764EF7CB643C626535D",
+   "region": "Japan",
+   "file": "Space Ace (Japan).sfc"
+  },
+  {
+   "crc32": "F4BB0888",
+   "md5": "5EC5F824457EDDEDCB4A6200ACFC7137",
+   "sha1": "2209E636B0AE9BBA7B1A915E4A549C0A5C12E3DD",
+   "region": "USA",
+   "file": "Space Ace (USA).sfc"
+  },
+  {
+   "crc32": "B5A55546",
+   "md5": "3E1EFCCFC9B99D92CBC4BB3772A812DA",
+   "sha1": "0271542912D7818312C66CED7791F03891E5527C",
+   "region": "USA",
+   "file": "Space Ace (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

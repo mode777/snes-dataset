@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B190D1EA",
+   "md5": "0E43771B2C4BE024DB0FDB2A2885AAD9",
+   "sha1": "C2339A1DB3B89290FE1EE18371F27AF9D438ADF8",
+   "region": "Japan",
+   "file": "Nobunaga no Yabou - Tenshouki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

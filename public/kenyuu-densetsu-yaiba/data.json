@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "91FE7070",
+   "md5": "4E09584E02A88DCCB7475831E7890511",
+   "sha1": "A3C391D3AE370467B8AF9FD91A430E8B6098F9DA",
+   "region": "Japan",
+   "file": "Kenyuu Densetsu Yaiba (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

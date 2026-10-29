@@ -30,6 +30,15 @@
  "languages": [
   "English, Spanish"
  ],
+ "roms": [
+  {
+   "crc32": "1200F3CF",
+   "md5": "41888F7CF544899C51D2EC5CCFDF95D7",
+   "sha1": "139ADA7133889126735440968AD58F47FA93A341",
+   "region": "USA",
+   "file": "Bronkie the Bronchiasaurus (USA) (En,Es).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

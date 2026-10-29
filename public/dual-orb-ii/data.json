@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E8798F65",
+   "md5": "EB42510C01054711BCF04346ABA7ED2F",
+   "sha1": "02B85364E3BD988B8CB9E2148309BBFBF46A9338",
+   "region": "Japan",
+   "file": "Dual Orb II (Japan).sfc"
+  }
+ ],
  "gf_score": 3.81,
  "metascore": null,
  "cover_urls": [

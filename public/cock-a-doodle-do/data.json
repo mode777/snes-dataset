@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2E831A4D",
+   "md5": "7EA34DC2A233D7ADC13297DAE563C053",
+   "sha1": "1EA437E679549F76A362619657A0875D25D3A4EF",
+   "region": "Japan",
+   "file": "Cock-A-Doodle-Do (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

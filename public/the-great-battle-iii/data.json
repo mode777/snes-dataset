@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B311DF48",
+   "md5": "267A6CE87B972AE7800D1B118BCB538E",
+   "sha1": "42F2B60CE2EF1D6E75C3177DB801715C83994ED9",
+   "region": "Japan",
+   "file": "Great Battle III, The (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

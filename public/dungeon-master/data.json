@@ -33,6 +33,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "89A67ADF",
+   "md5": "1036E94C19D336069ADDE20D5A2FF15F",
+   "sha1": "30FC660FB1E78D0533F424DA750112DCD615050A",
+   "region": "Europe",
+   "file": "Dungeon Master (Europe).sfc"
+  },
+  {
+   "crc32": "7A1BA194",
+   "md5": "D98006962C82FC2268D673F4C1B0254A",
+   "sha1": "AEF7699A42C63016874755BBCCBD107DAEFFFCA5",
+   "region": "Japan",
+   "file": "Dungeon Master (Japan).sfc"
+  },
+  {
+   "crc32": "AA79FA33",
+   "md5": "19D50794FF397278E11DBF3FBEF58A58",
+   "sha1": "E6D33EF74366333999EA11495C7A62D4BA07DF0F",
+   "region": "Japan",
+   "file": "Dungeon Master (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "0DFD9CEB",
+   "md5": "3D1B171D7486438AF2D9EC3D98B155CD",
+   "sha1": "E65AE62EC9A1C48A3512DB66F929C7B0055AE2C3",
+   "region": "USA",
+   "file": "Dungeon Master (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

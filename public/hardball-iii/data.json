@@ -28,6 +28,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "F3589B15",
+   "md5": "CC944F5990BEFE42400C2AB52FC6E1C7",
+   "sha1": "FD55417146AE4423ED4CD42338104CBAF8AFFE09",
+   "region": "USA",
+   "file": "HardBall III (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

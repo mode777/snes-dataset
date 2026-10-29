@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "4C3439C2",
+   "md5": "3F3B5EEFD3167290F4BD2A22BC3E35C4",
+   "sha1": "C974673E0365DADC54AFCF8DD2E6B41B512C6FE7",
+   "region": "Japan",
+   "file": "Same Game - Chara Cassette (Japan) (BSROM).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

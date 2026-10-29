@@ -32,6 +32,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "0B7D22B2",
+   "md5": "FC5719E33666B5BD73E317E3ADB75875",
+   "sha1": "4CFDB6E203CD48091FA2917681DC94D780260C32",
+   "region": "USA",
+   "file": "Wayne Gretzky and the NHLPA All-Stars (USA).sfc"
+  },
+  {
+   "crc32": "9C1E576A",
+   "md5": "9735712ECBE3295AEF6FA570A357CCA2",
+   "sha1": "7676F4A1EB684DADEAACBA1644807436FB764257",
+   "region": "USA",
+   "file": "Wayne Gretzky and the NHLPA All-Stars (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

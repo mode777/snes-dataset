@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DD871511",
+   "md5": "583A60BF58D18F3FA49FB3276367FED9",
+   "sha1": "95B1EB2D669F2663B88C920B5CE9D585E0980217",
+   "region": "Japan",
+   "file": "J.League Excite Stage '95 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

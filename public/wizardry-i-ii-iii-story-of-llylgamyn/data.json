@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B8A72553",
+   "md5": "5987975FB59733089149003C506810AF",
+   "sha1": "6B63C968AEC822C0728513C01CD729FFD45DBAB7",
+   "region": "Japan",
+   "file": "Wizardry I-II-III - Story of Llylgamyn (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

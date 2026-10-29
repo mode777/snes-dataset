@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D191AD46",
+   "md5": "EAAB71F99F9F45DFEA1FBBF493222999",
+   "sha1": "4EDAD4A8A8E3AB6117171C48CE2A332757ED3E2F",
+   "region": "Japan",
+   "file": "Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

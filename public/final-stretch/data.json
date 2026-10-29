@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8D29F41F",
+   "md5": "750C39BC838483B569976CFFADFBC7B6",
+   "sha1": "3C8E37271D995D9507D733864AB79B43AB531E96",
+   "region": "Japan",
+   "file": "Final Stretch (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

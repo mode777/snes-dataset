@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "91DA8D5C",
+   "md5": "89C8251AFBCED80297426D2B4A4ED20A",
+   "sha1": "99EA1D1FB2B3C9B0FA9153103790BA7E297D3560",
+   "region": "USA",
+   "file": "NHL '97 (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

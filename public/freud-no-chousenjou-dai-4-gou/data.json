@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "7A663C48",
+   "md5": "A8D5D755BB05332EFE3715B0CF6B6132",
+   "sha1": "95128825DFD2348C132B318981BE369647F3E4D7",
+   "region": "Japan",
+   "file": "Freud no Chousenjou - Dai-4-gou (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A3F4AF43",
+   "md5": "74E9C43E71B81150E7507AB076853B86",
+   "sha1": "B5E340FCF5476A0D395FD7A9B12382CDE399D636",
+   "region": "Japan",
+   "file": "Volleyball Twin (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,15 @@
   "French, Japanese",
   "French, Japanese, ko"
  ],
+ "roms": [
+  {
+   "crc32": "8F24F886",
+   "md5": "36E1391F0B1F29F16EF5D4EB83C3725B",
+   "sha1": "827C071F8AEBE93F80576800266F74F82FF9E41B",
+   "region": "France",
+   "file": "Dragon Ball Z - La Legende Saien (France).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

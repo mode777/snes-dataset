@@ -28,6 +28,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "35AAE4EB",
+   "md5": "B21879350BA7F3C4CF4D624479CE3396",
+   "sha1": "100330F7A5AB947AC8D7593BA120068E950449D4",
+   "region": "Europe",
+   "file": "Jim Power - The Lost Dimension in 3D (Europe) (Proto).sfc"
+  },
+  {
+   "crc32": "C469F8F0",
+   "md5": "15CFCC91489C344D82AFE791A3F17261",
+   "sha1": "45FBF4429B8B4A806AF31503A0CF968CFFBA3AF1",
+   "region": "USA",
+   "file": "Jim Power - The Lost Dimension in 3D (USA).sfc"
+  }
+ ],
  "gf_score": 2.79,
  "metascore": null,
  "cover_urls": [

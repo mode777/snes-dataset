@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "62ABCC5C",
+   "md5": "893C87DB5ECBF8E90F734A610F1247E5",
+   "sha1": "6D07079727B1BE1FFE1532ACCD37A2C01B1A12DF",
+   "region": "USA",
+   "file": "Prime (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

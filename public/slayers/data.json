@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0B610445",
+   "md5": "1B7B9B3EABE1008BAD9DC19DCAD9142F",
+   "sha1": "931449E2F491301FBAB3B3E5CA0D85E02927A605",
+   "region": "Japan",
+   "file": "Slayers (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

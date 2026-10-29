@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D1DFF807",
+   "md5": "CAB9F2AC89615E9949E1944F65D04F90",
+   "sha1": "3D6B7C64C48DB9DC36EAC2644F88F7F36BE5811D",
+   "region": "Japan",
+   "file": "Super Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

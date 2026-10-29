@@ -31,6 +31,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "75FF74F2",
+   "md5": "57282013CF32C6A6BEA9205225091A43",
+   "sha1": "0BF035B7CF63A5A675984ACC5EEF364F0BB6D9E7",
+   "region": "Japan",
+   "file": "Syvalion (Japan).sfc"
+  },
+  {
+   "crc32": "BE122755",
+   "md5": "0DFD541BD80049EA623591467A494FC2",
+   "sha1": "DDFA611F1177F371C1107DBD8E8ECDB19011A232",
+   "region": "Europe",
+   "file": "Syvalion (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "F1884ECB",
+   "md5": "7C3329A41D04E674F355AD23E0E6EC21",
+   "sha1": "78588D844774B35650AF13FC02034AA51773B616",
+   "region": "Europe",
+   "file": "Syvalion (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

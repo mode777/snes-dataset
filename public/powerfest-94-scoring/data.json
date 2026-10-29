@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "143A1C2F",
+   "md5": "245C5BF7767F15EFACBF006B99DA0D84",
+   "sha1": "523FFC9F3E78F5F26FA003A906B26609DEC33DD6",
+   "region": "USA",
+   "file": "PowerFest 94 - Scoring (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

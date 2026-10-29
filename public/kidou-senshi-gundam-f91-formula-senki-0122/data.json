@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CEAF5365",
+   "md5": "C4B283E04966E9AB9CDC76F51D9969CF",
+   "sha1": "19E718BED32FE8C972934629AA4A4C04E1960F9C",
+   "region": "Japan",
+   "file": "Kidou Senshi Gundam F91 - Formula Senki 0122 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

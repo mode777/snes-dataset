@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "32E29079",
+   "md5": "76473356177E66568E4EF22C7088C441",
+   "sha1": "3E791C54797AC8A8733D310B7C98BF39BC5F4A0F",
+   "region": "Japan",
+   "file": "Derby Stallion II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

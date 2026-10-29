@@ -37,6 +37,43 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "E013D5B0",
+   "md5": "395D3F386A12CE28D08AC5C96D13D150",
+   "sha1": "FB1F4E7BD3BAF72B47F747623A2AD87B06322EE5",
+   "region": "Europe",
+   "file": "Street Racer (Europe).sfc"
+  },
+  {
+   "crc32": "2AE69849",
+   "md5": "49FAF656058152CEC1C04E11810FC7E5",
+   "sha1": "A4FD4376CDA01D4984B4A5388453DF0BBB533F48",
+   "region": "Europe",
+   "file": "Street Racer (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "D1C1F675",
+   "md5": "99D4998CB5D6A35796A6799B636DCD8E",
+   "sha1": "16AA23994F3A2CADB8354A2DB40CAFE3DD9A69A2",
+   "region": "Japan",
+   "file": "Street Racer (Japan).sfc"
+  },
+  {
+   "crc32": "63E8B7D5",
+   "md5": "75F7951686376738196110052DD86835",
+   "sha1": "5F7CCCEBDEE92131FA25EC8BB853A35807CD2E8B",
+   "region": "USA",
+   "file": "Street Racer (USA).sfc"
+  },
+  {
+   "crc32": "1934F184",
+   "md5": "9B6142AE845235D29FB572A061EA419D",
+   "sha1": "7CFC9262740BFAEC99C22141F01FF2FA67F24206",
+   "region": "USA",
+   "file": "Street Racer (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.81,
  "metascore": null,
  "cover_urls": [

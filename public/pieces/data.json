@@ -28,6 +28,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BB6C3C54",
+   "md5": "F0DA10D1A7311FFDF1270DFB38CA3DBB",
+   "sha1": "11141F46259FAC85640EA17F1C1CC6279BF196D2",
+   "region": "USA",
+   "file": "Pieces (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "75058EDE",
+   "md5": "76D7ADE004F309504B2229118C7CF93C",
+   "sha1": "50DCD9736335DDEF5CC8DF9AECACFE2CB2888339",
+   "region": "USA",
+   "file": "ESPN National Hockey Night (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

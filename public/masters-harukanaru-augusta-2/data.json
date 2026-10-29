@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D6227D35",
+   "md5": "5C7321A417C17D8BBA42ABBE3633F2A5",
+   "sha1": "22AAC1CA3B252FDE7AC2F2A009F5302D6DF97858",
+   "region": "Japan",
+   "file": "Masters - Harukanaru Augusta 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

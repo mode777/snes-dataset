@@ -29,6 +29,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "94D28FF9",
+   "md5": "9943B6B85583FACB088869DB8D6A5F78",
+   "sha1": "DA4F108D894DABE16ABA9C25F04443DF3ED4945A",
+   "region": "Japan",
+   "file": "Super Aleste (Japan).sfc"
+  },
+  {
+   "crc32": "E02F9206",
+   "md5": "C13D28D08C95A92443C5DA6DC46555D6",
+   "sha1": "5332DD6FED76E129A3ECEEC13F44493A3D13998A",
+   "region": "Europe",
+   "file": "Super Aleste (Europe).sfc"
+  },
+  {
+   "crc32": "75993866",
+   "md5": "13DC1D8AC79DE1A359C857E3C584C340",
+   "sha1": "36721F15CF9E2A65AADA7353D12D5246E245EBB2",
+   "region": "Japan",
+   "file": "Super Aleste (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1A31A15C",
+   "md5": "ADA6DCA366A9C9CA0B108F0CED6B9824",
+   "sha1": "0AF2D2525C381E3068A3286B2CD3E091B828CF23",
+   "region": "USA",
+   "file": "Jeff's Shoot'Em Up (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

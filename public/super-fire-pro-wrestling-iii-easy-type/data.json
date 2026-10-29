@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "93F778AF",
+   "md5": "B8436814B79FA539376A627F531AE244",
+   "sha1": "01D9A5B180B8145672FF0EFF88520F1A2EF363CD",
+   "region": "Japan",
+   "file": "Super Fire Pro Wrestling III - Easy Type (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

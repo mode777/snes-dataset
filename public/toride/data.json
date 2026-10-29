@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4CE25297",
+   "md5": "6ABB673ADB9FEAA21E805A84F17FDE57",
+   "sha1": "4A99955C580F1341F5A30E66520E93D2ECE58485",
+   "region": "Japan",
+   "file": "Toride (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

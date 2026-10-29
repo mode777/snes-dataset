@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DE3262E7",
+   "md5": "10E13BD9987FD6152015C6047E67DD16",
+   "sha1": "44E00647D681A5157FB935138FA1EDA5FB3E07FF",
+   "region": "Japan",
+   "file": "Super Variable Geo (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

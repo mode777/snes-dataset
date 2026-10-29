@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "D95CA497",
+   "md5": "695EC96497567A637BA8CDF3F8FF7AB3",
+   "sha1": "60DB54F5301CC62826C824853C14B3199391A7D7",
+   "region": "Europe",
+   "file": "Family Dog (Europe).sfc"
+  },
+  {
+   "crc32": "1B53C15A",
+   "md5": "346C07631B7F2A25B2EC0382ED6E893D",
+   "sha1": "5C49FBAB775CA3EBC2A27FE55BCDF043499FE24F",
+   "region": "USA",
+   "file": "Family Dog (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

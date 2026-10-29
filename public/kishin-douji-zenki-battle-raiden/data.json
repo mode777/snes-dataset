@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0BECFC92",
+   "md5": "2152CCA035B8E3080D9EDDB5BEA8D94D",
+   "sha1": "7706CAF2C6B6F36FF7CAD5CBDDE0A1B6EC03CAE0",
+   "region": "Japan",
+   "file": "Kishin Douji Zenki - Battle Raiden (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

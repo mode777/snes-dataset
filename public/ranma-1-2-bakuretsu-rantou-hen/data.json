@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "053B2615",
+   "md5": "1674DA9647562520CC36BB11EC203D71",
+   "sha1": "0688C92E57A68424FDD08EF4D506CD3CF0D8386A",
+   "region": "Japan",
+   "file": "Ranma 1-2 - Bakuretsu Rantou Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BC955F3B",
+   "md5": "D8E95E744E66E7EC30D9591F71DAFD0A",
+   "sha1": "1C47ED62C561D7965FE5DC2A03F4C37FEB4A46B5",
+   "region": "Japan",
+   "file": "Dragon Quest V - Tenkuu no Hanayome (Japan).sfc"
+  }
+ ],
  "gf_score": 4.09,
  "metascore": 84,
  "cover_urls": [

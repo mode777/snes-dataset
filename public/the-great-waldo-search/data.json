@@ -28,6 +28,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "EB49F246",
+   "md5": "65C83DA1D740214A3B663C369033A36D",
+   "sha1": "C5B82F708306B3186005FB1803494F8185D1DA40",
+   "region": "USA",
+   "file": "Great Waldo Search, The (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

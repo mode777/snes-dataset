@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5BE4A7E3",
+   "md5": "96C38A14F55C58B51435E9BDB0235998",
+   "sha1": "12910B4EF21A8FF5171F84D70DEFE5637C9D2D37",
+   "region": "Japan",
+   "file": "Super Tekkyuu Fight! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

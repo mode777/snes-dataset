@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FCDAB211",
+   "md5": "20B98F256C56785913F317F9F25FBA22",
+   "sha1": "CFBF4D54A150E89273B2CCA056AE3194DEA9E76F",
+   "region": "Japan",
+   "file": "Wakuwaku Ski Wonder Spur (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

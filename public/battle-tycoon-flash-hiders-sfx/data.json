@@ -28,6 +28,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "92AFAB02",
+   "md5": "3B9A0F6C862CD723760F75D845508A4A",
+   "sha1": "1959552F9F18335D9E1AFB2C98763511FFFD1BE8",
+   "region": "Japan",
+   "file": "Battle Tycoon - Flash Hiders SFX (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "E38C4A5B",
+   "md5": "B0BF7BA07671955EB1E56318151ECA0C",
+   "sha1": "0E2A2F7E2B88A9853D7FF5EC37D78F7BFCC658CB",
+   "region": "Japan",
+   "file": "Battle Tycoon - Flash Hiders SFX (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

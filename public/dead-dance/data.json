@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "7019B1F1",
+   "md5": "5AF5AABF004452AF464BD5DB35C337FA",
+   "sha1": "5E17E18650D046301B7579BCB0667F3F9B9C37C9",
+   "region": "Japan",
+   "file": "Dead Dance (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "05DA6B44",
+   "md5": "C1BE52FA5B7B6A580E0075C38F9612DE",
+   "sha1": "ED78FAEE693C305C45D3C83519ED98A15027A3B5",
+   "region": "Japan",
+   "file": "Super Star Wars - Teikoku no Gyakushuu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6C901862",
+   "md5": "4F408FC82BBCD06D5C69D86F750CE1FB",
+   "sha1": "5A259E17C0CF0B005085BAD556BC47CAC5441568",
+   "region": "Japan",
+   "file": "Pachinko Monogatari - Pachi-Slot mo Aru deyo!! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

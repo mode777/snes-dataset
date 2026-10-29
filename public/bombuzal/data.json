@@ -27,6 +27,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5D7B8BCB",
+   "md5": "29E628ECCED08D4269FCF44A4ABFD452",
+   "sha1": "2CBE987EB2265FF5F6E1CF65D8233FC232DEC04D",
+   "region": "Japan",
+   "file": "Bombuzal (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

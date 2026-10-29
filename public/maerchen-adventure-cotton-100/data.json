@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5FB7A31D",
+   "md5": "1FE3A19E5B6C023637930BAEC6F47ECC",
+   "sha1": "5E12D00F5DA6C4A7CB9AC1731BA77D11DCB61D6D",
+   "region": "Japan",
+   "file": "Maerchen Adventure Cotton 100% (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

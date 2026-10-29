@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "EA0BFA66",
+   "md5": "A05F255C80E4374A2078C4A1C51624C5",
+   "sha1": "BFD3BC23D9BF143CEAF859E830067FD49EA17B0A",
+   "region": "Japan",
+   "file": "Super Professional Baseball (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

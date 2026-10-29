@@ -31,6 +31,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "460B0A60",
+   "md5": "BDFCD02F353BC9745DDA4556FB7DB08A",
+   "sha1": "80A856DBA0F12FD1E9EDED75D219B854910E990F",
+   "region": "USA",
+   "file": "Mighty Morphin Power Rangers - The Fighting Edition (USA).sfc"
+  },
+  {
+   "crc32": "6FC37D96",
+   "md5": "7B8CD363202126C944147C3C5E1CA54A",
+   "sha1": "DA7F96E3E2E69E644E240E106D6B6DBE0725E39B",
+   "region": "Europe",
+   "file": "Mighty Morphin Power Rangers - The Fighting Edition (Europe).sfc"
+  }
+ ],
  "gf_score": 3.54,
  "metascore": null,
  "cover_urls": [

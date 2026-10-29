@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B41AECCC",
+   "md5": "46829F5C062DB231731EE33258C54DED",
+   "sha1": "D861C76D138AB1F6AA37FD28909EFFCA152A5E2C",
+   "region": "Japan",
+   "file": "King of the Monsters 2 - The Next Thing (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

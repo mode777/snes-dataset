@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "A978B36F",
+   "md5": "8AE0A302B1312691AEE276B91E9714BF",
+   "sha1": "4DD01CD2F950B70BD08A6B16115CD647C7147C04",
+   "region": "USA",
+   "file": "Outlander (USA).sfc"
+  },
+  {
+   "crc32": "5822A4E1",
+   "md5": "118A9A4B87E7FF79A6F5346670752D54",
+   "sha1": "79700F895FB439C035CEF9BF9DE68D58D2705D33",
+   "region": "Europe",
+   "file": "Outlander (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

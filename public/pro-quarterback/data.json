@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "6910626D",
+   "md5": "B49089A31E5DF57E08B7A4309D46417C",
+   "sha1": "7B9E36C5391B761189EA39EA3EEF24D4292B3D01",
+   "region": "USA",
+   "file": "Pro Quarterback (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

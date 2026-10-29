@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8D258553",
+   "md5": "B67D827AF8EFE4BEE398F801CA4AA833",
+   "sha1": "AE759FC9E501A67440CFDD6F50BF04E594CB11A9",
+   "region": "Japan",
+   "file": "Mickey to Minnie - Magical Adventure 2 (Japan).sfc"
+  },
+  {
+   "crc32": "D39B39EC",
+   "md5": "7FEF068D2A80E9739FBF068427B2DF8D",
+   "sha1": "5E3262A680F795102ABDE36EFDBA09544E3D9E79",
+   "region": "Japan",
+   "file": "Mickey to Minnie - Magical Adventure 2 (Japan) (Sample).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

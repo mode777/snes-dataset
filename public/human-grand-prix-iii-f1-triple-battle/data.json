@@ -34,6 +34,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "9F6D0228",
+   "md5": "6EF82F3F011176C6969A9AED5845B8F7",
+   "sha1": "33F29C6F08A458778A0A065D9E6B0FF56D0C83C3",
+   "region": "Japan",
+   "file": "Human Grand Prix III - F1 Triple Battle (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

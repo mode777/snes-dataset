@@ -32,6 +32,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "024D4AF5",
+   "md5": "4A5E297D4CB3876132B8E00A1341AA34",
+   "sha1": "002DAC48C249ABF6DE1FD6BED175E9A0B12B36F6",
+   "region": "USA",
+   "file": "Tecmo Super Baseball (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "E302D853",
+   "md5": "E4FD6A93B8D2F666A5B24D46AFB39DF9",
+   "sha1": "44B182BF9E6803CE7BB48FD167DF31CE60E4DF06",
+   "region": "USA",
+   "file": "Tecmo Super Baseball (USA).sfc"
+  },
+  {
+   "crc32": "2F98DB3E",
+   "md5": "193F1D0F3838F392070DB8BF215D131C",
+   "sha1": "F967B85614F515830C07D1FAA9F18988100E2F0E",
+   "region": "Japan",
+   "file": "Tecmo Super Baseball (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

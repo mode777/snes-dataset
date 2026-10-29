@@ -29,6 +29,15 @@
  "languages": [
   "English, Spanish"
  ],
+ "roms": [
+  {
+   "crc32": "105AC679",
+   "md5": "9B50EF63A155BBA8468E24FEF63B7CD1",
+   "sha1": "0CF2A7F472CA59C266BABDABA2E7583685EA3D32",
+   "region": "USA",
+   "file": "Rex Ronan - Experimental Surgeon (USA) (En,Es).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

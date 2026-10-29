@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5DA55692",
+   "md5": "F6D6781B7A9B1738DEF29348119515C2",
+   "sha1": "475774EFC14B87A94CA7496644AFB57CDEAE5CBB",
+   "region": "Japan",
+   "file": "Super Kyuukyoku Harikiri Stadium 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

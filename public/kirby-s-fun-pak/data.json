@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "CE33DCFB",
+   "md5": "88D635F8181EF5155CC34498584620A6",
+   "sha1": "CE325AD271E91735CE19E9C2B8E0AD04DC103AE1",
+   "region": "Europe",
+   "file": "Kirby's Fun Pak (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

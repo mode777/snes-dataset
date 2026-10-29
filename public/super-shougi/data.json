@@ -25,6 +25,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3769DAA8",
+   "md5": "EAFD697BEED0DB6071DD78710B2ED8EB",
+   "sha1": "8A100BD97A70063E1064083BE49D71A8A671A946",
+   "region": "Japan",
+   "file": "Super Shougi (Japan).sfc"
+  },
+  {
+   "crc32": "3BA3C38B",
+   "md5": "29283487D9BDFDDCA59F8506CCD8A256",
+   "sha1": "B04DD59194287123382D99581988BD395A497035",
+   "region": "Japan",
+   "file": "Super Shougi (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

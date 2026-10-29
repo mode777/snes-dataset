@@ -39,6 +39,36 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "3C169224",
+   "md5": "C9C9EA0E0855C282C27FECD491CD4365",
+   "sha1": "73903679034E74B4972EA0C796501697BA4CB331",
+   "region": "Japan",
+   "file": "NBA Jam - Tournament Edition (Japan).sfc"
+  },
+  {
+   "crc32": "1FBC1DDB",
+   "md5": "503965FC09952186F79DD89D730D8D7F",
+   "sha1": "93075F16701C734EBC369EABF61EC5216F86D9C5",
+   "region": "USA",
+   "file": "NBA Jam - Tournament Edition (USA).sfc"
+  },
+  {
+   "crc32": "8D7B1828",
+   "md5": "5CE6E551582D119B31C094D0A33E1C3F",
+   "sha1": "8680B3D814A34617A08A7A06170ECE2A7A5A330C",
+   "region": "USA",
+   "file": "NBA Jam - Tournament Edition (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "D48C8041",
+   "md5": "FD9CCCC7D07699E79D6F634BD5C3E0D5",
+   "sha1": "E22186CE64AE3C20152744157FDFC8B65A483E70",
+   "region": "Europe",
+   "file": "NBA Jam - Tournament Edition (Europe).sfc"
+  }
+ ],
  "gf_score": 3.99,
  "metascore": null,
  "cover_urls": [

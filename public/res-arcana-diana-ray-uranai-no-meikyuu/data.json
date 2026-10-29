@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E7637817",
+   "md5": "A124EEE2525AC9075AA30602354930BE",
+   "sha1": "8F36123939CAC334FFA3B6EF4B4B98239549EE38",
+   "region": "Japan",
+   "file": "Res Arcana - Diana Ray - Uranai no Meikyuu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

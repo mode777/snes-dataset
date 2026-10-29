@@ -33,6 +33,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D1A1F7E5",
+   "md5": "5AD7B8CC37618F350FAAADBAF8A013CB",
+   "sha1": "4A08586B5F2899BBAEC2812DF4302347BFBA5202",
+   "region": "Europe",
+   "file": "Star Trek - The Next Generation - Future's Past (Europe).sfc"
+  },
+  {
+   "crc32": "8DE80428",
+   "md5": "6A5200B72E82C8E376EF3F498D3C716F",
+   "sha1": "40C4357CCB9E32D99D74F405D81F6965A45CB381",
+   "region": "USA",
+   "file": "Star Trek - The Next Generation - Future's Past (USA).sfc"
+  }
+ ],
  "gf_score": 3.16,
  "metascore": null,
  "cover_urls": [

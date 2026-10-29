@@ -33,6 +33,29 @@
  "languages": [
   "English, German, French"
  ],
+ "roms": [
+  {
+   "crc32": "D498F1D7",
+   "md5": "482444BE86F2EBE5B0730F538B8E9BA3",
+   "sha1": "A0B647E667967586427A23FDE30B2F42E8E51F6C",
+   "region": "USA",
+   "file": "Phantom 2040 (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "14252650",
+   "md5": "2269AE07AA776624792FE4CAC8BE1A24",
+   "sha1": "748B19C7C6577BF3A15E284D2AD602D325DBA2C9",
+   "region": "Europe",
+   "file": "Phantom 2040 (Europe) (En,Fr,De).sfc"
+  },
+  {
+   "crc32": "35E8FB28",
+   "md5": "4BEE856AE5344291C10A10DA2BEA8D8D",
+   "sha1": "E74258B868084FE06AC74B9D2EC07B49CBD80D11",
+   "region": "USA",
+   "file": "Phantom 2040 (USA).sfc"
+  }
+ ],
  "gf_score": 3.79,
  "metascore": null,
  "cover_urls": [

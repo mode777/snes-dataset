@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E4A271BF",
+   "md5": "6A30447069CAD68BB6E34BB586FF1D21",
+   "sha1": "BE191914942B08A4834BDD33A98C4770ECE23167",
+   "region": "Japan",
+   "file": "Bishoujo Senshi Sailor Moon S - Kurukkurin (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "84767959",
+   "md5": "FE79CF44E91FE4ABB0C16CC16A698B31",
+   "sha1": "8F526AB6BD508DF51F08FED13034923E017566C8",
+   "region": "Japan",
+   "file": "Super Chinese Fighter (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

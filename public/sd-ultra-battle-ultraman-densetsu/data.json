@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "04939D14",
+   "md5": "BD6AEE0E7A861FE738F9CFE69084A3C5",
+   "sha1": "5527FCC136FF0C0EF53A1C9C2756D4A27AFA1526",
+   "region": "Japan",
+   "file": "SD Ultra Battle - Ultraman Densetsu (Japan) (ST).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

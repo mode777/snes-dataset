@@ -29,6 +29,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "865DC1CC",
+   "md5": "0F348825D83E497AFED02503B53BCDAC",
+   "sha1": "4216FB9A0A2697A22A30380FAA409A95C6EB4A0E",
+   "region": "USA",
+   "file": "Roger Clemens' MVP Baseball (USA).sfc"
+  },
+  {
+   "crc32": "F0ECDD92",
+   "md5": "C8ADA921EB377A5963BD35DE9843E964",
+   "sha1": "107FE0342945C21C83EE8643E5B2B112370AC713",
+   "region": "USA",
+   "file": "Roger Clemens' MVP Baseball (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "A012D1AD",
+   "md5": "C89F745185F14028597F359D54077626",
+   "sha1": "28C8E111AA8F0770048064AEA86D094F2E6786FC",
+   "region": "USA",
+   "file": "Roger Clemens' MVP Baseball (USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

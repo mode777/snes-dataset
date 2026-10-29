@@ -35,6 +35,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "6288D8ED",
+   "md5": "8E1FDFCF4B3764499006E3677FD67B86",
+   "sha1": "D6240284E98827BFC7619F62F9F4A4D9B03250E5",
+   "region": "Europe",
+   "file": "Batman Forever (Europe).sfc"
+  },
+  {
+   "crc32": "903348F5",
+   "md5": "1F6E673B34E85484C98BAAD37284AFA8",
+   "sha1": "07CC822E9CA7040AF19491BD75DCC18D8641E3CF",
+   "region": "Japan",
+   "file": "Batman Forever (Japan).sfc"
+  },
+  {
+   "crc32": "D9B5E9CF",
+   "md5": "9F056180691136A3CA7D4A868ADE02B4",
+   "sha1": "8284E6814D6A01A191E82B107EB46570E3ECD9F3",
+   "region": "USA",
+   "file": "Batman Forever (USA).sfc"
+  }
+ ],
  "gf_score": 2.03,
  "metascore": null,
  "cover_urls": [

@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F696D5A9",
+   "md5": "DB70950CBF7FF13C94CE249494B0B4D5",
+   "sha1": "EBDF6C39725CCE8794FDA1FD97D57354A7CC6EEA",
+   "region": "Japan",
+   "file": "Naxat Super Pinball - Jaki Hakai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

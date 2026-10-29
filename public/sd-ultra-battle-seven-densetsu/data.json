@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "43AD5A45",
+   "md5": "BB8DADDCF18FC44442BAA041888DA924",
+   "sha1": "BFE85A6E6E8C24584ED5983DBF56048C4C8F2287",
+   "region": "Japan",
+   "file": "SD Ultra Battle - Seven Densetsu (Japan) (ST).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "3D0C8974",
+   "md5": "5B795B62C101C12026257644FD813359",
+   "sha1": "0A8051F7744EC11464F75C235A4A5D003DA799D1",
+   "region": "USA",
+   "file": "Out to Lunch (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

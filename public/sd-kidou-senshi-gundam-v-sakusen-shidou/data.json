@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7E1DC952",
+   "md5": "1D6D8BBD0F0B33667F0FAB88423A6016",
+   "sha1": "EFBF8DDFC2B403A51F480C9B5038427968936E6F",
+   "region": "Japan",
+   "file": "SD Kidou Senshi Gundam - V Sakusen Shidou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

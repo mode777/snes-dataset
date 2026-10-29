@@ -29,6 +29,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "2E9985BC",
+   "md5": "E593D216578C4D1E0206746C691A6A9D",
+   "sha1": "E685CC9743DD72F6752DE7CBCBE9D57C07B44047",
+   "region": "Europe",
+   "file": "Super International Cricket (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "89CD72B0",
+   "md5": "6BD7B17989AFA08E9A9855A1B8F7FE6E",
+   "sha1": "1D89BA2E37AF6E666567E2796E25B6314DD34C59",
+   "region": "Europe",
+   "file": "Super International Cricket (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

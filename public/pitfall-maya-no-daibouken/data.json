@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A81F9778",
+   "md5": "11D81586785D856E1B1751BAB00C2DED",
+   "sha1": "405BA8A69648B11A9A98829DB4CBB5DCCB12EA64",
+   "region": "Japan",
+   "file": "Pitfall - Maya no Daibouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D1B621AC",
+   "md5": "CB6724950254429215544D48C12E15E4",
+   "sha1": "E26B4599E07A5EB1C5D995AF2DAD838FF3D229C7",
+   "region": "Japan",
+   "file": "Monster Maker Kids - Ousama ni Naritai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

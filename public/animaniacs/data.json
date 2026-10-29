@@ -36,6 +36,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CF0F14D2",
+   "md5": "FF08CA993882BFE2AB860865897BFE77",
+   "sha1": "EDC84730448268ECF1271681BC789FEEF89ECA38",
+   "region": "USA",
+   "file": "Animaniacs (USA).sfc"
+  },
+  {
+   "crc32": "D93E07A8",
+   "md5": "7ABE23225CA0DDC5EE93333CE3BB9137",
+   "sha1": "382DABAED7BB03880582546EA9501E33EEE4CB6D",
+   "region": "Japan",
+   "file": "Animaniacs (Japan).sfc"
+  },
+  {
+   "crc32": "C28A80F6",
+   "md5": "CE41FB926DB8FCAAD4665774F3731B7A",
+   "sha1": "F3C3C701AB80F0431938B74154C2D1B3C3DD33C7",
+   "region": "Europe",
+   "file": "Animaniacs (Europe).sfc"
+  }
+ ],
  "gf_score": 3.1,
  "metascore": null,
  "cover_urls": [

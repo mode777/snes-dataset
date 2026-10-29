@@ -21,6 +21,15 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "6D3BC96F",
+   "md5": "9CC7336325379139AFC58D12A776696A",
+   "sha1": "83AFFABB0D0C3D01BDB0969359DF4570E457FB4E",
+   "region": "USA",
+   "file": "Looney Tunes B-Ball (USA).sfc"
+  }
+ ],
  "gf_score": 3.64,
  "metascore": null,
  "cover_urls": [

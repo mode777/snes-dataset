@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3172CD4F",
+   "md5": "8502A3E5C0FDC56B6495A644ACA54413",
+   "sha1": "3B7278A54F8D470DCB1BD92060D744380325F30B",
+   "region": "Japan",
+   "file": "Dragon Ball Z - Super Gokuu Den - Kakusei Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

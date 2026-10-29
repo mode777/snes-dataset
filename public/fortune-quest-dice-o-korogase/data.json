@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "448E3712",
+   "md5": "CEA1C1F391252D67BEE0934B07C87267",
+   "sha1": "88196F790071C51EDB15E9CADDA5172FDA344262",
+   "region": "Japan",
+   "file": "Fortune Quest - Dice o Korogase (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

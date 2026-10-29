@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DE13EC70",
+   "md5": "FF5876E27215D97F21A11B615578E25E",
+   "sha1": "9DD44E7F063B07DE7ECEE22914F4B273033EA697",
+   "region": "Japan",
+   "file": "Araiguma Rascal (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

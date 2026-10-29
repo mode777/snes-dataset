@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DFC1D7DC",
+   "md5": "DA9CFFA3D81B14CB77AF0D84787FBF19",
+   "sha1": "6BBF69275A9F350E04C644DF0C037E413F39A3A7",
+   "region": "Japan",
+   "file": "Power Lode Runner (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0AED756D",
+   "md5": "F01D3B520E7AE1FD19C096A75677E726",
+   "sha1": "106145ABC47A09FA7CAD24A52CCC3AD49F66790A",
+   "region": "Japan",
+   "file": "BS F-Zero Grand Prix - Queen League - Dai-2-shuu (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

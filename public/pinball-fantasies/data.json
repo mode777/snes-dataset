@@ -35,6 +35,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "2A8F0E3B",
+   "md5": "45CD17BAAFAF982F16E6EFD0B7CE178D",
+   "sha1": "8DBEAE8488B27A02A63840C9D237CCF0B78157AA",
+   "region": "Europe",
+   "file": "Pinball Fantasies (Europe).sfc"
+  },
+  {
+   "crc32": "822AD378",
+   "md5": "5A57AFCC8B3BDEF1F56CC24C152EB9FC",
+   "sha1": "49030A5540E3C3C9C4900944E318A5FA40AD68CC",
+   "region": "USA",
+   "file": "Pinball Fantasies (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

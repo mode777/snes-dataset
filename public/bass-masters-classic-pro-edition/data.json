@@ -31,6 +31,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "A2D4B003",
+   "md5": "D7FF8EF321AB2B1D043D0577B9C2EEC2",
+   "sha1": "2214E10E3B5B481EB86A3EF55C178FDB6D678F7E",
+   "region": "Europe",
+   "file": "Bass Masters Classic - Pro Edition (Europe).sfc"
+  },
+  {
+   "crc32": "C5058634",
+   "md5": "7200B3E05B334201B33E174F487FF021",
+   "sha1": "50F3592E22CDFF8560761D1FF1B728F28FED83DC",
+   "region": "USA",
+   "file": "Bass Masters Classic - Pro Edition (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

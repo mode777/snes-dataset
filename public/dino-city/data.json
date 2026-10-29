@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "94152717",
+   "md5": "3623EFCE83F8C52FB7E2CE173C487288",
+   "sha1": "817EAC2E9E84F3A2F7263FDEE12D09181F14AC09",
+   "region": "USA",
+   "file": "Dino City (USA).sfc"
+  },
+  {
+   "crc32": "C495320A",
+   "md5": "BEBA697F6B24ED4CF82FEDE9565F580D",
+   "sha1": "881E37862A065E048F47C115DBA078C3F9D5C023",
+   "region": "Europe",
+   "file": "Dino City (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

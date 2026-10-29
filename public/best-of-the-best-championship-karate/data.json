@@ -34,6 +34,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "D63831A5",
+   "md5": "06F38A041906426F5D6ECDFD31FE9454",
+   "sha1": "51975E91BCB109384DFE4F7F0068DA325354A358",
+   "region": "Europe",
+   "file": "Best of the Best - Championship Karate (Europe).sfc"
+  },
+  {
+   "crc32": "7F6ED86E",
+   "md5": "3E1AFA72971094777D9733289C9043B6",
+   "sha1": "01A1CB3E4EA1714C145FF06A0826D6DF0ED36A06",
+   "region": "USA",
+   "file": "Best of the Best - Championship Karate (USA).sfc"
+  },
+  {
+   "crc32": "20AA9B78",
+   "md5": "38229AE7A69A0C703EF381F698B75F2A",
+   "sha1": "19A03DE573F848C2DAFD7BA212DC9F3EFC8B82AA",
+   "region": "Europe",
+   "file": "Best of the Best - Championship Karate (Europe) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -31,6 +31,22 @@
  "languages": [
   "French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F4AB1557",
+   "md5": "ED18B3C3B148BCAFDBE228E27E89BD2D",
+   "sha1": "F52AD7EAE80EBD5D102ADC554A7B1FBB76FFF61B",
+   "region": "Japan",
+   "file": "Dragon Ball Z - Hyper Dimension (Japan).sfc"
+  },
+  {
+   "crc32": "A6DC166B",
+   "md5": "AB22F03F34FD2AE041D48F8BC92E8880",
+   "sha1": "BF132F963C8E09E7F106B6106CE47BAD593B2A48",
+   "region": "France",
+   "file": "Dragon Ball Z - Hyper Dimension (France).sfc"
+  }
+ ],
  "gf_score": 3.66,
  "metascore": null,
  "cover_urls": [

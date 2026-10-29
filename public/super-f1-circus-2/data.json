@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0AB53000",
+   "md5": "047D30FE2DC1594625C6D7B3F50C1856",
+   "sha1": "8FEB111D20551FD056FAAFF6F6EAE2977BACC115",
+   "region": "Japan",
+   "file": "Super F1 Circus 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

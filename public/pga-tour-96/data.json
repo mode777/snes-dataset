@@ -35,6 +35,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "C5AC2E72",
+   "md5": "AB7D5210186A01822F4D0DD3C2AF8001",
+   "sha1": "207B0B37F4DCC11AFD5D6CAF7877D8408399FD3E",
+   "region": "Europe",
+   "file": "PGA Tour 96 (Europe).sfc"
+  },
+  {
+   "crc32": "BC5DF071",
+   "md5": "DFA7FBCA475C837B75906A4DCB46356A",
+   "sha1": "090C312C9B305E423D099CF16DC4FAD08C2D513A",
+   "region": "USA",
+   "file": "PGA Tour 96 (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

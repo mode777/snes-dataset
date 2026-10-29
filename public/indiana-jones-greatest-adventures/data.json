@@ -35,6 +35,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "70DA6BB8",
+   "md5": "77C5CB84C9768756C13FA8F956BFB11E",
+   "sha1": "07C69B18B8CA3CF83EE0E1A7901020756B3FD85D",
+   "region": "USA",
+   "file": "Indiana Jones' Greatest Adventures (USA).sfc"
+  },
+  {
+   "crc32": "079B9996",
+   "md5": "81D92BD000F16015C2C031B9AAEC0589",
+   "sha1": "0BF1C7C10988EE1D7C6EA40E6E55B2AEFBB28ECB",
+   "region": "Japan",
+   "file": "Indiana Jones' Greatest Adventures (Japan).sfc"
+  },
+  {
+   "crc32": "FA4560C3",
+   "md5": "308DF3B476634B314FD279369F1C984A",
+   "sha1": "F08BE42140CAD072529D4DDF5472BEB447228E00",
+   "region": "Europe",
+   "file": "Indiana Jones' Greatest Adventures (Europe).sfc"
+  }
+ ],
  "gf_score": 3.79,
  "metascore": null,
  "cover_urls": [

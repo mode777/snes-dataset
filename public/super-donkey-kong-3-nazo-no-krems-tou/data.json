@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5B337FB6",
+   "md5": "D0CEFE1D11D0F84F98227A549E6E93B6",
+   "sha1": "E4137A6E9D9A7AC836F8E568D44BDAF0451C664E",
+   "region": "Japan",
+   "file": "Super Donkey Kong 3 - Nazo no Krems-tou (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "0F712928",
+   "md5": "0E94BDBA4CD4FA7A9D9B1C6BB312D144",
+   "sha1": "6FA9DF8CF91F062D067C2206622E4B7244322F6F",
+   "region": "Japan",
+   "file": "Super Donkey Kong 3 - Nazo no Krems-tou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

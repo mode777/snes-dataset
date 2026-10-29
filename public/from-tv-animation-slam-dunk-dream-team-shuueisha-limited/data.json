@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "99276EAA",
+   "md5": "4716BCC084DF44FE01FBFC1222BD5C95",
+   "sha1": "A32B6AE03C3C5702F5FB1D53F68A076AC933184F",
+   "region": "Japan",
+   "file": "From TV Animation Slam Dunk - Dream Team - Shuueisha Limited (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

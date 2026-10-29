@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4CD45939",
+   "md5": "812C6119D209925116A0903D7DC92102",
+   "sha1": "142D2529D9045856D554C567BAEF27E4668BB2AD",
+   "region": "Japan",
+   "file": "Daisenryaku Expert WWII - War in Europe (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

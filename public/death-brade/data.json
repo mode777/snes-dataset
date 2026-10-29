@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CA46FD3B",
+   "md5": "F576ADA8F7EAD5EA9402A668CF9B9D4F",
+   "sha1": "A31A7FA55CAB4E0E63F2FEA9054FCBFC513A619B",
+   "region": "Japan",
+   "file": "Death Brade (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B8A87909",
+   "md5": "CF5C1DE917432A48DFC5C8A1465BBC36",
+   "sha1": "3AEFCBBDBEB7E5B6C8A6C4F4BB3BF30140703074",
+   "region": "Japan",
+   "file": "Super Sangokushi II (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "0EEA5DC1",
+   "md5": "A98570CC6F3651BCEA0E54D9CAB6BFD9",
+   "sha1": "E58BB9C38B6BF2CE0C116E2BBEBD53746B6198AB",
+   "region": "Japan",
+   "file": "Super Sangokushi II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

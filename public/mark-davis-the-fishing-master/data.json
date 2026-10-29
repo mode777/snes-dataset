@@ -27,6 +27,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "22A109B9",
+   "md5": "C63395B43E4DA7AEB95786EA38E49BB1",
+   "sha1": "5CF1AE9C513B3447A904CFE0C062BBF09D4AB2FB",
+   "region": "USA",
+   "file": "Mark Davis' The Fishing Master (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

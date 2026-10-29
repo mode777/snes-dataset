@@ -30,6 +30,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2F109101",
+   "md5": "DD7CB317BC987C2FD52DE2A764A2250B",
+   "sha1": "73B3C0AF2F169423CBBF2A672E6414F35388E04E",
+   "region": "Europe",
+   "file": "Street Fighter Alpha 2 (Europe).sfc"
+  },
+  {
+   "crc32": "9C59DDFF",
+   "md5": "AA3C90FA7D89EB3DC3389A9436BD0CF8",
+   "sha1": "F4EDE150B5281F7F5D7E3188C6D9163C2BC66475",
+   "region": "USA",
+   "file": "Street Fighter Alpha 2 (USA).sfc"
+  }
+ ],
  "gf_score": 4.01,
  "metascore": null,
  "cover_urls": [

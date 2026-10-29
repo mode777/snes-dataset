@@ -32,6 +32,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "54161830",
+   "md5": "C8DD52B075E1681F590D2F97AB5B4D7E",
+   "sha1": "DF427B086F61AF56424A0A2FA912C82B2587BCB8",
+   "region": "USA",
+   "file": "Saturday Night Slam Masters (USA).sfc"
+  },
+  {
+   "crc32": "A3876F76",
+   "md5": "59361B30B09DC94163A654616E328185",
+   "sha1": "D5E05973184D37849A00AB9FEEBEC7EDC31CCDC9",
+   "region": "Europe",
+   "file": "Saturday Night Slam Masters (Europe).sfc"
+  }
+ ],
  "gf_score": 3.78,
  "metascore": null,
  "cover_urls": [

@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0937A72F",
+   "md5": "304D94CA64BB771147FB1ACBF4131525",
+   "sha1": "B7B79481CA8EF24C36D80B3680B05325E6A2BAE8",
+   "region": "Japan",
+   "file": "Computer Nouryoku Kaiseki - Ultra Baken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

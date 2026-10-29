@@ -30,6 +30,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "304B2610",
+   "md5": "05F8E0CAD9EE01A5B2570B6FDD949F95",
+   "sha1": "A9613887CB01A5ABAE7FEDFCA9A629C087C064C4",
+   "region": "Europe",
+   "file": "Fatal Fury 2 (Europe).sfc"
+  },
+  {
+   "crc32": "A26EBFEF",
+   "md5": "3E52A37D6C408634BAD0F0D9B8562EBA",
+   "sha1": "E1970D1943A3DDB2189F7B4A40B15297507D4CB8",
+   "region": "USA",
+   "file": "Fatal Fury 2 (USA).sfc"
+  }
+ ],
  "gf_score": 3.31,
  "metascore": null,
  "cover_urls": [

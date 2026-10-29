@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C891B297",
+   "md5": "CEFE028852135A1695ED9F6E692BC0CA",
+   "sha1": "35D04611F815672D02104E174624F9610994B0B5",
+   "region": "USA",
+   "file": "Arcana (USA).sfc"
+  }
+ ],
  "gf_score": 3.33,
  "metascore": null,
  "cover_urls": [

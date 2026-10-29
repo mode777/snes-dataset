@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D531289B",
+   "md5": "8BD89634D1B2205B1E7EF016485C0076",
+   "sha1": "926B861734CDEEF9E70CD436BE62C73481E7392F",
+   "region": "Japan",
+   "file": "Dragon Ball Z - Super Gokuu Den - Totsugeki Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

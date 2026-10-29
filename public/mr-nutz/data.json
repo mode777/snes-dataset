@@ -37,6 +37,36 @@
  "languages": [
   "English, French"
  ],
+ "roms": [
+  {
+   "crc32": "549D03CA",
+   "md5": "99EBEBAC8C1BDF109CBBF0D571B6E815",
+   "sha1": "94BE59A54747623FC6C35CA3882CF5A01A25F4DE",
+   "region": "USA",
+   "file": "Mr Nutz (USA) (En,Fr) (Beta).sfc"
+  },
+  {
+   "crc32": "A99BDD9A",
+   "md5": "F5889DB38B2152FDE80258C3A89F6A83",
+   "sha1": "E803E7C067832C3A2604463E2262728117EFECA4",
+   "region": "USA",
+   "file": "Mr. Nutz (USA) (En,Fr).sfc"
+  },
+  {
+   "crc32": "3DADD536",
+   "md5": "1B3CBAE181B43A1B5C692BAEDF2B3DDE",
+   "sha1": "9CAA452368B34C86D55793C4C0835BBF42EF0F77",
+   "region": "Japan",
+   "file": "Mr. Nutz (Japan).sfc"
+  },
+  {
+   "crc32": "BF4FCDF1",
+   "md5": "42C1E03DD4FBA66F7D9CD74664ADF4A9",
+   "sha1": "EE594AA4673B08A4BD31460B92A1ADF08DE54562",
+   "region": "Europe",
+   "file": "Mr. Nutz (Europe) (En,Fr).sfc"
+  }
+ ],
  "gf_score": 3.53,
  "metascore": null,
  "cover_urls": [

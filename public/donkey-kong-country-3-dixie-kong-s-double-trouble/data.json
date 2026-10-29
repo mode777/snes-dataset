@@ -32,6 +32,22 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0551FE84",
+   "md5": "FC3333AF2F93D7DD0A4190A01D49A69E",
+   "sha1": "C79CBE60E4CD8EE086BB6C5F6B2DEA5ACEBCC940",
+   "region": "Europe",
+   "file": "Donkey Kong Country 3 - Dixie Kong's Double Trouble! (Europe) (En,Fr,De).sfc"
+  },
+  {
+   "crc32": "448EEC19",
+   "md5": "120ABF304F0C40FE059F6A192ED4F947",
+   "sha1": "D737E90D91DBA8620FD5C2985EB6FF2CDA7F23F9",
+   "region": "USA",
+   "file": "Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).sfc"
+  }
+ ],
  "gf_score": 4.13,
  "metascore": 77,
  "cover_urls": [

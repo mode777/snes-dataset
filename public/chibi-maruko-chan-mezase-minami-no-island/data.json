@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F4DEFCAE",
+   "md5": "6260EDBF892CB17FA58A0A1F0557EB32",
+   "sha1": "08A2415362F69788EC76B1A36044DC1F1A5F2EA1",
+   "region": "Japan",
+   "file": "Chibi Maruko-chan - Mezase! Minami no Island!! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

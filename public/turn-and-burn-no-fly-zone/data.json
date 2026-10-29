@@ -32,6 +32,29 @@
  "languages": [
   "English, Spanish, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EE92CEB5",
+   "md5": "A658E07AC87B65E06451B35DADF4A75B",
+   "sha1": "A2524537E844AF9C3398575A4B62E3556A93843C",
+   "region": "Europe",
+   "file": "Turn and Burn - No-Fly Zone (Europe).sfc"
+  },
+  {
+   "crc32": "E9E676C2",
+   "md5": "9FFF57F3B20C518E456FE79AD5E46D1D",
+   "sha1": "81FCF88A24C80189F90FFC00243992C0D58D0692",
+   "region": "Spain",
+   "file": "Turn and Burn - No-Fly Zone (Spain).sfc"
+  },
+  {
+   "crc32": "87BFA0B8",
+   "md5": "FF5C2C53B4B82AFA4C3B960C9CC8AA95",
+   "sha1": "17C1075A09F2CEB5645ACB76A987674D032AB3A2",
+   "region": "USA",
+   "file": "Turn and Burn - No-Fly Zone (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5D8426E9",
+   "md5": "E7E5922FEA39FD2DABFDF09EAB8434FB",
+   "sha1": "9E89C6A9FC841CFDFBB2EB5D99AB58A0723A5533",
+   "region": "Japan",
+   "file": "Nitropunks - Might Heads (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

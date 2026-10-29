@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B0A3441E",
+   "md5": "D61A2B7F57A1C944D5B6B7DEEBF90131",
+   "sha1": "59ADD584F16B607607348E65C245CA6AD7A5FCB8",
+   "region": "Europe",
+   "file": "Teenage Mutant Hero Turtles IV - Turtles in Time (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

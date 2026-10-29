@@ -33,6 +33,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "40D11C94",
+   "md5": "E00EF4C1B9E17D5FA2D8367402D28A08",
+   "sha1": "0AC5326401903212C6565A7A982F60A56017C1EF",
+   "region": "USA",
+   "file": "Sparkster (USA).sfc"
+  },
+  {
+   "crc32": "F5A2A976",
+   "md5": "C976764C97910E54ED96C3AE3C20758D",
+   "sha1": "2981B8686B3D2819F8757CD465F60E300A69F759",
+   "region": "Japan",
+   "file": "Sparkster (Japan).sfc"
+  },
+  {
+   "crc32": "F43C155C",
+   "md5": "03B64E37D5B5F8B92E8681940F2E0F75",
+   "sha1": "C498E8304034121E1266C777900757A37BD5CCFA",
+   "region": "Europe",
+   "file": "Sparkster (Europe).sfc"
+  }
+ ],
  "gf_score": 3.77,
  "metascore": null,
  "cover_urls": [

@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4A55CFB8",
+   "md5": "673DCD7CDD476A2A40DEE80F1C09FA69",
+   "sha1": "1515018C597F6966C4C6FB566A8DD61AB58049D7",
+   "region": "Japan",
+   "file": "SM Choukyoushi Hitomi Vol. 2 (Japan) (Unl).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

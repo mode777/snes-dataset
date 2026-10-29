@@ -34,6 +34,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "7EC892F0",
+   "md5": "E2C52C906835819DE078044978D6560C",
+   "sha1": "1C712F78560C53E050E6FA445A1B1D4E37A9F39B",
+   "region": "Japan",
+   "file": "Super Turrican (Japan).sfc"
+  },
+  {
+   "crc32": "D0A1BF12",
+   "md5": "90C9FE8386A7F69DE475C58BB8DE01F7",
+   "sha1": "AA89904A0E6D65E230D43C0F4F974BEDC6868684",
+   "region": "Europe",
+   "file": "Super Turrican (Europe).sfc"
+  },
+  {
+   "crc32": "3A7E8215",
+   "md5": "24D31806DD79E6E2BE36EF27B51C8858",
+   "sha1": "9B06E78849F68B78E1E9581E04A6BE2892543C0B",
+   "region": "USA",
+   "file": "Super Turrican (USA).sfc"
+  }
+ ],
  "gf_score": 3.73,
  "metascore": null,
  "cover_urls": [

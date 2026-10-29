@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C79C123F",
+   "md5": "5797C69FDC9E92284089128D6794EFE4",
+   "sha1": "337E0C4BDBF544787B543A1FB83AFBA7526191B9",
+   "region": "Japan",
+   "file": "Ongaku Tsukuru Kanadeeru (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

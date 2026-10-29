@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6C5F1A18",
+   "md5": "572CF198450D3424DA503F93D4E6AC85",
+   "sha1": "065BF1BBF4662383E2E42105AD76E0ED93213A57",
+   "region": "Japan",
+   "file": "Ace o Nerae! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

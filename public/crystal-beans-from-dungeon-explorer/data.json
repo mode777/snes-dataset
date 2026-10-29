@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "79663A93",
+   "md5": "18C356623AE0407119CEAE8C06EDFA7A",
+   "sha1": "617034C08CAC5211116D776772074BED12AA139B",
+   "region": "Japan",
+   "file": "Crystal Beans from Dungeon Explorer (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

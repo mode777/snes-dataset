@@ -28,6 +28,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "57CBD9AF",
+   "md5": "94446E742F5FEFD2905C70A2A891B2DC",
+   "sha1": "9F8DBBCA96EB6D70F35311A851E110F03CE7D99F",
+   "region": "Europe",
+   "file": "Duel, The - Test Drive II (Europe).sfc"
+  },
+  {
+   "crc32": "1CC662CD",
+   "md5": "55A4ACEC09123B39949D2AFFB9F7C7C2",
+   "sha1": "038BAC2A85D323C6E1950344D6BBC86C6173E293",
+   "region": "USA",
+   "file": "Duel, The - Test Drive II (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

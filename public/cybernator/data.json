@@ -33,6 +33,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F493414B",
+   "md5": "38AEB2459240FDE2AFFCC5C498721985",
+   "sha1": "31030745ABB1D407859A2184398C08868EAE9658",
+   "region": "Europe",
+   "file": "Cybernator (Europe).sfc"
+  },
+  {
+   "crc32": "4DFA05B3",
+   "md5": "8376C1BFAC08F6FBBF99F26ABAEE6DA0",
+   "sha1": "F629DEEA9D7CF6903BA8A4B81DA96624C0B056AB",
+   "region": "USA",
+   "file": "Cybernator (USA).sfc"
+  },
+  {
+   "crc32": "ACA397E8",
+   "md5": "E92A796D08D2FEB222277F16D110A6C8",
+   "sha1": "ACC2B4C01E97B72A83FBB3F4DB1BB2E4535AD864",
+   "region": "USA",
+   "file": "Cybernator (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.93,
  "metascore": null,
  "cover_urls": [

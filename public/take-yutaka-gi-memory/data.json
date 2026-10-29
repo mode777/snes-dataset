@@ -21,6 +21,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "21A9925D",
+   "md5": "3F3E0D9027B6F74DF42DBFA561A01B09",
+   "sha1": "B4AA96A3B8D32E2D453A7A6F58C9DA9310D7C823",
+   "region": "Japan",
+   "file": "Take Yutaka GI Memory (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

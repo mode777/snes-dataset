@@ -31,6 +31,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EEE5FC3E",
+   "md5": "73F8F4A5205275A0F91BB7C89B77E8EC",
+   "sha1": "0FE75F22D976E02270257B2A608B26197DDB1BFE",
+   "region": "Japan",
+   "file": "SD Gundam Gaiden - Knight Gundam Monogatari - Ooinaru Isan (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "17B698AB",
+   "md5": "BECE123BD0361C94EE8AF8249B19B5EA",
+   "sha1": "CDE38D9613947FEEA6E7A0D21363605FB9D21723",
+   "region": "Japan",
+   "file": "SD Gundam Gaiden - Knight Gundam Monogatari - Ooinaru Isan (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

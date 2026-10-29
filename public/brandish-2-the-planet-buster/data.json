@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BB89E67E",
+   "md5": "16647A6EDC60975425D52C255C4C8523",
+   "sha1": "A091A0C109A4EBD7C2E8A39397D9837712BD7C22",
+   "region": "Japan",
+   "file": "Brandish 2 - The Planet Buster (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

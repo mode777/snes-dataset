@@ -36,6 +36,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "7C149CFF",
+   "md5": "CE1DF8A1B56C6164566615CCD0E96099",
+   "sha1": "7DFCCA30D34B817021B51E026B7CCC5D36490154",
+   "region": "USA",
+   "file": "Star Trek - Deep Space Nine - Crossroads of Time (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "9A245FA3",
+   "md5": "7EEE6E99E418E59C97CE9329A8464532",
+   "sha1": "57C07B55AADE9400B6D9EA23072F613E9D9735EF",
+   "region": "USA",
+   "file": "Star Trek - Deep Space Nine - Crossroads of Time (USA).sfc"
+  },
+  {
+   "crc32": "75BFF780",
+   "md5": "485635B7BF2B4F337BCF2B654690763D",
+   "sha1": "63D8044BA0EABCEC8F8FB49ADD9DD4DCCA083E04",
+   "region": "Europe",
+   "file": "Star Trek - Deep Space Nine - Crossroads of Time (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

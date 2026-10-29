@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D18A00CD",
+   "md5": "54ECF1DC3401BA5DC0D2A838C26F35C5",
+   "sha1": "48F17DBCCCA2C2BB8E332BB3B7D2563A512C13E3",
+   "region": "USA",
+   "file": "DSP1 Tech Demo (USA) (Demo).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8EE7FAA5",
+   "md5": "0EF71B727646941DFA63B8E4C259038F",
+   "sha1": "E7403A677E26134F4D5C1D10908D5F138E9C2B44",
+   "region": "USA",
+   "file": "Dennis the Menace (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

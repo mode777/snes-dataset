@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AF415C24",
+   "md5": "C79CA7C76D169FD42524FA7DBA2317F7",
+   "sha1": "DAD73D2C0B1A3C916D40C4A208566EE4193333B2",
+   "region": "Japan",
+   "file": "Ganpuru - Gunman's Proof (Japan).sfc"
+  }
+ ],
  "gf_score": 4.05,
  "metascore": null,
  "cover_urls": [

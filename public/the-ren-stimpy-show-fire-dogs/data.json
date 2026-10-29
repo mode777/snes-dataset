@@ -29,6 +29,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "0B472197",
+   "md5": "79D5478811AF9E29744FF3366F6A4E32",
+   "sha1": "233A0F4EC8865E5E7F5F9A2342E75108AB1DA97C",
+   "region": "USA",
+   "file": "Ren & Stimpy Show, The - Fire Dogs (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

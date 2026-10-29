@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E0A62DA9",
+   "md5": "81FBE94C30E3064F87B9B70D60A9705B",
+   "sha1": "D266CE5EBD137A5DD2E09EA65605128A363360D7",
+   "region": "Japan",
+   "file": "Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (xxxx-02-08) (BS).sfc"
+  },
+  {
+   "crc32": "E021E29D",
+   "md5": "D90C5AB4E59EA7B23C65D5AF32E0379C",
+   "sha1": "3848A39C096095AF3CEABB90B0B80B695F927E18",
+   "region": "Japan",
+   "file": "Excitebike - Bunbun Mario Battle - Stadium 3 (Japan) (1998-01-11 - 1998-01-17) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

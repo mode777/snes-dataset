@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A24F85FF",
+   "md5": "94B140BF2AA47D0A8E1663ABD4B256D6",
+   "sha1": "0221237F39F26C776C5488AB7C61B8C72BFBA3A9",
+   "region": "Japan",
+   "file": "Wrecking Crew '98 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

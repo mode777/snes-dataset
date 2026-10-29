@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2A6F930E",
+   "md5": "FFEA48A0AC3C62E43DDCAAD47C690537",
+   "sha1": "8AB97E9281EAF08F3C13AAAFB9BC8D7FA3A45B16",
+   "region": "Japan",
+   "file": "Kouryuu Densetsu Villgust - Kieta Shoujo (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

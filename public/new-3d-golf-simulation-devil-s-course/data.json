@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E983B63A",
+   "md5": "C565EA5042B5F2500217E8AB3221636D",
+   "sha1": "CD7C4627FB3D2DB77FCB0E97798D0D7804F71C37",
+   "region": "Japan",
+   "file": "New 3D Golf Simulation - Devil's Course (Japan) (Sample).sfc"
+  },
+  {
+   "crc32": "640D734F",
+   "md5": "C05FC3328007B478495EB0BB5F23EAA8",
+   "sha1": "B66ADEA4A4A3AEC6E3BCAD6C0540D8F454184DAD",
+   "region": "Japan",
+   "file": "New 3D Golf Simulation - Devil's Course (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

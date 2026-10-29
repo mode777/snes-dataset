@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "6582A8F5",
+   "md5": "418034D574EBDAEA7659B3A90EEBEF58",
+   "sha1": "88FE872EB984AF84F8CA7633EF5BD3904A2BAEB4",
+   "region": "USA",
+   "file": "Wolfenstein 3-D (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

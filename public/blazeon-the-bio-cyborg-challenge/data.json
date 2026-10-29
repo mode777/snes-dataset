@@ -23,6 +23,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3B01D0A3",
+   "md5": "0FC1DD2C3AC2EC5BAED77B3A32590BA4",
+   "sha1": "B0BED10B3332E6C1E02C09E1BF89A35D56CC3C69",
+   "region": "USA",
+   "file": "BlaZeon - The Bio-Cyborg Challenge (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

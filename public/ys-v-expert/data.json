@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CFE632B9",
+   "md5": "7751F78E4487BAFFEF4BBA7984A8D266",
+   "sha1": "32F1B965EA882E0AC1938214C2A30EA6ADAAE22F",
+   "region": "Japan",
+   "file": "Ys V - Expert (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

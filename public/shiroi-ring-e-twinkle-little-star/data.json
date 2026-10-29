@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "534824F0",
+   "md5": "BD65C07647005501D26EFF6E355CF2EC",
+   "sha1": "EFB2756402DDA3A0E5E5285F6F16DD6E0B773D9A",
+   "region": "Japan",
+   "file": "Shiroi Ring e - Twinkle Little Star (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

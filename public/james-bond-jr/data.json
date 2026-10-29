@@ -36,6 +36,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "69C2F850",
+   "md5": "40BC3A750D8ADEAAF15ABDAAA6DB9EE0",
+   "sha1": "A9338759D653CA7056BD2705D44EAD2C6877ACC1",
+   "region": "USA",
+   "file": "James Bond Jr (USA).sfc"
+  },
+  {
+   "crc32": "7414A4C2",
+   "md5": "F8E1181E38CDA3F283FEC07069DBE58A",
+   "sha1": "F2627ED67E2C653B9256E0C0BC77D1BA5322E96C",
+   "region": "Europe",
+   "file": "James Bond Jr (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

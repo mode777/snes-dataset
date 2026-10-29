@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0472ABB6",
+   "md5": "38342A8286A6545A41DD5AA017A716CE",
+   "sha1": "B0F46EC220E0336EE8AE44844C39F74F938F2586",
+   "region": "Japan",
+   "file": "Let's Pachinko Nante Gindama 1 (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "83FC0F0C",
+   "md5": "666CB1EAF55507431FF04CC830B506F2",
+   "sha1": "4A157C556B27F92C9850EE8547A2D5A61C8156F3",
+   "region": "Europe",
+   "file": "F1 Pole Position 2 (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E5A1ADB8",
+   "md5": "61DF2FA790B7B4E0369E8739E6A09A7F",
+   "sha1": "99C30E1F5327246BCFF9A25F56A60384BA56F7DD",
+   "region": "Japan",
+   "file": "USA Ice Hockey (Japan).sfc"
+  },
+  {
+   "crc32": "F0E155DA",
+   "md5": "BD9BBA9B7948CF5D746ACE701B606B54",
+   "sha1": "45C39E7C180891EED135AE7C59D1905F766C7C86",
+   "region": "Japan",
+   "file": "USA Ice Hockey (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -25,6 +25,43 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2A2CCCF4",
+   "md5": "13EAF4C7CCA675AE321ECF54690BAE80",
+   "sha1": "16A82776877A8BF7832D6C652252E8936C4910BF",
+   "region": "Japan",
+   "file": "Super Mahjong Taikai (Japan).sfc"
+  },
+  {
+   "crc32": "72BDB71F",
+   "md5": "29D76B82089FA89DE49B7F7BFEEFA563",
+   "sha1": "72D35B76A7F59532231A7A15FAFB935B981E1DE2",
+   "region": "Japan",
+   "file": "Super Mahjong Taikai (Japan) (BS).sfc"
+  },
+  {
+   "crc32": "224F2944",
+   "md5": "42DACC14DDAE00123E9D6737A2F5A7D8",
+   "sha1": "9F026D0CD10ECDC8A2100B7B417E5365298776AB",
+   "region": "Japan",
+   "file": "Super Mahjong Taikai (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "91A6D452",
+   "md5": "28ABBCAC1E43878DFD0571ED5D59D69E",
+   "sha1": "09F93386C093ED5800042A12DB929C1B9EB848A8",
+   "region": "Japan",
+   "file": "Super Mahjong Taikai (Japan) (Rev 3).sfc"
+  },
+  {
+   "crc32": "F748D9A7",
+   "md5": "F04E49F404ADDDC0A2DD39630A236F81",
+   "sha1": "630FC77D51D5842C8260F537D9F1EED15B027DFE",
+   "region": "Japan",
+   "file": "Super Mahjong Taikai (Japan) (Rev 4).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

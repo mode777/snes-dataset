@@ -30,6 +30,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "226929CF",
+   "md5": "05D1DA17D64CC727E5EFAA4ECC72B4B3",
+   "sha1": "A809B61ED9FDA08EDD14A6DE6D1A8D971D28A87E",
+   "region": "Europe",
+   "file": "Pocky & Rocky 2 (Europe).sfc"
+  },
+  {
+   "crc32": "FC00BB1B",
+   "md5": "3CFA988D8B0BAB8C04AF70F24FB7EE90",
+   "sha1": "4A702384AE4AA0500C975F12CEED578DD8C02910",
+   "region": "USA",
+   "file": "Pocky & Rocky 2 (USA).sfc"
+  },
+  {
+   "crc32": "3B94B032",
+   "md5": "86A2336880D00CCADD149061B12A79E7",
+   "sha1": "7F52136CD5D28B7A90CB7A46289160DBD494494C",
+   "region": "USA",
+   "file": "Pocky & Rocky 2 (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.81,
  "metascore": null,
  "cover_urls": [

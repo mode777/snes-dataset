@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "CF6BE8F8",
+   "md5": "5B2FBFF251B10EB70AB9A3F277890952",
+   "sha1": "17297D5C3EA572438EFEF2861DE6DE458910949F",
+   "region": "Japan",
+   "file": "Do-Re-Mi de Faa 2~! - 5-10 Gou (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

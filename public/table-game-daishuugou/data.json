@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "661E791E",
+   "md5": "062085558F71849332276F7D0A4C4002",
+   "sha1": "5D4BFE205A35AF01C3DD787EC7FF599B848AE3DA",
+   "region": "Japan",
+   "file": "Table Game Daishuugou!! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

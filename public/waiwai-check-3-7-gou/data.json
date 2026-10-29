@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0D8CB824",
+   "md5": "5ECF5F2E909143A3C632723FB5ED1A7F",
+   "sha1": "C8BED9DE5C4D09275438D55ABD953E18DDBAAC5A",
+   "region": "Japan",
+   "file": "Waiwai Check - 3-7 Gou (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

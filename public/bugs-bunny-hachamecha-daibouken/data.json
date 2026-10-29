@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "528B029B",
+   "md5": "B924F56414B24A507DAB4762C4B8C494",
+   "sha1": "F9A6FAB57C048B6E9362DD09455C32912BDD4E3A",
+   "region": "Japan",
+   "file": "Bugs Bunny - Hachamecha Daibouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

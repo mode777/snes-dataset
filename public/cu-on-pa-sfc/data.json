@@ -26,6 +26,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "42D0C418",
+   "md5": "792676437C5A448FC6393CF06ECB50D0",
+   "sha1": "58469E1EA82FC7B2ECD5D696A561292FA2C5DB8A",
+   "region": "Japan",
+   "file": "Cu-On-Pa SFC (Japan).sfc"
+  },
+  {
+   "crc32": "56B93366",
+   "md5": "0146AFDDAA05EA324518A4CC3D7C9645",
+   "sha1": "BB39FC3316E9BF9F73FCA7EF7FE2F2D2F0F5D9A1",
+   "region": "Japan",
+   "file": "Cu-On-Pa SFC (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

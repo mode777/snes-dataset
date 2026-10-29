@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "AFD45D27",
+   "md5": "45C4EA9F916ECB36B123F53F4BD7AA62",
+   "sha1": "3B83FC765B5AD329D5F114ACEAC1685C1D827697",
+   "region": "Europe",
+   "file": "Zoop (Europe).sfc"
+  },
+  {
+   "crc32": "06F0E94C",
+   "md5": "0B7A524E5470ECA3ED29B75E427A7CF4",
+   "sha1": "051C767B843FC4112E0B06C2F81B65ABBAC9E7FC",
+   "region": "USA",
+   "file": "Zoop (USA).sfc"
+  }
+ ],
  "gf_score": 2.92,
  "metascore": null,
  "cover_urls": [

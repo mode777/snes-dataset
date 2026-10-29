@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E51CD206",
+   "md5": "B910D99D2A06DB43862DDAEADC11C062",
+   "sha1": "655B86D3648AE0AF3B25490CA379F18364E39B45",
+   "region": "Japan",
+   "file": "Hokuto no Ken 6 - Gekitou Denshouken Haou e no Michi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -35,6 +35,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "6779970F",
+   "md5": "310EED9404C446D12BA479A158F38BEB",
+   "sha1": "6B2D309EA9C6CFADFEF36D633A27C29E8884305A",
+   "region": "USA",
+   "file": "Gods (USA).sfc"
+  },
+  {
+   "crc32": "16416BB5",
+   "md5": "DA9354F321779C7670B562816C97163B",
+   "sha1": "8399E850F08132C20D3F6F4009D1932750FC09B7",
+   "region": "Europe",
+   "file": "Gods (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9F717D76",
+   "md5": "B29EA2C67D6ECABF99C22829058F710B",
+   "sha1": "8C0B12F4258EC74ADB6A165C1E83B6CC20B97A60",
+   "region": "Japan",
+   "file": "Gourmet Sentai Barayarou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

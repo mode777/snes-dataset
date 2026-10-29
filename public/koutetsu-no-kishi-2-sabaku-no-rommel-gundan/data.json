@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9D5EA7F5",
+   "md5": "44857900902F13396553185D2641237D",
+   "sha1": "E84F72B99D816EE28C5BC68D41BCD909871DE7F6",
+   "region": "Japan",
+   "file": "Koutetsu no Kishi 2 - Sabaku no Rommel Gundan (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

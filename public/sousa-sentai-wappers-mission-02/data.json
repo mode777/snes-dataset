@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "317FFBD7",
+   "md5": "7F4750E65269400E9AFFCE96D7B4F6AA",
+   "sha1": "345FE4671A862FE40394DAE38F5038872389B98B",
+   "region": "Japan",
+   "file": "Sousa Sentai Wappers - Mission 02 (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "CD89020D",
+   "md5": "D65F6CB61E6AA709A2C8874FF407FCB9",
+   "sha1": "E3E4886F2E69E15E878EB70EF97E31C84F9F81DE",
+   "region": "France",
+   "file": "Sailormoon (France).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

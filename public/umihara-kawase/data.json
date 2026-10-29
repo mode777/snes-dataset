@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "393CCCA2",
+   "md5": "ABDDD496BAB9C4FD12007F3125DB85CC",
+   "sha1": "C4DA5C1AAF998F0C7114ADFF0436246728A2139E",
+   "region": "Japan",
+   "file": "Umihara Kawase (Japan).sfc"
+  }
+ ],
  "gf_score": 3.81,
  "metascore": null,
  "cover_urls": [

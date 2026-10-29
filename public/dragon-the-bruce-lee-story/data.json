@@ -36,6 +36,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "038212EA",
+   "md5": "931C9BAFF50537C97C69F0B54DD2B3D5",
+   "sha1": "6160CF6801C756A5C20093C5C20490241030FCE8",
+   "region": "Europe",
+   "file": "Dragon - The Bruce Lee Story (Europe).sfc"
+  },
+  {
+   "crc32": "407C5C24",
+   "md5": "103152554973D6DB6E53013EB10C383F",
+   "sha1": "AF3C96D6B26B9A7EFC4850B81EDE469027B0B173",
+   "region": "USA",
+   "file": "Dragon - The Bruce Lee Story (USA).sfc"
+  }
+ ],
  "gf_score": 2.93,
  "metascore": null,
  "cover_urls": [

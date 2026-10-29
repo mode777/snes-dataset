@@ -34,6 +34,22 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "630E16A1",
+   "md5": "177C67125038A6B0AF1D5B47C9865E7E",
+   "sha1": "6CB1B7F7E904D4C1681647F10E3D1A89A44B89B6",
+   "region": "Europe",
+   "file": "Actraiser 2 (Europe) (En,Fr,De).sfc"
+  },
+  {
+   "crc32": "4901F718",
+   "md5": "32CFE65F6DD6E4B58839729A3B1DBD60",
+   "sha1": "17C086F3418F7F51E5472270D756EC5112914B83",
+   "region": "USA",
+   "file": "ActRaiser 2 (USA).sfc"
+  }
+ ],
  "gf_score": 3.13,
  "metascore": null,
  "cover_urls": [

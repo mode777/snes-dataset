@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "29CE8E57",
+   "md5": "A8979138569EC2A9ECDBA69334593CCC",
+   "sha1": "65C9F398935DDF361680B8DEF278D35771B1E09C",
+   "region": "Japan",
+   "file": "Godzilla - Kaijuu Daikessen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

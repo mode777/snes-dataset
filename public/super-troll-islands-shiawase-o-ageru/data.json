@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E556565A",
+   "md5": "064DA21CB7141DC16704BACD30D7DA69",
+   "sha1": "FE8D91B9A2A4C746F27482BF5C6EF77494B1D104",
+   "region": "Japan",
+   "file": "Super Troll Islands - Shiawase o Ageru (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

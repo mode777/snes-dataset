@@ -39,6 +39,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "07C494B1",
+   "md5": "87447E71A602B02797054A4D80349C20",
+   "sha1": "E1F96F63603F4D899EC8E29975D0CDF0170CDE73",
+   "region": "USA",
+   "file": "Home Alone (USA).sfc"
+  },
+  {
+   "crc32": "3EEEA766",
+   "md5": "F5D988F2FF91699D82D6899EC7FB4C0F",
+   "sha1": "B40ECF3516EC8D4EF1F7B5C4DA6020FC5896BE66",
+   "region": "Europe",
+   "file": "Home Alone (Europe).sfc"
+  },
+  {
+   "crc32": "6278BCA1",
+   "md5": "E7EDB2CB7C247A79D5E99B2F1D8E048B",
+   "sha1": "8C54E903CDB84C6B449E36066CAE4B8A8168A2A6",
+   "region": "Japan",
+   "file": "Home Alone (Japan).sfc"
+  }
+ ],
  "gf_score": 2.42,
  "metascore": null,
  "cover_urls": [

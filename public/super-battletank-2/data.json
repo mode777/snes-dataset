@@ -35,6 +35,36 @@
  "languages": [
   "English, Spanish, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "70A292D6",
+   "md5": "FBD68CA78FEFC85CC5AC3E78148DACDC",
+   "sha1": "41C7441F3B66B6B62E36B2D4E95F4E66A0634BA3",
+   "region": "USA",
+   "file": "Super Battletank 2 (USA).sfc"
+  },
+  {
+   "crc32": "D3802A47",
+   "md5": "1F174967BC26C977E33DD2AB8648C3B9",
+   "sha1": "04FAA0072A039D5D1698DA013B1DB0D22C2F5604",
+   "region": "Spain",
+   "file": "Super Battletank 2 (Spain).sfc"
+  },
+  {
+   "crc32": "8321C8CD",
+   "md5": "8361D12EB3CCD015935CBDE23B63BFF7",
+   "sha1": "5C272E894ADF831E220821307C80F0DCDA37E775",
+   "region": "Japan",
+   "file": "Super Battletank 2 (Japan).sfc"
+  },
+  {
+   "crc32": "198FFCDB",
+   "md5": "3D6015059DC440BBF9E0DF73273DD066",
+   "sha1": "F781B953B34D1A10C5138487E0DADA885A099076",
+   "region": "Europe",
+   "file": "Super Battletank 2 (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

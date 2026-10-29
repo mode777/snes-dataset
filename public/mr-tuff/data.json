@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "58CD1F5A",
+   "md5": "01180EC2E6F2157FA49127E1371AB687",
+   "sha1": "58840C2CE4F68E30F3D815E9774A1FD3D0D25BD6",
+   "region": "USA",
+   "file": "Mr. Tuff (USA) (En,Fr,De) (Proto) (1994-07-12).sfc"
+  },
+  {
+   "crc32": "78CD52D5",
+   "md5": "0641E742435B83ED96EE641E8550D050",
+   "sha1": "52E7D817807A2488555E68F4273AA859C07EFD87",
+   "region": "Europe",
+   "file": "Mr. Tuff (Europe) (En,Fr,De,Es,It) (Proto) (1994-12-05).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

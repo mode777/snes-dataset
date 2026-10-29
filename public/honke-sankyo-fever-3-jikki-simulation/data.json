@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "759A4585",
+   "md5": "3662BB1394622A25B40C7B033CB097D5",
+   "sha1": "90A8EE3A0CA5645195A6B033382D3F7A1D2B3B15",
+   "region": "Japan",
+   "file": "Honke Sankyo Fever 3 - Jikki Simulation (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

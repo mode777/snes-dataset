@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "359F02AF",
+   "md5": "E0783CA08448A0C49B31EE22C50273E1",
+   "sha1": "4174AE65229898AAB31C82A5FEF138D8EAFC56F2",
+   "region": "Japan",
+   "file": "Nintama Rantarou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

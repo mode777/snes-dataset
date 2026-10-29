@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A6F0693D",
+   "md5": "EE392BDCD28D073585F198CE9187456F",
+   "sha1": "19CA57776D3B3CDBC8CC3444CB26E7DE1E40E9B9",
+   "region": "Japan",
+   "file": "Rushing Beat (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E57583EF",
+   "md5": "9A0F984D2758388F79B56022E02D069E",
+   "sha1": "04EB58B37A23E610F1F220CCFAC33EF1B26E02ED",
+   "region": "Japan",
+   "file": "Konpeki no Kantai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

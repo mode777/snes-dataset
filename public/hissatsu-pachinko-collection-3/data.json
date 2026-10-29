@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C3DD6D9F",
+   "md5": "653053E3DFBC81D6D200F257ECDFFD75",
+   "sha1": "E90F0D3A747C87F1DF2D72B76965C6B2D29FE98C",
+   "region": "Japan",
+   "file": "Hissatsu Pachinko Collection 3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

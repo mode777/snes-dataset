@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3DA9BB8C",
+   "md5": "0006A7723BF016FC959B61D06FB0DCFA",
+   "sha1": "DA3A751794FCF81AC48DEDBBC61650C98D861F43",
+   "region": "Japan",
+   "file": "Nishijin Pachinko Monogatari 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

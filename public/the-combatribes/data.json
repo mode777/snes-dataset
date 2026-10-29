@@ -33,6 +33,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5E2C24F6",
+   "md5": "A1C88C77D20653D777829868E599849E",
+   "sha1": "23983A7DEE48B777874CA46EB55E73B8B5EB7464",
+   "region": "Japan",
+   "file": "Combatribes, The (Japan).sfc"
+  },
+  {
+   "crc32": "9304044A",
+   "md5": "9BD5B32D479983DD2C0B49020E812E69",
+   "sha1": "6827E8D9520FFDF05E8FFBEBA71355FD32079AF2",
+   "region": "USA",
+   "file": "Combatribes, The (USA).sfc"
+  }
+ ],
  "gf_score": 3.14,
  "metascore": null,
  "cover_urls": [

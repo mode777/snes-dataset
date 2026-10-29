@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8ADA2BA7",
+   "md5": "442384ED70AF69F594C8CEC93E6DE81E",
+   "sha1": "6923096CC33296AF8E7CE7978457E39A36035FEE",
+   "region": "Japan",
+   "file": "Satesupo DX - Dai-4-gou (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

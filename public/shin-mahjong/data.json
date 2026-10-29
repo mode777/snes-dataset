@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EFA078F5",
+   "md5": "975056F264B3F24690106D9BE029C8EE",
+   "sha1": "3A28D30464BEB1F9CD03D6300A8924405FA46740",
+   "region": "Japan",
+   "file": "Shin Mahjong (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

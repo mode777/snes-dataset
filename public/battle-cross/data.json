@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5F5E9B0B",
+   "md5": "F0C2849E45EFDF55AD078D78DE427C42",
+   "sha1": "B7E3BB4FF5BAA7B4714CB39E11EE021F9C270C74",
+   "region": "Japan",
+   "file": "Battle Cross (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

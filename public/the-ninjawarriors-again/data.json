@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3BC037B6",
+   "md5": "C86C99D1454426B908C89FD1CAA858DC",
+   "sha1": "2705B8F7707D2071911F5AABBA3144D302441E48",
+   "region": "Japan",
+   "file": "Ninjawarriors Again, The (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

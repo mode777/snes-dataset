@@ -32,6 +32,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D34C49B7",
+   "md5": "E5040A079FF03EB93747424AF9BE75F4",
+   "sha1": "F686806C676A4B087A3627BABBE3555D3704E3B1",
+   "region": "USA",
+   "file": "Top Gear (USA).sfc"
+  },
+  {
+   "crc32": "B0150052",
+   "md5": "9D66F2463E8F85942B7967E23BBCD53B",
+   "sha1": "7DA85FD8F5C16D495A8A1B80B2EFDAAED0D6C044",
+   "region": "Europe",
+   "file": "Top Gear (Europe).sfc"
+  }
+ ],
  "gf_score": 3.96,
  "metascore": null,
  "cover_urls": [

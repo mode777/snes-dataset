@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "03503A0B",
+   "md5": "D61D9B505F449A36BEAFE241F00C4393",
+   "sha1": "46FF3F8A9B2E85EE786D16EE7211B34967EF4567",
+   "region": "Japan",
+   "file": "SimCity Jr. (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

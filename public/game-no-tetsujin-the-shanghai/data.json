@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E50BBFB7",
+   "md5": "58F6ED933772C88FAD2D027E0B546DB9",
+   "sha1": "8B809005C49355AB326D53911E27D9692F2431EE",
+   "region": "Japan",
+   "file": "Game no Tetsujin - The Shanghai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "729A5524",
+   "md5": "C16CD8A812807A036E02623E8A2351C9",
+   "sha1": "AC1F104BDD74C4186B3E7160A13F85FC9ED635FE",
+   "region": "USA",
+   "file": "Football Fury (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

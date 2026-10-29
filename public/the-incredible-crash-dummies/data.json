@@ -31,6 +31,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3EE9B136",
+   "md5": "CEDC550346D9A4C214B167AB65B03DBE",
+   "sha1": "F29C1652AF61A1A14F09BC774FB4F1CA7B1ED282",
+   "region": "Europe",
+   "file": "Incredible Crash Dummies, The (Europe).sfc"
+  },
+  {
+   "crc32": "0B6209BA",
+   "md5": "0AB3C798B9AD173EE0F88473E1E1AE0B",
+   "sha1": "8FB4DC371C0E44FE362B23B5FEC464288E3CC5EC",
+   "region": "USA",
+   "file": "Incredible Crash Dummies, The (USA).sfc"
+  },
+  {
+   "crc32": "42EBE9C1",
+   "md5": "AD56FC2B12EC697AD5EA612E5FE44DF2",
+   "sha1": "019330D6D814D663B5192DDBBF0AC0DD1B3D5A19",
+   "region": "USA",
+   "file": "Incredible Crash Dummies, The (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 2.71,
  "metascore": null,
  "cover_urls": [

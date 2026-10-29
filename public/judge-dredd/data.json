@@ -39,6 +39,36 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "7742B6F4",
+   "md5": "B4D347A526C7839BB8136B6C5FFD868C",
+   "sha1": "4D824268805986F807C1A8CB0656FD470E692E93",
+   "region": "Europe",
+   "file": "Judge Dredd (Europe).sfc"
+  },
+  {
+   "crc32": "D7BC8A52",
+   "md5": "AFE686FECFF3888E2FC9DD22E0CB37DB",
+   "sha1": "7C672080B6ECFDEC1AFA0A1377257DDC1930746D",
+   "region": "Japan",
+   "file": "Judge Dredd (Japan).sfc"
+  },
+  {
+   "crc32": "0A3F0288",
+   "md5": "CE0DD38E1AB7752FD736D526788B5BD1",
+   "sha1": "7E1C25CC6C8DFEFE7F86C8143F7DB8B3590A6171",
+   "region": "USA",
+   "file": "Judge Dredd (USA).sfc"
+  },
+  {
+   "crc32": "023FC5DE",
+   "md5": "40AE099F8A4EB6024F53DD79FC412C0A",
+   "sha1": "CD1996CEF90B5E8B5F63511F74A10D6EFE16EBBB",
+   "region": "USA",
+   "file": "Judge Dredd (USA) (Sample).sfc"
+  }
+ ],
  "gf_score": 3.78,
  "metascore": null,
  "cover_urls": [

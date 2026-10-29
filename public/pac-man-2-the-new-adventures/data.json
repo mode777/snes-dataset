@@ -31,6 +31,36 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "30478A49",
+   "md5": "7A59016E163998CC7A487D49BE235417",
+   "sha1": "8DA6606676B6BC98DB3D3908DF3A8271D354BA60",
+   "region": "France",
+   "file": "Pac-Man 2 - The New Adventures (France).sfc"
+  },
+  {
+   "crc32": "DF6A092D",
+   "md5": "0E63F85594B7BB335F0676D624A5C01A",
+   "sha1": "C2D28F3A63C1199FA098F591EB100A9E1FC6C3C3",
+   "region": "Germany",
+   "file": "Pac-Man 2 - The New Adventures (Germany).sfc"
+  },
+  {
+   "crc32": "9FC62BCC",
+   "md5": "ED318BA5888F6E50851F166FEE7023E2",
+   "sha1": "405669090D002949B2D69CE3D6401F21531103C4",
+   "region": "USA",
+   "file": "Pac-Man 2 - The New Adventures (USA).sfc"
+  },
+  {
+   "crc32": "51C8A0EB",
+   "md5": "91F73099D4117DDDC93A435A5149F8F0",
+   "sha1": "21A5E1FE16419DF1F769E1B44E9F054B6008E929",
+   "region": "Europe",
+   "file": "Pac-Man 2 - The New Adventures (Europe).sfc"
+  }
+ ],
  "gf_score": 3.23,
  "metascore": null,
  "cover_urls": [

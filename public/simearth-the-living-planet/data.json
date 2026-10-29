@@ -20,6 +20,29 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E4B45FA6",
+   "md5": "B0ADF83DE1E7A3C0435B3616B1D1632C",
+   "sha1": "FD71251558A728848F1C6A1983C0E0AEF40323BB",
+   "region": "Japan",
+   "file": "SimEarth - The Living Planet (Japan).sfc"
+  },
+  {
+   "crc32": "7FA5B218",
+   "md5": "A0DFA48DF792DE3DAEC2BF771122E1C5",
+   "sha1": "115E3B9C5CD3030754C71C568A0E24F6E46454CF",
+   "region": "USA",
+   "file": "SimEarth - The Living Planet (USA).sfc"
+  },
+  {
+   "crc32": "DF2C57AE",
+   "md5": "FEFB1B3DDA4FBACB617CC7B837A600BD",
+   "sha1": "F8A46B9007EAFD1F94CD61BF5F71BCB95465431F",
+   "region": "Japan",
+   "file": "SimEarth - The Living Planet (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 2.74,
  "metascore": null,
  "cover_urls": [

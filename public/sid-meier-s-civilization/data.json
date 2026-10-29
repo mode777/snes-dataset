@@ -19,6 +19,22 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "41FDBA82",
+   "md5": "FAA2D43F507E35CAEBBEA263A36DC6BF",
+   "sha1": "07ACBF40D10AF153E19630C0F62BC74ADCB84A86",
+   "region": "USA",
+   "file": "Sid Meier's Civilization (USA).sfc"
+  },
+  {
+   "crc32": "5855F7EA",
+   "md5": "6A0E385197CAC8F64318EC7117D232FD",
+   "sha1": "92529D216508471919677C5463C31FBDC769CFF1",
+   "region": "USA",
+   "file": "Sid Meier's Civilization (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.66,
  "metascore": null,
  "cover_urls": [

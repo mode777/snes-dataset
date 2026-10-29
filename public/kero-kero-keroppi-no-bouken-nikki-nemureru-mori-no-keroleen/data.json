@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C33C01C4",
+   "md5": "BC88756CCCB0FEEF741B62C6F9327533",
+   "sha1": "309460114502C0BC98BDA97D0C61977E17DEE8C3",
+   "region": "Japan",
+   "file": "Kero Kero Keroppi no Bouken Nikki - Nemureru Mori no Keroleen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

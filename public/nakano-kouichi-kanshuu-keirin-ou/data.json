@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D90D7C95",
+   "md5": "FD9BF1429B8EC9187436E45A2BD4E702",
+   "sha1": "EC2EB4914C3CF173413DE70D744B490B0F801685",
+   "region": "Japan",
+   "file": "Nakano Kouichi Kanshuu Keirin Ou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

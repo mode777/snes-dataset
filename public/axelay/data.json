@@ -37,6 +37,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B0A02734",
+   "md5": "2C708D496D04812509F9FB3DB7C21872",
+   "sha1": "15562F13C405FC401DC461CB5E0E917AF8A9F7E4",
+   "region": "Japan",
+   "file": "Axelay (Japan).sfc"
+  },
+  {
+   "crc32": "F812B533",
+   "md5": "699BBDFFAB13C41FA8D4A9B3C25D60E7",
+   "sha1": "5EF7D869547A47CFB73402151330140A83FFED45",
+   "region": "USA",
+   "file": "Axelay (USA).sfc"
+  },
+  {
+   "crc32": "F43F6743",
+   "md5": "F18E245FC9447464787227FB42167781",
+   "sha1": "8BFA0B57AB1ED3331AB8FDC34B5639CEA1D1CCB1",
+   "region": "Europe",
+   "file": "Axelay (Europe).sfc"
+  },
+  {
+   "crc32": "A0677D80",
+   "md5": "6E750E560F247C4FA8F8C8B21BBE4446",
+   "sha1": "BBED960711272C5970E8A41189EDE55E7A7C5C49",
+   "region": "USA",
+   "file": "Axelay (USA) (Sample).sfc"
+  }
+ ],
  "gf_score": 3.8,
  "metascore": null,
  "cover_urls": [

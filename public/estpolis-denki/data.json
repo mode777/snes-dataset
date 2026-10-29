@@ -18,6 +18,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "896B37FB",
+   "md5": "A395A6664A1A0579D1CDE0F16FE8ED49",
+   "sha1": "512EE9678F6B26B2FB42B0A4A02EC3643EB3D7CE",
+   "region": "Japan",
+   "file": "Estpolis Denki (Japan).sfc"
+  },
+  {
+   "crc32": "B913CDC1",
+   "md5": "4A703ADFBF760A2861D6D6B2471EAA58",
+   "sha1": "CDB07B41703B22ED535FB264CEB6317EFFB0F837",
+   "region": "Japan",
+   "file": "Estpolis Denki (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

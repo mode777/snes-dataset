@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "83B40AF2",
+   "md5": "9075CB9A818C85B477A4F496FD529BED",
+   "sha1": "09FAD9DA1E65717ED2BDDC2F4DFAD31E35976DAF",
+   "region": "Europe",
+   "file": "Another World (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

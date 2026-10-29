@@ -20,6 +20,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "18BBAD5C",
+   "md5": "7752EAA11F5B8B63C42C8B38E6611181",
+   "sha1": "D2AD7B2F2BD0C6A00AD5472801A29C451E951EAB",
+   "region": "Japan",
+   "file": "Ganso Pachi-Slot Nihonichi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

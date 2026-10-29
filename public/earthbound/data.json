@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DC9BB451",
+   "md5": "A864B2E5C141D2DEC1C4CBED75A42A85",
+   "sha1": "D67A8EF36EF616BC39306AA1B486E1BD3047815A",
+   "region": "USA",
+   "file": "EarthBound (USA).sfc"
+  }
+ ],
  "gf_score": 4.38,
  "metascore": null,
  "cover_urls": [

@@ -33,6 +33,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2C5DF175",
+   "md5": "61413693C0E62E67996F4818421343B3",
+   "sha1": "5B8EFDB03542C112D66D5EF017637E8A8AAFE89E",
+   "region": "Japan",
+   "file": "Nosferatu (Japan).sfc"
+  },
+  {
+   "crc32": "DE762764",
+   "md5": "42647BF6FD9C3E28A2542B88C09D2893",
+   "sha1": "8CBDA4CFD74228CF041695382CCCB5C4AC893E75",
+   "region": "USA",
+   "file": "Nosferatu (USA).sfc"
+  }
+ ],
  "gf_score": 3.7,
  "metascore": null,
  "cover_urls": [

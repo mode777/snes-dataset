@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "899841E5",
+   "md5": "60F78CF5A5B4831D8CD287DF92AE6C2A",
+   "sha1": "9A7AA70DED2103DDE2923A486EAD4DEDF028C6C3",
+   "region": "Japan",
+   "file": "Shodan Morita Shougi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "05EAFA58",
+   "md5": "D000C12D80A110E87176428A3003A260",
+   "sha1": "90941D796F88A5E5F9D0AF32A434BC65CA40C173",
+   "region": "Japan",
+   "file": "Wakataka Oozumou - Yume no Kyoudai Taiketsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

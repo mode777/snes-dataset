@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "7F3C1A95",
+   "md5": "9DA7CA59E6AB1215C704A968945975EF",
+   "sha1": "AB37AE8D02E1C770624B9D7F0B398832DB761E8D",
+   "region": "Japan",
+   "file": "Fighting Baseball (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

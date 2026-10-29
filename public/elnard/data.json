@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "14320873",
+   "md5": "7B5534C75A19F851B0942F1132CA8D78",
+   "sha1": "75EF2ADA1E7DF8E9C3AE7F61B032BF54FF8E798A",
+   "region": "Japan",
+   "file": "Elnard (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

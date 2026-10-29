@@ -31,6 +31,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "05C0DA54",
+   "md5": "BA031908E769425E737CE35700F818F5",
+   "sha1": "57122EF7A84FBE0355ECC7E0648E39F56854A5F6",
+   "region": "USA",
+   "file": "A.S.P. - Air Strike Patrol (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

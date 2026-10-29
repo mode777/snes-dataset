@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "440A4250",
+   "md5": "FDD79A12745F3AC260E54C5E5FE98803",
+   "sha1": "E110399001BA844235FBA9F0D91487488DABE4BA",
+   "region": "USA",
+   "file": "Extra Innings (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

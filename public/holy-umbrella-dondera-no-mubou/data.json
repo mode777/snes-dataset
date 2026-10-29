@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F0A9DEAD",
+   "md5": "69D50AA193E7B3988C761F96C5DCDD5A",
+   "sha1": "D3A26291AEDCBBC4725165DD4EFF569236086AC0",
+   "region": "Japan",
+   "file": "Holy Umbrella - Dondera no Mubou!! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

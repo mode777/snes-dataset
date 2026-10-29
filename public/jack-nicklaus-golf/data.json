@@ -34,6 +34,29 @@
  "languages": [
   "English, French"
  ],
+ "roms": [
+  {
+   "crc32": "A7F0652F",
+   "md5": "1C294CDFD5EC6AF60084315DB3D5B6BF",
+   "sha1": "0674FDB9602DB5B6FDA9426C2F6596952A6D8AD4",
+   "region": "Europe",
+   "file": "Jack Nicklaus Golf (Europe).sfc"
+  },
+  {
+   "crc32": "4C545A02",
+   "md5": "D945DFD265D40CD77B8B87AED060E55C",
+   "sha1": "126452A1EE886DF87B3B41BD870ECC88C6E0C9C6",
+   "region": "France",
+   "file": "Jack Nicklaus Golf (France).sfc"
+  },
+  {
+   "crc32": "9ABC58E2",
+   "md5": "0AA6C2636127E15941530FE148B1C376",
+   "sha1": "97E615D3C8B5E36CCDADA883BEA3FF63AB3FC13B",
+   "region": "USA",
+   "file": "Jack Nicklaus Golf (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

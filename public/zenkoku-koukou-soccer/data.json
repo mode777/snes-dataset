@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D575FDFC",
+   "md5": "AC4AE596FE5A0152456A650C336D635B",
+   "sha1": "0195016FD5A062A0382BB123675B54BBBEBBE454",
+   "region": "Japan",
+   "file": "Zenkoku Koukou Soccer (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

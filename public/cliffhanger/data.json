@@ -32,6 +32,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "12F8A26C",
+   "md5": "48001F4C765DA0965CEA9D9AB4D59A35",
+   "sha1": "5A494362063C61C3207D2BB49EE43766F9A4F00F",
+   "region": "USA",
+   "file": "Cliffhanger (USA).sfc"
+  },
+  {
+   "crc32": "A9E67214",
+   "md5": "B60DB127A0371E807A7270F1884600D0",
+   "sha1": "9A3B3CE5D05B0F3ABB8E64BEF46B49975486CFB9",
+   "region": "Europe",
+   "file": "Cliffhanger (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

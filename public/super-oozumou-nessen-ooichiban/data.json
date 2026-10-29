@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "091617BB",
+   "md5": "A991D10FC03B355A4A16A13B1F0828F3",
+   "sha1": "077E9A7A04BC88F39157E08806AE6E048FCF2CD2",
+   "region": "Japan",
+   "file": "Super Oozumou - Nessen Ooichiban (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E52B9AF6",
+   "md5": "4BF5287384FF382EB2E83269270E2114",
+   "sha1": "5E56C0D6FEAD29A10D07816AA1A619FFAD7098C3",
+   "region": "Europe",
+   "file": "NBA Give 'n Go (Europe).sfc"
+  },
+  {
+   "crc32": "68C8B643",
+   "md5": "5B6433C5C709D9F054F06F4E90485D06",
+   "sha1": "71310D8DB76CB7134E9A65CC8A28003BA3BDB5F2",
+   "region": "USA",
+   "file": "NBA Give 'n Go (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

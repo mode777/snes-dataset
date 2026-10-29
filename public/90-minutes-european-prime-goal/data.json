@@ -30,6 +30,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1AD61BD0",
+   "md5": "305D00418B1302139FA01FB1640E2C65",
+   "sha1": "C46A2A6AACD0E338F11B7EF0ABF8C79CC81433FE",
+   "region": "Europe",
+   "file": "90 Minutes - European Prime Goal (Europe).sfc"
+  },
+  {
+   "crc32": "1BC71881",
+   "md5": "D454032507D36283BE629D6CDDCBB19F",
+   "sha1": "8190236D93471BB78E0CDA16A90EA0FEE847B3F8",
+   "region": "Europe",
+   "file": "90 Minutes - European Prime Goal (Europe) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

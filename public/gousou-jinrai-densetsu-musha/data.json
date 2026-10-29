@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "342F1C02",
+   "md5": "FEEB6110B7BB3040FE542CF2A2104555",
+   "sha1": "E58B8693C1704F268494258C9286531DED2408BE",
+   "region": "Japan",
+   "file": "Gousou Jinrai Densetsu - Musha (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

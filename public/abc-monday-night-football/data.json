@@ -32,6 +32,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "24D4CFE9",
+   "md5": "931B0F1DA8FAEDF8FE986D78F946665F",
+   "sha1": "DA723818EF4162532B20EE60061AA784AE6762E3",
+   "region": "Japan",
+   "file": "ABC Monday Night Football (Japan).sfc"
+  },
+  {
+   "crc32": "E0DC8AD7",
+   "md5": "ACAAB9B12349F4AA3C6669878DC35EF4",
+   "sha1": "8C6B2B1CD45CF486B64B0F544A34D2D1286C782F",
+   "region": "USA",
+   "file": "ABC Monday Night Football (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

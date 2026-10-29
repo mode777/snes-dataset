@@ -31,6 +31,29 @@
  "languages": [
   "English, German, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "82479D6A",
+   "md5": "BF6DA6F13729C8925D8725D7DD25B420",
+   "sha1": "E7DB9B1220D66BC8665FE2761AC396DC28BFD88C",
+   "region": "USA",
+   "file": "Legend of the Mystical Ninja, The (USA).sfc"
+  },
+  {
+   "crc32": "5796529E",
+   "md5": "FC48381638FD7851E8B425F5F39A6D35",
+   "sha1": "F971122ECB7FA6BFD82FE4697DAF3806536F866E",
+   "region": "Germany",
+   "file": "Legend of the Mystical Ninja, The (Germany).sfc"
+  },
+  {
+   "crc32": "797724C8",
+   "md5": "446C5B1FE5ED2C5B45B357C87CB9671E",
+   "sha1": "64E05DFA9712299536DEC8CAAAAA94994B9CFBBA",
+   "region": "Europe",
+   "file": "Legend of the Mystical Ninja, The (Europe).sfc"
+  }
+ ],
  "gf_score": 3.78,
  "metascore": null,
  "cover_urls": [

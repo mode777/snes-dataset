@@ -37,6 +37,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "C024F88F",
+   "md5": "D6C5526DD544366BDC5519FB23476729",
+   "sha1": "ED4B190B5A6D7C2CDAA6A73D734D345E766D363C",
+   "region": "USA",
+   "file": "Chuck Rock (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "FBA012CD",
+   "md5": "5B403D2786E96CEBDAC9AD459855A217",
+   "sha1": "0BFC382F4390A3BC20079C4CC443BF71B29D14D4",
+   "region": "Europe",
+   "file": "Chuck Rock (Europe).sfc"
+  },
+  {
+   "crc32": "E237EC45",
+   "md5": "B6117D7AE13C9AFC785D5B6B0AFD8BAE",
+   "sha1": "3FFAFB846909D6EF3DD8A8715362D2C4489CB3F1",
+   "region": "USA",
+   "file": "Chuck Rock (USA).sfc"
+  }
+ ],
  "gf_score": 2.6,
  "metascore": null,
  "cover_urls": [

@@ -26,6 +26,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7E5929E8",
+   "md5": "7DA54082F302C3F781539F371691EC2F",
+   "sha1": "24832A8A054A83BBCA241F8DAF8B39ED2932996F",
+   "region": "Japan",
+   "file": "Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan).sfc"
+  },
+  {
+   "crc32": "9A1AEA39",
+   "md5": "FFE65E5D8EB7E93CD22C9E910E152E7D",
+   "sha1": "1154C54E14895F0DBD2F872123F3F73696E2599D",
+   "region": "Japan",
+   "file": "Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Sample).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

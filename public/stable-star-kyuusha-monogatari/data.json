@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1DC14E8B",
+   "md5": "96AE0999F774BA4F8C004705FFFE3BF3",
+   "sha1": "4AE544954B122DEB36ACE85A6F7A6B579382F408",
+   "region": "Japan",
+   "file": "Stable Star - Kyuusha Monogatari (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

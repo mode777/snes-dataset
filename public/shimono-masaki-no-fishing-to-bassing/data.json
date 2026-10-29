@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "42FFD2D5",
+   "md5": "EC498A3FB4152C163B89D08949C8EBB0",
+   "sha1": "4AE6374CADDB2563EC5B94BBA0B4EEEF924B2A9F",
+   "region": "Japan",
+   "file": "Shimono Masaki no Fishing to Bassing (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

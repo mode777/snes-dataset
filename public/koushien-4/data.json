@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "57753105",
+   "md5": "5231190E9C6DA366A2ADE33530106918",
+   "sha1": "1A7E9BDBC1580B21766456170F4E9EEAB03E3333",
+   "region": "Japan",
+   "file": "Koushien 4 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

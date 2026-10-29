@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "457F3020",
+   "md5": "587D839F2AE38E713691E32ABC441DD0",
+   "sha1": "0B7785D0A778F48556D272001010E732B044B396",
+   "region": "Japan",
+   "file": "Jissen! Mahjong Shinan (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

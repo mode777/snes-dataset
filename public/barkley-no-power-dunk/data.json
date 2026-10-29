@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8AFF96D0",
+   "md5": "3CBBB9E3ABD7D472C640E48FF5E1A2A2",
+   "sha1": "EAAA4E4D6316DF1E71E1B2A9C81911B52765AD56",
+   "region": "Japan",
+   "file": "Barkley no Power Dunk (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -21,6 +21,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "781514E4",
+   "md5": "0652E8E1C7712CED0D1E04825FDBFA5A",
+   "sha1": "00F91E952AEC27CF799D50C6AAACA7454E32640B",
+   "region": "Europe",
+   "file": "Super Hockey (Europe).sfc"
+  },
+  {
+   "crc32": "C9CF2601",
+   "md5": "9A1D538F553BCBBEADF248EF1FDE8646",
+   "sha1": "B6A8A554E405A7DCDD5AA7DCA467CA5B8DB58434",
+   "region": "France",
+   "file": "Super Hockey (France) (En,Fr).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

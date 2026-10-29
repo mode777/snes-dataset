@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9EDC5A7D",
+   "md5": "065E9EC7CE5B41203D8A8BAE78DE7E7A",
+   "sha1": "61EE3AE9C6B6CD4325DC59C42519282EC77D9C60",
+   "region": "Japan",
+   "file": "Desert Fighter - Suna no Arashi Sakusen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

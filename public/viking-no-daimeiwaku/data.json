@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "50FEF979",
+   "md5": "0113EA2E60F90BF1C79BE5545CBD466D",
+   "sha1": "7820419C0F1E70BD88A6C9DE26A872556251DEAE",
+   "region": "Japan",
+   "file": "Viking no Daimeiwaku (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

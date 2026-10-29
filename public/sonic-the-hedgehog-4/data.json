@@ -23,6 +23,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "6B9C71A9",
+   "md5": "D12DB58F12AD4B06EA693FD920ACA65D",
+   "sha1": "A227F032F138A78E4779A5CC87A37C9068D99019",
+   "region": "World",
+   "file": "Sonic The Hedgehog 4 (World) (Unl) (Pirate) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

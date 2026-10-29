@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8A9D74F6",
+   "md5": "651682092954793759D7A92B5FFAAD6D",
+   "sha1": "58483C2E1DFF773236A512D1278829806FA5A913",
+   "region": "Japan",
+   "file": "Mahjong Hanjouki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

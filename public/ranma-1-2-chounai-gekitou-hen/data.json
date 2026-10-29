@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E86E3C2D",
+   "md5": "31E5DD5D182D4E82455FD0160F5F4017",
+   "sha1": "56E065F20236B07EE475CE446B9EBF67E23F891E",
+   "region": "Japan",
+   "file": "Ranma 1-2 - Chounai Gekitou Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

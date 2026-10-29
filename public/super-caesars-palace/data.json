@@ -34,6 +34,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "88EB3131",
+   "md5": "AC7D8E7744D85A47330545A3B895E90C",
+   "sha1": "59FD2F572BFFC890813CB554F04D7C3D4F68F811",
+   "region": "USA",
+   "file": "Super Caesars Palace (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "A2381221",
+   "md5": "AA5D1EF421D8422132DC49E35E51AF85",
+   "sha1": "C01B96A5B82ADDFDD731C6CBE39B6B9BCD7224C2",
+   "region": "USA",
+   "file": "Super Caesars Palace (USA).sfc"
+  }
+ ],
  "gf_score": 2.89,
  "metascore": null,
  "cover_urls": [

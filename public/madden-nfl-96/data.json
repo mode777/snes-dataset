@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "51A1FE86",
+   "md5": "58CAADDA4254884A65AE3DB95394AA9A",
+   "sha1": "5B0F8DDE35B6EA35540AE67C85C4B42E70919796",
+   "region": "USA",
+   "file": "Madden NFL 96 (USA).sfc"
+  },
+  {
+   "crc32": "4C78D04A",
+   "md5": "F8D8D5D48BB35286ADE572FE1E57417C",
+   "sha1": "9C1D5DDB1ED4E41006265029F2826AFC039B307E",
+   "region": "USA",
+   "file": "Madden NFL 96 (USA) (Sample).sfc"
+  }
+ ],
  "gf_score": 3.38,
  "metascore": null,
  "cover_urls": [

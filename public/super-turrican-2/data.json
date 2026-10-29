@@ -33,6 +33,36 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "D2FFABAC",
+   "md5": "635243459310D48BF42E27E5F692E236",
+   "sha1": "A70896843FB9EA0A30F4A9F9CA443135552F0157",
+   "region": "USA",
+   "file": "Super Turrican 2 (USA).sfc"
+  },
+  {
+   "crc32": "AF821FD0",
+   "md5": "D1E0D498D4A59721B7D3B643D22A78EB",
+   "sha1": "50AFEEDFC7129A72E63B77C5E1742440959129A5",
+   "region": "Europe",
+   "file": "Super Turrican 2 (Europe).sfc"
+  },
+  {
+   "crc32": "691314BB",
+   "md5": "7BD6262A5AF2CFBB8A76D1CD211FDDD9",
+   "sha1": "8F3E589FC7D8A24088A32CBE1B56847D5FD7A962",
+   "region": "USA",
+   "file": "Super Turrican 2 (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "5E550E27",
+   "md5": "44F0D8A1485A9218560D249B3A03E6C3",
+   "sha1": "C8BDC5CEE51EF93B43468F268C4BE25C66A858CD",
+   "region": "USA",
+   "file": "Super Turrican 2 (USA) (Beta) (Alt 1).sfc"
+  }
+ ],
  "gf_score": 3.99,
  "metascore": null,
  "cover_urls": [

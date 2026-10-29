@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3A1091A2",
+   "md5": "8C02CBC8EE060F06B893C3D7DC83D736",
+   "sha1": "13C5B547F6ED17513DBACBDEB50038D50FB512E0",
+   "region": "Japan",
+   "file": "Ultima Gaiden - Kuro Kishi no Inbou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

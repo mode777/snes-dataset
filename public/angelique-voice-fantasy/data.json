@@ -23,6 +23,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "EA6AE8A9",
+   "md5": "DBE906D3970E74CABA0A210331E6AD73",
+   "sha1": "E48AB2EA6C673CF8170AC8F41625482524F3406E",
+   "region": "Japan",
+   "file": "Angelique - Voice Fantasy (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

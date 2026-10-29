@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F3DDF35F",
+   "md5": "A9AE20155CA47BCC7191B5956662A24E",
+   "sha1": "560D3EB4EC3BC40A7D5A06AF2F03B19F5104F633",
+   "region": "Japan",
+   "file": "Bounty Sword (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

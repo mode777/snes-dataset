@@ -33,6 +33,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C7C12A57",
+   "md5": "4369249D5F53FB9D70B1915CF533AF03",
+   "sha1": "8EFC38BB904CE36318A1C6B0D0569A5D16B4BC19",
+   "region": "USA",
+   "file": "Xardion (USA).sfc"
+  }
+ ],
  "gf_score": 3.01,
  "metascore": null,
  "cover_urls": [

@@ -34,6 +34,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EF878419",
+   "md5": "BC657DE4869D156EEA79A60D9707753E",
+   "sha1": "82A43E64A7DBECB24F570DF2AE931B66730D02ED",
+   "region": "Japan",
+   "file": "Tsuyoshi Shikkari Shinasai - Taisen Puzzle Dama (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

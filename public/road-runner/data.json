@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "83BA85A5",
+   "md5": "E6F3DE735BA07C7F53ADA54706EAD684",
+   "sha1": "9C8BF060D020AF55C81859899D7BC9A907842B0D",
+   "region": "Europe",
+   "file": "Road Runner (Europe) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

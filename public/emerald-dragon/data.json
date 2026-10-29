@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9D0F5F98",
+   "md5": "79FD387B6210C4F4796E01C412083596",
+   "sha1": "CEFB12A296CAC19778E6C8AE5AE712FDCCACBA3A",
+   "region": "Japan",
+   "file": "Emerald Dragon (Japan).sfc"
+  }
+ ],
  "gf_score": 3.59,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5980D75D",
+   "md5": "18B5E9F9D628FD23CC0ED31CE7089737",
+   "sha1": "881DBD1700914D3897182B3ECB05F558A64B6750",
+   "region": "USA",
+   "file": "Road Runner's Death Valley Rally (USA).sfc"
+  }
+ ],
  "gf_score": 2.87,
  "metascore": null,
  "cover_urls": [

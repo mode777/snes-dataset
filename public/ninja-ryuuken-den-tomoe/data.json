@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5995CF46",
+   "md5": "BD4759AFCFFD0BD51354F4B620B87457",
+   "sha1": "9A58B5D4FE833C17972CF0BA6061CE75EC9D8627",
+   "region": "Japan",
+   "file": "Ninja Ryuuken Den Tomoe (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

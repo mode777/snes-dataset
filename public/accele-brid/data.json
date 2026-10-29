@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4A736C38",
+   "md5": "70688D5943868455F6C515DAB44DBF57",
+   "sha1": "8C9B8623D51D646631C0E5BC592440DB4CFD1EAB",
+   "region": "Japan",
+   "file": "Accele Brid (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

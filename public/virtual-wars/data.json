@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "FF3A1DFE",
+   "md5": "5D5909C652E7D0E58CDAF3F24CA11E67",
+   "sha1": "0DEF68B7AD2FCB2C8836AC26B5E3099143C6FE4E",
+   "region": "Japan",
+   "file": "Virtual Wars (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

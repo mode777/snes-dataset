@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D4488768",
+   "md5": "85F1F77FC5B350F228370FF94419D8A9",
+   "sha1": "4470525022E561648FDBE917ADC3A21D51D291E8",
+   "region": "Japan",
+   "file": "GP-1 RS - Rapid Stream (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

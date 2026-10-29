@@ -28,6 +28,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "928504A7",
+   "md5": "FA557C6B77C393C6D7796B0C5D445ACB",
+   "sha1": "86FFFCDF9FFAAE32990CF59E4D753266DEB7BB3E",
+   "region": "Japan",
+   "file": "Nobunaga no Yabou - Haouden (Japan).sfc"
+  },
+  {
+   "crc32": "7E91D654",
+   "md5": "F82BD76788A41937041D8A5DCDCE368A",
+   "sha1": "F6D3A82CD4381F14113FE2B84BADA935B122EBB1",
+   "region": "Japan",
+   "file": "Nobunaga no Yabou - Haouden (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "854FAC00",
+   "md5": "19A1E55F30354FF715D9E2BBA705EFC8",
+   "sha1": "388C11E761FE4CAE2BA8CDCC1C518159B2A2DB8C",
+   "region": "Japan",
+   "file": "Tiny Toon Adventures (Japan).sfc"
+  },
+  {
+   "crc32": "8F0D2C90",
+   "md5": "E09D7A243FF5E944F058DAFBAA60F107",
+   "sha1": "4AAD2F83FC05E44BAF050CAFEFF3E35069712305",
+   "region": "Japan",
+   "file": "Tiny Toon Adventures (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

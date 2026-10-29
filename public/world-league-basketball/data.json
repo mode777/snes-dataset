@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2642234D",
+   "md5": "C2508FE5B41EA6F1FC5C97CB73F22C00",
+   "sha1": "FB9C8F6BD892A7F1798B508E8B2623511AB6D3FF",
+   "region": "Europe",
+   "file": "World League Basketball (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

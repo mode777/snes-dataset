@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5D3A73EF",
+   "md5": "0AC51C7697C481A1078475128E902EED",
+   "sha1": "31B6DC3E56DD19AB965C0CB9FA14A70B0E5F3686",
+   "region": "Japan",
+   "file": "BS F-Zero Grand Prix - King League - Dai-3-shuu (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

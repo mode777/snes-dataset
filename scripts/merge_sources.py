@@ -73,6 +73,7 @@ class Record:
         self.descriptions: dict[str, str] = {}  # source name -> text
         self.players: str | None = None
         self.languages: list[str] = []
+        self.roms: list[dict] = []  # {crc32, md5, sha1, region, file} from OpenVGDB
         self.gf_score: float | None = None
         self.metascore: int | None = None
         self.cover_urls: list[str] = []
@@ -104,6 +105,7 @@ class Record:
             "description_source": desc_source,
             "players": self.players,
             "languages": self.languages,
+            "roms": self.roms,
             "gf_score": self.gf_score,
             "metascore": self.metascore,
             "cover_urls": self.cover_urls,
@@ -134,6 +136,9 @@ def merge_into(records: dict[str, Record], key: str, source: str, **f) -> Record
     rec.players = rec.players or f.get("players")
     for lang in f.get("languages", []):
         add_unique(rec.languages, lang)
+    for rom in f.get("roms", []):
+        if not any(r["crc32"] == rom["crc32"] for r in rec.roms):
+            rec.roms.append(rom)
     if f.get("gf_score") is not None:
         rec.gf_score = f["gf_score"]
     if f.get("metascore") is not None:
@@ -276,20 +281,34 @@ def load_openvgdb(records: dict[str, Record]) -> int:
     cur = conn.cursor()
     cols = {r[1] for r in cur.execute("PRAGMA table_info(RELEASES)")}
     region_expr = "TEMPregionLocalizedName" if "TEMPregionLocalizedName" in cols else "''"
+    # JOIN ROMs for checksums (No-Intro style, headerless, uppercase hex)
     query = (
-        "SELECT releaseTitleName, releaseDate, releaseDeveloper, releasePublisher, "
-        "releaseGenre, releaseDescription, releaseCoverFront, releaseCoverBack, "
-        f"releaseCoverCart, {region_expr} FROM RELEASES "
-        "WHERE TEMPsystemShortName='SNES'"
+        "SELECT rel.releaseTitleName, rel.releaseDate, rel.releaseDeveloper, "
+        "rel.releasePublisher, rel.releaseGenre, rel.releaseDescription, "
+        "rel.releaseCoverFront, rel.releaseCoverBack, rel.releaseCoverCart, "
+        f"{region_expr}, r.romHashCRC, r.romHashMD5, r.romHashSHA1, "
+        "COALESCE(r.TEMPromRegion, ''), r.romFileName "
+        "FROM RELEASES rel LEFT JOIN ROMs r ON r.romID = rel.romID "
+        "WHERE rel.TEMPsystemShortName='SNES'"
     )
     n = 0
-    for title, date, dev, pub, genre, desc, cf, cb, cc, region in cur.execute(query):
+    for (title, date, dev, pub, genre, desc, cf, cb, cc, region,
+         crc, md5, sha1, rom_region, rom_file) in cur.execute(query):
         title = (title or "").strip()
         if not title:
             continue
         n += 1
         region_key = re.sub(r"\s+", "_", (region or "unknown").strip().lower())
         dates = {region_key: date} if date and date.lower() != "unreleased" else {}
+        rom = None
+        if crc:
+            rom = {
+                "crc32": crc.strip().upper(),
+                "md5": (md5 or "").strip().upper(),
+                "sha1": (sha1 or "").strip().upper(),
+                "region": rom_region.strip(),
+                "file": (rom_file or "").strip(),
+            }
         merge_into(
             records, norm_title(title), "openvgdb",
             title=title,
@@ -300,6 +319,7 @@ def load_openvgdb(records: dict[str, Record]) -> int:
             years=[year_of(date or "")],
             description=desc or "",
             cover_urls=[c for c in [cf, cb, cc] if c],
+            roms=[rom] if rom else [],
         )
     conn.close()
     return n

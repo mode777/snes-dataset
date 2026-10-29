@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0B6F34C7",
+   "md5": "6F153F300E195FF3DA09855B2C91B0CC",
+   "sha1": "7FAD10961E72B84EBDF251A5025204CFBC67E354",
+   "region": "Japan",
+   "file": "Hissatsu Pachinko Collection 4 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

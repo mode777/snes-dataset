@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "420BD975",
+   "md5": "B2B6349C1A60EEACF35D6780B025E217",
+   "sha1": "A0F16ED356CF99DE2E1B72FB289C9C7FCE8F2AB3",
+   "region": "Europe",
+   "file": "Super Probotector - Alien Rebels (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

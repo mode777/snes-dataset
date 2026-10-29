@@ -30,6 +30,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EC3EDB9E",
+   "md5": "2DF6243223F89EC161B5E015B085F7A0",
+   "sha1": "4824BCCEBFD0F4F89E89993E0EDB81D604105E38",
+   "region": "Japan",
+   "file": "Angelique (Japan).sfc"
+  },
+  {
+   "crc32": "3DA108C4",
+   "md5": "DB49DD09A12D1CA5AF211D242FB5C280",
+   "sha1": "9B3E83B337AC40918E648C6A917F93AF8E31459B",
+   "region": "Japan",
+   "file": "Angelique (Japan) (Premium Box).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

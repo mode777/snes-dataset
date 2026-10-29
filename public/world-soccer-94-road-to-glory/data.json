@@ -32,6 +32,15 @@
  "languages": [
   "English, German, Spanish, French, Italian, Japanese, Dutch, Swedish"
  ],
+ "roms": [
+  {
+   "crc32": "0AAE0A10",
+   "md5": "BCCD9673D678FD9072FD0836E6622A5B",
+   "sha1": "D1CF0B5659FC4139B079EB7B80080ED7D4D7C04B",
+   "region": "USA",
+   "file": "World Soccer 94 - Road to Glory (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

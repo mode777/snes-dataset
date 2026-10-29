@@ -30,6 +30,22 @@
  "languages": [
   "English, German"
  ],
+ "roms": [
+  {
+   "crc32": "4062244B",
+   "md5": "B05BCB14251F61ABF83D666A36BD4A0F",
+   "sha1": "84031C687EF2A1784F6F49B1B304FF5952DFD0B6",
+   "region": "Europe",
+   "file": "Might and Magic II (Europe).sfc"
+  },
+  {
+   "crc32": "B117DF8A",
+   "md5": "369419BA2F81AA46EACFB9036EE12CDF",
+   "sha1": "9E670B7F06A4B1FD8D7E79719D9B4A59AA4EDB57",
+   "region": "Germany",
+   "file": "Might and Magic II (Germany).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

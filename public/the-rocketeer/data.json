@@ -34,6 +34,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4C68A3C7",
+   "md5": "1A564ACC13BCF290284C829095A396A1",
+   "sha1": "CB544A7AC485CF0337F6F8494A935DA3100E07A3",
+   "region": "USA",
+   "file": "Rocketeer, The (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

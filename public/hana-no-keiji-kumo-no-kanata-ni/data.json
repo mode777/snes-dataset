@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DC2B90F2",
+   "md5": "711B308D29084395563CF577FEF20FFA",
+   "sha1": "4C89B3894AA9F6481E394672776A3CE48CE64A25",
+   "region": "Japan",
+   "file": "Hana no Keiji - Kumo no Kanata ni (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

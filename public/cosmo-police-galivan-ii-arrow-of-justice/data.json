@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "582EED3D",
+   "md5": "D415351F34839A697D4CE423715BE525",
+   "sha1": "CEB5194D7B00B23D1067C653375433CDC2F38716",
+   "region": "Japan",
+   "file": "Cosmo Police Galivan II - Arrow of Justice (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

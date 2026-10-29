@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6391F9B3",
+   "md5": "11D9989ADDDE931CACB476F8AE66FB01",
+   "sha1": "6B1C7E9DFE934DA5559427EFE50B0A373F9F8157",
+   "region": "Japan",
+   "file": "Zakuro no Aji (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -37,6 +37,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "56296426",
+   "md5": "AD986D7BCF92DE548441E03FC60B4EE7",
+   "sha1": "7C80AAB5185260E788D26D0FBE5E71CCA90CE584",
+   "region": "USA",
+   "file": "FIFA International Soccer (USA).sfc"
+  },
+  {
+   "crc32": "4FA1D452",
+   "md5": "A04C2348002ECB96B0739AD2F7BDF51C",
+   "sha1": "0438C292127F92E5525DC4CAB7FA048BE53C21E4",
+   "region": "Japan",
+   "file": "FIFA International Soccer (Japan).sfc"
+  },
+  {
+   "crc32": "A350821A",
+   "md5": "A668AB370210847E7922C58A9EA7FDDB",
+   "sha1": "F9967028ECA3BE77CBA97BF46705FE0B96BB79B6",
+   "region": "Europe",
+   "file": "FIFA International Soccer (Europe).sfc"
+  }
+ ],
  "gf_score": 3.41,
  "metascore": null,
  "cover_urls": [

@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "DA5AD200",
+   "md5": "1C129BA1320DCFCF278FA9552E2653C5",
+   "sha1": "66161BA909B204225F2000829079FD7C231DE80F",
+   "region": "Japan",
+   "file": "Super Moero!! Pro Yakyuu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

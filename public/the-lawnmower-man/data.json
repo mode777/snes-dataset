@@ -32,6 +32,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "750F8068",
+   "md5": "E9D94867A730023D5D2288D8C17662B4",
+   "sha1": "99678D41077573FBE99E5657C0CB784A73888332",
+   "region": "USA",
+   "file": "Lawnmower Man, The (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "1A97C479",
+   "md5": "C8A0016E08B1F233E19FD128BF375C44",
+   "sha1": "407B621C92BA91F9D80DCC4A6D469B9EDF8729B6",
+   "region": "Europe",
+   "file": "Lawnmower Man, The (Europe).sfc"
+  },
+  {
+   "crc32": "2736B607",
+   "md5": "C72A0D2030B6B9CDFE94D64B75753DD7",
+   "sha1": "6D6064594B3F9144CB5BC4310946C08C2DE7F635",
+   "region": "USA",
+   "file": "Lawnmower Man, The (USA).sfc"
+  }
+ ],
  "gf_score": 2.79,
  "metascore": null,
  "cover_urls": [

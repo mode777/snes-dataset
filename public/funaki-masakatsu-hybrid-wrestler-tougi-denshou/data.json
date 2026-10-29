@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D1909FFB",
+   "md5": "0C22E18563B7B26A514C724ABA6ADB84",
+   "sha1": "93536370B12A66B075323DE577122AFC1D365C04",
+   "region": "Japan",
+   "file": "Funaki Masakatsu Hybrid Wrestler - Tougi Denshou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

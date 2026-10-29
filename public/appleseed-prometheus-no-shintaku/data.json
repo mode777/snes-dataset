@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C0E62C02",
+   "md5": "BC090BB8677B62961EBAB3F87A2F622B",
+   "sha1": "C331838C774B14A01A81D0D057AF658E2A0FEEFB",
+   "region": "Japan",
+   "file": "Appleseed - Prometheus no Shintaku (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

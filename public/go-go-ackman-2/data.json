@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "76C7AA37",
+   "md5": "B835E0F37A804887C6041A6452A51B78",
+   "sha1": "FD0F8D0F8081FFAC6FFD34D89CD3F12F00B04D45",
+   "region": "Japan",
+   "file": "Go Go Ackman 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

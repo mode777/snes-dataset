@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "85555436",
+   "md5": "5C713B1F87F07B2ACFFC5B874F1D8131",
+   "sha1": "638A33A95A97360408F71CDBDDCBC82452D52ED8",
+   "region": "Japan",
+   "file": "Super Real Mahjong PIV (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

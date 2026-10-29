@@ -31,6 +31,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "191B1A19",
+   "md5": "DD7DAC19618D89C1735885B65A1EFCDD",
+   "sha1": "270DBC7EF0B0D25C39CD1EE6BADFEF6A7A914830",
+   "region": "USA",
+   "file": "Pac-Attack (USA).sfc"
+  },
+  {
+   "crc32": "79941300",
+   "md5": "28584F11A658883E23C01DF728645023",
+   "sha1": "B33C5F4F00E54C97DC2BE87F42D26E6E72E30399",
+   "region": "Europe",
+   "file": "Pac-Attack (Europe).sfc"
+  }
+ ],
  "gf_score": 3.3,
  "metascore": null,
  "cover_urls": [

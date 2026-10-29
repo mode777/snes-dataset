@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7AC3C0C6",
+   "md5": "340AC051810666F085165F8913E0BA79",
+   "sha1": "DAECBDE6A09489BAA5C1FFD63EE0252CE78B3E77",
+   "region": "Japan",
+   "file": "Panic in Nakayoshi World (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

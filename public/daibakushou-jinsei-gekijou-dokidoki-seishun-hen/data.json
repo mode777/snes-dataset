@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2763FD4F",
+   "md5": "05B51C92F18A2CDD71D0BC30D915855D",
+   "sha1": "0D12377F882DA493D1EB676426D2827A40780B6C",
+   "region": "Japan",
+   "file": "Daibakushou Jinsei Gekijou - Dokidoki Seishun Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

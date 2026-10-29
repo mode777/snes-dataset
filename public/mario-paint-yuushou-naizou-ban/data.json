@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D521D521",
+   "md5": "FB7ADB28D74F2F1C56998D527B5BE6BB",
+   "sha1": "9007790195990A0495A68BC9BCECF5F5BCAE50F8",
+   "region": "Japan",
+   "file": "Mario Paint - Yuushou Naizou Ban (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

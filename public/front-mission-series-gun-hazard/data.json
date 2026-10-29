@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FD3FDBAC",
+   "md5": "2FE3C9AF984BD684E1FE681D2901587E",
+   "sha1": "65DA5AEA2B08EF8A540A86710D9F97A590184848",
+   "region": "Japan",
+   "file": "Front Mission Series - Gun Hazard (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

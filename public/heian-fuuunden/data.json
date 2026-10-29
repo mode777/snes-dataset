@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4640D1A2",
+   "md5": "1D00C833F280C50E3E015F45B9BDE75F",
+   "sha1": "3B0CA4A24A02C683F8AD140242F6DFF96D0D8339",
+   "region": "Japan",
+   "file": "Heian Fuuunden (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

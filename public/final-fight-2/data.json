@@ -32,6 +32,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F41E1A5A",
+   "md5": "C48173FB44998AE5F6E74575D0B09182",
+   "sha1": "3B4A8C49AB9046BE88F59669FA88C305F430178E",
+   "region": "Japan",
+   "file": "Final Fight 2 (Japan).sfc"
+  },
+  {
+   "crc32": "8C37FF55",
+   "md5": "262616F80A6C194527D41E2C72B61ACA",
+   "sha1": "462CE5DC82A5411A3698904EA9BAB993850A2175",
+   "region": "USA",
+   "file": "Final Fight 2 (USA).sfc"
+  },
+  {
+   "crc32": "7B94CA96",
+   "md5": "E81E2C9108AD0D23E8CC8CFF277B48F6",
+   "sha1": "3185D06725E27DE8E7C703CF4B8E5B5B17B03C7F",
+   "region": "Europe",
+   "file": "Final Fight 2 (Europe).sfc"
+  }
+ ],
  "gf_score": 3.6,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "61939546",
+   "md5": "C610614B9528F338C169984B96FCBC0A",
+   "sha1": "9A664C160CC97CF9A95AF0A5780B42A2812BAD76",
+   "region": "Japan",
+   "file": "Heracles no Eikou III - Kamigami no Chinmoku (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "55045FE6",
+   "md5": "A0FFA3757833F49EAA26661820C052A5",
+   "sha1": "7955E03CD44AE4560C6ADF4EABB51BBAD237709D",
+   "region": "Japan",
+   "file": "Fenek - 6 Gatsugou (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

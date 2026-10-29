@@ -30,6 +30,29 @@
  "languages": [
   "English, German, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F829129E",
+   "md5": "C9BF36A816B6D54AED79D43A6C45111A",
+   "sha1": "A64A5634429A4F5341868A40C220D7BE89FDA70A",
+   "region": "USA",
+   "file": "Harvest Moon (USA).sfc"
+  },
+  {
+   "crc32": "3C1037C1",
+   "md5": "21C252C096A5AE3D667057F46C85D7C2",
+   "sha1": "A29836109AFF66A7273D6EA16927C5DF508EF1D2",
+   "region": "Germany",
+   "file": "Harvest Moon (Germany).sfc"
+  },
+  {
+   "crc32": "D54E1452",
+   "md5": "FE666C1CD242989617473590F3D743A4",
+   "sha1": "CE643C3F834E593BFAA77A22DCC7253A7789D8DE",
+   "region": "Europe",
+   "file": "Harvest Moon (Europe).sfc"
+  }
+ ],
  "gf_score": 4.01,
  "metascore": null,
  "cover_urls": [

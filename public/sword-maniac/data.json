@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A7295784",
+   "md5": "FB41288F0084DB14664ADD50349CD283",
+   "sha1": "45D5DE600129E1B13A4C1779122C8604FA92E7C7",
+   "region": "Japan",
+   "file": "Sword Maniac (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

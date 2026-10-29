@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D07CFDCB",
+   "md5": "2E990EB7F8C9B318338D04E69286E394",
+   "sha1": "1C8DF09898DD29053AA21E6D972132C420B5468E",
+   "region": "Japan",
+   "file": "Pro Football (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

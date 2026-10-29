@@ -40,6 +40,36 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AF4D4439",
+   "md5": "5325F84FD73B16F43258A49757763DF5",
+   "sha1": "D2A5E71E75B4D3CDE71C5CCA19403155D1DAE4D3",
+   "region": "Europe",
+   "file": "Stargate (Europe) (En,Fr,De).sfc"
+  },
+  {
+   "crc32": "24BBDDF8",
+   "md5": "6CCB5974E77E47959FD13056D8B92F2F",
+   "sha1": "03E638D236BF4C212C29C057187D24C5D8F801D2",
+   "region": "Japan",
+   "file": "Stargate (Japan).sfc"
+  },
+  {
+   "crc32": "526CE576",
+   "md5": "8D4249CF09BB6E63A7EF4B80D05DA2AD",
+   "sha1": "79FE2F6EE71FFFE8F9D91A9680ECEFE8F1568488",
+   "region": "USA",
+   "file": "Stargate (USA).sfc"
+  },
+  {
+   "crc32": "2BB45263",
+   "md5": "04EA82E20D54642A5FEE7F9BD92630EB",
+   "sha1": "2DEF61D773AFBB711B9A2B8BD5FA8719C80042E5",
+   "region": "USA",
+   "file": "Stargate (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 2.96,
  "metascore": null,
  "cover_urls": [

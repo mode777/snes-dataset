@@ -32,6 +32,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "531463E1",
+   "md5": "36D99B59148729F751B7231F93D034DC",
+   "sha1": "EF1FC19FEED3139B49C9FEEB83FBDD98FB402BD9",
+   "region": "Europe",
+   "file": "Top Gear 2 (Europe).sfc"
+  },
+  {
+   "crc32": "2B88BEE8",
+   "md5": "C9FC87528511770DB888B28A4C506F46",
+   "sha1": "8AC5DAB79B319DEB525DE73F9A51877DF7A7ED9F",
+   "region": "USA",
+   "file": "Top Gear 2 (USA).sfc"
+  }
+ ],
  "gf_score": 3.84,
  "metascore": null,
  "cover_urls": [

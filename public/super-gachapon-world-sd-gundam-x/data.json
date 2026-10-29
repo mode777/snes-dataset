@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8BFCB5A3",
+   "md5": "7803710E1B59F8B12219B64DE39DEA61",
+   "sha1": "F39B7CA7B0C5615A60160F49977EF8499B20A7B0",
+   "region": "Japan",
+   "file": "Super Gachapon World - SD Gundam X (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,22 @@
  "languages": [
   "English, German, Spanish, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1C3848C0",
+   "md5": "A7C7A76B4D6F6DF389BD631757B91B76",
+   "sha1": "38DE0C84DD2BC3BDFC0A3D7AB0220C79B70887C3",
+   "region": "USA",
+   "file": "Illusion of Gaia (USA).sfc"
+  },
+  {
+   "crc32": "CE90286B",
+   "md5": "714758B9A56BDBF17633F80453DA1A75",
+   "sha1": "3A077233A5715FA4A0D699C6DC43F47B39AE23FB",
+   "region": "USA",
+   "file": "Illusion of Gaia (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.99,
  "metascore": null,
  "cover_urls": [

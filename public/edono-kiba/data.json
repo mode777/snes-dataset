@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EEC5A5B1",
+   "md5": "00ECEDEF405B924F1FD51A569F98C13E",
+   "sha1": "0244C604A9AA8D35124ADEF1C515689A8ED50D9C",
+   "region": "Japan",
+   "file": "Edono Kiba (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

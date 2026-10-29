@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DC173550",
+   "md5": "0D3595A81C50D5DDA714CD2FD66164B2",
+   "sha1": "12E1A5133AA4F08501436E1237F980C0EF0D64E3",
+   "region": "Japan",
+   "file": "Sutte Hakkun (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7B9793B1",
+   "md5": "55108013F875DB3B39DA04B8F58489AB",
+   "sha1": "70F4E9C39EEEFC00DFB35E77C604372B305AAE03",
+   "region": "Japan",
+   "file": "Dark Half (Japan).sfc"
+  }
+ ],
  "gf_score": 4.03,
  "metascore": null,
  "cover_urls": [

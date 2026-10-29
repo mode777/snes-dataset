@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "329024C7",
+   "md5": "F912C443A57A5AE1687EEAF6F2DA49FC",
+   "sha1": "2F808A4F0DB77A54895F5D2B68517331CD8E8855",
+   "region": "Japan",
+   "file": "Super Tetris 3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

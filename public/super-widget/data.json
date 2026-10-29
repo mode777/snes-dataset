@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "1F7CE2A8",
+   "md5": "16E0BF4765143CF6E1CBFC53EC7D9F66",
+   "sha1": "6845EDA332B5042F28E353B87BD3DA71C267D8D9",
+   "region": "Europe",
+   "file": "Super Widget (Europe).sfc"
+  },
+  {
+   "crc32": "7DD199EC",
+   "md5": "618ABBF00946B60DA33971199CAB5BAD",
+   "sha1": "0AD1657EE7037899C19F4E4806C25B379A5C55B3",
+   "region": "USA",
+   "file": "Super Widget (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7AD4AADC",
+   "md5": "E85702F5D32E03A7CBAE1154EE5083CE",
+   "sha1": "E315830E71CC6DA91234813F70835D26802C0EA1",
+   "region": "USA",
+   "file": "Robotrek (USA).sfc"
+  }
+ ],
  "gf_score": 3.8,
  "metascore": null,
  "cover_urls": [

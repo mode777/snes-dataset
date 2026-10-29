@@ -28,6 +28,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "49DA3583",
+   "md5": "E4D7CA6333E7A05ACFD409B169F1A1C2",
+   "sha1": "2400F6D79AFF8EB82C2DBA767901C0C0A5D08EA9",
+   "region": "USA",
+   "file": "Nobunaga's Ambition (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

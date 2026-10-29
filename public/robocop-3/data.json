@@ -38,6 +38,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "3502F9B3",
+   "md5": "CFBD78608D84C42BBC6B7D553DD858A0",
+   "sha1": "3A6C174A37C4A505464D3DF05F45C9B1FCF75843",
+   "region": "USA",
+   "file": "RoboCop 3 (USA).sfc"
+  },
+  {
+   "crc32": "5F2C7031",
+   "md5": "920E484C3C90FB73D83B885CE96BA53C",
+   "sha1": "51885454D9CE28EA715C4F446F26BC289163B149",
+   "region": "Europe",
+   "file": "RoboCop 3 (Europe).sfc"
+  }
+ ],
  "gf_score": 2.32,
  "metascore": null,
  "cover_urls": [

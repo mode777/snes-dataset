@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "51F5BD38",
+   "md5": "E396A9E9EF1B01D04EAB16C0D9219F7F",
+   "sha1": "F9D431B5845412026A866083CC5DAC62086433CC",
+   "region": "Japan",
+   "file": "BS F-Zero Grand Prix - Knight League - Dai-1-shuu (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

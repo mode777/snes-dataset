@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D8BC7BEA",
+   "md5": "59AEAB135104025FE5D23815401A6A67",
+   "sha1": "57C14D389B216B01616CAAD704A998D7D03DC155",
+   "region": "Japan",
+   "file": "Famitsu Magazine Karara Ban (Japan) (4-27) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

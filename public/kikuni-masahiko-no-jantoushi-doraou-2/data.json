@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C985925C",
+   "md5": "676A03A18183923400A12EC0F946C0E1",
+   "sha1": "13F3CD38C5246BDD0F0BBBDBDE83E7AA94384849",
+   "region": "Japan",
+   "file": "Kikuni Masahiko no Jantoushi Doraou 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D10439D4",
+   "md5": "98D6266E21725BD13AC16D4B63E891EC",
+   "sha1": "21B2741F3F6967CB28EE2B8F4A02822FB48BC82F",
+   "region": "Japan",
+   "file": "Pro Kishi Jinsei Simulation - Shougi no Hanamichi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "4BE63329",
+   "md5": "9A47A1E5EE0881C5E7D56D02EEF166E9",
+   "sha1": "DF14C6EA3B8ACDDACADD703E2AC33D497A892E5A",
+   "region": "Japan",
+   "file": "Kodomo Chousadan Mighty Pockets - Chousa 3 - Kyakusen Queen Patra no Nazo (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

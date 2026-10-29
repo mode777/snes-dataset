@@ -36,6 +36,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6679A772",
+   "md5": "7693F2AC4BA870378BBD26935F24AFE2",
+   "sha1": "94C91D20009F218424C83DAA9C7903211118C103",
+   "region": "Europe",
+   "file": "Hook (Europe).sfc"
+  },
+  {
+   "crc32": "6F91883E",
+   "md5": "979397F68CDA4B78DEFB6AE1319724D9",
+   "sha1": "D3D687C2D31CD810C2355578595385A96057E52C",
+   "region": "Japan",
+   "file": "Hook (Japan).sfc"
+  },
+  {
+   "crc32": "0C572EF0",
+   "md5": "1A0A3A079DB7A848EE019161CBDB1788",
+   "sha1": "24F628D669757B5C92D6C8788DBFCB1D1AEB0481",
+   "region": "USA",
+   "file": "Hook (USA).sfc"
+  },
+  {
+   "crc32": "82FF23BC",
+   "md5": "77742B53C27AC1DB25AF2EA8ACE3D63F",
+   "sha1": "B2EBB39EFCF8A09450FB3C4731812A7C2541D336",
+   "region": "USA",
+   "file": "Hook (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.29,
  "metascore": null,
  "cover_urls": [

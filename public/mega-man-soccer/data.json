@@ -32,6 +32,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FA9EE2CE",
+   "md5": "9E886F686DA276B00C4671967D396A79",
+   "sha1": "7E59C9457829ED3F0FBD9CD0CEEB3432A4739E98",
+   "region": "USA",
+   "file": "Mega Man Soccer (USA).sfc"
+  }
+ ],
  "gf_score": 3.1,
  "metascore": null,
  "cover_urls": [

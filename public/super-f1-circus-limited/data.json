@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "047270F1",
+   "md5": "369807C4299319D16E632DB02D891440",
+   "sha1": "8381C72C778B9A47DC2DFBA647ED8F58BA65381F",
+   "region": "Japan",
+   "file": "Super F1 Circus Limited (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0E318416",
+   "md5": "9D1470F4AE1B3581EE6297380D4EB3E2",
+   "sha1": "F182EB75F21E46E516CBB6E6BEF0324724BC0F04",
+   "region": "Japan",
+   "file": "Sanrio World Smash Ball! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

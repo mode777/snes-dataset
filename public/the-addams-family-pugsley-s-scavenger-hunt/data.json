@@ -34,6 +34,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "644E7FBF",
+   "md5": "7A48EC4A72E15DC7851677531490FA2C",
+   "sha1": "9BF639171147EDD8D57DE059F53308007DEB1A91",
+   "region": "Europe",
+   "file": "Addams Family, The - Pugsley's Scavenger Hunt (Europe).sfc"
+  },
+  {
+   "crc32": "153A00A7",
+   "md5": "2DC248F730B474E24452EBA7971DFBD9",
+   "sha1": "3419E8A5FEF813BC0234169F9E8055444DC2049B",
+   "region": "USA",
+   "file": "Addams Family, The - Pugsley's Scavenger Hunt (USA).sfc"
+  },
+  {
+   "crc32": "64D68066",
+   "md5": "DEF63020A0118BD4A49F8367262D6A27",
+   "sha1": "1FF69C922300D7562E357FBA6FD6EFEB1B8AC0A4",
+   "region": "USA",
+   "file": "Addams Family, The - Pugsley's Scavenger Hunt (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 2.79,
  "metascore": null,
  "cover_urls": [

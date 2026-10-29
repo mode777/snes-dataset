@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C7B5E8C6",
+   "md5": "9E36D4E2339B017D805A427E3E04F01B",
+   "sha1": "092A7146C8204019E1B760FD70E422D32CD11B70",
+   "region": "USA",
+   "file": "PowerFest 94 - Ken Griffey Jr. Presents Major League Baseball (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

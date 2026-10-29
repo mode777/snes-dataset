@@ -34,6 +34,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "20143571",
+   "md5": "37C38E3FC469D69E8432E69982537DE3",
+   "sha1": "0368EB078744D97CD499344654401DCA1B184E25",
+   "region": "USA",
+   "file": "Advanced Dungeons & Dragons - Eye of the Beholder (USA).sfc"
+  }
+ ],
  "gf_score": 2.83,
  "metascore": null,
  "cover_urls": [

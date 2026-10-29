@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "B07CFA91",
+   "md5": "76A13CEB63C98BA797F7405C8BFE39E8",
+   "sha1": "962A9168C6A1CCC397D251931383AEB5EE26CD78",
+   "region": "USA",
+   "file": "NCAA Final Four Basketball (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

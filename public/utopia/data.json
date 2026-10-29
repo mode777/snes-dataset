@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C3A6CE79",
+   "md5": "45CE898BF6D5D2E6985C09ADE904B1F7",
+   "sha1": "0F1757F3E1FA019CD3FE94F1C3DFDC93C6B9EE8B",
+   "region": "Germany",
+   "file": "Utopia (Germany).sfc"
+  },
+  {
+   "crc32": "268C1181",
+   "md5": "4EC1F4FEBE8E9F33D87A57DC04C5A086",
+   "sha1": "9F9C5DD2002C52608C60A1032BEB4F3E94364E80",
+   "region": "Japan",
+   "file": "Utopia (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

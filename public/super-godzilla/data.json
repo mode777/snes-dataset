@@ -30,6 +30,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "56D63328",
+   "md5": "C2B4B00B0999CC80E9AD5401792AF1BD",
+   "sha1": "3F21FCC774ED6470A9A27F7A91703DF143197CEF",
+   "region": "Japan",
+   "file": "Super Godzilla (Japan).sfc"
+  },
+  {
+   "crc32": "47EC317E",
+   "md5": "8947BE18E35210E60E8C24D6FC7666AA",
+   "sha1": "E900A05D0608302CCD7FC87B126698A3D7B58C69",
+   "region": "Japan",
+   "file": "Super Godzilla (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "6A187C70",
+   "md5": "403EA414C177884749FE9536D76FDF05",
+   "sha1": "75D3402642B9C54D002A3B476FC95B5EB17E766D",
+   "region": "USA",
+   "file": "Super Godzilla (USA).sfc"
+  }
+ ],
  "gf_score": 3.08,
  "metascore": null,
  "cover_urls": [

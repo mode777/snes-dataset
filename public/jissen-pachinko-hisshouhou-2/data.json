@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "59884DF2",
+   "md5": "6E3253A55AFAF94A78BFCB16110F061A",
+   "sha1": "36ACD095FF832C32FDA8F81CFF601176A6C6FCCF",
+   "region": "Japan",
+   "file": "Jissen Pachinko Hisshouhou! 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -35,6 +35,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "021A3F69",
+   "md5": "592F4C8DC4AAF84857154C63E9A533AB",
+   "sha1": "80761EA62CB673B0A4814C2F8321C237CD45890F",
+   "region": "USA",
+   "file": "Madden NFL 95 (USA).sfc"
+  },
+  {
+   "crc32": "4B0C7993",
+   "md5": "6A966D433ED26B0CDF2E55B2D34BE748",
+   "sha1": "470CCC62B77D3F6B6FB5DE704E4BE8D2AC12888F",
+   "region": "Europe",
+   "file": "Madden NFL 95 (Europe).sfc"
+  }
+ ],
  "gf_score": 3.29,
  "metascore": null,
  "cover_urls": [

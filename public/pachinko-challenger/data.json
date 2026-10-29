@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0BF543BF",
+   "md5": "6F794078FB7D428D4F842B23DC1E941C",
+   "sha1": "535E25AF034CB4F2CE2431EC5B400E8C73B6EE00",
+   "region": "Japan",
+   "file": "Pachinko Challenger (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "8AF25E7E",
+   "md5": "08F47C5F448E1FC8E07B89E14BD7461E",
+   "sha1": "F09ADDFC729C6C3A000CE5ABED4B13EA3BBFDD6B",
+   "region": "USA",
+   "file": "Might and Magic III - Isles of Terra (USA).sfc"
+  },
+  {
+   "crc32": "4C3814D5",
+   "md5": "D1EAFD8E9569CA325D6EF29833224EEA",
+   "sha1": "E06C35251B6A4BA3BB1F9761A87B9FCF081DDFBF",
+   "region": "USA",
+   "file": "Might and Magic III - Isles of Terra (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -24,6 +24,15 @@
  "languages": [
   "English, Spanish, French"
  ],
+ "roms": [
+  {
+   "crc32": "BAB26E9C",
+   "md5": "80D91F6EEDAF3F3F4F34398AEBBE183D",
+   "sha1": "BBFBC9A781E5DDA63CAFEE9B1C3047DB3EE3A182",
+   "region": "USA",
+   "file": "Packy & Marlon (USA) (En,Fr,Es).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

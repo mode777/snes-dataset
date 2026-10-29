@@ -35,6 +35,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "F09E91A1",
+   "md5": "C2D261EBD5DE2021F272023700AE8BBF",
+   "sha1": "EF20E4CE1B4B6A25AAC14613D4BED949017EDFC9",
+   "region": "USA",
+   "file": "Porky Pig's Haunted Holiday (USA).sfc"
+  },
+  {
+   "crc32": "9699E23C",
+   "md5": "1179A5DC611B731D8E5A53C0A322979C",
+   "sha1": "1CE590FA5DFAF4297A8C98798C3D42FA97DA36C3",
+   "region": "USA",
+   "file": "Porky Pig's Haunted Holiday (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "7107B229",
+   "md5": "76AEBCA9B2FBB20A72401F8529088793",
+   "sha1": "CA84248BAFC2132581FE660BE8108CD8F6DF3773",
+   "region": "Europe",
+   "file": "Porky Pig's Haunted Holiday (Europe).sfc"
+  }
+ ],
  "gf_score": 3.11,
  "metascore": null,
  "cover_urls": [

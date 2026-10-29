@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B65B532F",
+   "md5": "62BE3BF747A5B7122590C8E515258593",
+   "sha1": "19ACC71D0D0A48E43511C61E80E898335DD36E61",
+   "region": "Japan",
+   "file": "Super Mad Champ (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

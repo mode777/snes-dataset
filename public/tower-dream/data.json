@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AA2D5C55",
+   "md5": "EC5CD58F79E2908D898055268015AF9E",
+   "sha1": "7D9EAD50FBAD57D785B41E1136966EA8494BBD1D",
+   "region": "Japan",
+   "file": "Tower Dream (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

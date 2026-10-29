@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E9066ACB",
+   "md5": "C5363DBC9F42569AF92F5536C175792A",
+   "sha1": "54CA194A27627A3B89C27D5DC160118634B17DD5",
+   "region": "Japan",
+   "file": "Power Athlete (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

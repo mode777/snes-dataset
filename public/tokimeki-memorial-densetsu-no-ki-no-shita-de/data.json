@@ -30,6 +30,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6A3CCEB1",
+   "md5": "CDCA5978F74062B38B5FDE8C54C833CA",
+   "sha1": "D025DB012ACC9A35E79991E25EB5A301EA7AFDF0",
+   "region": "Japan",
+   "file": "Tokimeki Memorial - Densetsu no Ki no Shita de (Japan).sfc"
+  },
+  {
+   "crc32": "AE9F3602",
+   "md5": "CD36EB8982DE4BF8369DEB9F2F23E590",
+   "sha1": "F46F5B0D964BBF5393763B9EBB8E7C50A9E5C9E7",
+   "region": "Japan",
+   "file": "Tokimeki Memorial - Densetsu no Ki no Shita de (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

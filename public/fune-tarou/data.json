@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5D6BA598",
+   "md5": "52FE0FF8D539E8A69EA1746E7E83CF3E",
+   "sha1": "2C26F7432FE35C58545063AE44EA7DAACBD50DE3",
+   "region": "Japan",
+   "file": "Fune Tarou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -20,6 +20,15 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "CF719A93",
+   "md5": "F6AFE62EE85F004B35C36B8F92944CAE",
+   "sha1": "90440D74AA01C4AE8A86C56D092263F6C9FA0D42",
+   "region": "USA",
+   "file": "Soldiers of Fortune (USA).sfc"
+  }
+ ],
  "gf_score": 3.28,
  "metascore": null,
  "cover_urls": [

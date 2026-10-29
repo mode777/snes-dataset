@@ -36,6 +36,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C61A7B88",
+   "md5": "438FA265411AED4D6F95200EA9549C52",
+   "sha1": "A932F9875F8C64541CB184E615CEB08564E7220C",
+   "region": "USA",
+   "file": "Super Troll Islands (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "F9690BE9",
+   "md5": "C8E1660E62581092DA3B2E85C62C7537",
+   "sha1": "64C1D24CD88D11772D033A15D6505909D8AA6AA7",
+   "region": "USA",
+   "file": "Super Troll Islands (USA).sfc"
+  },
+  {
+   "crc32": "943328BA",
+   "md5": "CE48A03F3C521E07BEAC2CAA5517A605",
+   "sha1": "0005A7EA368694ED6EC54F1619CB6C5799098A85",
+   "region": "Europe",
+   "file": "Super Troll Islands (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F9C79B45",
+   "md5": "E0CF8A570DD369031FCB0C342A049CA3",
+   "sha1": "EA2F12ED23273E5CA2B2E2305E0CB9B80791132F",
+   "region": "Japan",
+   "file": "Shougi Club (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

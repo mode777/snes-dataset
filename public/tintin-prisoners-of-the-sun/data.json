@@ -24,6 +24,15 @@
  "languages": [
   "English, German, Spanish, French"
  ],
+ "roms": [
+  {
+   "crc32": "A94A47BE",
+   "md5": "BEB9FD851586AF3AD5172D07AE1A9103",
+   "sha1": "C5A18D06AA1E411C73CD97572716F8D712BCCB8A",
+   "region": "Europe",
+   "file": "Tintin - Prisoners of the Sun (Europe) (En,Fr,De,Es).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

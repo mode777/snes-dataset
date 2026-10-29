@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A21FB1D5",
+   "md5": "920D26154DA3DA96820AD07A3A05844A",
+   "sha1": "1E6B3EBDB5227626F4226FF9EEF166294FFE063C",
+   "region": "Korea",
+   "file": "Hanguk Pro Yagu (Korea).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

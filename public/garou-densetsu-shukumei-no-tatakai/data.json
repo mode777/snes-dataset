@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "AE4DFED0",
+   "md5": "921F3B70F4D61B8F30E470C684D66015",
+   "sha1": "EB22AF75CFEE35C3E252A282637668460A51EA85",
+   "region": "Japan",
+   "file": "Garou Densetsu - Shukumei no Tatakai (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "0D549E3E",
+   "md5": "5E6E7690741A306A76287A99BDF98F12",
+   "sha1": "266CF528E9203BD8A5182A034F4955CA32EC4756",
+   "region": "Japan",
+   "file": "Garou Densetsu - Shukumei no Tatakai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

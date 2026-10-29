@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E8E7904F",
+   "md5": "91FB2B63750DF613C7F3FD67FD0FF903",
+   "sha1": "FCBB0BDF2F5E8CEA3AC894DA3FEAAF96A7483C0E",
+   "region": "Japan",
+   "file": "Maka Maka (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

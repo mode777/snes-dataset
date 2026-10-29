@@ -20,6 +20,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B56EC084",
+   "md5": "C9151945D5AC62FAF6CB2E186945DD93",
+   "sha1": "1DBC6AF7BB19A5E704955967955409C1EB1EB1F6",
+   "region": "Japan",
+   "file": "Rin Kaihou Kudan no Igo Taidou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

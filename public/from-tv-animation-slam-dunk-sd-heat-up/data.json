@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D05114C0",
+   "md5": "665FC614EF687FD2158E738CC1FD710D",
+   "sha1": "CADBA14E8C79AFF27C5CA948BE708FD2D7588064",
+   "region": "Japan",
+   "file": "From TV Animation Slam Dunk - SD Heat Up!! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

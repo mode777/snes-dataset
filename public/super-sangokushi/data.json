@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B3788AD7",
+   "md5": "E157AF4430F9E78EE19794F5C444059D",
+   "sha1": "6040FE870205C6221EBE4D3023451E3E701620FF",
+   "region": "Japan",
+   "file": "Super Sangokushi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

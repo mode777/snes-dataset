@@ -30,6 +30,15 @@
  "languages": [
   "English, Spanish, Japanese, Portuguese"
  ],
+ "roms": [
+  {
+   "crc32": "32B658C1",
+   "md5": "EEFC344B7455835E4DC4D8CDBD26AB79",
+   "sha1": "4E76B176D6EAD55E4BB9A1E06626061C9F37F22C",
+   "region": "USA",
+   "file": "Tony Meola's Sidekicks Soccer (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "EEAFD816",
+   "md5": "F026A8E4F069513E74895F3E2B627DE1",
+   "sha1": "6DC973F31B9506BECC5CB6838932A7E90B2B17C3",
+   "region": "Japan",
+   "file": "GunForce (Japan).sfc"
+  },
+  {
+   "crc32": "6F5C5DC0",
+   "md5": "C77B2F22F465BCB8FD1E6C779D21F2E1",
+   "sha1": "29C3FB9C230972735961BC328903D07DF20C87B7",
+   "region": "USA",
+   "file": "GunForce (USA).sfc"
+  }
+ ],
  "gf_score": 2.69,
  "metascore": null,
  "cover_urls": [

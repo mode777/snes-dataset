@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B6DBF57B",
+   "md5": "EB1AD755DA3310F392CF8BC94962612E",
+   "sha1": "4C06A9A1F5598869852B9F008136E38E2A39BAAB",
+   "region": "Japan",
+   "file": "Arabian Nights - Sabaku no Seirei Ou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

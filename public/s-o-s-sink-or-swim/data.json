@@ -23,6 +23,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "DD329F85",
+   "md5": "0544FE7544B823F3F4886622C06B1021",
+   "sha1": "1F55E0541297D9B95035614728FAE08B3FC80614",
+   "region": "USA",
+   "file": "S.O.S - Sink or Swim (USA).sfc"
+  },
+  {
+   "crc32": "CF824401",
+   "md5": "A21FD960D4A729175E0129E3AEF1A046",
+   "sha1": "9211F8C140B257B352F707ED0C839041F4C98194",
+   "region": "Europe",
+   "file": "S.O.S - Sink or Swim (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

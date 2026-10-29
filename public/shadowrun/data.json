@@ -35,6 +35,57 @@
  "languages": [
   "English, German, Japanese, Swedish"
  ],
+ "roms": [
+  {
+   "crc32": "3F34DFF0",
+   "md5": "694BE8DF403EE59225C4B6B53C30FB7B",
+   "sha1": "B04AFB21C94DAB5C8B982D0C133898DD5EC1D104",
+   "region": "USA",
+   "file": "Shadowrun (USA).sfc"
+  },
+  {
+   "crc32": "2AF15F10",
+   "md5": "5C0746237ABEACFA10088BE8CD724257",
+   "sha1": "154557C548ED0D1F5ABF271470193A1F9D8F9CE3",
+   "region": "Europe",
+   "file": "Shadowrun (Europe).sfc"
+  },
+  {
+   "crc32": "85D4CDA1",
+   "md5": "8D528AA61D9CC23F945336CD0540D416",
+   "sha1": "8ADE311171B94F745A3007A85277F91B7A687765",
+   "region": "USA",
+   "file": "Shadowrun (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "E420E96F",
+   "md5": "C3DAC1984C06EEE0F9889667F83DC869",
+   "sha1": "3118192DD257C0666067BFB6797769F26BDF4489",
+   "region": "Germany",
+   "file": "Shadowrun (Germany).sfc"
+  },
+  {
+   "crc32": "EFD4D741",
+   "md5": "88BB1AA84CAE4A4D4154689D72777A86",
+   "sha1": "498C94DA28D4A6E9023A40F81E9CED0B525E5862",
+   "region": "Japan",
+   "file": "Shadowrun (Japan).sfc"
+  },
+  {
+   "crc32": "30829D8E",
+   "md5": "CD22A7FF4908575F2FE5BD9F1E34FFC8",
+   "sha1": "830464152553FAADA700BB93D4BB6B8975F79E0A",
+   "region": "Sweden",
+   "file": "Shadowrun (Sweden).sfc"
+  },
+  {
+   "crc32": "D2ED4220",
+   "md5": "DBA53FE4C2B411AFE6F28F40988DDC2D",
+   "sha1": "1F7A3D0A00772F84C6A6516E6F71CB0796012241",
+   "region": "Europe",
+   "file": "Shadowrun (Europe) (Sample).sfc"
+  }
+ ],
  "gf_score": 4.06,
  "metascore": null,
  "cover_urls": [

@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C708DB00",
+   "md5": "7BC84DD0EB914E99E12E5B022535B02E",
+   "sha1": "AFC843388179FE57AD4F60AE780EEC439855F1AE",
+   "region": "Japan",
+   "file": "Nakajima Satoru Kanshuu - F-1 Hero '94 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

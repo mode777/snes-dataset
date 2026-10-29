@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2D1DD10A",
+   "md5": "0500E7DFF0ACB5B86E4909B7DDD41A76",
+   "sha1": "27EB4C70ECDA592A0473AA8C68B424FF0CCB7413",
+   "region": "Europe",
+   "file": "Blackhawk (Europe) (En,Fr,De).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

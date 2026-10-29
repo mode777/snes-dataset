@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4B17A200",
+   "md5": "72D7859813A830721E15CC784DA11B6E",
+   "sha1": "5A15A4D4ED812F814370209AC70C1AC933B66005",
+   "region": "Japan",
+   "file": "Dream Maze - Kigurumi Daibouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

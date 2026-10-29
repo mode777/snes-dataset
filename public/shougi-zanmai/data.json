@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3BA30CC5",
+   "md5": "15DCAAAE653E90927C7F659C69E4C87C",
+   "sha1": "CC8173746380B8BDA938BC1ED979804061A6740F",
+   "region": "Japan",
+   "file": "Shougi Zanmai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

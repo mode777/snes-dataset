@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8A24FBA8",
+   "md5": "9AEA023FDE7FB213C95480D6212265D6",
+   "sha1": "7EDDDD098160D3F398AB54B0A587A7CC5AD98AE1",
+   "region": "USA",
+   "file": "Congo's Caper (USA).sfc"
+  },
+  {
+   "crc32": "549A163E",
+   "md5": "5D89E5C48B9F96341BCBE06E910185E0",
+   "sha1": "B5F1917A8844724D6A8A8A366966263E1F84E84D",
+   "region": "Europe",
+   "file": "Congo's Caper (Europe).sfc"
+  }
+ ],
  "gf_score": 3.55,
  "metascore": null,
  "cover_urls": [

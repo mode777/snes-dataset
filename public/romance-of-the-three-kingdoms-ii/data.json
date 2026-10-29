@@ -32,6 +32,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8033574A",
+   "md5": "014E13BBF8DE8B987DD2A8D597424A90",
+   "sha1": "2DED7B6EA4D10200106E514DECC10BD3C9F86E2F",
+   "region": "USA",
+   "file": "Romance of the Three Kingdoms II (USA).sfc"
+  }
+ ],
  "gf_score": 3.75,
  "metascore": null,
  "cover_urls": [

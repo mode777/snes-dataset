@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "E3EF6201",
+   "md5": "F184E696C1FB1C984E530F504EEBD234",
+   "sha1": "82FBE365BC96FE3F03C3EB12E1620910B15F01F9",
+   "region": "USA",
+   "file": "Mighty Morphin Power Rangers - The Movie (USA).sfc"
+  },
+  {
+   "crc32": "E722E2A7",
+   "md5": "6312F48F6FD194B7EEB1F948B1ECE8C3",
+   "sha1": "E61564637D4B6906103F57643FF4F388ACAB5CFA",
+   "region": "Europe",
+   "file": "Mighty Morphin Power Rangers - The Movie (Europe).sfc"
+  }
+ ],
  "gf_score": 3.43,
  "metascore": null,
  "cover_urls": [

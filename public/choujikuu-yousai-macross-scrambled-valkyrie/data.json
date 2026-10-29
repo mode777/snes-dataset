@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A5DB02E9",
+   "md5": "E11C1D923EA1B2F6A00E5886AA6B6202",
+   "sha1": "459A727AEEB013CD1B63F54D4A2355C2F0A1999F",
+   "region": "Japan",
+   "file": "Choujikuu Yousai Macross - Scrambled Valkyrie (Japan).sfc"
+  }
+ ],
  "gf_score": 3.72,
  "metascore": null,
  "cover_urls": [

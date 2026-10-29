@@ -17,6 +17,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "25440331",
+   "md5": "89C3D0A6ECEF80BD3E8E9AF650897626",
+   "sha1": "1ADA34177E7384612AE83464288F3860E4C4426E",
+   "region": "Japan",
+   "file": "Bishoujo Senshi Sailor Moon Super S - Zenin Sanka!! Shuyaku Soudatsusen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -34,6 +34,43 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "47760381",
+   "md5": "9C698DB37D1FC2435CD04AD2DA0E553B",
+   "sha1": "C1C6C7F76FFF936C534FF11F87A54162FC0AA100",
+   "region": "Canada",
+   "file": "Legend of Zelda, The - A Link to the Past (Canada).sfc"
+  },
+  {
+   "crc32": "04D55E12",
+   "md5": "ECFB3BD489A15CDDA12066100BDE0378",
+   "sha1": "7C073A222569B9B8E8CA5FCB5DFEC3B5E31DA895",
+   "region": "Europe",
+   "file": "Legend of Zelda, The - A Link to the Past (Europe).sfc"
+  },
+  {
+   "crc32": "1F8C30E8",
+   "md5": "3F3730F9BFB6AB74085801AF16B155A9",
+   "sha1": "229364A1B92A05167CD38609B1AA98F7041987CC",
+   "region": "France",
+   "file": "Legend of Zelda, The - A Link to the Past (France).sfc"
+  },
+  {
+   "crc32": "6A6C2091",
+   "md5": "9BCD78C38F4D999087718881703B3E9B",
+   "sha1": "2E62494967FB0AFDF5DA1635607F9641DF7C6559",
+   "region": "Germany",
+   "file": "Legend of Zelda, The - A Link to the Past (Germany).sfc"
+  },
+  {
+   "crc32": "777AAC2F",
+   "md5": "608C22B8FF930C62DC2DE54BCD6EBA72",
+   "sha1": "6D4F10A8B10E10DBE624CB23CF03B88BB8252973",
+   "region": "USA",
+   "file": "Legend of Zelda, The - A Link to the Past (USA).sfc"
+  }
+ ],
  "gf_score": 4.58,
  "metascore": 95,
  "cover_urls": [

@@ -33,6 +33,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6CD568A9",
+   "md5": "5D1059E670E9A2A564A5D2520B0D50D8",
+   "sha1": "688FD46EE8FB2FCF0549031265A8998CD640E7B5",
+   "region": "Europe",
+   "file": "International Superstar Soccer (Europe).sfc"
+  },
+  {
+   "crc32": "49627238",
+   "md5": "C49738F77917E22207568AA69ACB20A4",
+   "sha1": "93273A81B24473A0B72CBCCBD90B96623033B8C8",
+   "region": "USA",
+   "file": "International Superstar Soccer (USA).sfc"
+  }
+ ],
  "gf_score": 3.83,
  "metascore": null,
  "cover_urls": [

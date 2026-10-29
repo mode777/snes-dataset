@@ -29,6 +29,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7D179E21",
+   "md5": "5EF625D117E1359D055B2C82630CF52C",
+   "sha1": "C132AFF55C61451DFB1498D43DB64866486734F3",
+   "region": "USA",
+   "file": "Hyper V-Ball (USA).sfc"
+  },
+  {
+   "crc32": "094012EA",
+   "md5": "84EE7F26265F179A72D4C9C5642FACB5",
+   "sha1": "59AF11F394437F15DECB2F27270E2E96C2A577D5",
+   "region": "Europe",
+   "file": "Hyper V-Ball (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "24373CC6",
+   "md5": "37176C6F2E1ACCDE7EBE6CE3F8059853",
+   "sha1": "CF0E00BC147910B7D8B8F8C085A41B41EE78BC6B",
+   "region": "Japan",
+   "file": "Crayon Shin-chan 2 - Daimaou no Gyakushuu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

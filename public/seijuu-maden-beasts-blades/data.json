@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D0AEA27C",
+   "md5": "2FA148F9FF48E867034E9147D5F6E211",
+   "sha1": "E0067694F59E5190BCF02C92DDF016EC3C55FB7A",
+   "region": "Japan",
+   "file": "Seijuu Maden Beasts & Blades (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

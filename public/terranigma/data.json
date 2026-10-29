@@ -32,6 +32,43 @@
  "languages": [
   "English, German, Spanish, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6FB8A4DF",
+   "md5": "4F3F3C5504A524A0716B965808709118",
+   "sha1": "9A64CE79BEA16D01AB71B58B11DF0BCF0EEDD889",
+   "region": "Germany",
+   "file": "Terranigma (Germany) (Rev 1).sfc"
+  },
+  {
+   "crc32": "614A7090",
+   "md5": "8995FFE9FA821AA54A7C17BFF7647F66",
+   "sha1": "4F8A5771CB11757A31A026E5892B9434A3A405CB",
+   "region": "France",
+   "file": "Terranigma (France).sfc"
+  },
+  {
+   "crc32": "00E61534",
+   "md5": "5223853D5EDC9856F2BF8A9F04D01D3A",
+   "sha1": "1E1A85CF28BCB69CB34FC71F48347279D7CFEA7E",
+   "region": "Spain",
+   "file": "Terranigma (Spain).sfc"
+  },
+  {
+   "crc32": "FFC21CB9",
+   "md5": "2FF43498FBB957FACF11C598DD8A6299",
+   "sha1": "018701E5CE385E0B32E61B8F8BB2F9ABF8ABF8F0",
+   "region": "Germany",
+   "file": "Terranigma (Germany).sfc"
+  },
+  {
+   "crc32": "974523FF",
+   "md5": "D202156549F981F6DAFC759575DD6E67",
+   "sha1": "911239B4B21106AE4A284454D345C55554985525",
+   "region": "Europe",
+   "file": "Terranigma (Europe).sfc"
+  }
+ ],
  "gf_score": 4.35,
  "metascore": null,
  "cover_urls": [

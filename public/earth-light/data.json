@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "727F1593",
+   "md5": "BCB80442D8E9DA39B0D9BC2E7559B40D",
+   "sha1": "0227B495CBF91D60269B9D04A080D4507BE01D23",
+   "region": "Japan",
+   "file": "Earth Light (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

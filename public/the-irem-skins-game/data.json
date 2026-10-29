@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B95DDC44",
+   "md5": "D07C40904845786944D8DAC3EC327E3B",
+   "sha1": "C65B1A6EFFBC4A876EAD6554704D821F52F39618",
+   "region": "USA",
+   "file": "Irem Skins Game, The (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

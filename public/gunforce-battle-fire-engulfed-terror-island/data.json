@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "11AF8992",
+   "md5": "052BBA7AE0FFD1DC5796AA7665843CDC",
+   "sha1": "2CCAAA2B9AE0DDB266E20B95FEF2D95E3F1FABDE",
+   "region": "Europe",
+   "file": "GunForce - Battle Fire Engulfed Terror Island (Europe) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

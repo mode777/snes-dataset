@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "54833287",
+   "md5": "9BF64D1ECC0BF12B0EF141B8F0CCC42F",
+   "sha1": "351F293D1C58EB85534AB05896245475FF009CEF",
+   "region": "Japan",
+   "file": "Super Gomoku Shougi - Jouseki Kenkyuu Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

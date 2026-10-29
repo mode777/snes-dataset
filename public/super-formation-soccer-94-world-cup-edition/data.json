@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D547C5D2",
+   "md5": "06AF11FFB21B5B72F112585F8D3ED098",
+   "sha1": "25D1A05590D9A7D77419293DC30210A292D1178B",
+   "region": "Japan",
+   "file": "Super Formation Soccer 94 - World Cup Edition (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

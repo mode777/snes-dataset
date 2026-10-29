@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9826771B",
+   "md5": "DDABD14B3344A9DE45CC57ACD343BFCE",
+   "sha1": "28997EF8DD8640ED33E0676E363C6FCA96D37548",
+   "region": "Japan",
+   "file": "Zan III Spirits (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

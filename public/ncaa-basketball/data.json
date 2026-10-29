@@ -30,6 +30,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8D4C2300",
+   "md5": "BDC235FCCD36A0676FB9CDDAAF1C534A",
+   "sha1": "04EAE5352B59A6035098A716248CE11EDEFB21DD",
+   "region": "USA",
+   "file": "NCAA Basketball (USA).sfc"
+  },
+  {
+   "crc32": "25C43074",
+   "md5": "FBF4FA8A22BC761A2780EFF3C5CDA4FA",
+   "sha1": "F9ED0A13F0E7E90EAF3F84CCE9DF125449287358",
+   "region": "USA",
+   "file": "NCAA Basketball (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "200370A2",
+   "md5": "65F98FA7772B6F006DBE153F71A34445",
+   "sha1": "261683B05F2F9149CB8D367A76D8A3C3B864DD7C",
+   "region": "USA",
+   "file": "NCAA Basketball (USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 3.19,
  "metascore": null,
  "cover_urls": [

@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "017C68C5",
+   "md5": "2AB025F4A01B316D4A9627F7AB69EC78",
+   "sha1": "B51199FA2AFB0A161D6AFDABFA0575513913DDE1",
+   "region": "Japan",
+   "file": "Wild Trax (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

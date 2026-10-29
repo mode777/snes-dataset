@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "762D214F",
+   "md5": "DDA430EECDCF0DE63758193F60EEAC0E",
+   "sha1": "DE8A253D1282841E9037E7208323687FC86ED5C6",
+   "region": "Europe",
+   "file": "Whizz (Europe).sfc"
+  },
+  {
+   "crc32": "EA8DF334",
+   "md5": "8A31C324BCA731A3F5614E66C371B165",
+   "sha1": "4D17271810A2C38938F9DB6596B3EF064BA2CDCE",
+   "region": "USA",
+   "file": "Whizz (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

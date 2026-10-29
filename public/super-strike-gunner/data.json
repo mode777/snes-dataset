@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F74ACB48",
+   "md5": "1E436FF6F74AA0BEAB11B19D3B8163AA",
+   "sha1": "FB29E8E06BAEB4A79DD332FB4584E533276169B7",
+   "region": "Europe",
+   "file": "Super Strike Gunner (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

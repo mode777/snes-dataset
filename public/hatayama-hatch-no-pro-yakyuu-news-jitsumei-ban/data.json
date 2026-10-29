@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7A585763",
+   "md5": "4ABAE3861E8EB3C9A7195C22B47D72D6",
+   "sha1": "27B381B003445EF9BD1DB0ECF9F018093A3E586B",
+   "region": "Japan",
+   "file": "Hatayama Hatch no Pro Yakyuu News! - Jitsumei Ban (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

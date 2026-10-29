@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E6B9A402",
+   "md5": "BAFABEA7B387CE55F48CD64D6BE215D4",
+   "sha1": "ABA01F3879BE407A84C8EB9088061525E9C79D01",
+   "region": "Japan",
+   "file": "Shijou Saikyou no Quiz Ou Ketteisen Super (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

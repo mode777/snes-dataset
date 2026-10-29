@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7EE385A7",
+   "md5": "D91618AE13A2272FAB67296D72DC69D5",
+   "sha1": "48B560C8C34D999D3DFC7D0606B02958B69F626C",
+   "region": "Japan",
+   "file": "Kindai Mahjong Special (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

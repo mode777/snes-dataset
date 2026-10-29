@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "971E74BA",
+   "md5": "15AD304A4884722502EC2BB062D2CF56",
+   "sha1": "FFB81B82EA027673CBFC26F6EBD9F05C2D60D6C8",
+   "region": "Japan",
+   "file": "Super Air Diver (Japan).sfc"
+  },
+  {
+   "crc32": "0B57C764",
+   "md5": "CFB45D39478AC7AF79276B047DE3AA87",
+   "sha1": "F70567B9DC858BDB66D73D539390B7F74F00FF8A",
+   "region": "Europe",
+   "file": "Super Air Diver (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

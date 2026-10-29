@@ -29,6 +29,29 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BC6162AE",
+   "md5": "26BE9C87AAC0CB3D3AF5DFFB4E6AA059",
+   "sha1": "D8023C0C7B1194BCBC2119B663AAF63FFB6FD101",
+   "region": "Japan",
+   "file": "Fire Emblem - Thracia 776 (Japan) (NP).sfc"
+  },
+  {
+   "crc32": "FC519952",
+   "md5": "C3FD1CAD754256D7A013864D917F47FA",
+   "sha1": "75B504921D08E313FF58150E40121AC701884517",
+   "region": "Japan",
+   "file": "Fire Emblem - Thracia 776 (Japan).sfc"
+  },
+  {
+   "crc32": "EAAA2C53",
+   "md5": "B128F6CBBD323CDCD34A5B06003E1135",
+   "sha1": "4924642AD581B89D8C50388811635934E51ACE9A",
+   "region": "Japan",
+   "file": "Fire Emblem - Thracia 776 (Japan) (Rev 1) (NP).sfc"
+  }
+ ],
  "gf_score": 4.15,
  "metascore": null,
  "cover_urls": [

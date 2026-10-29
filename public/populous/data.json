@@ -34,6 +34,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2DF4AA0F",
+   "md5": "6F9294B5F83D777DEF17A801BF02DF01",
+   "sha1": "1805751A52A26822198B642C7E66681FFECC27DC",
+   "region": "USA",
+   "file": "Populous (USA).sfc"
+  },
+  {
+   "crc32": "FE88A713",
+   "md5": "4C1F4E4775478CD53D34269E4F242855",
+   "sha1": "58074FD378D19EF0D1956B6D7F0E07A323354AED",
+   "region": "Europe",
+   "file": "Populous (Europe).sfc"
+  },
+  {
+   "crc32": "191E1CE3",
+   "md5": "63E862D28C24C6E4B261897172BD5E68",
+   "sha1": "C34C261BA34AFD321F304DA5DAEB28723DCBD9FC",
+   "region": "Japan",
+   "file": "Populous (Japan).sfc"
+  }
+ ],
  "gf_score": 3.03,
  "metascore": null,
  "cover_urls": [

@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F2DD4EBF",
+   "md5": "8D87BCA6A500077246223594BFF90458",
+   "sha1": "45C66C21EF10DAEE7CE7E0781F4D4FA9150D31A6",
+   "region": "Japan",
+   "file": "Super Hanafuda (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

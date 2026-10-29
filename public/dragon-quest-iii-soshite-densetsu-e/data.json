@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "13836BD2",
+   "md5": "7C7C7DB73B0608A184CC5E1D73D7695B",
+   "sha1": "B711341E4B1022D7645C5313840874AEBC01B7B7",
+   "region": "Japan",
+   "file": "Dragon Quest III - Soshite Densetsu e... (Japan).sfc"
+  }
+ ],
  "gf_score": 4.27,
  "metascore": null,
  "cover_urls": [

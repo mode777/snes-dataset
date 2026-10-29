@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "3E3073CE",
+   "md5": "76D93FFEBB00DDAF4CF23222AB28B962",
+   "sha1": "B3A08E927FE4EAC5F4E47E1361CB80CC392FB06F",
+   "region": "USA",
+   "file": "Jetsons, The - Invasion of the Planet Pirates (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

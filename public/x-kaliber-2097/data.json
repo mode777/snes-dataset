@@ -33,6 +33,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "64129F4C",
+   "md5": "97EF9031643B3B1F306AB07CE9C8ECA4",
+   "sha1": "3E82125905C99FEFF4BB51892B8987FC881001B7",
+   "region": "USA",
+   "file": "X-Kaliber 2097 (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "E83ECEEA",
+   "md5": "BABBDCD3BE4F6B4806E129E0740AEFCE",
+   "sha1": "35A29B2DB17DBD4650FD425B66E31B01AEDA3D58",
+   "region": "USA",
+   "file": "X-Kaliber 2097 (USA).sfc"
+  },
+  {
+   "crc32": "D7E4732F",
+   "md5": "78CDE7862908BB0F7F525381F8DBF30C",
+   "sha1": "9F4F6BAE637ACFC4A963593CD4936988CF0F0F72",
+   "region": "Europe",
+   "file": "X-Kaliber 2097 (Europe).sfc"
+  }
+ ],
  "gf_score": 3.12,
  "metascore": null,
  "cover_urls": [

@@ -33,6 +33,43 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7A33E836",
+   "md5": "CD502DADDCC7EA3FB2E86C1F0F8B93C8",
+   "sha1": "535A5B674859A78852A1ED70B00ECA5EA5BE8417",
+   "region": "Europe",
+   "file": "Donkey Kong Country (Europe) (En,Fr,De).sfc"
+  },
+  {
+   "crc32": "762AF827",
+   "md5": "2E604BC12FB8F9467765C807C24877FA",
+   "sha1": "CD606E77AB2034438E06891CD2D067DAD69B4D1A",
+   "region": "USA",
+   "file": "Donkey Kong Country (USA) (Rev 2).sfc"
+  },
+  {
+   "crc32": "17657DB6",
+   "md5": "00F0BA49B5B2F140B307AFBED33C7997",
+   "sha1": "6F246ABAE39820E3267704BDF342AD1D27121F19",
+   "region": "Europe",
+   "file": "Donkey Kong Country (Europe) (En,Fr,De) (Rev 1).sfc"
+  },
+  {
+   "crc32": "C946DCA0",
+   "md5": "30C5F292FF4CBBFCC00FD8FA96C2DE3B",
+   "sha1": "0FCEE45D9AF5D2F62995ED4B04D22146B906C86B",
+   "region": "USA",
+   "file": "Donkey Kong Country (USA).sfc"
+  },
+  {
+   "crc32": "3EAA5697",
+   "md5": "323A37CCBA32104BEEF7FF7DFC7CE894",
+   "sha1": "8EE954E15B7D77A7941B107C8243B27ACEBDCBC0",
+   "region": "USA",
+   "file": "Donkey Kong Country (USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 4.26,
  "metascore": 78,
  "cover_urls": [

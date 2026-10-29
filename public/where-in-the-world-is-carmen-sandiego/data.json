@@ -34,6 +34,22 @@
  "languages": [
   "English, German, Spanish, French, Italian"
  ],
+ "roms": [
+  {
+   "crc32": "B7A66353",
+   "md5": "0F8BE220E192BE92BE08FE0A6CFFABC7",
+   "sha1": "2A1877DF758372EDD5673491FADA6F29AB527BDE",
+   "region": "Europe",
+   "file": "Where in the World Is Carmen Sandiego (Europe) (En,Fr,De,Es,It).sfc"
+  },
+  {
+   "crc32": "9EF83223",
+   "md5": "DFCCFA0A4411BB0BFB29F777CAC53858",
+   "sha1": "98D8ADD2EC009468CAF30BE1FF4753DEDB14F4F7",
+   "region": "USA",
+   "file": "Where in the World Is Carmen Sandiego (USA) (En,Fr,De,Es,It).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

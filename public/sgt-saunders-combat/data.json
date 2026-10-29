@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DA5888C7",
+   "md5": "73653DB58071937B4D2BB03C7A057A5F",
+   "sha1": "27342AB63D1681272EA90A7E081E3EC654502B8A",
+   "region": "Japan",
+   "file": "Sgt. Saunders' Combat! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

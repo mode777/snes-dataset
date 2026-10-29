@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "CC47B8F9",
+   "md5": "37571F2B864572FACC0C8C67079C0BA3",
+   "sha1": "0DAD8A2226C3FDA0EEBA96B37FB24EEB8D198513",
+   "region": "Japan",
+   "file": "Wolfenstein 3D - The Claw of Eisenfaust (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

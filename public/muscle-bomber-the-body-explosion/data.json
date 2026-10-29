@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A6E028C2",
+   "md5": "6AF767734A8E5526D08CF76B75216594",
+   "sha1": "D96FB72A5ABC0A35FFC6AE862643D0CD0461AC1D",
+   "region": "Japan",
+   "file": "Muscle Bomber - The Body Explosion (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

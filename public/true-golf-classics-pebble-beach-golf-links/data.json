@@ -30,6 +30,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "18C5AD58",
+   "md5": "64FFFF21336552D2DA953A6A464F2488",
+   "sha1": "7A868CF0C9EB21D812A4BA471615C3237B394DB7",
+   "region": "USA",
+   "file": "True Golf Classics - Pebble Beach Golf Links (USA).sfc"
+  },
+  {
+   "crc32": "EEEDE683",
+   "md5": "BE5DEE6C1F4F9089413BA10B09659D12",
+   "sha1": "CA308E834ED8E97BA37385E5507456E409EE4E3E",
+   "region": "Europe",
+   "file": "True Golf Classics - Pebble Beach Golf Links (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

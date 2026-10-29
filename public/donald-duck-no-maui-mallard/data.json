@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D60A27A6",
+   "md5": "70E48393A4D85125D29DA2F0E49D4881",
+   "sha1": "88C446523528CDC3B3350378EAFA541A599C986E",
+   "region": "Japan",
+   "file": "Donald Duck no Maui Mallard (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

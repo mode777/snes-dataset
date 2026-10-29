@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B916334C",
+   "md5": "74B01CB4EC81821EE254D2F2E9025D47",
+   "sha1": "75B76715D4A20371E0340DBEEE3A51FF6A1DBAD3",
+   "region": "Japan",
+   "file": "Little Master - Nijiiro no Maseki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

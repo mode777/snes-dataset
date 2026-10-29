@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "61753981",
+   "md5": "20C7120AAA1538B185BA0A037574A2EA",
+   "sha1": "8C5A3F81A59B788118473EEF9A68007ACF942A87",
+   "region": "Japan",
+   "file": "American Battle Dome (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

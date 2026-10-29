@@ -31,6 +31,43 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A3EE22E5",
+   "md5": "CC7E42A7725D18CEFB54A26EB5EB7A73",
+   "sha1": "A05554ED1C93911C47312107D95A7FDDDC123FF3",
+   "region": "Europe",
+   "file": "Street Fighter II Turbo (Europe).sfc"
+  },
+  {
+   "crc32": "ABBC185D",
+   "md5": "DEBCA2150D348DD3440621E54BDD61E0",
+   "sha1": "73D9C95FF0DD53C966A2AC764A4D7FD6D08D5768",
+   "region": "Europe",
+   "file": "Street Fighter II Turbo (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "364087E5",
+   "md5": "A92B83FF868B8972C3DD12A4F2BD4AF3",
+   "sha1": "9842CB61CEBEA343D6D9BE599F11064A50C68A30",
+   "region": "Japan",
+   "file": "Street Fighter II Turbo (Japan).sfc"
+  },
+  {
+   "crc32": "A45CADD6",
+   "md5": "AC63BD5085B0F8F35E2CFF59E9C34456",
+   "sha1": "BD88A3189A34F1E652FE03D8E11A0AE9C0DADFA6",
+   "region": "USA",
+   "file": "Street Fighter II Turbo (USA).sfc"
+  },
+  {
+   "crc32": "D43BC5A3",
+   "md5": "014863E139F5A9E9FC8ECF59A133223B",
+   "sha1": "9F6E8F2585E60BD6690C068C692AC97653BAE6A6",
+   "region": "USA",
+   "file": "Street Fighter II Turbo (USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 4.0,
  "metascore": null,
  "cover_urls": [

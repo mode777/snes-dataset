@@ -35,6 +35,29 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "12F0A699",
+   "md5": "E60FEF5D311E06AB16A127F1C7718958",
+   "sha1": "93E975F1E59004BA3DA5646C57A721E8FF34B3A0",
+   "region": "Japan",
+   "file": "Tactics Ogre - Let Us Cling Together (Japan) (Rev 2).sfc"
+  },
+  {
+   "crc32": "271E1D07",
+   "md5": "BA46EB97879E575DFBA33B4E269D2C07",
+   "sha1": "26B5D89AB3159E4D41ACE2A64AD9DF7A251CE380",
+   "region": "Japan",
+   "file": "Tactics Ogre - Let Us Cling Together (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "DAF285A5",
+   "md5": "6E0D35F157C856E57C8639FE041D05F2",
+   "sha1": "233131719DA09FCA94E4F7B8981B8E41570406F3",
+   "region": "Japan",
+   "file": "Tactics Ogre - Let Us Cling Together (Japan).sfc"
+  }
+ ],
  "gf_score": 4.22,
  "metascore": null,
  "cover_urls": [

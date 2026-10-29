@@ -33,6 +33,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "E14B00EF",
+   "md5": "217400026DF568D5F743CC6C82B989F8",
+   "sha1": "5727214955566C22DC945823A04DC674AB69218D",
+   "region": "USA",
+   "file": "Shaq Fu (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "52916C9D",
+   "md5": "9AD77707DA7C7E4913A1644B3B6CDFD8",
+   "sha1": "F7AFC24BA47086E29E54B6D819542DC058B534F8",
+   "region": "USA",
+   "file": "Shaq-Fu (USA).sfc"
+  },
+  {
+   "crc32": "DDD55E27",
+   "md5": "72EA79D6DA4349EEFFF22E5D990BA368",
+   "sha1": "B612314468F18009B98C165CA90A49332A532E93",
+   "region": "Europe",
+   "file": "Shaq-Fu (Europe).sfc"
+  }
+ ],
  "gf_score": 1.89,
  "metascore": null,
  "cover_urls": [

@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6C864780",
+   "md5": "B168BACAF8FF59840263068845C6B2C7",
+   "sha1": "B0C4122D0C3DE32987955DCA52D1219436E7C940",
+   "region": "Japan",
+   "file": "Wally o Sagase! - Ehon no Kuni no Daibouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

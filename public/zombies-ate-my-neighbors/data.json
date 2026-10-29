@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "7CFC0C7C",
+   "md5": "23C2AF7897D9384C4791189B68C142EB",
+   "sha1": "1BE79496D7A38B293D6A5D9FBA0E16F3CB37D5FF",
+   "region": "USA",
+   "file": "Zombies Ate My Neighbors (USA).sfc"
+  }
+ ],
  "gf_score": 3.88,
  "metascore": null,
  "cover_urls": [

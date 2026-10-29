@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9A8618D6",
+   "md5": "947F2B011533F99FE33FD2ACFFD35875",
+   "sha1": "5B7485DF4EB9E9198E972FD2377FC7BDE826381C",
+   "region": "Europe",
+   "file": "Super Adventure Island (Europe).sfc"
+  },
+  {
+   "crc32": "DCD46848",
+   "md5": "206E6C5C05AC1A83DDE21400325A4A7D",
+   "sha1": "74A3671878B1D7C8B3FD5A14677C16B2D5566AF0",
+   "region": "USA",
+   "file": "Super Adventure Island (USA).sfc"
+  }
+ ],
  "gf_score": 3.26,
  "metascore": null,
  "cover_urls": [

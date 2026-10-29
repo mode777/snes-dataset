@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "24020E16",
+   "md5": "E64922179311FDDCBD95CA20A5507808",
+   "sha1": "7A706493082A92D40A6FC50641FBD5805CAAD1FC",
+   "region": "Japan",
+   "file": "Super Yakyuudou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3B12AF9A",
+   "md5": "620109F5E31F5793E0F55B683EA07C10",
+   "sha1": "62E0A317EFE57B7CD613A216C097A9CB7D12FE6E",
+   "region": "Japan",
+   "file": "BS Nichibutsu Mahjong - Mahjong Taikai (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

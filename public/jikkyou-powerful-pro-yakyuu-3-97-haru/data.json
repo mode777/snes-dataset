@@ -33,6 +33,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AD5B0417",
+   "md5": "F76EFAA6D87216E1D4D7D14651945A5B",
+   "sha1": "46CF1ACADD4C1A87598EAFCCA7795F8480DFCBAE",
+   "region": "Japan",
+   "file": "Jikkyou Powerful Pro Yakyuu 3 - '97 Haru (Japan).sfc"
+  },
+  {
+   "crc32": "5E75A0E0",
+   "md5": "99081CF4446C794F36D37D22893856DC",
+   "sha1": "E97F5FB809B1FC01E545B1D3AF869650D4F7B255",
+   "region": "Japan",
+   "file": "Jikkyou Powerful Pro Yakyuu 3 - '97 Haru (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

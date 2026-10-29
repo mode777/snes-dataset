@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "56BA694A",
+   "md5": "CD17D26A8C27B57E0A50043A686923B4",
+   "sha1": "8F1C62568C930C47B271C960BE9BB9BB9276B782",
+   "region": "Japan",
+   "file": "JoJo no Kimyou na Bouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

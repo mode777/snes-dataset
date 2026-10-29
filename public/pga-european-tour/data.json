@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "BE94E60D",
+   "md5": "AB689E7F367C039D8A0655611BBDDB8B",
+   "sha1": "CC1E7DDDE84A6C7B8998D5BE0555A79F10BCCE52",
+   "region": "Europe",
+   "file": "PGA European Tour (Europe).sfc"
+  },
+  {
+   "crc32": "914F2EA3",
+   "md5": "F517CA4CFFBA9E977B243B06434C7972",
+   "sha1": "B962D72C943D33A9CB55C5A05D779F0A836C46C3",
+   "region": "USA",
+   "file": "PGA European Tour (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

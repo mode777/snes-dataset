@@ -35,6 +35,22 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CA0E041C",
+   "md5": "B1A4A4696E579168D5B1B6E2C8BA8440",
+   "sha1": "1470C5F9D3D2078C55E0822B3219189120FD3F7B",
+   "region": "Europe",
+   "file": "Theme Park (Europe) (En,Fr,De).sfc"
+  },
+  {
+   "crc32": "6797884A",
+   "md5": "83BBF12F62263B718704FBA61CF75E29",
+   "sha1": "6E5AC2F8B46FE59E84D246E39F2831542E8EECFF",
+   "region": "Japan",
+   "file": "Theme Park (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -31,6 +31,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EC8A48F6",
+   "md5": "201E7658F6194458A3869DDE36BF8EC2",
+   "sha1": "12AFF7538F43641A1E2BF424593DF5B49FE150F6",
+   "region": "USA",
+   "file": "Kirby's Dream Land 3 (USA).sfc"
+  }
+ ],
  "gf_score": 4.0,
  "metascore": null,
  "cover_urls": [

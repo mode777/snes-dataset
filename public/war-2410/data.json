@@ -29,6 +29,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "AD2DC53A",
+   "md5": "B14B42CB2F7A472FCC87C1E77CA127D0",
+   "sha1": "8C5D9730502F150A2CF47814FF07982620D9A8DF",
+   "region": "USA",
+   "file": "War 2410 (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

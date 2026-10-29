@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C00F0BC9",
+   "md5": "026143F279D0936CE1372214450056A9",
+   "sha1": "BF1F8C6ABB074DC70B36CB2504A232E2E045BF34",
+   "region": "Japan",
+   "file": "Soukou Kihei Votoms - The Battling Road (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

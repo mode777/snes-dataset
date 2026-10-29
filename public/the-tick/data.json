@@ -32,6 +32,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "12AB22A7",
+   "md5": "E2D1F8E997E1091A4465BA8A76D4357E",
+   "sha1": "82CADB38F20E8610BD8C0C1763FDFA56528B8310",
+   "region": "USA",
+   "file": "Tick, The (USA).sfc"
+  }
+ ],
  "gf_score": 2.63,
  "metascore": null,
  "cover_urls": [

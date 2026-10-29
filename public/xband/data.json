@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "42D47034",
+   "md5": "4E725A5FA1F005F6CE71DA0A0C7E0D4D",
+   "sha1": "0EA7C97F82DEBAEF88F27C446A45DE784EFB145F",
+   "region": "Japan",
+   "file": "XBAND (Japan).sfc"
+  },
+  {
+   "crc32": "A8B868A0",
+   "md5": "580B6F738CD9D3CFEA514B20C4CBB440",
+   "sha1": "3F56B109A05097F09FD8859205EA635453D1CB45",
+   "region": "USA",
+   "file": "XBAND (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

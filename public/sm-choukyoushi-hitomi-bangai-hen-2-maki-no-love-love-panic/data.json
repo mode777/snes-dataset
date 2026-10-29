@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0504F733",
+   "md5": "376A0DB1CC2B5B551072C7CD30A75F66",
+   "sha1": "02C5900462D9E320136445968AD116A33DA932CA",
+   "region": "Japan",
+   "file": "SM Choukyoushi Hitomi - Bangai Hen 2 - Maki no Love Love Panic (Japan) (Unl) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

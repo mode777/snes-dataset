@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "CBC4868E",
+   "md5": "6CA90233DF9291530FD3676C05D0E6FD",
+   "sha1": "296B8626CD256335C4A57A38E6ADE874763E1F5E",
+   "region": "Japan",
+   "file": "Adventures of the Rocketeer, The (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -32,6 +32,36 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "B17230AE",
+   "md5": "35A085F1E81B5F7D57DDF6B88533D4E2",
+   "sha1": "CCA964090DB6270C625265FA9757EC1FAFEE64EB",
+   "region": "USA",
+   "file": "Taz-Mania (USA) (Rev 1).sfc"
+  },
+  {
+   "crc32": "5A5BD63C",
+   "md5": "27BFF3902DC9F1245D07C17D76334D6F",
+   "sha1": "32547C4BC5809977B8613A71E827BE56ECFAC753",
+   "region": "USA",
+   "file": "Taz-Mania (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "6CC571F5",
+   "md5": "40BA81F7A10B6A2F718D4BCC09FBDF14",
+   "sha1": "8982E64906E4C2370FD7D9C65300E331B992EFB5",
+   "region": "USA",
+   "file": "Taz-Mania (USA).sfc"
+  },
+  {
+   "crc32": "4937A4F6",
+   "md5": "D193730FAA0E90E231025ED108D5261A",
+   "sha1": "DE3877AF6FE4DBA8680DF79E21E67C4793E7947C",
+   "region": "Europe",
+   "file": "Taz-Mania (Europe).sfc"
+  }
+ ],
  "gf_score": 2.65,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8B172B4E",
+   "md5": "4E6A28FC481FD0D5F3B93C2179E8D7E9",
+   "sha1": "D0A54A6E4E7C27FD6DA23AD53201679272F9AC04",
+   "region": "Germany",
+   "file": "J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany).sfc"
+  },
+  {
+   "crc32": "247C17D3",
+   "md5": "3FF7BD6FBBF6CA7C20381D12DF9E5050",
+   "sha1": "5EE8E70B0D80821274CC8689C4DB22215B5AE52F",
+   "region": "Europe",
+   "file": "J.R.R. Tolkien's The Lord of the Rings - Volume One (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

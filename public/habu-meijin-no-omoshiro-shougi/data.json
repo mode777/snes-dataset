@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4C1B8801",
+   "md5": "6EB52A917882B8782CF5D5860E2299CF",
+   "sha1": "5E30FAF3E483A1238DB9A8D8AE1F320369600814",
+   "region": "Japan",
+   "file": "Habu Meijin no Omoshiro Shougi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

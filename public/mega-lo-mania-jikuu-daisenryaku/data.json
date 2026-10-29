@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F23BC69E",
+   "md5": "34D8995FE25908757AD225B4D7A17581",
+   "sha1": "DC3474067CCADF7FF9B980B414D2D45B538AEE9A",
+   "region": "Japan",
+   "file": "Mega lo Mania - Jikuu Daisenryaku (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7379E3B3",
+   "md5": "6A773DC80DF7E0CE54540C29CD4FA3A0",
+   "sha1": "9F3C77D02C7C476A460540CD5B72353A33E6D614",
+   "region": "Europe",
+   "file": "Whirlo (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

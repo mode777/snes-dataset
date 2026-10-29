@@ -33,6 +33,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "78D10E07",
+   "md5": "99C0888D7D55D682BFEE209EA5E959EF",
+   "sha1": "647184B58DEC1922E2EBA02282BE18795869ECFA",
+   "region": "USA",
+   "file": "NFL Quarterback Club (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "79F16421",
+   "md5": "90CAD22930418D69BC55BB8BE81B9654",
+   "sha1": "078C3F6AE65C243FE3E330C699A75DF536A5C20A",
+   "region": "USA",
+   "file": "NFL Quarterback Club (USA).sfc"
+  },
+  {
+   "crc32": "87BC35AF",
+   "md5": "1A723BA2E11992EDE14E9D9EB875B9BF",
+   "sha1": "686ACB92449123718F5691C235BF00ED2DBA53AF",
+   "region": "Europe",
+   "file": "NFL Quarterback Club (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

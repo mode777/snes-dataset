@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "26C8072E",
+   "md5": "D196A70E1E92F9F04167EE2A90711C81",
+   "sha1": "64FB24BB88A948E076DEA922AAF8736938E1DA8C",
+   "region": "Japan",
+   "file": "Hisshou 777 Fighter II - Pachi-Slot Maruhi Jouhou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E91BB876",
+   "md5": "BFFA82F9C6AB0D8D373CEDF5AC0391A6",
+   "sha1": "E772EA32F969EDB3BB6B92A519E26186B9480F91",
+   "region": "Japan",
+   "file": "Mask (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

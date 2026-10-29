@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5577DE70",
+   "md5": "F5B848B97DC28B0B2F794C637C785518",
+   "sha1": "0F8C662C012D866F42209B0ED66CE9722D689968",
+   "region": "Japan",
+   "file": "Kikou Keisatsu Metal Jack (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B8F5F846",
+   "md5": "F21E1FEFCB3187877060B3FAFB53ABD2",
+   "sha1": "E455607B32B0ADF14BF4AF917CBF6561ECCD1D0D",
+   "region": "Japan",
+   "file": "Tetris Battle Gaiden (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

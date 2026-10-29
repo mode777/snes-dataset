@@ -30,6 +30,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "4DA05714",
+   "md5": "507E9FB6959777CCAE753AA4F8B7423D",
+   "sha1": "4E22E4695BB8F1F65949464EE800182F72EDDBB6",
+   "region": "Europe",
+   "file": "Frantic Flea (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "FFA8D1FF",
+   "md5": "0EFF399B3E236585C9D962E2AB8433CE",
+   "sha1": "7EDB79641A4984F12DC2E93FD3F635627A84C62B",
+   "region": "USA",
+   "file": "Frantic Flea (USA).sfc"
+  },
+  {
+   "crc32": "CE5C3AF9",
+   "md5": "9D14E9BBFA16C9718A9339703646F626",
+   "sha1": "1E449AF7333E143EDBB226368495A39B85942C57",
+   "region": "Europe",
+   "file": "Frantic Flea (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

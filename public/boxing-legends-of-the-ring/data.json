@@ -31,6 +31,22 @@
  "languages": [
   "English, Spanish, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C0B632C0",
+   "md5": "26B891C2DE994ABD162A1DAF1077AB64",
+   "sha1": "1CBE6C3FD218C7FBD434D9951BBD9CC8EEE049D2",
+   "region": "USA",
+   "file": "Boxing Legends of the Ring (USA).sfc"
+  },
+  {
+   "crc32": "00CC468B",
+   "md5": "60C260A1771D1548E2AD4FC48EA474DB",
+   "sha1": "D2C02EB865600BA1FD64B12624B579BA05E13FCF",
+   "region": "Europe",
+   "file": "Boxing Legends of the Ring (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

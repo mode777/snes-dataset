@@ -35,6 +35,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "6F2C46C6",
+   "md5": "693816E8888D3F1A04623051F9E9BEE9",
+   "sha1": "F25992309BCE84273463D321F8D6E76A680CFF36",
+   "region": "USA",
+   "file": "Pagemaster, The (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "3C42A7B6",
+   "md5": "4E26F72E5879C5A4BC56C01B4DD9F622",
+   "sha1": "A5ACC9871B5465CF835DA14C1F7B4C49CEA5280A",
+   "region": "Europe",
+   "file": "Pagemaster, The (Europe).sfc"
+  },
+  {
+   "crc32": "26C38EEE",
+   "md5": "46FBDEBB1227B6068D7A44F03A0F04A4",
+   "sha1": "02FA190BFBED8699CE8F741BAC6675F3582CED68",
+   "region": "USA",
+   "file": "Pagemaster, The (USA).sfc"
+  }
+ ],
  "gf_score": 2.54,
  "metascore": null,
  "cover_urls": [

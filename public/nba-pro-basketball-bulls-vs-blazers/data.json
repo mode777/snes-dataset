@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C5148840",
+   "md5": "D855D0EB050425258A662656BB484B6A",
+   "sha1": "54E6345809CDEC6BE08B9296F04EDEF1DCEEF899",
+   "region": "Japan",
+   "file": "NBA Pro Basketball - Bulls vs Blazers (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

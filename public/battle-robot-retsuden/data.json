@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B72BF1F2",
+   "md5": "59FCF472170AAD6BEBFDD13E5CAA5961",
+   "sha1": "229289E40479648C63B1E6B81AAB7BDB583926CD",
+   "region": "Japan",
+   "file": "Battle Robot Retsuden (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D889DBDF",
+   "md5": "E25986058E67AD699032D62CB1633F05",
+   "sha1": "72B507358D21EB9A95119C2B2FB41EAAF72F5C2B",
+   "region": "Japan",
+   "file": "Koutetsu no Kishi 3 - Gekitotsu Europe Sensen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

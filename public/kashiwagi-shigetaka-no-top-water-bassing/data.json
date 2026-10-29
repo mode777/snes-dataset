@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "21E72036",
+   "md5": "D2D2AA4207105D404B75937D0E4FBF30",
+   "sha1": "033A112FE4409229664DA3FD69FF55706EE61E36",
+   "region": "Japan",
+   "file": "Kashiwagi Shigetaka no Top Water Bassing (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C352D27F",
+   "md5": "9335689FCC1720E08DDFFC8DDEC9B62D",
+   "sha1": "E9B0CA191F599BEE60B6491F3D707C9C5B831D83",
+   "region": "Japan",
+   "file": "Raiden Densetsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -25,6 +25,22 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E2DBAD76",
+   "md5": "B96F969D7A5BE96151331F04D7CB36D2",
+   "sha1": "34546A2BD7E761988F24AAC253416BB2E47293E0",
+   "region": "USA",
+   "file": "Speedy Gonzales - Los Gatos Bandidos (USA).sfc"
+  },
+  {
+   "crc32": "CB0653D0",
+   "md5": "A8C26FA9951D764D958FCB1BEEBE5089",
+   "sha1": "5CA97BC5E260E04ED7F5FF228C358F5D591CEEC7",
+   "region": "USA",
+   "file": "Speedy Gonzales - Los Gatos Bandidos (USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 3.12,
  "metascore": null,
  "cover_urls": [

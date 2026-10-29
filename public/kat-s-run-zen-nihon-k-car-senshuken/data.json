@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9DAB5AB1",
+   "md5": "29ED8FE3043D0CDE231D32CD22DB4491",
+   "sha1": "0350F8E43B7B9EAC8600239AD15DFF202C2B75B3",
+   "region": "Japan",
+   "file": "Kat's Run - Zen-Nihon K-Car Senshuken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

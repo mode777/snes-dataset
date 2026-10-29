@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "14A03974",
+   "md5": "83F4DBDA8CE590436401DECB8F024CFB",
+   "sha1": "F6FEEA0F042834C86EC11A350AB06DAAAC69CB81",
+   "region": "Japan",
+   "file": "Super Cup Soccer (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CF05DFCE",
+   "md5": "78A47F65EFF84233210FB7E035991680",
+   "sha1": "9C36AAE943B447754E293B4A54C8C39554DAC81D",
+   "region": "Japan",
+   "file": "Pro Mahjong Kiwame III (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

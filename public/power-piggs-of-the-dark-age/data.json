@@ -32,6 +32,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "81DA4B6A",
+   "md5": "1A194F80248771CF34D4320B897F4AED",
+   "sha1": "5E31BB863A8D043A5B457BE75C6C6EC6F96E1ED3",
+   "region": "Europe",
+   "file": "Power Piggs of the Dark Age (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "E945530D",
+   "md5": "D23B8D046B0F29BEA0F838AE7D31559A",
+   "sha1": "9DB093A46938FE14FDC044A0758618D4B43FB449",
+   "region": "USA",
+   "file": "Power Piggs of the Dark Age (USA).sfc"
+  },
+  {
+   "crc32": "87AFC187",
+   "md5": "5F8560F63751CB09A7AEA104B17881E6",
+   "sha1": "87114BD9DDAF663E28ADC6003E231624D3E190B7",
+   "region": "Europe",
+   "file": "Power Piggs of the Dark Age (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

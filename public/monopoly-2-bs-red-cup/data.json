@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9B0A441C",
+   "md5": "175EC5D5640AC79FD81E09CC3728CE88",
+   "sha1": "9EE4160C3D6FFB0E5E3889DC442E9D3263A11C1E",
+   "region": "Japan",
+   "file": "Monopoly 2 BS - Red Cup (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

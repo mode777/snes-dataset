@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5C7FC277",
+   "md5": "92805169E1FA45DDA33B0B8CEE8DAE39",
+   "sha1": "00E19F7EB868EEBC256C1D5734867C377904F302",
+   "region": "Japan",
+   "file": "Thoroughbred Breeder III (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "702446B7",
+   "md5": "CFDBC8777EAD69B628263F7D70FF57F4",
+   "sha1": "A466448804EBEF9C4B20AEAAE7438C51F135BDDC",
+   "region": "Japan",
+   "file": "Hakunetsu Pro Yakyuu - Ganba League (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "C7168FCB",
+   "md5": "AD08A1A6A59B98A363B73195AA6E789A",
+   "sha1": "C73DE83FDE8DE3BA00B1E11178939AEF33AA7F59",
+   "region": "Japan",
+   "file": "Hakunetsu Pro Yakyuu - Ganba League (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5409D4F4",
+   "md5": "CA0AD8E4C09A8E8CB02CC92EAB44C173",
+   "sha1": "511BB35791A6C2D47B6CAE659C4D9741C3C76F23",
+   "region": "Japan",
+   "file": "Zen-Nihon GT Senshuken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

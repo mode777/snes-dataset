@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "68AEA5B8",
+   "md5": "C0593388E3607E6E453C8BF76704689F",
+   "sha1": "6D28A77EAD1EEF3139B0D89EB0AB0599ED3CB70B",
+   "region": "Japan",
+   "file": "Shin Momotarou Densetsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

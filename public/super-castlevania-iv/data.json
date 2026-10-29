@@ -30,6 +30,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B64FFB12",
+   "md5": "094F035993E9724647B61DDCBA1E9A7A",
+   "sha1": "684C1DFAFF8E5999422C24D48054D96BB12DA2F4",
+   "region": "USA",
+   "file": "Super Castlevania IV (USA).sfc"
+  },
+  {
+   "crc32": "5D40CB37",
+   "md5": "01F888E1D1ADE840944FFFD223E1F013",
+   "sha1": "14F37BECE9B419B59911325C4595C975E5746823",
+   "region": "Europe",
+   "file": "Super Castlevania IV (Europe).sfc"
+  }
+ ],
  "gf_score": 4.15,
  "metascore": null,
  "cover_urls": [

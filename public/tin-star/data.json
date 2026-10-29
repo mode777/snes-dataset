@@ -33,6 +33,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "EC26F75B",
+   "md5": "54981549724B1DA80E7F52407F9C83CF",
+   "sha1": "EA8EAA3A726DE927BB0F999BCD2883EEF1E011DC",
+   "region": "USA",
+   "file": "Tin Star (USA).sfc"
+  }
+ ],
  "gf_score": 3.58,
  "metascore": null,
  "cover_urls": [

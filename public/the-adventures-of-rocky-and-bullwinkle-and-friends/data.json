@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "DC8F5734",
+   "md5": "6208ADE9F0FD83AE407179509B4C976D",
+   "sha1": "A0ED3C23FC2C153EE3681C54EEC300B3642BB3C9",
+   "region": "USA",
+   "file": "Adventures of Rocky and Bullwinkle and Friends, The (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

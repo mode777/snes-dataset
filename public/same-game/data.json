@@ -22,6 +22,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "133E1C5B",
+   "md5": "35A61B2EC6E63D16799C09E1957FCDB4",
+   "sha1": "A6AD0F89C3E75327D70AA0F0239C7B06F151E0A4",
+   "region": "Japan",
+   "file": "Same Game (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "10470B58",
+   "md5": "EF37E657E2BB1FBFF7C1C09A184028B5",
+   "sha1": "5F03E04CE7BCA88F8C2C11934056A3A67BFB319B",
+   "region": "Japan",
+   "file": "Return of Double Dragon (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

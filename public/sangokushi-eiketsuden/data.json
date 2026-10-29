@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4C78D5EE",
+   "md5": "62C4DCB5215B80F92B79F71BDCE68366",
+   "sha1": "1D8E0694A9D68255335AC7335F97FBFF52DD68F8",
+   "region": "Japan",
+   "file": "Sangokushi Eiketsuden (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

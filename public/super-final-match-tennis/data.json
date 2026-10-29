@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4F0B96FA",
+   "md5": "84FD0B42B13C90DE42993EDC69871C34",
+   "sha1": "22EF2738AC873B5DED88B90D1C03B5E51814365B",
+   "region": "Japan",
+   "file": "Super Final Match Tennis (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

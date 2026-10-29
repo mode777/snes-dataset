@@ -35,6 +35,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EE13E32D",
+   "md5": "38888B0CB0609E19B09ABC2A1ADFBFEF",
+   "sha1": "4C1B2A49BFC9845E62931B0197C410EFB52A5ABD",
+   "region": "Japan",
+   "file": "Pop'n TwinBee (Japan).sfc"
+  },
+  {
+   "crc32": "588A9707",
+   "md5": "ED9C32231CD480448F355C4ED54B1BAE",
+   "sha1": "04919A4DEB715C417ACAB5E2CC6A4A27D7ECCC37",
+   "region": "Europe",
+   "file": "Pop'n TwinBee (Europe).sfc"
+  },
+  {
+   "crc32": "FDD56EB2",
+   "md5": "31CB3860A435A155D8ADAA4A31314180",
+   "sha1": "28A6524A4F48A4D48BDADEE6E1FC1862DEA0FE00",
+   "region": "Japan",
+   "file": "Pop'n TwinBee (Japan) (Putative Sample) [b].sfc"
+  }
+ ],
  "gf_score": 3.72,
  "metascore": null,
  "cover_urls": [

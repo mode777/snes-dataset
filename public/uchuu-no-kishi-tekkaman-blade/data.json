@@ -35,6 +35,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B380BCD9",
+   "md5": "61ABA6166E143199FD3D058D876BF0FE",
+   "sha1": "F27E7F3866BE20A46080F4448940662951F99745",
+   "region": "Japan",
+   "file": "Uchuu no Kishi Tekkaman Blade (Japan) (Beta).sfc"
+  },
+  {
+   "crc32": "7E107C35",
+   "md5": "303DB6A77D5A4B353B9D96231E91A481",
+   "sha1": "4F7505F76D9094376395C96A19F038E85E71F840",
+   "region": "Japan",
+   "file": "Uchuu no Kishi Tekkaman Blade (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

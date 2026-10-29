@@ -32,6 +32,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "468D8CDD",
+   "md5": "24879E6FB99D030FED75303234EBD958",
+   "sha1": "C4229E655A621C25E28B46BF72CB0A70A4911877",
+   "region": "USA",
+   "file": "Bill Laimbeer's Combat Basketball (USA).sfc"
+  }
+ ],
  "gf_score": 2.32,
  "metascore": null,
  "cover_urls": [

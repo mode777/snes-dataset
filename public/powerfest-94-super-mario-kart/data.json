@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9974B593",
+   "md5": "2E8DC55D0241F01B2265DC6667932B9E",
+   "sha1": "1C53C806D0DD5BAD4B8B9337C0051DDAA0D3355F",
+   "region": "USA",
+   "file": "PowerFest 94 - Super Mario Kart (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

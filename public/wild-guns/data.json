@@ -34,6 +34,43 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "085D8D14",
+   "md5": "94D30063D9B17567D32079E766251569",
+   "sha1": "1ECF28D5F3D2E84E3CC58ED621CB0FC0DD9D70D0",
+   "region": "USA",
+   "file": "Wild Guns (USA).sfc"
+  },
+  {
+   "crc32": "3CA1EC46",
+   "md5": "39275B50182E91BCAD57604FFEA80558",
+   "sha1": "FCE87891005AF88ED1AB63771B5AAFAA4EBF854D",
+   "region": "Japan",
+   "file": "Wild Guns (Japan) (Sample).sfc"
+  },
+  {
+   "crc32": "CEAAC33D",
+   "md5": "3C02EA8540FDADCF015213C3B867901F",
+   "sha1": "552A0E0A17243C230AB881E3145424FD26C677FF",
+   "region": "Japan",
+   "file": "Wild Guns (Japan) (Beta).sfc"
+  },
+  {
+   "crc32": "96F948CB",
+   "md5": "2A81F63573E78AA20DD3D5342CBBB86C",
+   "sha1": "C37B52DAC47A2A2386865B982D64849CC62B6390",
+   "region": "Japan",
+   "file": "Wild Guns (Japan).sfc"
+  },
+  {
+   "crc32": "6E939DD3",
+   "md5": "D19A9D632845E4A654D803D0D4ABD670",
+   "sha1": "DF2C8428CD7093F1B4624D47CCBE868207E7AAF0",
+   "region": "Europe",
+   "file": "Wild Guns (Europe).sfc"
+  }
+ ],
  "gf_score": 4.07,
  "metascore": null,
  "cover_urls": [

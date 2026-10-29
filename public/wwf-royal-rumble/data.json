@@ -33,6 +33,36 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "6C6407B9",
+   "md5": "21C0D831A4A096C91826334BD738C63E",
+   "sha1": "4BDA8E1B3943485143DAFF02DA73338AC88F61FB",
+   "region": "Europe",
+   "file": "WWF Royal Rumble (Europe).sfc"
+  },
+  {
+   "crc32": "E85352D2",
+   "md5": "13C79B8D431A05574B6E939EE4CD6C17",
+   "sha1": "F79E6515A01D864CC82B60F550A9C17FA5166CB0",
+   "region": "Japan",
+   "file": "WWF Royal Rumble (Japan).sfc"
+  },
+  {
+   "crc32": "2101D515",
+   "md5": "7EFB87F54AA3BA558230A704A919E076",
+   "sha1": "CBA77699D6E9B4BC15741BD6C425BDB5C3EB3664",
+   "region": "USA",
+   "file": "WWF Royal Rumble (USA).sfc"
+  },
+  {
+   "crc32": "F9206A29",
+   "md5": "D7478744F1D70105DE4C46B1ACF1A44A",
+   "sha1": "5171DD7395D730FB54F57CCC2A9E85B026723D74",
+   "region": "Europe",
+   "file": "WWF Royal Rumble (Europe) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 3.56,
  "metascore": null,
  "cover_urls": [

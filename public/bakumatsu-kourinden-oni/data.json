@@ -21,6 +21,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1CF3C877",
+   "md5": "D8923C1534106EE90CF6B1E2CCE00C9C",
+   "sha1": "A24EDC1CDB730792F2D1D2A474121FEC24A64CF9",
+   "region": "Japan",
+   "file": "Bakumatsu Kourinden Oni (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

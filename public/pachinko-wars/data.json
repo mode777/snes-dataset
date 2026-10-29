@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8CE8A4EB",
+   "md5": "D454BA5FB7384801C70785A8C48B3B0A",
+   "sha1": "163EC9502F98CC5439EE894DDCC06E87A57541E6",
+   "region": "Japan",
+   "file": "Pachinko Wars (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

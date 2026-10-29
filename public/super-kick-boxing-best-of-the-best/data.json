@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "4EE4DE37",
+   "md5": "1DCE1C5D48FAC7D8ABB81631F85288CF",
+   "sha1": "4063B90DCCB28E304C5DB5A92A84213347C5969B",
+   "region": "Japan",
+   "file": "Super Kick Boxing - Best of the Best (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

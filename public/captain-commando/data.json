@@ -35,6 +35,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "81DB73C7",
+   "md5": "FA1ACA992A1BBE309651FFF64541866F",
+   "sha1": "9C28B15E170A1975ACF0953FF66185A3C5C988AC",
+   "region": "USA",
+   "file": "Captain Commando (USA).sfc"
+  },
+  {
+   "crc32": "5B9AA73A",
+   "md5": "36F54352E7ABA538529913707A734F9E",
+   "sha1": "92A25BAD603B74DF95CCADCAB08015EE77BD671D",
+   "region": "Europe",
+   "file": "Captain Commando (Europe).sfc"
+  },
+  {
+   "crc32": "E5423EB6",
+   "md5": "7090BE7DB70304CEA034BFD77E4D1886",
+   "sha1": "7DD0F042760277E21BD7BCB9512DAB462F9F5985",
+   "region": "Japan",
+   "file": "Captain Commando (Japan).sfc"
+  }
+ ],
  "gf_score": 3.64,
  "metascore": null,
  "cover_urls": [

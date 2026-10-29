@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "81BF8718",
+   "md5": "3F9E086F06A5E9BBDDC2AD22E70F304C",
+   "sha1": "DB1B8B50268125069EA643208681EA6CF15F5EED",
+   "region": "Japan",
+   "file": "Dragon's Earth (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

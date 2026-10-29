@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3276E449",
+   "md5": "EF9460FB2FB4F10C0BEBDFFF4DDDE532",
+   "sha1": "37F2329E72908CE6794A3355AB5A5F842FD93E4D",
+   "region": "Japan",
+   "file": "Magic Johnson no Super Slam Dunk (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

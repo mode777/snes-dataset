@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "959DB484",
+   "md5": "427937B1BC30DD134707C5B1AB8CEC49",
+   "sha1": "482FDC3AED7A61FAF4562169D18A3FB70A333F27",
+   "region": "Japan",
+   "file": "Super Fire Pro Wrestling X (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

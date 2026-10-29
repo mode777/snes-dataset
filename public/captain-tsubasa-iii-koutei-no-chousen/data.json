@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "26B0CEE3",
+   "md5": "3ECAD6D88BEFDE8B2BD96C94927B86B2",
+   "sha1": "CCC69906612478813B4EACA03F9662E28596D69E",
+   "region": "Japan",
+   "file": "Captain Tsubasa III - Koutei no Chousen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

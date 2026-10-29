@@ -21,6 +21,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "53206326",
+   "md5": "8FA43792BE4BBB08ACA9BBE17E672F06",
+   "sha1": "2BFABBCB9EDCFA5418142BC995F2D7E16925EC24",
+   "region": "Japan",
+   "file": "Honke Hanafuda (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

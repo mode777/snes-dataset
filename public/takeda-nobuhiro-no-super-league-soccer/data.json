@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "383FACE4",
+   "md5": "CB983EC82A0825496CFF3F6DB14E40CC",
+   "sha1": "D0D5EDE3DF819B25B17223F740563468C3A842B5",
+   "region": "Japan",
+   "file": "Takeda Nobuhiro no Super League Soccer (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

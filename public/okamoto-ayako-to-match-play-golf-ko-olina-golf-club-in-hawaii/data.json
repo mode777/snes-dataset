@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E6C805A7",
+   "md5": "E546B24C109A7807F50D5311CCE9F45D",
+   "sha1": "B5B85165AEB97D75466A72023C1386FD1B71F688",
+   "region": "Japan",
+   "file": "Okamoto Ayako to Match Play Golf - Ko Olina Golf Club in Hawaii (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

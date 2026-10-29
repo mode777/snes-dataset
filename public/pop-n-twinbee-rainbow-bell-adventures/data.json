@@ -32,6 +32,22 @@
  "languages": [
   "English, German, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "91A03035",
+   "md5": "AA8D6780655A77652CA6E65C89BEFEA3",
+   "sha1": "DBD488549295F65C811542D6F8E4E9EC30D4AB22",
+   "region": "Europe",
+   "file": "Pop'n TwinBee - Rainbow Bell Adventures (Europe).sfc"
+  },
+  {
+   "crc32": "D56D74B3",
+   "md5": "AE9FA79542609DD1561DE3F44A9B997B",
+   "sha1": "156C4C885BF99DC92625C6098669EAA1E0298C88",
+   "region": "Germany",
+   "file": "Pop'n TwinBee - Rainbow Bell Adventures (Germany).sfc"
+  }
+ ],
  "gf_score": 3.67,
  "metascore": null,
  "cover_urls": [

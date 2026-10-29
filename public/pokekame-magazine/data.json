@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F2690947",
+   "md5": "A93560366907F3CFEC2A402D6B6065E4",
+   "sha1": "E905B0BFF21C485F26DEC943D635B1B4BE0DA090",
+   "region": "Japan",
+   "file": "Pokekame Magazine (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

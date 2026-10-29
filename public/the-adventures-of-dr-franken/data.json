@@ -34,6 +34,22 @@
  "languages": [
   "English, German, Spanish, French, Italian, Dutch, Swedish"
  ],
+ "roms": [
+  {
+   "crc32": "E4925F15",
+   "md5": "2A1E41A27C859E9DCBAEA55A6611FFAB",
+   "sha1": "715223E622579F9E94FE00B0E3BDD6D9CE3CA9F9",
+   "region": "Europe",
+   "file": "Adventures of Dr. Franken, The (Europe) (En,Fr,De,Es,It,Nl,Sv).sfc"
+  },
+  {
+   "crc32": "CFAB3BBA",
+   "md5": "30F7BA1F2D2148A3E72880ED00939863",
+   "sha1": "4B2334454A3BE9C4C16B86B8EB4B0A352C67B780",
+   "region": "USA",
+   "file": "Adventures of Dr. Franken, The (USA).sfc"
+  }
+ ],
  "gf_score": 2.13,
  "metascore": null,
  "cover_urls": [

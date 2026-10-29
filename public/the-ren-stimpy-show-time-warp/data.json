@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "5CBF87B5",
+   "md5": "E7EE7307273B241F010F31A9FD9E8B90",
+   "sha1": "63A419386297C693126BDA588A79814F94584837",
+   "region": "Europe",
+   "file": "Ren & Stimpy Show, The - Time Warp (Europe).sfc"
+  },
+  {
+   "crc32": "DE8FE3E8",
+   "md5": "ED49865EBE805577613453317572F5BF",
+   "sha1": "61DCB4B2364DC469A425FED49700F0A1E163AA32",
+   "region": "USA",
+   "file": "Ren & Stimpy Show, The - Time Warp (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

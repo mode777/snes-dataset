@@ -31,6 +31,15 @@
  "languages": [
   "English, Spanish, French"
  ],
+ "roms": [
+  {
+   "crc32": "ADF4FFCE",
+   "md5": "BC4B5B11B75E0D701C8275A6D93574E2",
+   "sha1": "84066D13DE393ABB5978BFC3DBC04F85FDE112E2",
+   "region": "USA",
+   "file": "Rap Jam - Volume One (USA) (En,Fr,Es).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D900D7FC",
+   "md5": "8B26F4E93E0F5951996B8740FCEF8452",
+   "sha1": "C7EFCB566E3E074BA6B119818E319517E3C631F2",
+   "region": "Japan",
+   "file": "Bokujou Monogatari - Dai-2-wa (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

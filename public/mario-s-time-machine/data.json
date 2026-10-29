@@ -34,6 +34,29 @@
  "languages": [
   "English, German"
  ],
+ "roms": [
+  {
+   "crc32": "9C7CF22D",
+   "md5": "B3B68501B890B87074E8AA9E4E7ADF72",
+   "sha1": "D3EEFC2D7412BE346608C09D5C975912106DDA8D",
+   "region": "Europe",
+   "file": "Mario's Time Machine (Europe).sfc"
+  },
+  {
+   "crc32": "1D5A48D3",
+   "md5": "A2B37DCBC9729700137F2381553A25A6",
+   "sha1": "7B20B6235A1C64486946FE71BB62CAC03D6F3F6D",
+   "region": "Germany",
+   "file": "Mario's Time Machine (Germany).sfc"
+  },
+  {
+   "crc32": "5E7397E0",
+   "md5": "F20EE859055845BFFD2B3D1B2E9A4EC6",
+   "sha1": "E5140776ED65480ACE64DEB0B8CBBA23295A9A25",
+   "region": "USA",
+   "file": "Mario's Time Machine (USA).sfc"
+  }
+ ],
  "gf_score": 2.34,
  "metascore": null,
  "cover_urls": [

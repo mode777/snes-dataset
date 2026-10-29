@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "EEBC4170",
+   "md5": "78C2C30DA7853420D63909A161EDB04D",
+   "sha1": "CF07D10E0B8DFAC2FDEF2468E42B4AEDDEA805E4",
+   "region": "Japan",
+   "file": "Daikoukai Jidai II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

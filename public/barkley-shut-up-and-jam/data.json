@@ -30,6 +30,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "726B6C5A",
+   "md5": "C153B93D685C7F9AFABCDE953B97B211",
+   "sha1": "247115A0A9EC9687E621A3AF0DF129012E77B73C",
+   "region": "USA",
+   "file": "Barkley Shut Up and Jam! (USA).sfc"
+  },
+  {
+   "crc32": "29FBD13D",
+   "md5": "7537F4B1BB522C1B65B2A623BBE3982A",
+   "sha1": "00A4567AA3B1A190BF12000F6063118BBC3CB5A1",
+   "region": "Europe",
+   "file": "Barkley Shut Up and Jam! (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

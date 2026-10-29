@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "83B1D39E",
+   "md5": "EBEB6DA7E87C021BD542BB3F5FB22C2C",
+   "sha1": "7CA6A6DCCF7470A1D0C9B66536F439D9868AA0EF",
+   "region": "Europe",
+   "file": "Pro Action Replay MK2 (Europe) (Unl) [b].sfc"
+  },
+  {
+   "crc32": "70D6B036",
+   "md5": "C22E8390832F8E97F3A7472251E46C3E",
+   "sha1": "9FC8E45DBDDB7CBDD54BA3232ADB23160C7A480D",
+   "region": "Europe",
+   "file": "Pro Action Replay MK2 (Europe) (v1.1) (Unl) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

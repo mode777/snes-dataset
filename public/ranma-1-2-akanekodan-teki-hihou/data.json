@@ -34,6 +34,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B473F453",
+   "md5": "9CB721E6323E8B0560D8284A70BC871D",
+   "sha1": "9B5BB4B1D71E9FC566D9F8BB7D16431005D7B701",
+   "region": "Japan",
+   "file": "Ranma 1-2 - Akanekodan Teki Hihou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

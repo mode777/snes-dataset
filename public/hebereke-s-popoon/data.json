@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7A313722",
+   "md5": "258281E69023DFD4F76221C991BF9278",
+   "sha1": "93E75F168CEF31734FA99D1B17FCF7EA8FE1E4A9",
+   "region": "Europe",
+   "file": "Hebereke's Popoon (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

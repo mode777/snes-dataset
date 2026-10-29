@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "CA7A6A71",
+   "md5": "5AE7CDBCB1FB1EF94628FBD397156B9E",
+   "sha1": "0E9935D44907406A5AEC9F2E2903805A91B31282",
+   "region": "Japan",
+   "file": "Kodomo Chousadan Mighty Pockets - Chousa 2 - Hanzai Toshi Big Apple (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

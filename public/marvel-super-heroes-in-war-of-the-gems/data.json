@@ -21,6 +21,22 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "AC0F2C23",
+   "md5": "4D2A07EDA0727B2AFEC957A3D32741E9",
+   "sha1": "5EFB59770AF39636595D5E5EB86ABAF0C5D8309B",
+   "region": "Europe",
+   "file": "Marvel Super Heroes in War of the Gems (Europe).sfc"
+  },
+  {
+   "crc32": "00AF56E8",
+   "md5": "D3C46F884C50F50236639C5F6303EEF7",
+   "sha1": "DF1BC952AC6B947A9CC55E21225E0A87647D1CB9",
+   "region": "USA",
+   "file": "Marvel Super Heroes in War of the Gems (USA).sfc"
+  }
+ ],
  "gf_score": 3.6,
  "metascore": null,
  "cover_urls": [

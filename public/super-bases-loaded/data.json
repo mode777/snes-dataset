@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6B971F1E",
+   "md5": "343F36AF33FCB8E3264BB980374A5039",
+   "sha1": "2B2523AD38D3597902D4600A7A7752319FAEE8A9",
+   "region": "USA",
+   "file": "Super Bases Loaded (USA).sfc"
+  }
+ ],
  "gf_score": 3.41,
  "metascore": null,
  "cover_urls": [

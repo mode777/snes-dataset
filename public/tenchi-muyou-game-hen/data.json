@@ -33,6 +33,15 @@
  "languages": [
   "?"
  ],
+ "roms": [
+  {
+   "crc32": "69D9CAA9",
+   "md5": "2402F5886F141C8C81AD863B1F603975",
+   "sha1": "94C9654A5F5854F0541228334B9EE080B6282EE8",
+   "region": "Japan",
+   "file": "Tenchi Muyou! - Game Hen (Japan).sfc"
+  }
+ ],
  "gf_score": 3.47,
  "metascore": null,
  "cover_urls": [

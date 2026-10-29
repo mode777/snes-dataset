@@ -32,6 +32,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6EF3B9C7",
+   "md5": "8596F1BDBABF96AA39FD29B24917B916",
+   "sha1": "D962FE88BD6D1BBA78386C4F42EC4FD183D8DA9B",
+   "region": "USA",
+   "file": "Super Chase H.Q. (USA).sfc"
+  },
+  {
+   "crc32": "01211C80",
+   "md5": "1C05D1B60AA41166D04DC93894F79D05",
+   "sha1": "138320659A5168F59FF3F8E8BEBD98A0592A271E",
+   "region": "Europe",
+   "file": "Super Chase H.Q. (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

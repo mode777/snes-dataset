@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "471B12B0",
+   "md5": "67F764AFB3CD56CF3D96FB328353D511",
+   "sha1": "D6219E7078F58FFCCBA64C24FC7FA1FC06BDFB30",
+   "region": "USA",
+   "file": "Williams Arcade's Greatest Hits (USA).sfc"
+  },
+  {
+   "crc32": "DC69693F",
+   "md5": "15AF581AF35FA1BBAE2CEE3DE57A1662",
+   "sha1": "85D66209D3FE24D19BF72C762F09FD2D3F30311D",
+   "region": "Europe",
+   "file": "Williams Arcade's Greatest Hits (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

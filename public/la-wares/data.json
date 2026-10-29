@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "866A4BEE",
+   "md5": "8D214F8AC134F2EB580B060C6447544B",
+   "sha1": "8B79A4633EE9D624680F0594492740A48B7B56D5",
+   "region": "Japan",
+   "file": "La Wares (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

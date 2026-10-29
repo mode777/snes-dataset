@@ -29,6 +29,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "383858C7",
+   "md5": "1066CFD0C6BE4DBDFEDE796751E801C5",
+   "sha1": "CB249CF7301BDD985E6FE4BC4C942BF4F86D7D83",
+   "region": "USA",
+   "file": "Uniracers (USA).sfc"
+  }
+ ],
  "gf_score": 3.73,
  "metascore": null,
  "cover_urls": [

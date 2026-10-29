@@ -36,6 +36,29 @@
  "languages": [
   "English, German, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "252A96C7",
+   "md5": "B8B521A743405AEA9E9C2CA9A5C77F9F",
+   "sha1": "B55C6752A2A514F1180ECACD26E894B00CFC2DD1",
+   "region": "USA",
+   "file": "Utopia - The Creation of a Nation (USA).sfc"
+  },
+  {
+   "crc32": "403DB46B",
+   "md5": "5BB4F9F013B8CD61E65FB6F0E07FF4F5",
+   "sha1": "964FC16B5774CF38ED72D37ABBB1D6E1D5B9F68C",
+   "region": "USA",
+   "file": "Utopia - The Creation of a Nation (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "6F702486",
+   "md5": "69B3902862E87CED1EFE9C10F1A7FE08",
+   "sha1": "0CE348E93CDD9821F5627BBD2D75DCADCDAF963B",
+   "region": "Europe",
+   "file": "Utopia - The Creation of a Nation (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

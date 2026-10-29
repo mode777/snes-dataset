@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "7ECAA194",
+   "md5": "A0878D1E96535CCF202A36159ADB54DB",
+   "sha1": "BA1809DF7760E97E6411B94CA49DFFF348DA39B5",
+   "region": "Japan",
+   "file": "NBA Jikkyou Basket - Winning Dunk (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

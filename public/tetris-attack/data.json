@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7417E83B",
+   "md5": "90854FCF608034C654745AE24411EF7A",
+   "sha1": "08E01F9AD5B6148E1A4355C80E2B23D8B2463443",
+   "region": "Europe",
+   "file": "Tetris Attack (Europe) (En,Ja).sfc"
+  },
+  {
+   "crc32": "6C128210",
+   "md5": "44BB94606356F1C0965E12BBC50866B3",
+   "sha1": "2DC56EAB3E70C0910AE47119D8B69F494E6000DF",
+   "region": "USA",
+   "file": "Tetris Attack (USA) (En,Ja).sfc"
+  }
+ ],
  "gf_score": 4.26,
  "metascore": null,
  "cover_urls": [

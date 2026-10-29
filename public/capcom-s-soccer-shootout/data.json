@@ -30,6 +30,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EE314AE5",
+   "md5": "6F805455E3BFF392C51C65FC07EED939",
+   "sha1": "630D8A2D25F7CAA8DBB5C317C1F35707094538EC",
+   "region": "USA",
+   "file": "Capcom's Soccer Shootout (USA).sfc"
+  },
+  {
+   "crc32": "89178BC0",
+   "md5": "43D7B44BD4655316C130C20B1C95A664",
+   "sha1": "7166C05333C85375CD1BF6CA2392B338FB7397F2",
+   "region": "USA",
+   "file": "Capcom's Soccer Shootout (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

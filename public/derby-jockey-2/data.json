@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "32129967",
+   "md5": "02DB4C4683070B1AB20A25C902AEFF01",
+   "sha1": "ED4C6764B8B9DC2AC4D3584D0BA9F4D66F5E12E0",
+   "region": "Japan",
+   "file": "Derby Jockey 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

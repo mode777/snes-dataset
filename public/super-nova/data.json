@@ -20,6 +20,15 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "460DEF25",
+   "md5": "46FE82F2B73B4CFBC517CDE1BD367693",
+   "sha1": "465BD5A08BDBCFB8154522E7F516D3A74E608CAF",
+   "region": "USA",
+   "file": "Super Nova (USA).sfc"
+  }
+ ],
  "gf_score": 3.59,
  "metascore": null,
  "cover_urls": [

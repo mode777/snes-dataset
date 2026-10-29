@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "40019293",
+   "md5": "9020CF6A7126E8BC7F1F59A2E76DBF2B",
+   "sha1": "D8B4D02CDA95858A7E7A47E626C960F4DF6D1480",
+   "region": "Japan",
+   "file": "Ryuuko no Ken 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

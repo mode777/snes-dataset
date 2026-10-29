@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F6D7210F",
+   "md5": "E419BC16949C999E615B42C0721DEEBD",
+   "sha1": "B4C1D6466D1B05FFCCEDAADEF54816FF55627A69",
+   "region": "Japan",
+   "file": "Parlor! Parlor! IV CR (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

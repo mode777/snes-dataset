@@ -33,6 +33,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2D0B20D0",
+   "md5": "975074B66B9A993648142E2BCD8A02CF",
+   "sha1": "EAFEF16AA34E12E99D1A8BBE138B0A0E39DBBEF1",
+   "region": "USA",
+   "file": "Super Smash T.V. (USA).sfc"
+  },
+  {
+   "crc32": "9A502573",
+   "md5": "5B5FD4B8DF731AAF0E80AA67D8EFF420",
+   "sha1": "C96589E1246FD7EF4AD80C202BA9AE680012075D",
+   "region": "Europe",
+   "file": "Super Smash T.V. (Europe).sfc"
+  }
+ ],
  "gf_score": 3.56,
  "metascore": null,
  "cover_urls": [

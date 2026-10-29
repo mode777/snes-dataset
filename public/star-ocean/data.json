@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3DBDFDBF",
+   "md5": "D686BA6DF942084216393ADA009126DC",
+   "sha1": "A616EE3466256482BC0ADC11F1FDA7C30E66EF8D",
+   "region": "Japan",
+   "file": "Star Ocean (Japan).sfc"
+  }
+ ],
  "gf_score": 4.05,
  "metascore": 74,
  "cover_urls": [

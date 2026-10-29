@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0E05E3F0",
+   "md5": "255EA68F89F7D4DAC6724C400B8D17F5",
+   "sha1": "2DB1DAE6BA93C2BF7C9F13EAAE63B962311FE063",
+   "region": "Japan",
+   "file": "Sound Journal for Lovers - Valentine Special Vol. 1 (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

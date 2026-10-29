@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B37BBD38",
+   "md5": "9388C9725A02E8909217CC5088FCC165",
+   "sha1": "C0C272461A7877F86194208BD549244EFFEB3563",
+   "region": "Japan",
+   "file": "Hisshou Pachi-Slot Fun (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -32,6 +32,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "593C10B1",
+   "md5": "2ECE0B2D0A505857105770F792402E76",
+   "sha1": "0DB0F1A07BF783CA63E6BE4CA3F8046CC0B24DBE",
+   "region": "Japan",
+   "file": "Super Kyoutei (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "C6FE7F3A",
+   "md5": "3819AD55DCAB756FEB2798755B84C65D",
+   "sha1": "FB31014E12F106DAF1BAD8653FE69906A5ABE54D",
+   "region": "Japan",
+   "file": "Super Kyoutei (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

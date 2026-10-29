@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "411F4D0A",
+   "md5": "FBD5F3C8BCAA5FB2065B4B3467282F5E",
+   "sha1": "84D3155FE541939E99B5052B684379C2A17FFDAA",
+   "region": "Japan",
+   "file": "Sprinter Monogatari - Mezase!! Ikkakusenkin (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

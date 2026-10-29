@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8FB6A868",
+   "md5": "8D0A9DF2FEEF455EDA5795E1258B58D3",
+   "sha1": "C39FC0B5035EBC7D94BA911F53EC4577AFD1CB81",
+   "region": "Japan",
+   "file": "Jissen! Pachi-Slot Hisshouhou! Yamasa Densetsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

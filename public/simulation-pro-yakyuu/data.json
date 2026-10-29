@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "24C9B924",
+   "md5": "D96EB66A4F15D013D1EDC3BC1E1B04CD",
+   "sha1": "2640161C1C78E4B6C5C6F2E26AC831E789BCED62",
+   "region": "Japan",
+   "file": "Simulation Pro Yakyuu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2624F8BD",
+   "md5": "C98C3F1B998DFBE2FA17FBC7E69834C9",
+   "sha1": "CA8ADD81D1B3F0BFDB46D21AF6217D47DCDE1E64",
+   "region": "USA",
+   "file": "Imperium (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

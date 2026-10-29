@@ -32,6 +32,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "CE842C6D",
+   "md5": "2D854D5E4CF1E6277C12A0DEF1CA49C3",
+   "sha1": "15A52AA47C29E25A7D48A6B2D46E1B1DBE5E76F8",
+   "region": "USA",
+   "file": "College Slam (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

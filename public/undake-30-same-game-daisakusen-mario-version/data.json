@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "83BFE43D",
+   "md5": "68CDD61A3C3F7A30126C1BF1421512B9",
+   "sha1": "35526F00755BB29E2C9C2C08D79E6AC53862FE85",
+   "region": "Japan",
+   "file": "Undake 30 Same Game Daisakusen - Mario Version (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

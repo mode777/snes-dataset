@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B0C89EC1",
+   "md5": "97855B5EF7868F641D5BD5EA215C37FE",
+   "sha1": "E7E13CA42083A4886C799BA763340757A64F4F27",
+   "region": "Japan",
+   "file": "Pachi-Slot Gambler (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

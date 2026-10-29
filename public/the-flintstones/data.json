@@ -34,6 +34,36 @@
  "languages": [
   "English, German, Spanish, French, Italian"
  ],
+ "roms": [
+  {
+   "crc32": "85A8B156",
+   "md5": "5BFF107357BEDE12A3D2D4D2CA9B7488",
+   "sha1": "9EACC69D9656EBC16CB88597FD09BD62F9A5F5A0",
+   "region": "Europe",
+   "file": "Flintstones, The (Europe) (En,Fr,De,Es,It).sfc"
+  },
+  {
+   "crc32": "15143605",
+   "md5": "3865EDFC31B72C287DC202A404B381C0",
+   "sha1": "CFB0FDE9F158E2831C6D3BD7B3C67B3D9C7A0E58",
+   "region": "Europe",
+   "file": "Flintstones, The (Europe) (En,Fr,De,Es,It) (Beta).sfc"
+  },
+  {
+   "crc32": "CC3E9C19",
+   "md5": "9FCBFD8B72B9A2D1A25916BB443BE657",
+   "sha1": "AFA18FCEA3932022084AF6097E7A3914E9EFFF89",
+   "region": "USA",
+   "file": "Flintstones, The (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "3E7B51E0",
+   "md5": "C012D50635485789B5A31B1FA0D51AF6",
+   "sha1": "E52FFB054D849D90151308B3EBDBB7108D9A4DE7",
+   "region": "USA",
+   "file": "Flintstones, The (USA) (En,Fr,De,Es,It).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

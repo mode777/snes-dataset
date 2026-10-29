@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "75E362A6",
+   "md5": "E78225E115A0AD655454CB0E970717E6",
+   "sha1": "A3DB7FE324ACF5248E54FB3D8E7ACF3918BC0FD6",
+   "region": "USA",
+   "file": "Liberty or Death (USA).sfc"
+  }
+ ],
  "gf_score": 3.72,
  "metascore": null,
  "cover_urls": [

@@ -34,6 +34,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "8900F073",
+   "md5": "2450FE375D298F14D6B433C8B8C2A17E",
+   "sha1": "C0B909A4EF97F5F0AAB901C3C79249C11854685B",
+   "region": "Europe",
+   "file": "Chaos Engine, The (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -40,6 +40,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "8B18AC01",
+   "md5": "3C433A8AA73986E1361423303E92785B",
+   "sha1": "BF56F12BDDE3E2233D7FFCAF4825B10D92632B77",
+   "region": "USA",
+   "file": "Battletoads-Double Dragon (USA).sfc"
+  },
+  {
+   "crc32": "043F3773",
+   "md5": "E4327313C7AD91CF435B96BCEA2D19D4",
+   "sha1": "1302D74CAF3DB924510E58868B095066ABDF74F1",
+   "region": "Europe",
+   "file": "Battletoads-Double Dragon (Europe).sfc"
+  }
+ ],
  "gf_score": 3.57,
  "metascore": null,
  "cover_urls": [

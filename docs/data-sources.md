@@ -110,3 +110,17 @@ A bundle, not one file (verified by download):
 **License caveat:** CC0 covers the *dataset packaging*, not the underlying box art
 (copyrighted by publishers). Fine for personal/research use; be careful
 redistributing images publicly.
+
+## Screenshots — feasibility evaluation (2026-10-29)
+
+The dataset currently ships box art only. Two routes close the screenshots gap:
+
+| Route | Effort | Coverage risk | Republish on Pages? |
+|---|---|---|---|
+| **libretro-thumbnails** (`Named_Snaps`) | low — bulk fetch from the GitHub repo (sparse checkout of the SNES dir or raw URLs) | join is title-based again (No-Intro naming) — but our `roms` CRC hashes + existing fuzzy machinery mitigate it | same status as box art (copyrighted, accepted risk) |
+| **IGDB screenshots endpoint** | medium — needs a Twitch developer app (2FA, client credentials, token refresh), 4 req/s | clean IDs, essentially complete | **ToS-gray**: IGDB data may be cached but not bulk-republished — fine locally/in apps, risky on a public CDN |
+
+**Verdict:** feasible either way. Recommended path: libretro `Named_Snaps`
+first (no API key, CRC-join possible via the new `roms` hashes, images would
+land in `<slug>/snap.png`), IGDB later for metadata quality once a Twitch key
+is available. Not started — no consumer needs it yet.

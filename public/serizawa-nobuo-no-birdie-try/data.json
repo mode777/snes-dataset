@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "987A96D0",
+   "md5": "6A7908E4BD1778AB3D4E53F8A6FCE068",
+   "sha1": "08340E93001760EF1668E12A3C8DCBF3CB22A8D2",
+   "region": "Japan",
+   "file": "Serizawa Nobuo no Birdie Try (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

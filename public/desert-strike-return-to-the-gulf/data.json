@@ -35,6 +35,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4CE26787",
+   "md5": "73D7D5B5088B67DE482CFCEA40640D40",
+   "sha1": "B9F0E2CFAC1EE39140CD495C8E9DE99BC6D9D3E1",
+   "region": "USA",
+   "file": "Desert Strike - Return to the Gulf (USA).sfc"
+  },
+  {
+   "crc32": "8EED024A",
+   "md5": "BDB5B1BA9AFE27A7F1D3FE483253566B",
+   "sha1": "4333D7BDBDE75857835D9CD242454F479C6C1600",
+   "region": "Europe",
+   "file": "Desert Strike - Return to the Gulf (Europe).sfc"
+  }
+ ],
  "gf_score": 3.47,
  "metascore": null,
  "cover_urls": [

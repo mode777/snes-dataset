@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "7D3D39F9",
+   "md5": "30E4E3F158DA9A96232EFBA138196E89",
+   "sha1": "8E9CF18CCA9CD641FCFAD36608D3E0D89BA32D0A",
+   "region": "Japan",
+   "file": "Samurai Spirits (Japan).sfc"
+  },
+  {
+   "crc32": "51BFA576",
+   "md5": "4A2BCDAEF8A796C0110AB45E99A6E780",
+   "sha1": "07E73B706259D59B2218D9C801AEADACDB160A2D",
+   "region": "Japan",
+   "file": "Samurai Spirits (Japan) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

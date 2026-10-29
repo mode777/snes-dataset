@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BE3DE834",
+   "md5": "BF5650713EDCD27821149162FF9ACB91",
+   "sha1": "DB7407F394BADC1FC0978CE31073FC7A1A35599F",
+   "region": "Japan",
+   "file": "First Queen - Ornic Senki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

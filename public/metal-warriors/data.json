@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "F2AB92D4",
+   "md5": "1B1282421D39A473F634958C28DCA0D4",
+   "sha1": "BCF0A4D5370547C9D6E5317210E12BDEA3994F15",
+   "region": "USA",
+   "file": "Metal Warriors (USA).sfc"
+  }
+ ],
  "gf_score": 3.78,
  "metascore": null,
  "cover_urls": [

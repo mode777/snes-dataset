@@ -26,6 +26,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A1684B6C",
+   "md5": "8AB720B37649E7AA6F3C27EAB98C9253",
+   "sha1": "8A3C4A376A93555454421B6B660FE8EF9190B270",
+   "region": "Japan",
+   "file": "Dokapon Gaiden - Honoo no Audition (Japan).sfc"
+  },
+  {
+   "crc32": "C436031E",
+   "md5": "EE6D55BB139F9B731700D21B658BA471",
+   "sha1": "EF350FBCB1C43E970742552C29EA48D68BA445E8",
+   "region": "Japan",
+   "file": "Dokapon Gaiden - Honoo no Audition (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

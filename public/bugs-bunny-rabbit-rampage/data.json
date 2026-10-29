@@ -33,6 +33,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "832C0CB6",
+   "md5": "8C78204DDBC95CABA8AA7AD0E81EB654",
+   "sha1": "2E6D9F60DC50EF86F4F01C8825F01FFA0273B44F",
+   "region": "USA",
+   "file": "Bugs Bunny - Rabbit Rampage (USA).sfc"
+  },
+  {
+   "crc32": "91B3DB54",
+   "md5": "6958FCF24A2C287889C617614AB51FA3",
+   "sha1": "92A968195CBABD09F8DC114035F9E959858AD3C2",
+   "region": "Europe",
+   "file": "Bugs Bunny - Rabbit Rampage (Europe).sfc"
+  }
+ ],
  "gf_score": 3.1,
  "metascore": null,
  "cover_urls": [

@@ -20,6 +20,36 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "DDE9A760",
+   "md5": "F763C4C066CAFC151D9F65F8470DE488",
+   "sha1": "05B6B256291403E0ED5BCFAD1BE7FE0ACE81991D",
+   "region": "USA",
+   "file": "Mr. Bloopy - Saves the World (USA) (Proto) (1995-02-16).sfc"
+  },
+  {
+   "crc32": "63885A43",
+   "md5": "EF71D4AB5E99A2932EEC4DCDD029FCAE",
+   "sha1": "1BCC44ACD6297806AD3239EB416BE5217AC1A43C",
+   "region": "USA",
+   "file": "Mr. Bloopy - Saves the World (USA) (Proto) (1994-06-22 Levels-B).sfc"
+  },
+  {
+   "crc32": "6574CEA6",
+   "md5": "787C1F30F3EB09B2E480C473A53EB91F",
+   "sha1": "F1269527BCEAF044E7C5F634CA61C0162B8B33F7",
+   "region": "USA",
+   "file": "Mr. Bloopy - Saves the World (USA) (Proto) (1994-06-21 Levels 000).sfc"
+  },
+  {
+   "crc32": "93F78934",
+   "md5": "3472FDE51129422E6A7841132AD853A6",
+   "sha1": "3EB3A4F9A3E6B86375798689BE894B7301AFB98A",
+   "region": "USA",
+   "file": "Mr. Bloopy - Saves the World (USA) (Proto) (1994-06-21 Level 11-G).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

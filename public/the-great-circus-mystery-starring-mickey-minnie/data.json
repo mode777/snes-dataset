@@ -33,6 +33,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7DE42137",
+   "md5": "2DABCD70AABB6BCB286B398824DA3EE7",
+   "sha1": "D837820634EF9C07B69DE33EA18E06AC09E8BCB0",
+   "region": "Europe",
+   "file": "Great Circus Mystery Starring Mickey & Minnie, The (Europe).sfc"
+  },
+  {
+   "crc32": "1903EA89",
+   "md5": "A4D68C20AC1567834403CDE9D590357F",
+   "sha1": "D90D6CDCAA108738C7D41E1E9D79DA5C8DDC8853",
+   "region": "USA",
+   "file": "Great Circus Mystery Starring Mickey & Minnie, The (USA).sfc"
+  }
+ ],
  "gf_score": 3.68,
  "metascore": null,
  "cover_urls": [

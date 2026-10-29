@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2A075F4B",
+   "md5": "710E19799985DAF3B474E5839B8FB1BF",
+   "sha1": "32EFC8993C8ADD3C6647FA87712C634B71158787",
+   "region": "USA",
+   "file": "Congo - The Movie - Secret of Zinj (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

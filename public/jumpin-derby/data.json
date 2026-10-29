@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A473B7E4",
+   "md5": "53BB8BB2C489E0F24EDECEBFAAD3E547",
+   "sha1": "95556EDB63FE27C0042A5FED789666D1E51A37F2",
+   "region": "Japan",
+   "file": "Jumpin' Derby (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

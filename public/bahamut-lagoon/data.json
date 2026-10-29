@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1B83C440",
+   "md5": "5254A985EDC33928BB8535151A668080",
+   "sha1": "C8BCA249EBD481DFD7BB851C7846844AB70D3003",
+   "region": "Japan",
+   "file": "Bahamut Lagoon (Japan).sfc"
+  }
+ ],
  "gf_score": 4.0,
  "metascore": null,
  "cover_urls": [

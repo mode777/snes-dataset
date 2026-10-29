@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2C85EC10",
+   "md5": "D4A376574BA6E7384132111F8CF55FEB",
+   "sha1": "7F6DC245DE117D29B573D986B0B0C4048679D27D",
+   "region": "Japan",
+   "file": "Rokudenashi Blues - Taiketsu! Tokyo Shitennou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

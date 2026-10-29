@@ -31,6 +31,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "591CBB2D",
+   "md5": "969DF2D76DE8C0A36A13F3EB9D045035",
+   "sha1": "8E870C7273A825854272E0D1B276AA7E0D9FAD41",
+   "region": "USA",
+   "file": "World League Soccer (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

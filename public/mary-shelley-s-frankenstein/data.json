@@ -31,6 +31,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "91415D1E",
+   "md5": "623E2961454D44A07D7D5270CA9D6400",
+   "sha1": "521249ED57C74DC85349AA5E2AFCA587443A7CEF",
+   "region": "USA",
+   "file": "Mary Shelley's Frankenstein (USA).sfc"
+  },
+  {
+   "crc32": "22E1403F",
+   "md5": "7F30127F0B03C2ACCF5F547757678D8B",
+   "sha1": "3ED31BA0AC26DE6A074FBF78C26FEA6406C14A83",
+   "region": "USA",
+   "file": "Mary Shelley's Frankenstein (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

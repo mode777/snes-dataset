@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DC0D8CF9",
+   "md5": "D044F97BE5FC00BD5E02C935F7E88058",
+   "sha1": "90F0BDEAF0151899F96281258FCB30899FBD0D44",
+   "region": "Japan",
+   "file": "Fire Emblem - Seisen no Keifu (Japan).sfc"
+  }
+ ],
  "gf_score": 4.43,
  "metascore": null,
  "cover_urls": [

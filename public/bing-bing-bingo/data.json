@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CCD77B37",
+   "md5": "3EB6E19C0DDD27BD6E7D52B360770D92",
+   "sha1": "0334CDB6D2BB039A27D708AF22A738AE33CC2301",
+   "region": "Japan",
+   "file": "Bing Bing! Bingo (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

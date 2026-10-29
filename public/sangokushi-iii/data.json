@@ -20,6 +20,29 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B4C69EDA",
+   "md5": "E1EC46E56D5797CD29165F8CC4CC65A2",
+   "sha1": "A3566918596DF2A9414413B849208A1B39C33974",
+   "region": "Japan",
+   "file": "Sangokushi III (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "C70F20BE",
+   "md5": "60B56608523E48F29FE209E2C720DC64",
+   "sha1": "4513EB14E32B5127F295D8F71CD8DF9DC0163249",
+   "region": "Japan",
+   "file": "Sangokushi III (Japan).sfc"
+  },
+  {
+   "crc32": "30D3A7F4",
+   "md5": "05D483000FB14DBEA39B63A575E976FD",
+   "sha1": "3C3F8D41DC2ED6BE9F9F2308D0B8B7CFC9961DEA",
+   "region": "Hong Kong",
+   "file": "Sangokushi III (Hong Kong).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

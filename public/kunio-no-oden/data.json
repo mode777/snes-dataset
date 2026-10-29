@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D8939A59",
+   "md5": "8A07445CA86A337D8EED7D7FAA3CB375",
+   "sha1": "9A037792B793011C259B88685502D34B3A8A5D85",
+   "region": "Japan",
+   "file": "Kunio no Oden (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

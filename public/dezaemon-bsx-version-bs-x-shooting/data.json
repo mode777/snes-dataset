@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5A9BE5A8",
+   "md5": "7328C333CC54AEE986B981F816E30830",
+   "sha1": "E52D59E800C17C678711A681D3308F0804C238E0",
+   "region": "Japan",
+   "file": "Dezaemon BSX Version - BS-X Shooting (Japan) (En) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

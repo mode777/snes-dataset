@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "71C631AA",
+   "md5": "EFE8A1E8FBD0C05D1F515E2227E48D11",
+   "sha1": "4C8F357BD86F9ED909D6A89AFB0DBE74913FB333",
+   "region": "Japan",
+   "file": "Kamaitachi no Yoru (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

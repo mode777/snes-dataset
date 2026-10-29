@@ -26,6 +26,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8477C613",
+   "md5": "FCAF0E0F42459776B702D6BEB0812C9D",
+   "sha1": "96728A8427EDAA5700E5E79093FC2A5D00382610",
+   "region": "Japan",
+   "file": "Super Gussun Oyoyo (Japan) (Sample).sfc"
+  },
+  {
+   "crc32": "BC405DEF",
+   "md5": "EE8A29ACD8B2082B8C809836256CD756",
+   "sha1": "C17DE01A6EDB3A2F52F335164EF04447107E795F",
+   "region": "Japan",
+   "file": "Super Gussun Oyoyo (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

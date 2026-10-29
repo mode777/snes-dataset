@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E611A4DC",
+   "md5": "4C26DD37BF27DCE5144EA063E977B178",
+   "sha1": "A42C98B9A94538102C507C1188234B48DD79BEBD",
+   "region": "Japan",
+   "file": "Super Baken Ou '95 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

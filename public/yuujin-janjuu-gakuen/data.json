@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D6FECE51",
+   "md5": "B15E535313A6BA0CA75DBBBB77C7526F",
+   "sha1": "63DC15C44EA78ADF5ECDD832D90DA8F0F90F4F64",
+   "region": "Japan",
+   "file": "Yuujin Janjuu Gakuen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

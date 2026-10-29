@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "005C77F5",
+   "md5": "83B4AFD631462DF1980B87EC379C32F7",
+   "sha1": "CC1259497606BA73617D5A277B23CB5DC5E6FD27",
+   "region": "Japan",
+   "file": "Columns (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

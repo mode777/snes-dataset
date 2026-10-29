@@ -34,6 +34,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "C061F0A8",
+   "md5": "27A26ED8B125A68508AF6549BE26CD0E",
+   "sha1": "068A10899BCF3E4DD9007D6EB34BAFE695B327AC",
+   "region": "Europe",
+   "file": "Putty Squad (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

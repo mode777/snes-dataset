@@ -34,6 +34,29 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B144D588",
+   "md5": "288555A2AAFB42B3D44D7B2663D1A00B",
+   "sha1": "CCF547DD741BD98762662FDFFD964DF5B5791092",
+   "region": "Europe",
+   "file": "Toy Story (Europe) (En,Fr,De).sfc"
+  },
+  {
+   "crc32": "D4AF7724",
+   "md5": "FBCE0804AA393EE5B6155B1E7553A5C1",
+   "sha1": "89A226AD54A003964AEB343FA10E2F3355FB8F55",
+   "region": "Japan",
+   "file": "Toy Story (Japan).sfc"
+  },
+  {
+   "crc32": "8328822B",
+   "md5": "DF1D99115CE4A386054B511B62CD5CC6",
+   "sha1": "FFADFEA439CB5CA3B84911AF6B7BFEE478D9F33C",
+   "region": "USA",
+   "file": "Toy Story (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

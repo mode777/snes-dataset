@@ -24,6 +24,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B5292147",
+   "md5": "54FA195D43DF834A229C283A67AC7644",
+   "sha1": "F13365792C97C423C8689A143B62F85D5F6AD3D1",
+   "region": "Japan",
+   "file": "Yadamon - Wonderland Dreams (Japan).sfc"
+  },
+  {
+   "crc32": "9424BBFA",
+   "md5": "0679C0B29156CE06E51BB341738557AC",
+   "sha1": "99024EAFE49FDE8F1FE26F0A5E927CCB3E0E548D",
+   "region": "Japan",
+   "file": "Yadamon - Wonderland Dreams (Japan) (Sample).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

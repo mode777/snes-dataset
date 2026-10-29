@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "D1AE87BE",
+   "md5": "9EBDFA25AA896E5E3D3AEC1DD8D9DB07",
+   "sha1": "AECC2EEFE059A5914095506CECAEF52CCEF27862",
+   "region": "USA",
+   "file": "Andre Agassi Tennis (USA).sfc"
+  },
+  {
+   "crc32": "D9879A39",
+   "md5": "16607EA102E62021F127D081D97CF24B",
+   "sha1": "0916428789C5CDFD7B92504F7AE5DC7782F9F9E5",
+   "region": "Japan",
+   "file": "Andre Agassi Tennis (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

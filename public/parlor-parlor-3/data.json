@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5699582C",
+   "md5": "4159F4741DDF6C0D8091BBFAEDECA4D3",
+   "sha1": "1D853AEB1E997C4998B58609D79350195B011B88",
+   "region": "Japan",
+   "file": "Parlor! Parlor! 3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

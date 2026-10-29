@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B5113CCB",
+   "md5": "C8C154E5534F3896A2D82EDDD49DE05E",
+   "sha1": "47D94A325A87FD476A3B1E0850222F359B081998",
+   "region": "Japan",
+   "file": "Traverse - Starlight & Prairie (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

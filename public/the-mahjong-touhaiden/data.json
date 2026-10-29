@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BF355DED",
+   "md5": "AC794348694F82D64C0E5567D9CE8A59",
+   "sha1": "A8A5AE1487C07C84EF6DC61A61396AF43DA8D6F3",
+   "region": "Japan",
+   "file": "Mahjong Touhaiden, The (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

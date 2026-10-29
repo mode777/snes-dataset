@@ -24,6 +24,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BA1DBA22",
+   "md5": "BF4658E6AB66EC4F5388E17D63B33157",
+   "sha1": "00B56744AF9B5147FF38E72F12206EE0EA06ED67",
+   "region": "Japan",
+   "file": "Super Nazo Puyo - Rulue no Roux (Japan).sfc"
+  },
+  {
+   "crc32": "B9C04215",
+   "md5": "6C0A214C290E2298408031B15DD45973",
+   "sha1": "7158E6D005266D841523A9BDA7BFD4AC97271BC5",
+   "region": "Japan",
+   "file": "Super Nazo Puyo - Rulue no Roux (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

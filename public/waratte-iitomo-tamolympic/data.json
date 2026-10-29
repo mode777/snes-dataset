@@ -20,6 +20,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "14CC9C86",
+   "md5": "1BB97FB16D10EF06AA2ACE3EF589A0C7",
+   "sha1": "031BB1A01A3067F71A8372AFD5543328F72F9198",
+   "region": "Japan",
+   "file": "Waratte Iitomo! Tamolympic (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -29,6 +29,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F77ACA0A",
+   "md5": "A2280CEC6E0C79B4C4A03E48D8C8F72D",
+   "sha1": "38F4262DD38E28A09E4B2C3BE0DB2CDE328F73B1",
+   "region": "Japan",
+   "file": "Dark Kingdom (Japan).sfc"
+  },
+  {
+   "crc32": "7F1AAEBC",
+   "md5": "018C08EAC545388667FF962F7DEDBAB5",
+   "sha1": "51457523FF65C4DE976A2F0F58668DE0404C68DC",
+   "region": "Japan",
+   "file": "Dark Kingdom (Japan) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

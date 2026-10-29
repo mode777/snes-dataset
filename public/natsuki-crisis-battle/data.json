@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "97727818",
+   "md5": "A6D7097E5B3720707C9BC2C3FFB846BE",
+   "sha1": "CE568CC556BD293866452B338AB746AB517D15DF",
+   "region": "Japan",
+   "file": "Natsuki Crisis Battle (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

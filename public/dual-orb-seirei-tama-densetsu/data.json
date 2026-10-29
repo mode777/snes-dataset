@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9D7BD920",
+   "md5": "BA4B6F2C3195DF69497F1F32FE697746",
+   "sha1": "25FE4C1AF89A7D09FFEFAB7D568D15865F153467",
+   "region": "Japan",
+   "file": "Dual Orb - Seirei Tama Densetsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

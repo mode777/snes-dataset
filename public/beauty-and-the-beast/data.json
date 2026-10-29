@@ -31,6 +31,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "956E183C",
+   "md5": "509AB1888290B42DDE397C02E4371576",
+   "sha1": "A8943FD4911B67F3DDF25FB05E7CE049775D0F62",
+   "region": "USA",
+   "file": "Beauty and the Beast (USA).sfc"
+  },
+  {
+   "crc32": "FFF9DEAB",
+   "md5": "A60D94E4CEE19DD176D3B8E094A5CEF3",
+   "sha1": "4129133E5BA6752321EC3CDD61A1B4FF740928F1",
+   "region": "Europe",
+   "file": "Beauty and the Beast (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "2E70C844",
+   "md5": "BB020351B395958C60AAAC53CA0233E7",
+   "sha1": "9CBDF2A2C8E136768130F04B060589D90964C1FB",
+   "region": "Europe",
+   "file": "Beauty and the Beast (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

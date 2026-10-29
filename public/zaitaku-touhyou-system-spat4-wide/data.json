@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "798A252F",
+   "md5": "5632DFDBF37DE6756BE5458CB0D8B225",
+   "sha1": "01E4D23294DFB6C471EC6555C29FE7AFD85B73F9",
+   "region": "Japan",
+   "file": "Zaitaku Touhyou System - SPAT4-Wide (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

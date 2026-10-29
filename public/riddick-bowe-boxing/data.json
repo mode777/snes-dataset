@@ -29,6 +29,22 @@
  "languages": [
   "English, Spanish"
  ],
+ "roms": [
+  {
+   "crc32": "A967A041",
+   "md5": "757A4F4BCB7FA4781EBD083E2E0CD71C",
+   "sha1": "495FB0A8CF44EED9833ED6345E5C8B35EDE01A23",
+   "region": "USA",
+   "file": "Riddick Bowe Boxing (USA).sfc"
+  },
+  {
+   "crc32": "A9A1836A",
+   "md5": "8D4794A6AF6FC3A363A749D02ECDC838",
+   "sha1": "3A3FCA771AE4567F119563BE629A0B5FCB7F420A",
+   "region": "Japan",
+   "file": "Riddick Bowe Boxing (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

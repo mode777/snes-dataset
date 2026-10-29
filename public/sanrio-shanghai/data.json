@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4CBB22DF",
+   "md5": "AF32668FDE9680F51DF53B9AC51C1EFE",
+   "sha1": "B064A132B0E37D8B3FA0991E03CB1B006D73C01E",
+   "region": "Japan",
+   "file": "Sanrio Shanghai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

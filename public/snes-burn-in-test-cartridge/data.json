@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "7BC95444",
+   "md5": "0E5F788550CA1FAD8D4E5034D9964307",
+   "sha1": "C0BD7EC6A96740320D655C386E47AF9631646766",
+   "region": "Unknown",
+   "file": "SNES Burn-in Test Cartridge (Unknown) (Rev D).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

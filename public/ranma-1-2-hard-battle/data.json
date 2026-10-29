@@ -34,6 +34,15 @@
  "languages": [
   "English, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8E4DADCD",
+   "md5": "070582BB3CB2C3501738D91DB530E2B8",
+   "sha1": "E64A9798DE444C1872B4C943B564BA880CCB8464",
+   "region": "USA",
+   "file": "Ranma 1-2 - Hard Battle (USA).sfc"
+  }
+ ],
  "gf_score": 3.13,
  "metascore": null,
  "cover_urls": [

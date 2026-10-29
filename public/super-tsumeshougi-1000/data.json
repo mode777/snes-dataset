@@ -26,6 +26,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F9AE2B76",
+   "md5": "5E991D3A42686A716B92A8B802CC6D85",
+   "sha1": "F76C98924DDAE1A4EED4A1DA47A09CB01DEE177C",
+   "region": "Japan",
+   "file": "Super Tsumeshougi 1000 (Japan).sfc"
+  },
+  {
+   "crc32": "AF7AAF89",
+   "md5": "B506B22863043424DC00AA547541AB7F",
+   "sha1": "76A5428A5A59849004C0B0F8BEC1D6027E097E4A",
+   "region": "Japan",
+   "file": "Super Tsumeshougi 1000 (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

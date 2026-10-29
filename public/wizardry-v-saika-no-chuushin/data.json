@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "547CF7B9",
+   "md5": "0ACE69E60F682BE7F42F8EFF5BE4196B",
+   "sha1": "358879670B8FAD1C94F52A5C6BE37039B417B2AA",
+   "region": "Japan",
+   "file": "Wizardry V - Saika no Chuushin (Japan).sfc"
+  },
+  {
+   "crc32": "A04F1544",
+   "md5": "FF44467B4A669C118168FFC7CA6919CB",
+   "sha1": "AE5064743D4DBA2C4618BA51FBCCE1D25B4E5B41",
+   "region": "Japan",
+   "file": "Wizardry V - Saika no Chuushin (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

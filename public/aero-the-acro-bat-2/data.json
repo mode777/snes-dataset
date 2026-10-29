@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "242B8181",
+   "md5": "8CDAE9F521E26EBECDFF4148AD3D0C88",
+   "sha1": "1597E2CFDFDB0AB4671C4F3549208A5B11D52A8A",
+   "region": "Europe",
+   "file": "Aero the Acro-Bat 2 (Europe).sfc"
+  },
+  {
+   "crc32": "8C05ED51",
+   "md5": "85B449F98AF752E3255A256B6A89BB16",
+   "sha1": "2DDBFF8F227024806CA456C0FFE96DEF2713A9AA",
+   "region": "USA",
+   "file": "Aero the Acro-Bat 2 (USA).sfc"
+  }
+ ],
  "gf_score": 3.57,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F3A6C574",
+   "md5": "9DA4E7CB3815962583AE5DEA60593D04",
+   "sha1": "7E00EC9F839E794AF834D89826E2810F315AF9D6",
+   "region": "Japan",
+   "file": "Jelly Boy 2 (Japan) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

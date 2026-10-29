@@ -21,6 +21,15 @@
  "languages": [
   "zh"
  ],
+ "roms": [
+  {
+   "crc32": "561BBD96",
+   "md5": "2A5B7B6DDD3B0516CABCC5645F452140",
+   "sha1": "7D22466EBF2D3A33E4567D6F23756A286DDCF9C7",
+   "region": "Hong Kong",
+   "file": "Taiwan 16 Mahjong II - Horoscope Girls Edition (Hong Kong) (Unl) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "16A6C451",
+   "md5": "EAF0C4A670412D83DE6F83717ACCCDC1",
+   "sha1": "309421044B3500CDBE4F0757441968E4317F8987",
+   "region": "Japan",
+   "file": "GoodsPress - 7 Gatsugou (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

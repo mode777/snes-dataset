@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D5F808CA",
+   "md5": "6155C5FA196E06660C2ECF66EBB63D43",
+   "sha1": "4036190D0C9DBF49E46BD1B4C0164088934E734D",
+   "region": "Japan",
+   "file": "Choukou Gasshin Xardion (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

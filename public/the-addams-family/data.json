@@ -37,6 +37,29 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "82497F19",
+   "md5": "1687307B1E71AEDFEBCF60810CA93DA6",
+   "sha1": "BC67E9A2632F751472E9F91E7E8ED2046A043DAC",
+   "region": "Europe",
+   "file": "Addams Family, The (Europe) (En,Fr,De).sfc"
+  },
+  {
+   "crc32": "CD80351C",
+   "md5": "9523A150ECD1203152304FCB49DE9B7C",
+   "sha1": "D5EAFC54DD0A237B1C3F00D02882772033E95365",
+   "region": "Japan",
+   "file": "Addams Family, The (Japan).sfc"
+  },
+  {
+   "crc32": "2E8034AB",
+   "md5": "278A88ADB028A8E4C279B9B468B592ED",
+   "sha1": "3F6863985A8C6CFAD71867C2349AA0AC79CB1274",
+   "region": "USA",
+   "file": "Addams Family, The (USA).sfc"
+  }
+ ],
  "gf_score": 3.23,
  "metascore": null,
  "cover_urls": [

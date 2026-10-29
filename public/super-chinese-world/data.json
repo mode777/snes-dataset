@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "52FFF0BF",
+   "md5": "5344A31EDF1E32C49BE89C5156211A5D",
+   "sha1": "8A7DC8EC9CC78C477251E7DE24E5BD973370D3F2",
+   "region": "Japan",
+   "file": "Super Chinese World (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

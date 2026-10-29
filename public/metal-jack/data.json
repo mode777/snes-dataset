@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "BF5A26FB",
+   "md5": "23431BF7C8ED8175F22433F43BC1E5BA",
+   "sha1": "4C34312CFD2A8ECBA64365E3B78D2C34D9DB80BA",
+   "region": "USA",
+   "file": "Metal Jack (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "24230807",
+   "md5": "5837085DC684E7790D835B548C3E90B2",
+   "sha1": "444A4001511C80F99D9CD52866828CCC668724D2",
+   "region": "USA",
+   "file": "D-Force (USA).sfc"
+  }
+ ],
  "gf_score": 2.93,
  "metascore": null,
  "cover_urls": [

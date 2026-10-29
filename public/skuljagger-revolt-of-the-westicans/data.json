@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "E58A6D01",
+   "md5": "665F1A4A60EE1F70FEF1CDE6D028FE4F",
+   "sha1": "605E4DBAEDA59437F2330D50E3FF58C7FD9550EA",
+   "region": "USA",
+   "file": "Skuljagger - Revolt of the Westicans (USA).sfc"
+  },
+  {
+   "crc32": "F320424A",
+   "md5": "A659ADE23DB34EC43600618C4F3F3211",
+   "sha1": "208F2BEFD90661102D128614057427602D45B205",
+   "region": "USA",
+   "file": "Skuljagger - Revolt of the Westicans (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

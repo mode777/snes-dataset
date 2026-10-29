@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C38BB5BF",
+   "md5": "82999C4C09B58923E7C4A9043A9CC76B",
+   "sha1": "0A186BBEF47B48EF11AA045AE274B81B263A1F8B",
+   "region": "Japan",
+   "file": "Super Koukou Yakyuu - Ikkyuu Nyuukon (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

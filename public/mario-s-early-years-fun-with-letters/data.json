@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "480B043A",
+   "md5": "18DB415DE1A6EAF478852BD1F1F63C3A",
+   "sha1": "D88373E0DC6F21711EE103D787DC5369F322D15E",
+   "region": "USA",
+   "file": "Mario's Early Years - Fun with Letters (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

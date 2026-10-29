@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "EFC8463C",
+   "md5": "C2C9B9E07A3E45781CCFB699571575B3",
+   "sha1": "864FD8F36ADBC61AAFBA12AAD7BECD1621CF8926",
+   "region": "Japan",
+   "file": "BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

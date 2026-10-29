@@ -29,6 +29,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "C62F138E",
+   "md5": "8FD430B359727413249BE76B6B1AC6EA",
+   "sha1": "E4F8CCE3AEAEE09AEA050FA3D3E71493C16662D8",
+   "region": "USA",
+   "file": "Dream TV (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "78AEA085",
+   "md5": "8A9B1C6639C10C0539C148A4F658CE17",
+   "sha1": "705AA6CBDAA78081D182302138D7212B900E5FB1",
+   "region": "USA",
+   "file": "Dream TV (USA) (Beta) (Alt 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -26,6 +26,22 @@
  "languages": [
   "English, German, Spanish, French, Italian, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C8E80D55",
+   "md5": "2810C6F1191E23ED158AE4237D0519FE",
+   "sha1": "0E59ECA683A35E61C6182936C45701573F88F355",
+   "region": "USA",
+   "file": "Super Solitaire (USA) (En,Fr,De,Es,It).sfc"
+  },
+  {
+   "crc32": "933228F3",
+   "md5": "0EDF50A2FC6957B29291030B002762C3",
+   "sha1": "D653FA6DDC880CCE73FDEE588214BFBEDC32D83E",
+   "region": "Europe",
+   "file": "Super Solitaire (Europe) (En,Fr,De,Es,It) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

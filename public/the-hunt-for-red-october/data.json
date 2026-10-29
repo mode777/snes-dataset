@@ -39,6 +39,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "346E153F",
+   "md5": "ABFC19C314061100CA0D706830C570D5",
+   "sha1": "347EF9B6B5854704EDC03C7D89FADB05E89EC4B2",
+   "region": "Europe",
+   "file": "Hunt for Red October, The (Europe).sfc"
+  },
+  {
+   "crc32": "66ED877A",
+   "md5": "2335CDC8CD98BE81D8EAEF1CE73B951F",
+   "sha1": "976FE1DD9B16C314C60A21A36F9E292017C73948",
+   "region": "Europe",
+   "file": "Hunt for Red October, The (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "C796E830",
+   "md5": "47D7B7BA3419B894002B0402685A0960",
+   "sha1": "C8AFADB64BA542E61D6E3B5B5101E782C262DDC0",
+   "region": "USA",
+   "file": "Hunt for Red October, The (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

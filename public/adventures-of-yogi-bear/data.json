@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7448D45C",
+   "md5": "4E974BB549016F59A807B7D11240FB37",
+   "sha1": "2F6950F1330709EA4DE33995DF6B9B9877ECE587",
+   "region": "USA",
+   "file": "Adventures of Yogi Bear (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

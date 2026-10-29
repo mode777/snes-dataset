@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "6C043BF1",
+   "md5": "2662E0BF4E6F8E6EC03C545D58E8D904",
+   "sha1": "F6FFB06F27E92AD66CFC35A310065ABF3F299532",
+   "region": "Japan",
+   "file": "Dinowars - Kyouryuu Oukoku e no Daibouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

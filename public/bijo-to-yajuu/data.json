@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B319C546",
+   "md5": "A5B7310F99982A66A13968ED22811D1D",
+   "sha1": "396FCAB2DC8656B8D75DF1643FC83868D76CE6C4",
+   "region": "Japan",
+   "file": "Bijo to Yajuu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

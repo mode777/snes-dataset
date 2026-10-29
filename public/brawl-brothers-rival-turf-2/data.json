@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "410CEE18",
+   "md5": "2136EFF1AAE62A8A6672F24F3A0EB0EA",
+   "sha1": "3C613AAA25D26148FFD36E65A9696EF69DCE5D9F",
+   "region": "Europe",
+   "file": "Brawl Brothers - Rival Turf! 2 (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

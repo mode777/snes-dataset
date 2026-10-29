@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "BEB16E2D",
+   "md5": "37A3400B6C9DDB34D8B47301817DE59E",
+   "sha1": "9FEF44A31C73B505D267868FF2091AEA4C4F584C",
+   "region": "Europe",
+   "file": "Blazing Skies (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

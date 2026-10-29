@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9EB5C153",
+   "md5": "78C0B329757D2C0850A1AEB9CE5727B6",
+   "sha1": "83F2B48ECACA85CC2E32AE7EBE85F697F18289A8",
+   "region": "Japan",
+   "file": "Pachi-Slot Monogatari - PAL Kougyou Special (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9D3E313F",
+   "md5": "9DF7471059E5BDD708F1E868142F02B6",
+   "sha1": "14F5A0F9284365169A82A6902EB80B1886EFCF0D",
+   "region": "Europe",
+   "file": "Operation Starfi5h (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

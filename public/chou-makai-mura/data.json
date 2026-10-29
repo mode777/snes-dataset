@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "CF8A8DBA",
+   "md5": "3E049D7632B49CA2D1CD231FA805A9A6",
+   "sha1": "35025845C2D54D262218EBE50161705B207C7F3D",
+   "region": "Japan",
+   "file": "Chou Makai Mura (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C81A7B07",
+   "md5": "BB457A174348E3E0D6A05026C1C57F22",
+   "sha1": "07BAF0370F1D5B2457E6AFFF2C256EADC142AB96",
+   "region": "USA",
+   "file": "Rocky Rodent (USA).sfc"
+  },
+  {
+   "crc32": "C7A0F949",
+   "md5": "4FC3AC94832298676754687E07450558",
+   "sha1": "A021A30FEE0D2E750B5EF4FF3A304C20BB70583D",
+   "region": "Europe",
+   "file": "Rocky Rodent (Europe) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

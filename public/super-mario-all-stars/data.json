@@ -32,6 +32,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "925FFA69",
+   "md5": "669EFC8AA7365B5854D3653AB5598DC9",
+   "sha1": "CC41F4B229DF01A5ADF44C63B6C60E766A73C1AD",
+   "region": "Europe",
+   "file": "Super Mario All-Stars (Europe).sfc"
+  },
+  {
+   "crc32": "925637C7",
+   "md5": "53C038150BA00D5F8D8574B4D36283F2",
+   "sha1": "C05817C5B7DF2FBFE631563E0B37237156A8F6B6",
+   "region": "USA",
+   "file": "Super Mario All-Stars (USA).sfc"
+  }
+ ],
  "gf_score": 4.4,
  "metascore": 70,
  "cover_urls": [

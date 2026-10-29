@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F953B79A",
+   "md5": "94E65120D25C607490E629A98BAC3B23",
+   "sha1": "9CBAE4303EE451A5E250A35CA77489D8B80978C8",
+   "region": "Japan",
+   "file": "AIII S.V. - A Ressha de Ikou 3 - Super Version (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

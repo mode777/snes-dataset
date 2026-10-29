@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5F86ADA5",
+   "md5": "DCEC157FB9E6BF1BDA288996B0EF75D9",
+   "sha1": "AFB45F14F4C5B31D419A1166044877B12A0A3707",
+   "region": "Japan",
+   "file": "Magna Braban - Henreki no Yuusha (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

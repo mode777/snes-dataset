@@ -35,6 +35,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "DA8A5AD5",
+   "md5": "36ED90476AD19556A8C79D94B8D95296",
+   "sha1": "B2430A8CBFC0AF5B7FA6869622BE7193AF4899A3",
+   "region": "Japan",
+   "file": "Super High Impact (Japan).sfc"
+  },
+  {
+   "crc32": "2EED70FB",
+   "md5": "BC933325357BA64FEBC4B6541039D479",
+   "sha1": "ABB0BB1C0AFF18D50C0B782980C7F4C2C5A7D91C",
+   "region": "USA",
+   "file": "Super High Impact (USA).sfc"
+  },
+  {
+   "crc32": "6C771CBD",
+   "md5": "C14580726305AF2F1C273B0101BE5CBF",
+   "sha1": "A4B749231991EB44B5EE8D9E979A33D3B84EC97C",
+   "region": "USA",
+   "file": "Super High Impact (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

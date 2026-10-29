@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "54901522",
+   "md5": "AAF6E70555D20C72F0C6092809153D2A",
+   "sha1": "29C0B3B20DA445F715E1A8DF489EFC8E407EE7C1",
+   "region": "Japan",
+   "file": "Battle Pinball (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

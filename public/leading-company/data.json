@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A931C7C9",
+   "md5": "B40F9A20D286E156B697079A9435749D",
+   "sha1": "7EB0B5920E56D9F370192883BE3CC26CB3B7AEB9",
+   "region": "Japan",
+   "file": "Leading Company (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

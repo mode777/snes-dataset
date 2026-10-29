@@ -22,6 +22,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "4C4E5F4A",
+   "md5": "173ED5858C54F9D9A57F8B470F4EA176",
+   "sha1": "239AB10D88B3B60A631E9AE91339BB815840BD60",
+   "region": "USA",
+   "file": "Math Blaster - Episode 1 (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

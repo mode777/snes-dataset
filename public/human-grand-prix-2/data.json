@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B62236A9",
+   "md5": "B9B07652C4AE77A5434D29B35FAF7ADC",
+   "sha1": "1844122BBE0548C786BC7A078BDF3369C1C98E93",
+   "region": "Japan",
+   "file": "Human Grand Prix 2 (Japan) (Sample).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

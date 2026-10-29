@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1E4B3858",
+   "md5": "F26C450B854F919AF4B8D7B58D2822FB",
+   "sha1": "15095FB980399ABD407D2E6F799331877FB02B3E",
+   "region": "Japan",
+   "file": "NFL Pro Football '94 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

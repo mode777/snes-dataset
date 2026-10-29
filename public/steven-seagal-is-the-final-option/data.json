@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "59E83AAF",
+   "md5": "FB3B39407ACD0403D6A084B10DA6F082",
+   "sha1": "9180140BEF126EBDE6C0151AECE37405D76F3660",
+   "region": "USA",
+   "file": "Steven Seagal Is The Final Option (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

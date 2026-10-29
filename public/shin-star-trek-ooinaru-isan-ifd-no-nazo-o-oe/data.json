@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "34F09544",
+   "md5": "0884428522F5A25C488773D685146C0B",
+   "sha1": "203D6085FE0D7510EAB5FB8205CBE3E559D77491",
+   "region": "Japan",
+   "file": "Shin Star Trek - Ooinaru Isan IFD no Nazo o Oe (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

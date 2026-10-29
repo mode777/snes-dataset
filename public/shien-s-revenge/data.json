@@ -29,6 +29,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C56D245F",
+   "md5": "4F31B73E90638A98315F10A579378226",
+   "sha1": "03AB36ECBAF50F4C4D2AB040790AA0BE9D1774E7",
+   "region": "USA",
+   "file": "Shien's Revenge (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "5BB2E6C3",
+   "md5": "5C58A7CE84BD3C1B3044563CCAD01E58",
+   "sha1": "A2D864AE07A5F94678437F0FFCE7BADD39ABADA2",
+   "region": "USA",
+   "file": "Shien's Revenge (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

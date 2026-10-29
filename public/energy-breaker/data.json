@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "74D89D96",
+   "md5": "B0010547A9C7812326DA17B66E167004",
+   "sha1": "3C9FA95193170428BC4A705E45DB7FE5D9EA1E2C",
+   "region": "Japan",
+   "file": "Energy Breaker (Japan).sfc"
+  }
+ ],
  "gf_score": 4.0,
  "metascore": null,
  "cover_urls": [

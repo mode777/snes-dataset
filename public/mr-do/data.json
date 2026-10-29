@@ -34,6 +34,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CCEBB6E8",
+   "md5": "8F78BAE5A538946277C960F71FED904B",
+   "sha1": "B81D186807854094718A7CDC6F8FC927A081DA0E",
+   "region": "Europe",
+   "file": "Mr. Do! (Europe).sfc"
+  },
+  {
+   "crc32": "3847CF64",
+   "md5": "3A70E3AEBECDA72BE7D0EAF7CEFA4C78",
+   "sha1": "3DD5B75AFE94E28F9C0D82A18FC2B2ECCA100B64",
+   "region": "Japan",
+   "file": "Mr. Do! (Japan).sfc"
+  },
+  {
+   "crc32": "1C1025E2",
+   "md5": "D56A5B300959AB7109E7D854C916FA49",
+   "sha1": "34CF15E802FEAFDA7ED224B69E1F9F2CA692857A",
+   "region": "USA",
+   "file": "Mr. Do! (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

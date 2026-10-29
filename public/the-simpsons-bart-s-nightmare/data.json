@@ -30,6 +30,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "ED1C03C2",
+   "md5": "5F8C3FD37130D9B80F1D98D1B7034161",
+   "sha1": "60021B603F6E778171A2DFAE2A0FCBC3EA723C38",
+   "region": "USA",
+   "file": "Simpsons, The - Bart's Nightmare (USA).sfc"
+  },
+  {
+   "crc32": "87328A40",
+   "md5": "FB992889669C10F98854B1C816B65E9D",
+   "sha1": "9F2FA618BB1630267995658B7A3835C39DC0B3BB",
+   "region": "Europe",
+   "file": "Simpsons, The - Bart's Nightmare (Europe).sfc"
+  }
+ ],
  "gf_score": 2.74,
  "metascore": null,
  "cover_urls": [

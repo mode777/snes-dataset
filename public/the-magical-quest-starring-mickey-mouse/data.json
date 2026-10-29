@@ -34,6 +34,50 @@
  "languages": [
   "English, German, Italian, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "10874C70",
+   "md5": "649C377A7479C898B1933962C4BADAAD",
+   "sha1": "30E75CF0749A99E88F6C710B44C1B36F0EC0F4A5",
+   "region": "USA",
+   "file": "Magical Quest Starring Mickey Mouse, The (USA).sfc"
+  },
+  {
+   "crc32": "E295009F",
+   "md5": "374B780EB8252EAA3D459D39ACB05EC9",
+   "sha1": "89DB73911485E7868CA8329BB463FE114AFDD021",
+   "region": "Germany",
+   "file": "Magical Quest Starring Mickey Mouse, The (Germany) (Rev 1).sfc"
+  },
+  {
+   "crc32": "57D5F20B",
+   "md5": "4B303432CFCB16042B4479426B36CD9E",
+   "sha1": "775360533038A2AEFEC395988390E018972A4DF4",
+   "region": "Germany",
+   "file": "Magical Quest Starring Mickey Mouse, The (Germany).sfc"
+  },
+  {
+   "crc32": "51A7D63C",
+   "md5": "C954A0E17237E073DE42A2C86D3BEF36",
+   "sha1": "6487CE257ED888AE24D5634F7AF5E780ED2ED7A7",
+   "region": "Europe",
+   "file": "Magical Quest Starring Mickey Mouse, The (Europe).sfc"
+  },
+  {
+   "crc32": "D5CAF96A",
+   "md5": "27D81DB1C72E2C0BDE68307892A517CF",
+   "sha1": "54C1BBF80B12C17983B830383F6BF79E2CBDC99E",
+   "region": "Europe",
+   "file": "Magical Quest Starring Mickey Mouse, The (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "0ACA9F18",
+   "md5": "E351CF168E726A38B0A2ECA02940A6CE",
+   "sha1": "02FE6C3D66D5EF2DC2DAAE83D77880977E77E131",
+   "region": "USA",
+   "file": "Magical Quest Starring Mickey Mouse, The (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.78,
  "metascore": 70,
  "cover_urls": [

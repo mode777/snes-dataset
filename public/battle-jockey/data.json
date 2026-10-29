@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D79C1EC5",
+   "md5": "CBEED25156DB82FE6E87C3D57FFAA37D",
+   "sha1": "1470DA5FC6424477DF3A863D1DA64FC26368D2B0",
+   "region": "Japan",
+   "file": "Battle Jockey (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

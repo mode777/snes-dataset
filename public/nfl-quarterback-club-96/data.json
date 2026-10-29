@@ -34,6 +34,36 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "B87ABC7E",
+   "md5": "D0AC8ECF45A99C310370FAC78933B9DF",
+   "sha1": "B13D6E5F98C7340D71DDF6855A81438200C958C0",
+   "region": "USA",
+   "file": "NFL Quarterback Club 96 (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "9708ABE3",
+   "md5": "FCD126A28F94A44314CA3B5E0A826A14",
+   "sha1": "62DFAFDFF7FEA26DD77B4E8CF6F5E898894EC50D",
+   "region": "Europe",
+   "file": "NFL Quarterback Club 96 (Europe).sfc"
+  },
+  {
+   "crc32": "3A4C0DE6",
+   "md5": "D67A3E33268937C39C764BB8B2EAF220",
+   "sha1": "DB582254119A83D34943CD276AC649330F894627",
+   "region": "Japan",
+   "file": "NFL Quarterback Club 96 (Japan).sfc"
+  },
+  {
+   "crc32": "E557689F",
+   "md5": "D036D484F2F2A50A45B34F45FC6FD360",
+   "sha1": "E118E5A9D4C1DF53483947036DB0DAF1766DF7C8",
+   "region": "USA",
+   "file": "NFL Quarterback Club 96 (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

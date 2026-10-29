@@ -19,6 +19,15 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "7537D8D7",
+   "md5": "A8711C9185C7A6C52B863567B188CE1E",
+   "sha1": "18B946459AF12A8D35914A5BFB62AC4CF21F9266",
+   "region": "USA",
+   "file": "Ninjawarriors (USA).sfc"
+  }
+ ],
  "gf_score": 4.05,
  "metascore": null,
  "cover_urls": [

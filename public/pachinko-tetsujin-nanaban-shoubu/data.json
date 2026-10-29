@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A1EBB364",
+   "md5": "7B9F09FA8323959B56E43880B23FA43A",
+   "sha1": "51582D23C7D5720042BA800F5D310365586D3841",
+   "region": "Japan",
+   "file": "Pachinko Tetsujin - Nanaban Shoubu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

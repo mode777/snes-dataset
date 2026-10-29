@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "843506BB",
+   "md5": "3DB3EE440A5667474BAB8779BDE5B89B",
+   "sha1": "1C3ECDD32DE0A5AA1604A1BCEDE99EDA35D7FA4A",
+   "region": "Japan",
+   "file": "Motteke Oh! Dorobou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

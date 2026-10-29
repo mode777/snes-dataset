@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "906D505E",
+   "md5": "1333FA2BC1D80B413418D87E7B27FA66",
+   "sha1": "20EBDD1E76627B361139AE7D95EE265D238E1215",
+   "region": "Japan",
+   "file": "Ramos Ruy no World Wide Soccer (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

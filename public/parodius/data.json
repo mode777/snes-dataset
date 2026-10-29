@@ -31,6 +31,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6FFA308C",
+   "md5": "59146E26B4FD75D74F953037868DEFA9",
+   "sha1": "C561DB29EB48E814549AA6E967FDE7DE32E3F922",
+   "region": "Europe",
+   "file": "Parodius (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

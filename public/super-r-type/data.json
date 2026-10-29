@@ -34,6 +34,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "8B22C830",
+   "md5": "CFCD1FF3DA5309E5021EFAA58012058D",
+   "sha1": "44B0A3B66756B04EBC5753F78613FEADB85D6B74",
+   "region": "USA",
+   "file": "Super R-Type (USA).sfc"
+  },
+  {
+   "crc32": "4E872C8B",
+   "md5": "07ED293977B29DFFEF1B30DD90531CCA",
+   "sha1": "2991D74A36FB815CF98469CD2539881DC6021566",
+   "region": "Japan",
+   "file": "Super R-Type (Japan).sfc"
+  },
+  {
+   "crc32": "1631740D",
+   "md5": "6DB650D56A9D0FD2AC81838EDF36FEF0",
+   "sha1": "8E51FFF3B4D065099788BFA69DAF27D41B4BFCF5",
+   "region": "Europe",
+   "file": "Super R-Type (Europe).sfc"
+  }
+ ],
  "gf_score": 3.46,
  "metascore": null,
  "cover_urls": [

@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4ED29F52",
+   "md5": "D7D0075575D9A5793E20B5E52B86D544",
+   "sha1": "C452005AD97A81426DC03A22CB0654DD65FFFCC4",
+   "region": "Japan",
+   "file": "Shinri Game, The - Akuma no Kokoroji (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

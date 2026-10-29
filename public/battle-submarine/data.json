@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DA2AD2FE",
+   "md5": "1BFBF7AAD4611933512FF6E93BA3BA1E",
+   "sha1": "21131DCF2CDED93DC8D4E604B36F51F3AB5C2A9D",
+   "region": "Japan",
+   "file": "Battle Submarine (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

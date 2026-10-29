@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CF2C0800",
+   "md5": "1782DE60D82E1368E9C56054304885D0",
+   "sha1": "7391ABBB8CC98827EC5FFA9C6122FE5E6B81D43E",
+   "region": "Japan",
+   "file": "Naki no Ryuu - Mahjong Hishouden (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

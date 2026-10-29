@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D514BDE6",
+   "md5": "B8A7AE8720A8590DD4DBC23528974A63",
+   "sha1": "69C501A457EB7931A5C47C04BADAAD88D806B4F7",
+   "region": "Japan",
+   "file": "Digital Magazine Busters BS - 5-10 Gou (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

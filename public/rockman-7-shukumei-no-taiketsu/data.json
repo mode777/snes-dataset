@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "31F18DDA",
+   "md5": "E9C126CBD7C68C9E985DC501F625B030",
+   "sha1": "A907F7ECE8A8D89126C466079712282D675486EF",
+   "region": "Japan",
+   "file": "Rockman 7 - Shukumei no Taiketsu! (Japan).sfc"
+  },
+  {
+   "crc32": "EE05A1AF",
+   "md5": "28DE2793D6A51715DA1757B5C0D4314D",
+   "sha1": "1702BD66DB2860FF2C399AF34D62FC1BA59B32BD",
+   "region": "Japan",
+   "file": "Rockman 7 - Shukumei no Taiketsu! (Japan) (Sample).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

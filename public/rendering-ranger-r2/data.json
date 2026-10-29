@@ -34,6 +34,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "8FB5AC86",
+   "md5": "057F03C63B9CDB4B1E7DD340982F2640",
+   "sha1": "F40AC25A6CDFF1E8384723CAD0290BA42FD50BDA",
+   "region": "Japan",
+   "file": "Rendering Ranger R2 (Japan).sfc"
+  }
+ ],
  "gf_score": 4.1,
  "metascore": null,
  "cover_urls": [

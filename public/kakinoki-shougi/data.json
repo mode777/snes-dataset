@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BC1A265F",
+   "md5": "E61DF94FFFDD1583554BCD8FCB5200DA",
+   "sha1": "659DB940BB26A655972E4D62D00C5C6D3FDAE76C",
+   "region": "Japan",
+   "file": "Kakinoki Shougi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "60BECEED",
+   "md5": "87DC54D475D014D6DBCDC36285F6FDAF",
+   "sha1": "404C0422D14F89BE41D30E85ACF3677F665E28C6",
+   "region": "Japan",
+   "file": "Turf Memories (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

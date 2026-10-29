@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "4EE9EE99",
+   "md5": "A62D08AFD924004F11341F06A80D5F4A",
+   "sha1": "B80F7179D73482E944A4F3C2F030B38BD91A74B8",
+   "region": "Europe",
+   "file": "Castlevania - Vampire's Kiss (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

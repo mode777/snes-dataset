@@ -20,6 +20,29 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2A9966C0",
+   "md5": "5F0B2EB58FBDA7F2ED56E9DE5D3D7D64",
+   "sha1": "1560651300A09B2724365B0B558D13BA320099F9",
+   "region": "Europe",
+   "file": "Soccer Kid (Europe) (En,Fr,De,Es,It).sfc"
+  },
+  {
+   "crc32": "A39C674E",
+   "md5": "8ECFEAD4B959813A34D1DBD00E872F4D",
+   "sha1": "44481022ECC20D521A0D4B1EBE80A6F915B6EF58",
+   "region": "Japan",
+   "file": "Soccer Kid (Japan).sfc"
+  },
+  {
+   "crc32": "D2938BDF",
+   "md5": "FC3387CFC5097AE33DD34E014A8974D5",
+   "sha1": "0FEBE3FADF3C6BEE5408C56140FB4A87949701B8",
+   "region": "Japan",
+   "file": "Soccer Kid (Japan) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

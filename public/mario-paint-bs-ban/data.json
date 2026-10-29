@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "38830419",
+   "md5": "B7A3A52806804DEB16DCED42CA70B84F",
+   "sha1": "A577620B938725AD578A997B095F974C156EC54A",
+   "region": "Japan",
+   "file": "Mario Paint - BS Ban (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CF276C80",
+   "md5": "4296780E368C36B59DE3C17AE9148F87",
+   "sha1": "C3160041006B6F7C8CA8294EFCF9C7C18A2C6743",
+   "region": "Japan",
+   "file": "Power of the Hired (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

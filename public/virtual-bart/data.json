@@ -36,6 +36,36 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "7801AD97",
+   "md5": "9611DC53A742F3D1316E64009C8306D2",
+   "sha1": "BFEF41138865CEF0A33CA6412C5FAEDBD898492B",
+   "region": "Europe",
+   "file": "Virtual Bart (Europe).sfc"
+  },
+  {
+   "crc32": "B5A561BB",
+   "md5": "22137A2223CFC876E301685CE5BF8804",
+   "sha1": "6AA8187488592CF0136D1D005EA242F01125BCC2",
+   "region": "Japan",
+   "file": "Virtual Bart (Japan).sfc"
+  },
+  {
+   "crc32": "5D0ADDDA",
+   "md5": "924A6A1BEAA3C4EAF419F8C4AC53DDE7",
+   "sha1": "53B51D1C137D4DA59680A59834D1B0133DA87EAF",
+   "region": "USA",
+   "file": "Virtual Bart (USA).sfc"
+  },
+  {
+   "crc32": "14ECC04E",
+   "md5": "ADB02D66B83490342DF0662577228830",
+   "sha1": "D8E19E5EFA3D4B90BC239A6BE416A95894DD9449",
+   "region": "USA",
+   "file": "Virtual Bart (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 2.68,
  "metascore": null,
  "cover_urls": [

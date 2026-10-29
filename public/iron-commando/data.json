@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D967299D",
+   "md5": "8A64DF7014C099C8847872D531D6DFCC",
+   "sha1": "D667E3012F5964D3BC46BFC931F3A3BDDA7B2FE6",
+   "region": "Europe",
+   "file": "Iron Commando (Europe) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

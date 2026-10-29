@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1D20CAC2",
+   "md5": "07C99D9CA6184E0A5D07F48EC30E5E8E",
+   "sha1": "C6A42F7240EF8898BFEDFE0F938F9D86CFDAAEE5",
+   "region": "Japan",
+   "file": "J.League Super Soccer (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

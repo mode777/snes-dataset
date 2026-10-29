@@ -29,6 +29,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "88D54085",
+   "md5": "F478E1EDDC87352ED35205D6CFE017CE",
+   "sha1": "BEDDD101739F5E1A6E3ABD1542CCCD341E6E5263",
+   "region": "USA",
+   "file": "Monopoly (USA) (Rev 1).sfc"
+  },
+  {
+   "crc32": "D6DA408E",
+   "md5": "C9B52F5FBD52C36076506C33EBF526CD",
+   "sha1": "F5D758DBE7DE0610BE87CAB90898CCEAF65985C7",
+   "region": "USA",
+   "file": "Monopoly (USA).sfc"
+  },
+  {
+   "crc32": "42FE51E1",
+   "md5": "B8DD7FB154CA5C91BD427BEDD5E9371F",
+   "sha1": "F8363D4B2B392C9A4762A56B37BF8DD7D424C92F",
+   "region": "Japan",
+   "file": "Monopoly (Japan).sfc"
+  }
+ ],
  "gf_score": 3.07,
  "metascore": null,
  "cover_urls": [

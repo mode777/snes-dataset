@@ -32,6 +32,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1B33D93C",
+   "md5": "78DFA978EECE514649AC1F16E3024704",
+   "sha1": "EFBDACC0FAA6E73887E654ED5DB8A3541E2EC00C",
+   "region": "Japan",
+   "file": "Hakunetsu Pro Yakyuu '94 - Ganba League 3 (Japan).sfc"
+  },
+  {
+   "crc32": "A4E9B958",
+   "md5": "80D2B8A291EA96C334E5B6D1A74FBB0A",
+   "sha1": "1B4FAFBFEC1C3DFDD1DDEB7D4A9BCDB467D71D52",
+   "region": "Japan",
+   "file": "Hakunetsu Pro Yakyuu '94 - Ganba League 3 (Japan) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

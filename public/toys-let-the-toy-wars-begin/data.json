@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2A8A0B71",
+   "md5": "0BB20F827B0B0D82C01FE5D14575B9BB",
+   "sha1": "E0A41E66729C18A2EB254457F3BB795639DB2F45",
+   "region": "Europe",
+   "file": "Toys - Let the Toy Wars begin! (Europe).sfc"
+  },
+  {
+   "crc32": "EFEBF501",
+   "md5": "A568D9A73A7C8C6AB1E2E88669C81D6D",
+   "sha1": "9164D8ADFCC0ED348A6770B3B365DC026114AEE9",
+   "region": "USA",
+   "file": "Toys - Let the Toy Wars begin! (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

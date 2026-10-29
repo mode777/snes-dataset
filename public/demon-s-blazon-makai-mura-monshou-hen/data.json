@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D5BAE4FF",
+   "md5": "8D8CA261098052DC9E307CCA9E34789B",
+   "sha1": "170B51497678EE4F33C94E2BB9BC728F68C31823",
+   "region": "Japan",
+   "file": "Demon's Blazon - Makai Mura Monshou Hen (Japan) (Sample).sfc"
+  },
+  {
+   "crc32": "287F10CC",
+   "md5": "98A7294710502951F4A4BC92A703ACD8",
+   "sha1": "A6DC126A1DA593D900B33EB74CF33403075E9525",
+   "region": "Japan",
+   "file": "Demon's Blazon - Makai Mura Monshou Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2EA12170",
+   "md5": "ACFFE81652ADA62E58B079F9BFFB6FF4",
+   "sha1": "80215A04136F5C2E994F0A8E91DB39A0BB01DC5B",
+   "region": "Japan",
+   "file": "Parlor! Parlor! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "47ABB4DF",
+   "md5": "84971155FD7E6E64CC508DD7373173FB",
+   "sha1": "0B45B1B14C31C84503CDD432615B29404B4BA7BC",
+   "region": "Japan",
+   "file": "Nice de Shot (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

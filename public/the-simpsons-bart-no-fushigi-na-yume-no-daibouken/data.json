@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "6598790A",
+   "md5": "C878153174C1B65F0DE95AFEE6155796",
+   "sha1": "9098E80122EAE6503A5C15169A48993302242EB6",
+   "region": "Japan",
+   "file": "Simpsons, The - Bart no Fushigi na Yume no Daibouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

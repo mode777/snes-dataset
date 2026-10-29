@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "ABA0A671",
+   "md5": "D03A4AAD95C75A133564FE754CEED39B",
+   "sha1": "CA52E3798425010067E856520880231FADBEB5FF",
+   "region": "Japan",
+   "file": "Lode Runner Twin - Justy to Liberty no Daibouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

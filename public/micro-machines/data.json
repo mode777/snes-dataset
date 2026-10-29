@@ -40,6 +40,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "364E68BB",
+   "md5": "B447B20F378BFF1342338C5C1ACC0E53",
+   "sha1": "282C4F27D08A9DEF36DC4E7FE71DEAAF0A5F2B43",
+   "region": "USA",
+   "file": "Micro Machines (USA).sfc"
+  },
+  {
+   "crc32": "B4F64A09",
+   "md5": "02061638A5E74746FD24E5AA9C1F1F60",
+   "sha1": "7BDE6792EE0E1136165850D0AC543E7A07141ED5",
+   "region": "Europe",
+   "file": "Micro Machines (Europe).sfc"
+  }
+ ],
  "gf_score": 3.4,
  "metascore": null,
  "cover_urls": [

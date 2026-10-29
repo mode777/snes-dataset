@@ -32,6 +32,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AC5116D9",
+   "md5": "1B977C1E3AF2666A1D348CC0B9CC4A94",
+   "sha1": "02B7A15F1C712503A36FC927AD688ADE9AD8A0E5",
+   "region": "USA",
+   "file": "Krusty's Super Fun House (USA) (Rev 1).sfc"
+  },
+  {
+   "crc32": "5FD03CAC",
+   "md5": "46C90DCB8EFC0E1C89BCDCDB969146F3",
+   "sha1": "94B7B3B7D37059BA5182FBBD24DC8A44C8CA6F23",
+   "region": "USA",
+   "file": "Krusty's Super Fun House (USA).sfc"
+  },
+  {
+   "crc32": "FD44DF1F",
+   "md5": "9C4BF518B07A2914E1E12794289EB264",
+   "sha1": "ED52DBB46D9D9602F870CEE9F004EE42CDC9FA26",
+   "region": "Europe",
+   "file": "Krusty's Super Fun House (Europe).sfc"
+  },
+  {
+   "crc32": "F605A5E4",
+   "md5": "273250971219D09855CAAFAA3588C562",
+   "sha1": "B5DFFB0CB1A890B7441ACC58DA84EC9B4322CCC2",
+   "region": "Europe",
+   "file": "Krusty's Super Fun House (Europe) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 2.89,
  "metascore": null,
  "cover_urls": [

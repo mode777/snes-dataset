@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "99331ECB",
+   "md5": "05739C59DA11F5822F9E446AAAB4277E",
+   "sha1": "9ABED3A02B0692B1613475B31E16DF62D1C8E558",
+   "region": "USA",
+   "file": "Miracle Piano Teaching System, The (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

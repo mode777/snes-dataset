@@ -19,6 +19,29 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C86872D3",
+   "md5": "FD7ADDD338EAD1937262E8D1B198BD09",
+   "sha1": "48B0C96010BBECBDEAEDB37475B5114276F1CB5A",
+   "region": "USA",
+   "file": "Super Buster Bros. (USA).sfc"
+  },
+  {
+   "crc32": "3C3C2562",
+   "md5": "E2EE6C2657249D712B837CA1C4BCC477",
+   "sha1": "013C053A287A22D065CB06360139C82CD5E76CAB",
+   "region": "USA",
+   "file": "Super Buster Bros. (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "9526D1AA",
+   "md5": "CD3B82704652014771AD1B86798676A2",
+   "sha1": "EA228ED04F101DFAF5D865D2AEB839BD509BD3CA",
+   "region": "USA",
+   "file": "Super Buster Bros. (USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 3.62,
  "metascore": null,
  "cover_urls": [

@@ -27,6 +27,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7C20ACCB",
+   "md5": "0F60E8F44B47FD2993C1F40279471C12",
+   "sha1": "0AEE41B4A21271092E811234E4B2432F3A231252",
+   "region": "Japan",
+   "file": "Super Famista 4 (Japan).sfc"
+  },
+  {
+   "crc32": "8EA0DE90",
+   "md5": "BE9549B8E4091A9C3EDBC0A8BDCA72EA",
+   "sha1": "7951C6BD66D563712E6CA57291DD9321AD00DE96",
+   "region": "Japan",
+   "file": "Super Famista 4 (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

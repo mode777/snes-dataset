@@ -21,6 +21,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F7047C67",
+   "md5": "2E215AFEDD60988ABB043F4A7F5E10F4",
+   "sha1": "831283076E34787C1E59F5EB5F0621978B089CF3",
+   "region": "Japan",
+   "file": "Pachinko Maruhi Hisshouhou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

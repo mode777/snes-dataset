@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "256D4BC4",
+   "md5": "657E3A80F21B7CA939A2522E6D7F5C4E",
+   "sha1": "578911B49827FC2FA020AF75A9B1E88F963CB2BA",
+   "region": "Japan",
+   "file": "Best Shot Pro Golf (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

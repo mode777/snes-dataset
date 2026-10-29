@@ -17,6 +17,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "FA698C31",
+   "md5": "C9A7BDEDD316EB187EF2154EC6C17126",
+   "sha1": "6675E639623EB8ADD706D56D9733E8CA776B77D4",
+   "region": "USA",
+   "file": "Home Improvement - Power Tool Pursuit! (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

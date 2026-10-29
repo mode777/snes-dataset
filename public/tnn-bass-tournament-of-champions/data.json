@@ -28,6 +28,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C367B683",
+   "md5": "BC1ECC206489D59D9AC247127C6ED546",
+   "sha1": "80475F5DCBED2746945E413DDED3C629BAD33820",
+   "region": "USA",
+   "file": "TNN Bass Tournament of Champions (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

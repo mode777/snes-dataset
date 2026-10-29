@@ -29,6 +29,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "92954723",
+   "md5": "B6BDF612E5D7997F980C139598D429D4",
+   "sha1": "2528BB8524B12FB74140838E49640CF989A5B79F",
+   "region": "Japan",
+   "file": "Winning Post 2 - Program '96 (Japan).sfc"
+  },
+  {
+   "crc32": "F1F43896",
+   "md5": "586E2566263265FEA283E02DCC8FD715",
+   "sha1": "C79DAB10464A3292A0D54CB6FFC366A003605972",
+   "region": "Japan",
+   "file": "Winning Post 2 - Program '96 (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

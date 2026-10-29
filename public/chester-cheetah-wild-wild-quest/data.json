@@ -28,6 +28,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "BC27BCA6",
+   "md5": "4CD2BC92082A33CA686052EA3EA1C8D4",
+   "sha1": "BB162D28D631FC327EBC9BF87E22DC7E718CB52A",
+   "region": "USA",
+   "file": "Chester Cheetah - Wild Wild Quest (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "557FE962",
+   "md5": "E6F8389A1B055406D69812D4E901178B",
+   "sha1": "C9CD39C331BEE418F846A26AE5B2DF238E0ED198",
+   "region": "USA",
+   "file": "Chester Cheetah - Wild Wild Quest (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

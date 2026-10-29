@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EBCC121C",
+   "md5": "2A41D00E04F6B3D785320867ED63F351",
+   "sha1": "C6DD17E74E02F35AA86471D84974701B98CCECDD",
+   "region": "Japan",
+   "file": "Dynamic Stadium (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

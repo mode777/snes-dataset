@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2D25A9E1",
+   "md5": "E16CB90295703D01771A87EA51F29EA0",
+   "sha1": "5D1B73634BAA29462AB878A8AA6E75FACEC96FFB",
+   "region": "Europe",
+   "file": "Prince of Persia 2 (Europe).sfc"
+  },
+  {
+   "crc32": "50581D9D",
+   "md5": "8EB86C3A88C4FAA2CB17E53854F665E2",
+   "sha1": "5A56447AF32AAEAA919D2BD22394A515DFCFA6DE",
+   "region": "USA",
+   "file": "Prince of Persia 2 (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

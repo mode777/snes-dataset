@@ -29,6 +29,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "D4874966",
+   "md5": "06C57E81AEF26ECD5FF50843B131174E",
+   "sha1": "A32B98885A9502A9B4262F4221AD75B155294B20",
+   "region": "USA",
+   "file": "Sports Illustrated Championship Football & Baseball (USA).sfc"
+  },
+  {
+   "crc32": "ED9AA0E1",
+   "md5": "B2174F137CA4B06E27686BD871C586F4",
+   "sha1": "0871060A91F939010283EC230750F378D1E7D8AD",
+   "region": "USA",
+   "file": "Sports Illustrated Championship Football & Baseball (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

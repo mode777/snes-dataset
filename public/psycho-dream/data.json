@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5C145E98",
+   "md5": "853F63B03B39F509B726B96AF426138C",
+   "sha1": "C8A348B4E8DB0D44EFE0ED40B3E566D842E6C635",
+   "region": "Japan",
+   "file": "Psycho Dream (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

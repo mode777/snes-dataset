@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "261E0EA1",
+   "md5": "B4A9FDBE7CFFA3E10E4FFA98DF278361",
+   "sha1": "ABC0CE32F7001746D907073D5606D39DED4623BE",
+   "region": "Japan",
+   "file": "Jikkyou World Soccer 2 - Fighting Eleven (Japan) (Beta).sfc"
+  },
+  {
+   "crc32": "E7559D73",
+   "md5": "686098F1C6873EA20D42E7C4B6AD569F",
+   "sha1": "0B04F163016B382D1FBD86CED98A8826E95F1299",
+   "region": "Japan",
+   "file": "Jikkyou World Soccer 2 - Fighting Eleven (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

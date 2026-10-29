@@ -36,6 +36,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "55964905",
+   "md5": "96FDC424EA530DBF7C9C52E5A88D326E",
+   "sha1": "75F7E64F658D3EA2F5AD81E12E6BD3B5DAC8585B",
+   "region": "Japan",
+   "file": "Cool Spot (Japan).sfc"
+  },
+  {
+   "crc32": "9A14C57D",
+   "md5": "134D0053768F484F6D63B8762B58441E",
+   "sha1": "24D386A2F707A970F13B7598E6D5C60EAA67C717",
+   "region": "USA",
+   "file": "Cool Spot (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "281244B0",
+   "md5": "CDC1A5D7CC32B4CB72879CBD54969080",
+   "sha1": "AF97DAEE852340D9D14E5E9BB633BEC870420B1C",
+   "region": "Europe",
+   "file": "Cool Spot (Europe).sfc"
+  },
+  {
+   "crc32": "44E60E58",
+   "md5": "F0D0E5294F70B037BDF1B619DB41EBD4",
+   "sha1": "F5EF9D9367191C4FCDB84C4D11A322A9D03F89D2",
+   "region": "USA",
+   "file": "Cool Spot (USA).sfc"
+  }
+ ],
  "gf_score": 3.39,
  "metascore": null,
  "cover_urls": [

@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "23FC2BFC",
+   "md5": "054ECBA340B1E525BF276031C46F5421",
+   "sha1": "45C5EA60180D3AE6D550C16192AF15A872A57623",
+   "region": "Japan",
+   "file": "Picross NP Vol. 3 (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

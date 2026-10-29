@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "72D49E26",
+   "md5": "66300A556307E703145F8FDD1D0A0198",
+   "sha1": "394E2E8B608B0CFDB9DF6925773F784B8AC6A377",
+   "region": "Japan",
+   "file": "Super Famista (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D44CEB2F",
+   "md5": "749CDF9C3F0A6A9F0966127E50A62E5D",
+   "sha1": "3E39A072878737F0D285D426F500A0D3169A5E36",
+   "region": "Japan",
+   "file": "Sotsugyou Bangai Hen - Nee Mahjong Shiyo! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D66B9AE5",
+   "md5": "F909ED4BD61446B31D1C7D9F0BD841F9",
+   "sha1": "ADABEB096ED522B1F3C60738B2C132BBE4E884F2",
+   "region": "Japan",
+   "file": "Koutetsu no Kishi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

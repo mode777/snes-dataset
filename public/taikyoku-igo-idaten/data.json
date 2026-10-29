@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B5DB72B6",
+   "md5": "AF01C01B15E3775A184D233BC613EC71",
+   "sha1": "AB83BF94B9830E7335090F00980A16934E3ACFF7",
+   "region": "Japan",
+   "file": "Taikyoku Igo - Idaten (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

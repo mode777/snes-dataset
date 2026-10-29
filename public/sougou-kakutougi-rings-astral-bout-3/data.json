@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3F09A8D9",
+   "md5": "E2673BC3CC34173B90AD6D50216F842B",
+   "sha1": "456BAB151B879CBD3CB490B586D91A60EA81272A",
+   "region": "Japan",
+   "file": "Sougou Kakutougi Rings - Astral Bout 3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

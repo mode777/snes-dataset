@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "73453C46",
+   "md5": "5D449F0CD4402138466476B0882398A6",
+   "sha1": "12345619EAA14CE4418BB6EE66C0364814C5082F",
+   "region": "Japan",
+   "file": "Ganso Pachinko Ou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

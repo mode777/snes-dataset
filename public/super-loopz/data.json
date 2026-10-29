@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "49601821",
+   "md5": "3F8A4C4AC29A36A47B2C2CD8C5388A1C",
+   "sha1": "26EA349AEFA5926DC94B493284ECE8052A86B7A8",
+   "region": "Japan",
+   "file": "Super Loopz (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

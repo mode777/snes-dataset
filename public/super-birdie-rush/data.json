@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B854DF10",
+   "md5": "CFA43FF6832AF233A9FBD0A9B3EE280B",
+   "sha1": "EE62AC3684B0D68AF3472D5B2788AF742A253CEA",
+   "region": "Japan",
+   "file": "Super Birdie Rush (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,29 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2F6326B1",
+   "md5": "D29E885781069B6E403CA1F22B30D619",
+   "sha1": "1947419EACBBE7EB5B5F775763E9A67ABA6ADF4A",
+   "region": "Europe",
+   "file": "Brutal - Paws of Fury (Europe) (En,Fr,De).sfc"
+  },
+  {
+   "crc32": "8FE49F80",
+   "md5": "100401F2BBF5C725FEB69BD3C19EA476",
+   "sha1": "746AF6B97ACF857B786B4E3ADC1CA8E627DAE3DD",
+   "region": "USA",
+   "file": "Brutal - Paws of Fury (USA).sfc"
+  },
+  {
+   "crc32": "49AD3F9C",
+   "md5": "8062A76AB13FD0C1B573FF2529ECB0BB",
+   "sha1": "A52C3278C96A073AE8FBBC5AC656630B9B70A25F",
+   "region": "USA",
+   "file": "Brutal - Paws of Fury (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 2.55,
  "metascore": null,
  "cover_urls": [

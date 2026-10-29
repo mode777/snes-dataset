@@ -32,6 +32,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "29296976",
+   "md5": "8950B0A924B55353849CC7F101E9A684",
+   "sha1": "F6A0A06682B28806FEA90478D768EA0A8605C31A",
+   "region": "USA",
+   "file": "Street Hockey '95 (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

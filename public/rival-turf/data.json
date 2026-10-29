@@ -32,6 +32,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E8A6B3D1",
+   "md5": "923FE6193F10718734F9374596B20ACE",
+   "sha1": "D0CD30B8FAE1F48827B68E66BB67C9E6A3B48979",
+   "region": "Europe",
+   "file": "Rival Turf (Europe).sfc"
+  },
+  {
+   "crc32": "CA988F59",
+   "md5": "E061F15D6F87CD47E27F5B9F11FE1B7E",
+   "sha1": "86541CCB1B3E886794EF2165D93D018B158569E2",
+   "region": "USA",
+   "file": "Rival Turf! (USA).sfc"
+  }
+ ],
  "gf_score": 3.08,
  "metascore": null,
  "cover_urls": [

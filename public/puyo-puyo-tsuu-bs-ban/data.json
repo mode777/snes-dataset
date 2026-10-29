@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E63EE3B1",
+   "md5": "2DE583AA9248F3D3E9D12E307DF85B79",
+   "sha1": "2FA77C709294DA3A0AE5A918A574B49302A0BF17",
+   "region": "Japan",
+   "file": "Puyo Puyo Tsuu BS Ban (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

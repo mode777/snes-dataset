@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "31B2B1B4",
+   "md5": "8E21174AFB7FDCC060B71BFB7F1FEB1E",
+   "sha1": "CA85F07BD9CA49EDCA44A1C052A4159F5F229720",
+   "region": "Japan",
+   "file": "Majin Tensei II - Spiral Nemesis (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

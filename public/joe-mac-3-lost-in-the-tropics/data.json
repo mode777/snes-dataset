@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5970FB74",
+   "md5": "1B63F00F56893BFAC4F16E0B5440A94E",
+   "sha1": "C60473DF45F5AA1EB91D0B1F7853C740550FD30A",
+   "region": "Europe",
+   "file": "Joe & Mac 3 - Lost in the Tropics (Europe) (En,Fr,De) (Beta).sfc"
+  },
+  {
+   "crc32": "B9D6269D",
+   "md5": "E5B1841EA2437762D1DCF8416DD02713",
+   "sha1": "57722343B24590AEB1C894018FC68660CD7B9712",
+   "region": "Europe",
+   "file": "Joe & Mac 3 - Lost in the Tropics (Europe) (En,Fr,De).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

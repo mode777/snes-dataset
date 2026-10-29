@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "213368D5",
+   "md5": "87ED5084BCC4130099543B467E0EE54F",
+   "sha1": "46012A9208F77D357D4AFF7CB7AB0A9F619C5394",
+   "region": "Japan",
+   "file": "Princess Minerva (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

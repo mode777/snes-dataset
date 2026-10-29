@@ -32,6 +32,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "A567957C",
+   "md5": "DBF576310985B10FA48C6A1C8915B19D",
+   "sha1": "A509DA90497B3C29C8763FDEFD4808E55EA4B35C",
+   "region": "USA",
+   "file": "Death and Return of Superman, The (USA).sfc"
+  },
+  {
+   "crc32": "65792D05",
+   "md5": "1D888C15E3F112F9DB4B093125C0F88B",
+   "sha1": "502D1A4C1E0DE218E0CFBEA0549E084A57C6FD08",
+   "region": "Europe",
+   "file": "Death and Return of Superman, The (Europe).sfc"
+  },
+  {
+   "crc32": "012EF33D",
+   "md5": "256611711F506C2BB9CD2BC197D50071",
+   "sha1": "A789268AB40A5BBC35F58743C936A87E0CBCDA5C",
+   "region": "USA",
+   "file": "Death and Return of Superman, The (USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 3.24,
  "metascore": null,
  "cover_urls": [

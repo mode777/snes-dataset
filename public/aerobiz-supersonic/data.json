@@ -27,6 +27,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EFAFAB12",
+   "md5": "6C0DF9CA9F3F05141C5DF69E7AD4D004",
+   "sha1": "F8D6FC5D3D2EA3B5D8F5440FC837FCF5B1C49686",
+   "region": "USA",
+   "file": "Aerobiz Supersonic (USA).sfc"
+  }
+ ],
  "gf_score": 3.66,
  "metascore": null,
  "cover_urls": [

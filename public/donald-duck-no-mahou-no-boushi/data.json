@@ -34,6 +34,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1ED5D2FA",
+   "md5": "C7CF4C193DC8600D8C2A02EE728023F4",
+   "sha1": "E5A2E94AF71509DEE1E8ED86A80C7FEC9C40D51F",
+   "region": "Japan",
+   "file": "Donald Duck no Mahou no Boushi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

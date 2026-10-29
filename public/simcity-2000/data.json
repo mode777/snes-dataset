@@ -35,6 +35,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B0E89CC6",
+   "md5": "4F180781114D34B2B12155A2D3C0ECAA",
+   "sha1": "5CD2B71045F12E9955546B8F06136619B2E1EB0E",
+   "region": "Japan",
+   "file": "SimCity 2000 (Japan).sfc"
+  }
+ ],
  "gf_score": 3.24,
  "metascore": null,
  "cover_urls": [

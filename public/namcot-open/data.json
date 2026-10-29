@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0894AE07",
+   "md5": "3C67925D2912B350390B5CF5BC434E82",
+   "sha1": "2E99881CBB852C6AB7A5809E73FD37BE1AAE672C",
+   "region": "Japan",
+   "file": "Namcot Open (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

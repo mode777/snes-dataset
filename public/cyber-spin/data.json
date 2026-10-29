@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "44018650",
+   "md5": "0BFEC6B10C50B44BA80B5420D24CC75F",
+   "sha1": "1B6A1B0332A8301CBEC0D6C9171E8FD0BFC0FC57",
+   "region": "USA",
+   "file": "Cyber Spin (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

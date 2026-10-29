@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D9665BBC",
+   "md5": "18567D21DF6A95A7B52029D250BAC721",
+   "sha1": "FB532E487094037ABA6CFFA0F3D922383E73CB5F",
+   "region": "Japan",
+   "file": "Estpolis Denki II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

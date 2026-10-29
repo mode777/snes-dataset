@@ -36,6 +36,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F5BFCD90",
+   "md5": "E07FB3C8AF18DD87260C0569E8588C31",
+   "sha1": "0B762610F612B98941203CA82C98E3D6082E3535",
+   "region": "Japan",
+   "file": "Popeye - Ijiwaru Majo Sea Hag no Maki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

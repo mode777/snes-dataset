@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8D0B3C85",
+   "md5": "DE95BFE76698734526AB5A4B60AF4B59",
+   "sha1": "409BE2392977E9D0FE53041DFF8EA22F55AF4810",
+   "region": "Japan",
+   "file": "Air Management II - Koukuu Ou o Mezase (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

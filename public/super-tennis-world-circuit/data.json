@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "57BF1D3E",
+   "md5": "626860305219BB5B9B94B6D9F9980922",
+   "sha1": "B6A079BC2E968BAD25BDFB8A1EA8F30302767B07",
+   "region": "Japan",
+   "file": "Super Tennis - World Circuit (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

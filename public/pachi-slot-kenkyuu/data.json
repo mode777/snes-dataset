@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0D5BD100",
+   "md5": "301C8F423C30EEA1708B294C28B9D612",
+   "sha1": "AF7CF77C385C5A36CF580DC8B5594319143F2907",
+   "region": "Japan",
+   "file": "Pachi-Slot Kenkyuu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

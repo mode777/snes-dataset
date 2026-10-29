@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "67E1756B",
+   "md5": "DCEC11FCF8C2355F07F6EE4144E70A85",
+   "sha1": "E2F0994691744D52174D7EA368FB21F9ACF95A86",
+   "region": "Japan",
+   "file": "Silva Saga II - The Legend of Light and Darkness (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

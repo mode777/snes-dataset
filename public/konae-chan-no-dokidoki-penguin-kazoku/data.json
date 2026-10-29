@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "218B11F8",
+   "md5": "66B7CAB6599DD0BF840BADDB2A2E5FE7",
+   "sha1": "6193AD723BA3D2434BFE8FC70A593D1EABE821DE",
+   "region": "Japan",
+   "file": "Konae-chan no Dokidoki Penguin Kazoku (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

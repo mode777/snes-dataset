@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5947A7A4",
+   "md5": "1EB2AF42E707C842EB05E3B8C5C16464",
+   "sha1": "2953A9624617B78C6BAA3122E7CDC32856E938B1",
+   "region": "Japan",
+   "file": "Honoo no Toukyuuji - Dodge Danpei (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

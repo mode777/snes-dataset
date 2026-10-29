@@ -32,6 +32,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4CCC3651",
+   "md5": "B2C93E20065B90873D10949E810DA5E5",
+   "sha1": "74218280B2C2681671BEF1B54BB50E8566F15EA9",
+   "region": "Europe",
+   "file": "MechWarrior 3050 (Europe).sfc"
+  },
+  {
+   "crc32": "C0ACC92D",
+   "md5": "EACF64068AA69A47A82D110F074FF4C6",
+   "sha1": "2E9AD76EF580813FA799BEC5559474F3E881E11A",
+   "region": "USA",
+   "file": "MechWarrior 3050 (USA).sfc"
+  }
+ ],
  "gf_score": 3.43,
  "metascore": null,
  "cover_urls": [

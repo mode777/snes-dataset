@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "62054FA2",
+   "md5": "D4B80849DAA6FE945AD9EAADA7107E99",
+   "sha1": "F9C1C8BB44B9CA05505C11AE5B94898FFCFAD4AB",
+   "region": "Japan",
+   "file": "Dandan Belt Conveyor - Ukulele no Maki (Japan) (BS) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

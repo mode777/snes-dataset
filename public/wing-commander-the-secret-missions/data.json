@@ -34,6 +34,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "6EF77F07",
+   "md5": "A11E2603D29B3AF2554CB95A8C390386",
+   "sha1": "C8662392A5D852D923490F58F04F2356C585B5BB",
+   "region": "Europe",
+   "file": "Wing Commander - The Secret Missions (Europe).sfc"
+  },
+  {
+   "crc32": "EAC3E786",
+   "md5": "23EACDCFA2307D23A707DA23D8A66D0B",
+   "sha1": "D205AFF99A9CA71D4A2BCB380266BED8F6591E97",
+   "region": "Europe",
+   "file": "Wing Commander - The Secret Missions (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "D5E9AF7F",
+   "md5": "E55CB77E878115FD5C224134450047C6",
+   "sha1": "C53D9B885848ECDCAD9D287BDC0427C196E6C664",
+   "region": "USA",
+   "file": "Wing Commander - The Secret Missions (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

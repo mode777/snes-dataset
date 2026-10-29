@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "E1CCCE49",
+   "md5": "9F3043950A98A620CE522388E60BEA33",
+   "sha1": "827232B0665FDB2A6C56E42164E2C334B3CEB9DE",
+   "region": "Europe",
+   "file": "Archer Maclean's Super Dropzone (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

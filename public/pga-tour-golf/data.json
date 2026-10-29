@@ -35,6 +35,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "8A2D377E",
+   "md5": "F6D10D83B5C66F695B5E16AE26411152",
+   "sha1": "21CFAADE0721E2A893637B77B694CB22CCA16997",
+   "region": "Japan",
+   "file": "PGA Tour Golf (Japan).sfc"
+  },
+  {
+   "crc32": "B6566944",
+   "md5": "728E75A9E18AACDA7A092682A2D9F1F3",
+   "sha1": "3AA397AA2B58C99B846411A415FF12BC2CC8E27B",
+   "region": "USA",
+   "file": "PGA Tour Golf (USA).sfc"
+  },
+  {
+   "crc32": "5DAF9DBD",
+   "md5": "31EDE6C39F979B5DF8C8B5089C2DF989",
+   "sha1": "DF453EF9222AF3D6CB77B37091E9677D9D2B9B54",
+   "region": "Europe",
+   "file": "PGA Tour Golf (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -27,6 +27,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "D6A5984C",
+   "md5": "674C9CE830025B4700928359B52F902C",
+   "sha1": "749E92F33AD803CE51D9FAAF92670DFBE64A5770",
+   "region": "USA",
+   "file": "Wheel of Fortune - Deluxe Edition (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

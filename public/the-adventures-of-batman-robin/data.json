@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "B3EF81F5",
+   "md5": "517A88892164B47C2821C0708AD08B58",
+   "sha1": "5452C639C49906679CAD640AAF60D7F4749F84D3",
+   "region": "USA",
+   "file": "Adventures of Batman & Robin, The (USA).sfc"
+  },
+  {
+   "crc32": "96B0C568",
+   "md5": "49775F5E46BE05C1E245B26A70B6F756",
+   "sha1": "4D5AFC2D11B141DDC33753B6FB84847D2F2261BA",
+   "region": "Europe",
+   "file": "Adventures of Batman & Robin, The (Europe).sfc"
+  }
+ ],
  "gf_score": 3.82,
  "metascore": null,
  "cover_urls": [

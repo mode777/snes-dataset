@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6B321DB6",
+   "md5": "8C70386AB6EE239691F4BDE9751EFBB9",
+   "sha1": "ADCB5C8A9BBB42338641170E5FE086E990ED732E",
+   "region": "Japan",
+   "file": "Super Indy Champ (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

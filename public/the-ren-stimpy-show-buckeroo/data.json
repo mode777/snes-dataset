@@ -28,6 +28,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "672EBF39",
+   "md5": "F5A980DA5FCCDAACADE484744FB6C8A7",
+   "sha1": "EA815E91FEF3F75D57E4EC1651C246CACC3F4699",
+   "region": "USA",
+   "file": "Ren & Stimpy Show, The - Buckeroo$! (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

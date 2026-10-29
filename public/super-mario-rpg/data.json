@@ -28,6 +28,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5527071E",
+   "md5": "59483FEB9EB20207E3241E005FBDDE7E",
+   "sha1": "A9CD97041C4F8ACF135D1FFB0A172748B5B976DE",
+   "region": "Japan",
+   "file": "Super Mario RPG (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

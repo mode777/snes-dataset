@@ -29,6 +29,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0A94FCCA",
+   "md5": "EBBF4D87C6BF5256398D9B028BB0B9AB",
+   "sha1": "0684B0010F738EF2615C8E088CB7752F6902CC55",
+   "region": "Japan",
+   "file": "Super Ninja-kun (Japan).sfc"
+  },
+  {
+   "crc32": "52A63EA3",
+   "md5": "AF7582ECC80E950295D5A9F3FB8ECC48",
+   "sha1": "4DB1C6D6822EA88BBBF8DA80D5B27AC4E10659ED",
+   "region": "Japan",
+   "file": "Super Ninja-kun (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

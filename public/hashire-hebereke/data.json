@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DD792499",
+   "md5": "1AAFF7EC0C1213E7ADD1EF2B4BCF197C",
+   "sha1": "A095F3A20CB8C8AD30897A6C4DA78D6921C4C127",
+   "region": "Japan",
+   "file": "Hashire Hebereke (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

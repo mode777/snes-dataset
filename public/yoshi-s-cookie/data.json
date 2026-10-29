@@ -32,6 +32,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5FB6E4E9",
+   "md5": "79B7787C762F65A959EC6F219EB623B5",
+   "sha1": "D6F851F35FACCBFC1A184D826F44A0FC9F364821",
+   "region": "Europe",
+   "file": "Yoshi's Cookie (Europe).sfc"
+  },
+  {
+   "crc32": "EF15F4C3",
+   "md5": "B08D6DC455CBED53799C7495EA71B08C",
+   "sha1": "764B5D62A235EB5E8915AAA3CBFAA3BDADE516DD",
+   "region": "USA",
+   "file": "Yoshi's Cookie (USA).sfc"
+  },
+  {
+   "crc32": "FBDFCDAB",
+   "md5": "D87B90A210252BA42992E9509337E639",
+   "sha1": "094AF3A0739521EC524AEA713080B77809D04769",
+   "region": "USA",
+   "file": "Yoshi's Cookie (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.34,
  "metascore": null,
  "cover_urls": [

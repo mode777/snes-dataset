@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "019C4B02",
+   "md5": "8BBF9641D30C13012CF747E91C2565AB",
+   "sha1": "8D44045C1C713FED49DC44889949A0629D3D37C6",
+   "region": "Europe",
+   "file": "WeaponLord (Europe).sfc"
+  },
+  {
+   "crc32": "0E7E7102",
+   "md5": "71213DA150AE5E01641DC4035565C6F2",
+   "sha1": "47E4E75A914021839DCD29B2709DC91978932A8C",
+   "region": "USA",
+   "file": "WeaponLord (USA).sfc"
+  }
+ ],
  "gf_score": 3.85,
  "metascore": null,
  "cover_urls": [

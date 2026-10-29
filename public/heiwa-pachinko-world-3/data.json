@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "37FF1FDF",
+   "md5": "E4019884B7E482416C907F474244CCC4",
+   "sha1": "2884AC7F0A4EB5C5F69C1194797910C2332FB13B",
+   "region": "Japan",
+   "file": "Heiwa Pachinko World 3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

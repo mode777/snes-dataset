@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D8F1BF0E",
+   "md5": "2F0F72202398E2214A8FB9FF55072B72",
+   "sha1": "F96B9CA521AC6A98F6B0FA0B36F9281DD801F920",
+   "region": "Japan",
+   "file": "Light Fantasy II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

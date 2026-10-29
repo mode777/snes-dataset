@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B0FD1854",
+   "md5": "BFAC50CDAE38C51DFF55D15EDEC85451",
+   "sha1": "BC0E29EE383574443226695215496EB0D09AAA1C",
+   "region": "Japan",
+   "file": "Bishoujo Senshi Sailor Moon S - Jougai Rantou! Shuyaku Soudatsusen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

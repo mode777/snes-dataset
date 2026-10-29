@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D71810E7",
+   "md5": "99DE0F32588960906B3F5305EF3C04D5",
+   "sha1": "3DA60F628F094428CBF178D635171A4E7CAFBEFC",
+   "region": "Japan",
+   "file": "Teitoku no Ketsudan II (Japan).sfc"
+  },
+  {
+   "crc32": "DAFED69C",
+   "md5": "E3465E0EACD7E74B274C1347CAB58AF3",
+   "sha1": "A8FD598EB0C8607311FA82B1DA43132D75D10C83",
+   "region": "Japan",
+   "file": "Teitoku no Ketsudan II (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

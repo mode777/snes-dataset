@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "85A6B2A8",
+   "md5": "32B01A3AF01AAAF7C65BA5D193E00050",
+   "sha1": "CD4B58D8B12E91AE537F5CF2111F95F7B11CF969",
+   "region": "USA",
+   "file": "Mario's Early Years - Preschool Fun (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

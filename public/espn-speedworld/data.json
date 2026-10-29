@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "2B0069C0",
+   "md5": "83DA89F5432DBA2A67FBCBEA28A81A52",
+   "sha1": "3F84BA077C42A288E7DFD987A4CF91B6F07C2021",
+   "region": "USA",
+   "file": "ESPN Speedworld (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "C2CFF05A",
+   "md5": "7D7CD870DB97CF154FD97CD7CEDF3FAE",
+   "sha1": "E42DF8576E7B3203B506ACCC128EC25497A77686",
+   "region": "USA",
+   "file": "ESPN Speedworld (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

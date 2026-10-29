@@ -40,6 +40,50 @@
  "languages": [
   "English, German, Spanish, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F20E0C69",
+   "md5": "13DE4A2B6D8BBA79A8FA2A7871C19718",
+   "sha1": "FFE66962A3DC9182B00E92C0A5E956E9435AACCE",
+   "region": "USA",
+   "file": "Lost Vikings, The (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "6838BE08",
+   "md5": "7C6990BBACC9E3202BA39C8F37D0BDBF",
+   "sha1": "ED1B3038825835D6614EC8A2F3D22517F5334DEB",
+   "region": "USA",
+   "file": "Lost Vikings, The (USA).sfc"
+  },
+  {
+   "crc32": "6E8A1081",
+   "md5": "67E4617FC9C17572B7B27386A3F7E766",
+   "sha1": "6C4B1326755230C870A407DF7A30E1F849EACF6C",
+   "region": "Spain",
+   "file": "Lost Vikings, The (Spain).sfc"
+  },
+  {
+   "crc32": "4EE705AB",
+   "md5": "402347C45AF9310AFA944CD2B88722CD",
+   "sha1": "4AAD42B6813D12F90AEF9A6FDC3AD1D97024AD93",
+   "region": "Germany",
+   "file": "Lost Vikings, The (Germany).sfc"
+  },
+  {
+   "crc32": "94093298",
+   "md5": "DBD58A2C35E4CDA603B6238CDA0DC6A0",
+   "sha1": "72B472A389A6392ED8189BDC24BCEAFEA238F6FB",
+   "region": "France",
+   "file": "Lost Vikings, The (France) (En,Fr).sfc"
+  },
+  {
+   "crc32": "66989491",
+   "md5": "EF5177071BBA689C0A90D2639854B7A5",
+   "sha1": "2BD4C2AF6E5D7252D16342FD1A64454DCA3CE557",
+   "region": "Europe",
+   "file": "Lost Vikings, The (Europe).sfc"
+  }
+ ],
  "gf_score": 3.84,
  "metascore": 75,
  "cover_urls": [

@@ -37,6 +37,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "50300F58",
+   "md5": "17430ED06AC0B9F8E1E13F2ED49D26F5",
+   "sha1": "FD8D4BA822963498C29C82963C1DF904FA423792",
+   "region": "Europe",
+   "file": "Frank Thomas Big Hurt Baseball (Europe).sfc"
+  },
+  {
+   "crc32": "21239DDA",
+   "md5": "98E4921FADEAE7936190E974B92DAC87",
+   "sha1": "383013AC68A52420E0115CC6970EC1BC6E8C22B1",
+   "region": "USA",
+   "file": "Frank Thomas Big Hurt Baseball (USA).sfc"
+  },
+  {
+   "crc32": "1A895B24",
+   "md5": "03C1E7EAA124CA127F81A20339872A21",
+   "sha1": "31760777D2783DC4684D6ADB8DBBB96805C83389",
+   "region": "Japan",
+   "file": "Frank Thomas Big Hurt Baseball (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

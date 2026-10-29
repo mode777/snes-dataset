@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D01AB6A8",
+   "md5": "AC3523F97A0A4567A6E3CCFE1EC47BA0",
+   "sha1": "078C359681A39C0E2B8261F053EA9E85F68D5202",
+   "region": "Japan",
+   "file": "Shounen Ashibe - Goma-chan no Yuuenchi Daibouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

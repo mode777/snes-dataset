@@ -28,6 +28,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "796294C6",
+   "md5": "2171FDDA7427A13BE73A72E3C95B0EF5",
+   "sha1": "9B8D1FC31EB56C0A6D0E31DC385EC8ED860DE9C3",
+   "region": "USA",
+   "file": "John Madden Football (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

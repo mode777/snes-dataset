@@ -33,6 +33,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "642B656B",
+   "md5": "CB4A282E8A7BDE5E16103C4136F9491E",
+   "sha1": "1785BCF1EF546728CCE20DB2FA458028E0AF2EAA",
+   "region": "USA",
+   "file": "R-Type III (USA).sfc"
+  },
+  {
+   "crc32": "5A183E62",
+   "md5": "CFBC0862E180BD09C7BCB155B8158992",
+   "sha1": "20F3FAC4DF152AA39B56C40694F254A0D60F1DB6",
+   "region": "Europe",
+   "file": "R-Type III (Europe).sfc"
+  }
+ ],
  "gf_score": 4.0,
  "metascore": 46,
  "cover_urls": [

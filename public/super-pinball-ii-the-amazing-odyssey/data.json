@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B5117ECF",
+   "md5": "6B840C23B83C4675F25618ACBAF2CB43",
+   "sha1": "20BC32B7BD9E4C985D4CF62FA36D83F0074DDEB7",
+   "region": "Japan",
+   "file": "Super Pinball II - The Amazing Odyssey (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

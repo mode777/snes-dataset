@@ -31,6 +31,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E386D2BE",
+   "md5": "E20E2A6310AC6833A323E90E23FB0A7C",
+   "sha1": "1AC159270B5B9026081ABF45290C6C83F734D235",
+   "region": "Japan",
+   "file": "Yokoyama Mitsuteru Sangokushi (Japan).sfc"
+  },
+  {
+   "crc32": "D7105424",
+   "md5": "8DA79EF764D4D21C2C79A4B308C45678",
+   "sha1": "C535FE761E106607D518EDB06FE5FF468AC8C4DE",
+   "region": "Japan",
+   "file": "Yokoyama Mitsuteru Sangokushi (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

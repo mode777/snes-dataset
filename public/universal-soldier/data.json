@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "59180F1C",
+   "md5": "0A389E9A974727C7DA165BF030EA9FFB",
+   "sha1": "C4BC9DC1FA0EF7D0BB1AE4B846679F4E66DAACEB",
+   "region": "USA",
+   "file": "Universal Soldier (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

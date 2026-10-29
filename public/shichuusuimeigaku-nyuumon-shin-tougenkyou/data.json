@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "52DF0E2F",
+   "md5": "2DB5F0153753407DE29E27CD9466D1FE",
+   "sha1": "5DE6332A919C0704CBB20E8297B770EB8517C32B",
+   "region": "Japan",
+   "file": "Shichuusuimeigaku Nyuumon - Shin Tougenkyou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

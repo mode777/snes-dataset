@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5E08C48C",
+   "md5": "F630C6E0F11FD53D112F3DD004EA7184",
+   "sha1": "A308AD983C19B9FFE047B9F91C9FDFEA9CFB6BAB",
+   "region": "Japan",
+   "file": "Ys V - Ushinawareta Suna no Miyako Kefin (Japan).sfc"
+  }
+ ],
  "gf_score": 3.45,
  "metascore": null,
  "cover_urls": [

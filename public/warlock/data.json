@@ -34,6 +34,43 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "AF7C1A95",
+   "md5": "99A7001792FD9A3DC20285C06C3EC370",
+   "sha1": "A38DDD4ED4DEC43B426C29A0098D7C406FDD88E3",
+   "region": "USA",
+   "file": "Warlock (USA) (Beta) (Alt 1).sfc"
+  },
+  {
+   "crc32": "A47884D0",
+   "md5": "F0B53E15D054BD3AB09B2C5DA1499276",
+   "sha1": "2661EEAA061C3D86AD4189DD45EB41276D4AF31E",
+   "region": "USA",
+   "file": "Warlock (USA).sfc"
+  },
+  {
+   "crc32": "DCADBD80",
+   "md5": "C4BB894BB8F5F76228E1BF1D9E3EB091",
+   "sha1": "3BD61CE89CE6C3F23F51B8E2DC217F7C027AF6D3",
+   "region": "Japan",
+   "file": "Warlock (Japan).sfc"
+  },
+  {
+   "crc32": "D90530AC",
+   "md5": "BAA378DC7CF2B102BE71A923A38BD96C",
+   "sha1": "50E581458AE7643D2FF950E88A3D3461B0576946",
+   "region": "Europe",
+   "file": "Warlock (Europe).sfc"
+  },
+  {
+   "crc32": "EC9450D1",
+   "md5": "0C1D73B53265675EC9CF20876A49FFF6",
+   "sha1": "14FFFD85A2C39E0ABA94E9267E78D8392B777789",
+   "region": "USA",
+   "file": "Warlock (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 2.88,
  "metascore": null,
  "cover_urls": [

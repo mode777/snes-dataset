@@ -32,6 +32,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "13BFB3A0",
+   "md5": "A7541F6554A7FA1AAB250039CE24BCD8",
+   "sha1": "40EF16824BCE5300C90130F340B1A2EBC94A8901",
+   "region": "USA",
+   "file": "Wolfchild (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

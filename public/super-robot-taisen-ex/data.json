@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "239621A0",
+   "md5": "05ABAF496F6EFCC34EDE0939821E2B3B",
+   "sha1": "29E78BCB3BCC7F353804AC002CE651E121BD8AA0",
+   "region": "Japan",
+   "file": "Super Robot Taisen EX (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

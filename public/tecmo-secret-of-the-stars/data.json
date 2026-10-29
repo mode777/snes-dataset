@@ -28,6 +28,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EF968ED1",
+   "md5": "D26BABB046182E3A564FB1BDDDCE7E42",
+   "sha1": "958A0A835E2E39F382CB37A99098A3CDD4812CF7",
+   "region": "USA",
+   "file": "Tecmo Secret of the Stars (USA).sfc"
+  },
+  {
+   "crc32": "421D2C18",
+   "md5": "4ABC1FEE109B424A31F7562D43928FE7",
+   "sha1": "D2C17D4622BAAFD5C4C1C23FD4A9B6D2CEE785B8",
+   "region": "USA",
+   "file": "Tecmo Secret of the Stars (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.27,
  "metascore": null,
  "cover_urls": [

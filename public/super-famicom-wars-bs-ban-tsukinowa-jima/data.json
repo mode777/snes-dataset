@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "53909DC4",
+   "md5": "D65A73AD8DDC97A47FDAF7437A083E0C",
+   "sha1": "CC358A40DE93A8CC10A5EAE45E21E2E832B59BC0",
+   "region": "Japan",
+   "file": "Super Famicom Wars - BS Ban - Tsukinowa-jima (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

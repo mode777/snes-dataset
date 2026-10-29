@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "94BFCC92",
+   "md5": "0AF9942D16A95E484C5B689E80CCB6AE",
+   "sha1": "9635B097FBD93F90CE68DA9483347002AD2BEB02",
+   "region": "Japan",
+   "file": "Bakutou Dochers - Bumps-jima wa Oosawagi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

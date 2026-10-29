@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1188C64E",
+   "md5": "201D393B3F19976F2647760885A06E92",
+   "sha1": "40E648D159BB94387F580A3B86B7A7BC3DFE3274",
+   "region": "Europe",
+   "file": "Zool - Ninja of the 'Nth' Dimension (Europe).sfc"
+  },
+  {
+   "crc32": "3C10DAF1",
+   "md5": "C6990EB9E957568112E41439F054F0E3",
+   "sha1": "9BD08892ADDB4772595CDB1A4F508427F42E213C",
+   "region": "USA",
+   "file": "Zool - Ninja of the 'Nth' Dimension (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

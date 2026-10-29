@@ -36,6 +36,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "4F961F70",
+   "md5": "F6FAFEFCE47C28BB64E2ABC6F5992F35",
+   "sha1": "E4C06A47EBFB80CF8F3F0ABFBC2487AF76911114",
+   "region": "Europe",
+   "file": "Earthworm Jim 2 (Europe).sfc"
+  },
+  {
+   "crc32": "393DE197",
+   "md5": "C3FF5FD4E3F46653FEC94BA60D70281D",
+   "sha1": "E4446C9F9C541A0D698E00ECBBB553DF165A34F6",
+   "region": "USA",
+   "file": "Earthworm Jim 2 (USA).sfc"
+  },
+  {
+   "crc32": "C110A23A",
+   "md5": "DD84A2F97D4B9AC3108A62065DBD68F0",
+   "sha1": "D038B79690EDE4FA8A23E2A84CEB328AB79604FE",
+   "region": "USA",
+   "file": "Earthworm Jim 2 (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.82,
  "metascore": 45,
  "cover_urls": [

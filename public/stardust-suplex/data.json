@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "ADA27D91",
+   "md5": "44CD660A0A200D765B5D5E4A28F9559C",
+   "sha1": "C87E703BA15CB3A2F6DFA20E4178955486F59D86",
+   "region": "Japan",
+   "file": "Stardust Suplex (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

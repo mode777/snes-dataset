@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C819109C",
+   "md5": "36A901EF2E35B960BD475DE115F87E98",
+   "sha1": "4D1DD9561323F42EE3505AA4301D9D510CAC6908",
+   "region": "Japan",
+   "file": "Kingyo Chuuihou! - Tobidase! Game Gakuen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

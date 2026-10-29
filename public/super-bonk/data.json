@@ -31,6 +31,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5688B581",
+   "md5": "8F5DAEAF2B698F56E01B52B4E5AFAFCE",
+   "sha1": "9231C961FFF66854761816EA71D75B6E38F42D8F",
+   "region": "USA",
+   "file": "Super Bonk (USA).sfc"
+  }
+ ],
  "gf_score": 3.65,
  "metascore": null,
  "cover_urls": [

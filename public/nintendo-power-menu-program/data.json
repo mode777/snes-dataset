@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9F2A7CA7",
+   "md5": "16D37B1BD624A10FF9FE476003019AD7",
+   "sha1": "CA8F71D5FD2003831E031C71987ECC2EA647A7CE",
+   "region": "Japan",
+   "file": "Nintendo Power Menu Program (Japan) (Rev 1) (NP).sfc"
+  },
+  {
+   "crc32": "65FE9A35",
+   "md5": "0049BFC70F2DFE730C7BBD702F4C615C",
+   "sha1": "C826F3464AE2E54B39B923B5DC33FFB999C852A5",
+   "region": "Japan",
+   "file": "Nintendo Power Menu Program (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

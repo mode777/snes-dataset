@@ -33,6 +33,22 @@
  "languages": [
   "English, German"
  ],
+ "roms": [
+  {
+   "crc32": "E83A092B",
+   "md5": "242BDFA398B3008B362914D09773B0EB",
+   "sha1": "E74725E4EB14757C898007B9766090074C91B731",
+   "region": "Germany",
+   "file": "Humans, The (Germany).sfc"
+  },
+  {
+   "crc32": "D2AF01D4",
+   "md5": "00AA4464EAA6289C61999646549ECE48",
+   "sha1": "50C85EBD587A296B9CF00F209DF3A2F07E6683ED",
+   "region": "Europe",
+   "file": "Humans, The (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

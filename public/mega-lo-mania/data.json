@@ -33,6 +33,22 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "44A9DB5C",
+   "md5": "C4F00590C3F40736A13739B5785C2FF4",
+   "sha1": "BA3584492EC4B566CC8043BC3571A664D51B6E33",
+   "region": "Europe",
+   "file": "Mega lo Mania (Europe) (En,Fr,De) (Beta).sfc"
+  },
+  {
+   "crc32": "E8042EDF",
+   "md5": "7A67D33F2CFC8C284F772CB681C411A2",
+   "sha1": "E8DE68AEE66E5A524A0EE4A0FC76142E9A3C7A95",
+   "region": "Europe",
+   "file": "Mega-Lo-Mania (Europe) (En,Fr,De).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

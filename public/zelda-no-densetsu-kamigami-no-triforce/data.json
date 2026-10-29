@@ -18,6 +18,36 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "45507EC3",
+   "md5": "8A2152A65A2591159AAAF2FF119063FD",
+   "sha1": "9AAB9D62150DFD91F37F683277449681D14F4358",
+   "region": "Japan",
+   "file": "Zelda no Densetsu - Kamigami no Triforce (Japan) (BS).sfc"
+  },
+  {
+   "crc32": "4400D798",
+   "md5": "EBB2B17C18846D952242FC4C55285123",
+   "sha1": "52F470C80157F6843839C39E3BF52AFBB42FB957",
+   "region": "Japan",
+   "file": "Zelda no Densetsu - Kamigami no Triforce (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "B28B2F77",
+   "md5": "2947BD08DF041AA116F908448E8D914E",
+   "sha1": "6D9FA9006C160A0C81DB913BCD0EA3E7CC249BC9",
+   "region": "Japan",
+   "file": "Zelda no Densetsu - Kamigami no Triforce (Japan) (Rev 2).sfc"
+  },
+  {
+   "crc32": "3322EFFC",
+   "md5": "03A63945398191337E896E5771F77173",
+   "sha1": "E7E852F0159CE612E3911164878A9B08B3CB9060",
+   "region": "Japan",
+   "file": "Zelda no Densetsu - Kamigami no Triforce (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

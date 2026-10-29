@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EF85EB96",
+   "md5": "F79872D4CC164A6E4E3A54CC0BCB95DA",
+   "sha1": "B2C1F00DB47F909DCA528C8797A01371E0B1EC87",
+   "region": "Japan",
+   "file": "Hisshou 777 Fighter - Pachi-Slot Ryuuguu Densetsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

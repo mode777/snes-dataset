@@ -40,6 +40,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DEF42945",
+   "md5": "0934878BB5EF33F25C1FCABA18A1105B",
+   "sha1": "C6DED5B8BCA1716A2DDDFDC697B31F085AAA05D0",
+   "region": "USA",
+   "file": "Mortal Kombat (USA).sfc"
+  },
+  {
+   "crc32": "047B3D88",
+   "md5": "1D348D1AF28DB657195F926CC0207796",
+   "sha1": "2B820CF5EA310DB54CEF4A1C0918023FEC986EE4",
+   "region": "Europe",
+   "file": "Mortal Kombat (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "91AF0CEC",
+   "md5": "0699D70285FF8B309ED86744B7F67E9A",
+   "sha1": "937815A4FA571DC089895032BC6601F195968694",
+   "region": "Europe",
+   "file": "Mortal Kombat (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "A81657D3",
+   "md5": "BCF52B016559D371EEFCD216781F40CD",
+   "sha1": "1C19155683D2C689C8CCFF5DF5CE2018AB2A951E",
+   "region": "Europe",
+   "file": "Mortal Kombat (Europe).sfc"
+  }
+ ],
  "gf_score": 3.33,
  "metascore": null,
  "cover_urls": [

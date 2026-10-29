@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "36F6378F",
+   "md5": "F94CEABF9CFEE2011013D3741A345443",
+   "sha1": "FEB921593027DAB4E83FE6D1D93AB479FB5C0695",
+   "region": "Japan",
+   "file": "Super Nichibutsu Mahjong 2 - Zenkoku Seiha Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

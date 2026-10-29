@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5316DD26",
+   "md5": "7D48763A155C18098A0526D2573FE5D9",
+   "sha1": "F805DD448412E73173E2DE0A24659C44265C9057",
+   "region": "Japan",
+   "file": "Battle Soccer 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

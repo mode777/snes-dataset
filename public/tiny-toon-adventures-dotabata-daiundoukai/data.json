@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "01344C8E",
+   "md5": "17A7ED97F6DC9C3E4FFAB7D33E07A3F0",
+   "sha1": "14427A94A447D8C9BF3748B8FB1717A50B9BEBE9",
+   "region": "Japan",
+   "file": "Tiny Toon Adventures - Dotabata Daiundoukai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

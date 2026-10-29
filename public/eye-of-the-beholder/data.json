@@ -18,6 +18,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F6AD28A3",
+   "md5": "07D338443B79FB245DED023BAFBDE699",
+   "sha1": "053B60BDF3CBD756F286510DFCA1B70F5FE054BD",
+   "region": "Japan",
+   "file": "Eye of the Beholder (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

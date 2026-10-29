@@ -34,6 +34,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "42E3774E",
+   "md5": "3DE22A38781B518F317CD22630AAF47B",
+   "sha1": "0B636416ED0A2EA7A35AFD9572AA8B4163F164D3",
+   "region": "USA",
+   "file": "Legend (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "0CAC572F",
+   "md5": "313E7F130B73B8F50BC2930AC8A7FE8F",
+   "sha1": "BC544F98599073EDC8BF61DA3C8762E350310F3C",
+   "region": "Europe",
+   "file": "Legend (Europe).sfc"
+  },
+  {
+   "crc32": "0A6DD870",
+   "md5": "0C684458019A60B0E16ACB408F1418EA",
+   "sha1": "8D5595DE49178294914D36FFC2B38F078CBD20A0",
+   "region": "USA",
+   "file": "Legend (USA).sfc"
+  }
+ ],
  "gf_score": 3.08,
  "metascore": null,
  "cover_urls": [

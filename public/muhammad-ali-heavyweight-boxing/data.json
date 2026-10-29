@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "02972591",
+   "md5": "22B26FD5ACE3F2714E22BABC302C2DE9",
+   "sha1": "CFCC8D804AB6C97C14DCDDC452994E76E6EF4458",
+   "region": "USA",
+   "file": "Muhammad Ali Heavyweight Boxing (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

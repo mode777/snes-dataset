@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E0ADF929",
+   "md5": "A09EBC96AAC1680FD36029B768002D92",
+   "sha1": "C54F3D2BDB3667061BCBDAC155B7AFF89BFE1DED",
+   "region": "Europe",
+   "file": "Samurai Shodown (Europe).sfc"
+  },
+  {
+   "crc32": "2E614A53",
+   "md5": "F64E2B3EB9EE5B92F267BD420B294EFC",
+   "sha1": "3844A37927AE12D4077EE7188048B4CBB9958448",
+   "region": "USA",
+   "file": "Samurai Shodown (USA).sfc"
+  }
+ ],
  "gf_score": 3.56,
  "metascore": null,
  "cover_urls": [

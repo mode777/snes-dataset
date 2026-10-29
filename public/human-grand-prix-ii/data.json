@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A5351DB4",
+   "md5": "F6C6B6361FB0DF836DC146396F672BB8",
+   "sha1": "8568604DD55E01BA76EAFD9C384F2D40DBD5F376",
+   "region": "Japan",
+   "file": "Human Grand Prix II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

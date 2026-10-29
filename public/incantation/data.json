@@ -35,6 +35,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "34FAD701",
+   "md5": "7A4845697EFD4491FA8F8476AF9DC3C2",
+   "sha1": "2FDCA97BE96C4D9EE79E28ACA8BE64A7D43CB233",
+   "region": "Europe",
+   "file": "Incantation (Europe).sfc"
+  },
+  {
+   "crc32": "D0FF7E9F",
+   "md5": "849D26AC8CBBD1CD9EC80EBFEC44DD19",
+   "sha1": "6AD0B48E12CEDDBFA00D4DFC8635B9EB4D692A66",
+   "region": "USA",
+   "file": "Incantation (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

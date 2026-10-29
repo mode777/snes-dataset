@@ -33,6 +33,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C504DDFD",
+   "md5": "E81BEDD2FC6B013538CDF4BD22FDEFF6",
+   "sha1": "69A11324AEB57D005800771D6147603D5479B282",
+   "region": "Europe",
+   "file": "Mega Man X3 (Europe).sfc"
+  },
+  {
+   "crc32": "FA0FE671",
+   "md5": "CFE8C11F0DCE19E4FA5F3FD75775E47C",
+   "sha1": "B226F7EC59283B05C1E276E2F433893F45027CAC",
+   "region": "USA",
+   "file": "Mega Man X3 (USA).sfc"
+  }
+ ],
  "gf_score": 4.11,
  "metascore": null,
  "cover_urls": [

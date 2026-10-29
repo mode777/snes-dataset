@@ -28,6 +28,36 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "36768B55",
+   "md5": "2C1FE9138B17E386DF8F722479C3AD3E",
+   "sha1": "01FA5A26C3521FE73EB687F9731A044DD3022287",
+   "region": "Japan",
+   "file": "Derby Stallion III (Japan) (Rev 3).sfc"
+  },
+  {
+   "crc32": "5F3E5279",
+   "md5": "21B6046684A33B429E8FE5A43E364301",
+   "sha1": "E26F31B513F13CDCA7B33B5834588EB59481F264",
+   "region": "Japan",
+   "file": "Derby Stallion III (Japan) (Rev 2).sfc"
+  },
+  {
+   "crc32": "75EEEB3F",
+   "md5": "BE1714ED558D2D2D2095FBF18E73317B",
+   "sha1": "2FC2925151290E792E8CC99E46B06AC19E3E2AEF",
+   "region": "Japan",
+   "file": "Derby Stallion III (Japan).sfc"
+  },
+  {
+   "crc32": "7E97AE6A",
+   "md5": "DB0CF9EF260C166879E54EFC78ABACB0",
+   "sha1": "B279DB5D9631069AB72B2DABF48824F9462568C8",
+   "region": "Japan",
+   "file": "Derby Stallion III (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

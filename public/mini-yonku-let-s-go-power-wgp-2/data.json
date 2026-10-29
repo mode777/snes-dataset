@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4459D4D0",
+   "md5": "ACDEB2EE6EF7B460C5DFED6957F8581A",
+   "sha1": "E84AB48B9A0024B90FD9D789A8B8CF94F879D195",
+   "region": "Japan",
+   "file": "Mini Yonku Let's & Go!! - Power WGP 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

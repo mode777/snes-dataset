@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A9C26CA1",
+   "md5": "B31A792E3BBBCB9FB64C080557A92DC5",
+   "sha1": "7040C4CEBB25E92583AD4E4282B1DA1EF37E14B4",
+   "region": "Japan",
+   "file": "Pachi-Slot Kanzen Kouryaku - Universal Shindai Nyuuka Volume 1 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

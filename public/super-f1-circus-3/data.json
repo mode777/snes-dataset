@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "26EF22CB",
+   "md5": "80CEB340149D2D8BD72F7F2415000946",
+   "sha1": "3E59AAF8C9EA1A40485E6938F1BDD582C279FAF5",
+   "region": "Japan",
+   "file": "Super F1 Circus 3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "38BE3E18",
+   "md5": "24271247EB0275FE843F101F6E0FAC24",
+   "sha1": "072BB7DE400B16A811B9066B5D5813600BE3D9C0",
+   "region": "USA",
+   "file": "PowerFest 94 - Super Mario Bros. - The Lost Levels (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

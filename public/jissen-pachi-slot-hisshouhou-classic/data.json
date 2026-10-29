@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F28358C0",
+   "md5": "A055A68AC785FBE3B562EA0A29EA0C0D",
+   "sha1": "F1115EF15688ECBA048E41C4372624C469379CC2",
+   "region": "Japan",
+   "file": "Jissen! Pachi-Slot Hisshouhou! Classic (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -32,6 +32,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "BDA7DE29",
+   "md5": "80EED41A2EA019AD32CFFEC4642C217A",
+   "sha1": "9219CE57CF98943928A8F31695701C30D3094556",
+   "region": "USA",
+   "file": "Jeopardy! - Sports Edition (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

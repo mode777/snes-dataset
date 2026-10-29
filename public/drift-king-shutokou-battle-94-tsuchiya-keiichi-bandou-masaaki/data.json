@@ -21,6 +21,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "33CE298F",
+   "md5": "4A5A8A88353AEECD55FB6C13204D5882",
+   "sha1": "719599CE4ACBC1B790CB09506183BC2A9121671F",
+   "region": "Japan",
+   "file": "Drift King Shutokou Battle '94 - Tsuchiya Keiichi & Bandou Masaaki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

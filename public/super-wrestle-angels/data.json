@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B697F8A0",
+   "md5": "0FF4EC5AB5A1A387130784DE5960795F",
+   "sha1": "1897062B952636CE0D2F9B714C7CD0B08CDC340B",
+   "region": "Japan",
+   "file": "Super Wrestle Angels (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

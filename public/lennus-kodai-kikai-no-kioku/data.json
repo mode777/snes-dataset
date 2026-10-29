@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B9D3911E",
+   "md5": "65F4D4436382D5904B083D456FD02738",
+   "sha1": "F06D078E1B7289F990FE9701EB34092577A38CFD",
+   "region": "Japan",
+   "file": "Lennus - Kodai Kikai no Kioku (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

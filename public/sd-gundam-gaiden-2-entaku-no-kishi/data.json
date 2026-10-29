@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "007FD50C",
+   "md5": "29A9DDDD5C2C934D639DF503820F7E61",
+   "sha1": "E9D5A724FAA40933C3C8217711B04DC34529BC96",
+   "region": "Japan",
+   "file": "SD Gundam Gaiden 2 - Entaku no Kishi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

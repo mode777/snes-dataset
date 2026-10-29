@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "EDA14445",
+   "md5": "AFD282C16A4898AE911D1E44120B3DBB",
+   "sha1": "F351B8593E587E7A264DD60CDF3713598289F5B5",
+   "region": "Japan",
+   "file": "Machi Magazine (Japan) (BS) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

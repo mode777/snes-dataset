@@ -33,6 +33,22 @@
  "languages": [
   "English, German, Spanish, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B0E4E48A",
+   "md5": "90C3BFEF7E6D3C54B23521250D514C69",
+   "sha1": "77C96255CE51AD8ABBEF06909A6464656329C76F",
+   "region": "Europe",
+   "file": "Prehistorik Man (Europe) (En,Fr,De).sfc"
+  },
+  {
+   "crc32": "CB4F87BB",
+   "md5": "FBE14D670F28FA5C67C00DC551204838",
+   "sha1": "8304FC1170507FC1814B2095FB6C2E42887CE5FD",
+   "region": "USA",
+   "file": "Prehistorik Man (USA) (En,Fr,Es).sfc"
+  }
+ ],
  "gf_score": 3.36,
  "metascore": null,
  "cover_urls": [

@@ -31,6 +31,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F194D00A",
+   "md5": "510B850D22A6F3D67CCBFDD979501943",
+   "sha1": "AEEDB733C7BCD5FB933EB998D9FB3C960335BB4F",
+   "region": "USA",
+   "file": "Aero Fighters (USA).sfc"
+  }
+ ],
  "gf_score": 3.78,
  "metascore": null,
  "cover_urls": [

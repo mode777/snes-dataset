@@ -35,6 +35,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5AFF8CD5",
+   "md5": "928A0D7FEEB4EDEE8D53203A575968E6",
+   "sha1": "6E5ED586D7E32DE0D0432F349819F473FD42FB31",
+   "region": "USA",
+   "file": "Lethal Enforcers (USA).sfc"
+  },
+  {
+   "crc32": "3C948EA6",
+   "md5": "3A33512AE5B1F2047BCD77E1D3E1CE4A",
+   "sha1": "E33715D52B1DEDA1D6A6B8FFA279B168F1092CA2",
+   "region": "Japan",
+   "file": "Lethal Enforcers (Japan).sfc"
+  },
+  {
+   "crc32": "AA6EE29C",
+   "md5": "42F3084CE3F529B46090B9E1D781717D",
+   "sha1": "5E24EDAF584C05E35019C29570FFB83C248BAF0E",
+   "region": "Europe",
+   "file": "Lethal Enforcers (Europe).sfc"
+  }
+ ],
  "gf_score": 3.29,
  "metascore": null,
  "cover_urls": [

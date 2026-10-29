@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4390D719",
+   "md5": "25694E43DF2DD3F8CD756132778911A1",
+   "sha1": "FDF42F544AF6BFB45D82556B62253F0F81CC6BA9",
+   "region": "Japan",
+   "file": "Lady Stalker - Kako kara no Chousen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

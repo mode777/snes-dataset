@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5283E505",
+   "md5": "D349F2853C8795C46FA2CD82268D0C18",
+   "sha1": "7501FA2F205B4BA5123228CE6BE23182AA1E1BE1",
+   "region": "Japan",
+   "file": "Barbarossa (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

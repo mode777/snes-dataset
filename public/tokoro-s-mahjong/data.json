@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "49DBFF84",
+   "md5": "3C38BF1D6BAE1C1BC808055A155ECFAB",
+   "sha1": "FD6446626EE3A5E1A22A8399CB4C5507F487A2F4",
+   "region": "Japan",
+   "file": "Tokoro's Mahjong (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

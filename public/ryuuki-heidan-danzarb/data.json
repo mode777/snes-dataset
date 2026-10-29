@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "454D7DCD",
+   "md5": "D3E5AD143B6D4E0AF5CEEB3178F88381",
+   "sha1": "298207AE2C8CE26281DA1CC0DAA90EB9C2542E85",
+   "region": "Japan",
+   "file": "Ryuuki Heidan Danzarb (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C2D2150C",
+   "md5": "BC140D7C704430AB24F8285C4386CC5F",
+   "sha1": "A8E19971F8F341E6398415877A2CAB0EF9D1F48A",
+   "region": "Japan",
+   "file": "Dolucky no Kusayakiu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

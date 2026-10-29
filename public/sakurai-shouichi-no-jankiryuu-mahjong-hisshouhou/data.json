@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A8119995",
+   "md5": "CBD751CC700A7882BA6811A9840B2683",
+   "sha1": "52DD37C4A48310570F9F887320B8B83122BBB5F8",
+   "region": "Japan",
+   "file": "Sakurai Shouichi no Jankiryuu Mahjong Hisshouhou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

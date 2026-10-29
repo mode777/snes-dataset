@@ -35,6 +35,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "080AC1B5",
+   "md5": "8573481BF12F2FDD8E66610D2C7B6914",
+   "sha1": "30558DCE9CACF9AABBEEF7CF14055A04D787CC09",
+   "region": "Europe",
+   "file": "American Tail, An - Fievel Goes West (Europe).sfc"
+  },
+  {
+   "crc32": "EEA38AED",
+   "md5": "A2AABE7064FF072DE65450D50D50BA93",
+   "sha1": "572254AEBC4DCF3F65AA0C8F9B7CF6836BB9A294",
+   "region": "USA",
+   "file": "American Tail, An - Fievel Goes West (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

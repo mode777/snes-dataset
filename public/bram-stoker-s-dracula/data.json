@@ -37,6 +37,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "5CECE690",
+   "md5": "9B7F6ADC98D6B1A28C2560025AF484AF",
+   "sha1": "618EEA2886004652FA707DAF56D8AD04C3C17094",
+   "region": "USA",
+   "file": "Bram Stoker's Dracula (USA).sfc"
+  },
+  {
+   "crc32": "6E4650A2",
+   "md5": "803973B6B04C9700F58B624A542B9F3A",
+   "sha1": "67646EA144CEB67F41EC9BBC42DC973C5C256EEB",
+   "region": "USA",
+   "file": "Bram Stoker's Dracula (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "9EE3835D",
+   "md5": "FF05759EB3273F4C9DF6ABBFBD813254",
+   "sha1": "00882AE318014BDF34F66E1BC3B3D630C6429320",
+   "region": "Europe",
+   "file": "Bram Stoker's Dracula (Europe).sfc"
+  }
+ ],
  "gf_score": 1.93,
  "metascore": null,
  "cover_urls": [

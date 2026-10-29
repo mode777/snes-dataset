@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese, ko"
  ],
+ "roms": [
+  {
+   "crc32": "E14128CA",
+   "md5": "76951BA56BD1311B7A3BB3481A1A7920",
+   "sha1": "D7D29E9A6A4820F2DF03EEB80FDBC2B7DF37F481",
+   "region": "USA",
+   "file": "Super Bases Loaded 2 (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

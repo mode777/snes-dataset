@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A5F63557",
+   "md5": "9F4F827317F507B0AC4702245F161687",
+   "sha1": "2AB3E78615D83FCE96986A759CFE3EE1FE9CCB07",
+   "region": "Japan",
+   "file": "Juusou Kihei Valken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

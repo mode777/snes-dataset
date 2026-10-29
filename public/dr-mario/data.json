@@ -26,6 +26,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "982EBEFA",
+   "md5": "31B0B1DF5B86BBE718A3A249E16AE2E4",
+   "sha1": "F6984247AE77E12E5E6B6908A7089DF4C96E8A4B",
+   "region": "Japan",
+   "file": "Dr. Mario (Japan) (BS).sfc"
+  },
+  {
+   "crc32": "63CE5132",
+   "md5": "DD6661BD75AD233C0778477AD82E19FC",
+   "sha1": "F7F11AED2A12824B4093C04CDDF1BFF65635D4E7",
+   "region": "Japan",
+   "file": "Dr. Mario (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": 3.35,
  "metascore": 66,
  "cover_urls": [

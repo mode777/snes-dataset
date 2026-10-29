@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B800A4FB",
+   "md5": "646D795F3244D780F32CB27F34DAA7C8",
+   "sha1": "506231C0B1FA34B3AC47880363C7CD4656EA4C42",
+   "region": "Japan",
+   "file": "Dharma Doujou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

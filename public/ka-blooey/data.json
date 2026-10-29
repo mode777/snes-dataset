@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B2592EAE",
+   "md5": "972DF83B47025D17704C06C34976C956",
+   "sha1": "87EF0656CC8AB138CA7FD591EDA91A963D81CE55",
+   "region": "USA",
+   "file": "Ka-blooey (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

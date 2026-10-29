@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9BB76902",
+   "md5": "E52BA06FE55289683D3EACDD0262EBC5",
+   "sha1": "F76EB2484B08027A511E510D1EDCD20D74246708",
+   "region": "Japan",
+   "file": "Jammes (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

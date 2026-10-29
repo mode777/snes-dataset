@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "84F7E078",
+   "md5": "76A5CF0BA713446CBEC55D072E20528B",
+   "sha1": "1F5E53A0391A902DE6EE9407ED10803C84E23CC3",
+   "region": "USA",
+   "file": "Lock On (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

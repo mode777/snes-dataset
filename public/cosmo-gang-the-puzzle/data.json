@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "61B26167",
+   "md5": "6CF131FB538E9F08D5D06B597972C3A6",
+   "sha1": "C39694EF87C65DE4692628B8F2F117D1E52D2041",
+   "region": "Japan",
+   "file": "Cosmo Gang - The Puzzle (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

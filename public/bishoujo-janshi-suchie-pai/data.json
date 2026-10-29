@@ -26,6 +26,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "80E66C55",
+   "md5": "EF9B2DD5575383C999C240E17B484561",
+   "sha1": "B81012726129A8EB98E43CC08E507CD197D89080",
+   "region": "Japan",
+   "file": "Bishoujo Janshi Suchie-Pai (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "11713982",
+   "md5": "D54E6670C2B1DB0016F4577AFDA8F5B9",
+   "sha1": "39625B53C9FA9D3F6AC0EE317E6179105A919A90",
+   "region": "Japan",
+   "file": "Bishoujo Janshi Suchie-Pai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

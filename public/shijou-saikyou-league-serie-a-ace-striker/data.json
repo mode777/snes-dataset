@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1C73B9D1",
+   "md5": "346296F30CE6FF7DDF72686BDA071E12",
+   "sha1": "78E426DF4F9F74351F6AADC46B6C13C259A5FD3A",
+   "region": "Japan",
+   "file": "Shijou Saikyou League Serie A - Ace Striker (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

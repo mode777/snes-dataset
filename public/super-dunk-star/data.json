@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "2D391540",
+   "md5": "9E3134AA9182876854E4F40DCF23D08B",
+   "sha1": "2ED755825B9D40EBE74B43166E67F259DED7637B",
+   "region": "Japan",
+   "file": "Super Dunk Star (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

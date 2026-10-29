@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "BF8B07A9",
+   "md5": "A6F50587B5E23333AF034535B2A23A93",
+   "sha1": "0455D62D519FFCE8785465841395373F33E7D13F",
+   "region": "Europe",
+   "file": "Rock & Roll Racing (Europe) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

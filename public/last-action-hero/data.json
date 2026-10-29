@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "91633D95",
+   "md5": "D808E9E8D2577D6088A78BFB5484EB18",
+   "sha1": "74ADBAC06FE174FD5876DB89C4EC5738E4DC90AD",
+   "region": "Europe",
+   "file": "Last Action Hero (Europe).sfc"
+  },
+  {
+   "crc32": "88017DF9",
+   "md5": "2C22830019D300EEF94E52A31F7B9A4A",
+   "sha1": "099BF2EA5DD17C52621C4558D89A4DA0593CF5DE",
+   "region": "USA",
+   "file": "Last Action Hero (USA).sfc"
+  }
+ ],
  "gf_score": 1.49,
  "metascore": null,
  "cover_urls": [

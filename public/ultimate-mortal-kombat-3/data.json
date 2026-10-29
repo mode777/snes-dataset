@@ -39,6 +39,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "F5BFE41E",
+   "md5": "0644DA71F79D405A22934DAA1474CEFC",
+   "sha1": "09C094CA1114BCB6D5917E989686CA79B96CF9EA",
+   "region": "USA",
+   "file": "Ultimate Mortal Kombat 3 (USA).sfc"
+  },
+  {
+   "crc32": "1C4C54D2",
+   "md5": "8085EEEA42C0F7DA8F91A37FDF683769",
+   "sha1": "EE419F3A567E1F0D88D568DF641D1AF16D4DB148",
+   "region": "Europe",
+   "file": "Ultimate Mortal Kombat 3 (Europe).sfc"
+  }
+ ],
  "gf_score": 4.12,
  "metascore": null,
  "cover_urls": [

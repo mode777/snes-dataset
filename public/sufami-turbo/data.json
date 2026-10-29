@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9B4CA911",
+   "md5": "D3A44BA7D42A74D3AC58CB9C14C6A5CA",
+   "sha1": "EF86EA192EED03D5C413FDBBFD46043BE1D7A127",
+   "region": "Japan",
+   "file": "Sufami Turbo (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

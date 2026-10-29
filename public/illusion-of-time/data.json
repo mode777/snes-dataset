@@ -21,6 +21,43 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "7C305DC8",
+   "md5": "FAF4D7C79DAF445D2CA286D8B2F81CAB",
+   "sha1": "F236E4A5FFAA7431540DBAEB98716B3E84CFA455",
+   "region": "Spain",
+   "file": "Illusion of Time (Spain).sfc"
+  },
+  {
+   "crc32": "4BD8E60B",
+   "md5": "DA83E132213271FE3107BF4DBAC7B939",
+   "sha1": "D3FF5ADF858D7E56A67577AC6042C26565C240DF",
+   "region": "Germany",
+   "file": "Illusion of Time (Germany) (Rev 1).sfc"
+  },
+  {
+   "crc32": "1A7C8541",
+   "md5": "68E1492BDDEA04D457D77705C77C74E1",
+   "sha1": "24711CE599F1F61E9B3CAC3D117D5D9C37FF759F",
+   "region": "Germany",
+   "file": "Illusion of Time (Germany).sfc"
+  },
+  {
+   "crc32": "63F6F934",
+   "md5": "45EF39D209AF53EB7ABCCD763445F202",
+   "sha1": "025ED8B698B66100DBBEB66B8A91AF2EA9D742F9",
+   "region": "France",
+   "file": "Illusion of Time (France).sfc"
+  },
+  {
+   "crc32": "F9AE28DB",
+   "md5": "A9D5368F701016D00003118A9616F1CE",
+   "sha1": "D1CF72EA3971EDB4B706A0BD3CA756B016A6B17E",
+   "region": "Europe",
+   "file": "Illusion of Time (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "92FAD6FC",
+   "md5": "AFC11B5034B065CE866DB40EC1EB5A1F",
+   "sha1": "B8CB0FB89DEC3E3DD7820E53562189EFC1875149",
+   "region": "Japan",
+   "file": "Love Quest (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

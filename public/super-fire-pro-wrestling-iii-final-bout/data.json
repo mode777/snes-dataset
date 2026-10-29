@@ -23,6 +23,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "978DC1CA",
+   "md5": "800FBEB7FD019665FD2ABED34472EED3",
+   "sha1": "F107598EA3B2A9CA840AAB965FE3D9BF9AA657F5",
+   "region": "Japan",
+   "file": "Super Fire Pro Wrestling III - Final Bout (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "4DFB9072",
+   "md5": "37FBC6773CC3493A8095FBCAE82691CC",
+   "sha1": "1901F427BE4748B015F4164325B7BB8E0F4FB6D4",
+   "region": "Japan",
+   "file": "Super Fire Pro Wrestling III - Final Bout (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

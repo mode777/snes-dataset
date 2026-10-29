@@ -32,6 +32,29 @@
  "languages": [
   "English, German, Spanish, French, Italian, Japanese, Dutch, Swedish"
  ],
+ "roms": [
+  {
+   "crc32": "4AEF99F3",
+   "md5": "DE2C8E0BD113044DB024C83C1C5071E5",
+   "sha1": "D8B8826FD78DFA912AC1F6611CB149936D39CD05",
+   "region": "Europe",
+   "file": "Dragon's Lair (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "304FDB92",
+   "md5": "A656351F50713512A40A1D7868234090",
+   "sha1": "1095C8435CC858E6A9BAE3544AFE5F04074C492D",
+   "region": "Europe",
+   "file": "Dragon's Lair (Europe) (En,Fr,De,Es,It,Nl,Sv).sfc"
+  },
+  {
+   "crc32": "24FFE7FD",
+   "md5": "872A1839A3A2AB9B0D2BCE272FEBA1B7",
+   "sha1": "BC5C464875F0468287D60B785F24805CE4C45AFB",
+   "region": "USA",
+   "file": "Dragon's Lair (USA).sfc"
+  }
+ ],
  "gf_score": 2.13,
  "metascore": null,
  "cover_urls": [

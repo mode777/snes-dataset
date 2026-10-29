@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CA4C0219",
+   "md5": "AFD06ADE29B5270A79199A531B0C7964",
+   "sha1": "ADCC959F26BED5F53EC4539813224F7FFEEA4B9A",
+   "region": "Japan",
+   "file": "Ganbare Goemon 2 - Kiteretsu Shougun Magginesu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

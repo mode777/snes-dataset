@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F7D2FBC6",
+   "md5": "6BAC5445344B1DDA963DE204AEE57C0A",
+   "sha1": "7EA6F75E9B1685CF757C3622FAB40576C7B5888B",
+   "region": "Japan",
+   "file": "Oda Nobunaga - Haou no Gundan (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

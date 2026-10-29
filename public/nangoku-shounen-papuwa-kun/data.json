@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8BDA9255",
+   "md5": "6A2D887F7AA9A1DD5187DC573B26156D",
+   "sha1": "D16976A856C849F6568685AC4B8B94BDF15DD256",
+   "region": "Japan",
+   "file": "Nangoku Shounen Papuwa-kun (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

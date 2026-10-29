@@ -18,6 +18,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "FABFF8BD",
+   "md5": "8B1D78752F37754726595B677211FC47",
+   "sha1": "B378006FCF270AC8DD3B960A5D432024248CDB21",
+   "region": "Europe",
+   "file": "Zombies (Europe).sfc"
+  },
+  {
+   "crc32": "399669F2",
+   "md5": "AC63C65A2E2A1B0A8B8EE6DC8115FFEE",
+   "sha1": "BA7D1EF309B5A6E560D021FAF306A3F12F8F4DCE",
+   "region": "Europe",
+   "file": "Zombies (Europe) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

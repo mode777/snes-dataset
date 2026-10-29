@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "45EF5AC8",
+   "md5": "97BF78E916B80F47CF35EDF502BE34DC",
+   "sha1": "1C6A6DD90D3463F4532202199885A2C0E9A485F6",
+   "region": "Japan",
+   "file": "Final Fantasy VI (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

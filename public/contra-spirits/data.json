@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B8CFE377",
+   "md5": "4531C7AED14908A432F175351508F8E7",
+   "sha1": "78CF6D00F1147BE6DD4E8053C8143D39B24A97B3",
+   "region": "Japan",
+   "file": "Contra Spirits (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

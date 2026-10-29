@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CA7B4DB9",
+   "md5": "A4E5ED2DBD1E3612917B91AB58E6FEEA",
+   "sha1": "1EC73AB6F7BF43FE0A83F73E6834CD5B7D6C17F8",
+   "region": "Japan",
+   "file": "Ys IV - Mask of the Sun (Japan).sfc"
+  }
+ ],
  "gf_score": 3.57,
  "metascore": null,
  "cover_urls": [

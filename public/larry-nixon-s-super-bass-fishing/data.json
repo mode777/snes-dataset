@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "71E962B6",
+   "md5": "54952C59741A0C3B6ACCD627F5D3452C",
+   "sha1": "82C9197DAEB0ABC89705B913502113A15B7FADE6",
+   "region": "Japan",
+   "file": "Larry Nixon's Super Bass Fishing (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "E190B880",
+   "md5": "D7B05E982C6C881DC62931E5184770A0",
+   "sha1": "FEF69D924E56A33B31E2E7B69A299054AD8C35D3",
+   "region": "Japan",
+   "file": "Larry Nixon's Super Bass Fishing (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

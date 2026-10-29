@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2C4E6B8F",
+   "md5": "D48705D6A898A0AD83E2AC200F8DAE3B",
+   "sha1": "E9857FA4BBA7989584846949E5853B0AFE9D9F21",
+   "region": "Japan",
+   "file": "Super Drakkhen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

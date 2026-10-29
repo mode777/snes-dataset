@@ -24,6 +24,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1E327BD9",
+   "md5": "29998124A67DEDA111D5ACA8AAF5DCA5",
+   "sha1": "91FF16DA242D39736AEAD4D360BF6BF7C0AFCE82",
+   "region": "Japan",
+   "file": "Tengai Makyou Zero (Japan).sfc"
+  },
+  {
+   "crc32": "BF8FEF7A",
+   "md5": "A7438CD69E608BD2B268DDC0ED05C2CD",
+   "sha1": "36E5099128088B95623FF77F8196FCECD3F26731",
+   "region": "Japan",
+   "file": "Tengai Makyou Zero (Japan) (Shounen Jump no Shou).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

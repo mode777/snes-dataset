@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "841C8EB9",
+   "md5": "05AB2908F7E96FB6681727DDC129B4E1",
+   "sha1": "793ED0B1C9F72535749501D7B0DE396A10E67A44",
+   "region": "Japan",
+   "file": "Special Tee Shot (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

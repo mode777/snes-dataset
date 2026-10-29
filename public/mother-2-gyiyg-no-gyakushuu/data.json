@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2019FABE",
+   "md5": "A086F6648288C2858329B1C9C6E49D82",
+   "sha1": "8738CFF9E38A8B86AE30BFE0E5FBCB2828C2B16E",
+   "region": "Japan",
+   "file": "Mother 2 - Gyiyg no Gyakushuu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

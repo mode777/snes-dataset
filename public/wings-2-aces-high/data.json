@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CC2E31D4",
+   "md5": "24AF413B6B630D81A8225E0756278EF0",
+   "sha1": "6960C53A9939B06476649EF5CA7B60E6B61D14F2",
+   "region": "USA",
+   "file": "Wings 2 - Aces High (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "1637D1A5",
+   "md5": "14F3E38280BD12C6FBF90FD3A77C375F",
+   "sha1": "4E09D2DC7BB60973F4ED4A3F7F34F1F3BD672A57",
+   "region": "USA",
+   "file": "Wings 2 - Aces High (USA).sfc"
+  }
+ ],
  "gf_score": 2.78,
  "metascore": null,
  "cover_urls": [

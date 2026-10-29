@@ -28,6 +28,29 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C5A482BD",
+   "md5": "EFF3D011EE28A5A58CCDB3487BF10A78",
+   "sha1": "FDF69D36D9CA5D902E9859D2AC4C6A323094A8EA",
+   "region": "Japan",
+   "file": "Super Puyo Puyo (Japan).sfc"
+  },
+  {
+   "crc32": "9B386875",
+   "md5": "997531B50A83C782EB2C612D3C536A46",
+   "sha1": "AC5305FC7919F62F5E21712C290C119A88E0AC2E",
+   "region": "Japan",
+   "file": "Super Puyo Puyo (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "3ADDBA0B",
+   "md5": "DB8F24C5D9F49317914C8216E0A818D7",
+   "sha1": "A3B87D1F5CAC33C61CB92DFCFEA59690249F8B81",
+   "region": "Japan",
+   "file": "Super Puyo Puyo (Japan) (Rev 2).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

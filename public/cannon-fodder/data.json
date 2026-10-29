@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "F3B5CBB1",
+   "md5": "8A61EA1D3B53375AAE00CC69367DEC7E",
+   "sha1": "E091A94E465078CB5BB554EA03CD8CF6EE5B87D0",
+   "region": "Europe",
+   "file": "Cannon Fodder (Europe).sfc"
+  }
+ ],
  "gf_score": 3.55,
  "metascore": null,
  "cover_urls": [

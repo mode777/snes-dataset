@@ -31,6 +31,22 @@
  "languages": [
   "English, German, Spanish, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "863ED0B8",
+   "md5": "58EBD7CBF28CEADC03AEC4F448956A0B",
+   "sha1": "209C55FD2A8D7963905E3048B7D40094D6BEA965",
+   "region": "Japan",
+   "file": "Seiken Densetsu 3 (Japan).sfc"
+  },
+  {
+   "crc32": "4801E76A",
+   "md5": "9F42F1945B3FD87D7A64ADA21E1811E7",
+   "sha1": "7078DBCF0B2941AF59C8187EEB3B8DD392407B46",
+   "region": "Japan",
+   "file": "Seiken Densetsu 3 (Japan) (Sample).sfc"
+  }
+ ],
  "gf_score": 4.33,
  "metascore": null,
  "cover_urls": [

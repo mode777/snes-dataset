@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A0A9F044",
+   "md5": "F8735BA04C6855CB0967EA7B416C5730",
+   "sha1": "046FF553048E15CA592E7704896AD802B55B4A65",
+   "region": "Japan",
+   "file": "Tatakae Genshijin 3 - Shuyaku wa Yappari Joe & Mac (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

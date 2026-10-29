@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "64B76CEB",
+   "md5": "3E49EF28A461A06435AE04C2E5341F78",
+   "sha1": "02F3A5B09490987848E4B882122B19FF430EC7D7",
+   "region": "Japan",
+   "file": "Battle Racers (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

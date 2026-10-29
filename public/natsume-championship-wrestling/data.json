@@ -28,6 +28,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "D4DC20E1",
+   "md5": "2067F76B1AC029C6A6C59B0BEAFB2B80",
+   "sha1": "DE2068D44F632B9F2573CA981E262A7D7CE97A96",
+   "region": "USA",
+   "file": "Natsume Championship Wrestling (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

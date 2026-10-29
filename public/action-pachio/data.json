@@ -34,6 +34,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C752F5DF",
+   "md5": "10556E66FD824A5779B26AE29E7E283F",
+   "sha1": "9C46102986C2F9B7D068AC610ECA74ADF262EC47",
+   "region": "Japan",
+   "file": "Action Pachio (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

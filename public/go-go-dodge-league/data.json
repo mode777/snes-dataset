@@ -28,6 +28,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "184B07DC",
+   "md5": "6D08044C3F407679AB69523100868529",
+   "sha1": "C4DA1CECA565DB529CA39EB911A1F0830FDC77D0",
+   "region": "Japan",
+   "file": "Go! Go! Dodge League (Japan).sfc"
+  },
+  {
+   "crc32": "06E6E66D",
+   "md5": "8CB900956009CBB50803760F30C57E48",
+   "sha1": "E1A8A3542510A276B23DD46BBE8A530B49FE2B79",
+   "region": "Japan",
+   "file": "Go! Go! Dodge League (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,29 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "AC94F94A",
+   "md5": "E5213200466A1C7A3CAFEB42E773DA37",
+   "sha1": "58DD143049C5A1527975D64C9773B605ACA307C3",
+   "region": "USA",
+   "file": "Game Genie (USA) (v2.0) (Unl).sfc"
+  },
+  {
+   "crc32": "F8D4C303",
+   "md5": "9B6636B1908D672244BD687F0B388465",
+   "sha1": "6D96C3556B8EEF50D5A49A807F246CBA1FF48B6B",
+   "region": "USA",
+   "file": "Game Genie (USA) (Unl) [b].sfc"
+  },
+  {
+   "crc32": "58CBF2FE",
+   "md5": "A7D74A21EBE4D2FAFE0E9B8BB089D3E0",
+   "sha1": "81A5C4667E3021094EDF3C82B2E9D1E453F547B3",
+   "region": "USA",
+   "file": "Game Genie (USA) (Alt 1) (Unl) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

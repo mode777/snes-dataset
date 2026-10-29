@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "AF5A3203",
+   "md5": "4E0B85BC923D71205C903F7E2EC5C7ED",
+   "sha1": "72E55565DB89FE7C2CA437E602FE15ACAA1ECC8F",
+   "region": "Europe",
+   "file": "Exhaust Heat (Europe).sfc"
+  },
+  {
+   "crc32": "5CB9BC35",
+   "md5": "C54C7D62548698620E779AEAABF1A164",
+   "sha1": "745EBF8164CA7BE58829C6130C0E06F330CD0748",
+   "region": "Japan",
+   "file": "Exhaust Heat (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

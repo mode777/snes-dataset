@@ -29,6 +29,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "95310032",
+   "md5": "C4A1A27F58F87786D403A8D133593957",
+   "sha1": "E0BDF8D4E9C9D3F344686FDA1E20190E3B47800D",
+   "region": "Japan",
+   "file": "Itadaki Street 2 - Neon Sign wa Barairo ni (Japan).sfc"
+  },
+  {
+   "crc32": "3525EBB6",
+   "md5": "B5300C59CCD975B473D50B973BA89D51",
+   "sha1": "3B99CCEF371AEAC33BDC0E63F4A65B507E832D5D",
+   "region": "Japan",
+   "file": "Itadaki Street 2 - Neon Sign wa Barairo ni (Japan) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

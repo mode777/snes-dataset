@@ -32,6 +32,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "70D9C906",
+   "md5": "88E1BA3BEE88DA20FE3C427E4AC98BFE",
+   "sha1": "48E8C7FDE8F4D1EBD3B348FF96AF8E3A1EA003FE",
+   "region": "USA",
+   "file": "Sterling Sharpe - End 2 End (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

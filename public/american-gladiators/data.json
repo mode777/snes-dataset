@@ -32,6 +32,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "76B151FD",
+   "md5": "8CF22B97AC6D18B72526A51BE2CFBB5F",
+   "sha1": "A3B280F9ACAE932C03DD5177C6A671040575A05F",
+   "region": "USA",
+   "file": "American Gladiators (USA).sfc"
+  }
+ ],
  "gf_score": 2.26,
  "metascore": null,
  "cover_urls": [

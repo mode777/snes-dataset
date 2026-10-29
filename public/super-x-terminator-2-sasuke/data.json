@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5F75CE9E",
+   "md5": "0FFA6A3F93266B42EC0BD2840B82C58C",
+   "sha1": "1AB01F930FBF516D6B5F38AF2A0EBF46CDAA09B3",
+   "region": "Japan",
+   "file": "Super X-Terminator 2 Sasuke (Japan) (Unl) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

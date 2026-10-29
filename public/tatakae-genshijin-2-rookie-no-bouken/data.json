@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "689CBF05",
+   "md5": "95775D1573534E21BC3E41B987DEBDAC",
+   "sha1": "D782B92BB7DD79F4B47513CF604FB63E2F7CEF18",
+   "region": "Japan",
+   "file": "Tatakae Genshijin 2 - Rookie no Bouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

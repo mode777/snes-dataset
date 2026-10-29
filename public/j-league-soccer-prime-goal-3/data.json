@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1499B746",
+   "md5": "95EE04E8D15AD3A0190EAC6054E92749",
+   "sha1": "4FFE84A8A2700E9C3BD09A5AE8ABACC013050DA0",
+   "region": "Japan",
+   "file": "J.League Soccer Prime Goal 3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "885FB1B9",
+   "md5": "B2957E23EA75282C67897C0D5D669A35",
+   "sha1": "51E1B12190103C102C39762ABAC71803311D7BEF",
+   "region": "Japan",
+   "file": "Soreyuke Ebisumaru Karakuri Meiro - Kieta Goemon no Nazo!! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

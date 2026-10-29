@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "32B2B3DD",
+   "md5": "D5C6E9038E60C23B05D5690A03FFA4C9",
+   "sha1": "AE7421B87A9F4CC7C189680DFBB39453905AA5E6",
+   "region": "Japan",
+   "file": "Poi Poi Ninja World (Japan) (ST).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

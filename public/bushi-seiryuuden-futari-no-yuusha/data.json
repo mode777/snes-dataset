@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "62D31295",
+   "md5": "672D15E2200A5CA176233FCB10139E92",
+   "sha1": "62E5F9CEA8D4BE0FFF01E44AFBCD3ED3FE7D608D",
+   "region": "Japan",
+   "file": "Bushi Seiryuuden - Futari no Yuusha (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

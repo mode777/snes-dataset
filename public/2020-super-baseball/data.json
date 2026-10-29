@@ -36,6 +36,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E95A3DD7",
+   "md5": "C9027B03A719A547CB2D9BCF9A9A6CBB",
+   "sha1": "FE448AE2C065DFF8B0C2AACC35F9D9EE9432B04F",
+   "region": "Japan",
+   "file": "2020 Super Baseball (Japan).sfc"
+  },
+  {
+   "crc32": "0D77933E",
+   "md5": "6AE225F4D94D3017415714449246D2E1",
+   "sha1": "F285D6B3717A571002A5E9E0B732F08F100D2514",
+   "region": "USA",
+   "file": "2020 Super Baseball (USA).sfc"
+  }
+ ],
  "gf_score": 3.62,
  "metascore": null,
  "cover_urls": [

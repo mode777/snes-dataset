@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4CC4F40C",
+   "md5": "0DA2AE976F1C4B08243D2419812AB3A4",
+   "sha1": "1075A36B885ED205EAA88F4104AD0D0EA162C37B",
+   "region": "Japan",
+   "file": "Spark World (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

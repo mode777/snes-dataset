@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CA8FF946",
+   "md5": "C0E5D653D0BEC492117FA4F53CFCB619",
+   "sha1": "F6EE185BA96F9B6B6C6D72B11062CB0C420F6C96",
+   "region": "USA",
+   "file": "Earth Defense Force (USA).sfc"
+  },
+  {
+   "crc32": "404BEC17",
+   "md5": "769B3B85A3F6EDE9C0AB962E39C45C89",
+   "sha1": "41785E658C1C2EA460CBE91775B250FA9201EA65",
+   "region": "Europe",
+   "file": "Earth Defense Force (Europe).sfc"
+  }
+ ],
  "gf_score": 3.64,
  "metascore": null,
  "cover_urls": [

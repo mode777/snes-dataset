@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "675B6382",
+   "md5": "12F1E82F2251EEE4B754611887E89821",
+   "sha1": "95F31DFB31200E31E80007CC66A32E2C1A7B02BE",
+   "region": "Japan",
+   "file": "RPG Tsukuru 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

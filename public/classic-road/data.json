@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3AF7C64A",
+   "md5": "B9D8915813E09F426D8BE21BB73CEAA7",
+   "sha1": "8F9F72E6771B97557315FD88526187D718DE0781",
+   "region": "Japan",
+   "file": "Classic Road (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

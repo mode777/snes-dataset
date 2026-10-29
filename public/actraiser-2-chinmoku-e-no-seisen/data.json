@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3CBC264F",
+   "md5": "9698AC310BC4A2A35999638AFD2D23B8",
+   "sha1": "CC1A951C54DB6B6001925093F3DAFCE1B4DBA798",
+   "region": "Japan",
+   "file": "ActRaiser 2 - Chinmoku e no Seisen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

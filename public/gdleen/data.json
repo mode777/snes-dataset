@@ -29,6 +29,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F0205FED",
+   "md5": "8CEB98C7FAA02FE0E254DC11689C32D6",
+   "sha1": "8D51A7B9C21F1F93C8680384E817E7BAA879CAEB",
+   "region": "Japan",
+   "file": "Gdleen (Japan).sfc"
+  },
+  {
+   "crc32": "09692C77",
+   "md5": "06C360E481287D9B79B2ABC9FC7FA713",
+   "sha1": "AF203CDECA2163A25411818103B7B34E966FEE58",
+   "region": "Japan",
+   "file": "Gdleen (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

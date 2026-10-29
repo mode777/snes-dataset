@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "4C9A5E89",
+   "md5": "6B8DECA83891E1B9E5D842C9E866FE47",
+   "sha1": "CC3EC1051B9FDFA1D30C5F92CE44C37B90DFE8C3",
+   "region": "Japan",
+   "file": "Ultimate Football (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

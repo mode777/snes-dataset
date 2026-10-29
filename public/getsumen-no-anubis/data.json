@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "78432DDC",
+   "md5": "F789987300FA08B393033A5F9BBD1CB2",
+   "sha1": "23DB3FBFB94A6B5A1A74324AC52E7E1A4B31A4CA",
+   "region": "Japan",
+   "file": "Getsumen no Anubis (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

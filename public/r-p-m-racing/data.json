@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "35FCD374",
+   "md5": "6905BA46D6D5757CB4EABB92B789BBDB",
+   "sha1": "516CD02B2966B3581C3865216FB07E8B58A9B22C",
+   "region": "Japan",
+   "file": "R.P.M. Racing (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

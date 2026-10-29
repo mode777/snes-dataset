@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8D9BFFC8",
+   "md5": "022261F6ADD3432435DF430166EA9BD2",
+   "sha1": "EA5C8080945D6923E40E4AC7BD37526E64DF30A1",
+   "region": "Japan",
+   "file": "Genjuu Ryodan (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

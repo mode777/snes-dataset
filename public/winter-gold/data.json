@@ -28,6 +28,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "0F8378A6",
+   "md5": "5794995D6D7BB06BFC87FEC2F40CCC80",
+   "sha1": "DC7F33E6BB587D7290F6A2587BB31AF15724DFA3",
+   "region": "Europe",
+   "file": "Winter Gold (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

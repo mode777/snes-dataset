@@ -39,6 +39,36 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "83BA0AC0",
+   "md5": "DB35A37E7B84D4168171C49E6CB9D827",
+   "sha1": "49E06C1B2235A1C6465DE665028F1C4AEDA6EEB2",
+   "region": "USA",
+   "file": "Rise of the Robots (USA).sfc"
+  },
+  {
+   "crc32": "0BE1DE31",
+   "md5": "844036246049B35EE8DD3A95CFE428B8",
+   "sha1": "647803547866A8EC8EA00011CA75A60E52D52CAE",
+   "region": "USA",
+   "file": "Rise of the Robots (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "09F827A5",
+   "md5": "A107A7D1313EE5C19F5E28DA009E47F2",
+   "sha1": "4859D5B6C58AC7D6EBE12A24BD0B7ED89ECF88F9",
+   "region": "Japan",
+   "file": "Rise of the Robots (Japan).sfc"
+  },
+  {
+   "crc32": "8D4E7082",
+   "md5": "B99C62007547882829C4553C89E34821",
+   "sha1": "E7FE22D33412EFC7CA145D0A5BCFB5A7876CAB45",
+   "region": "Europe",
+   "file": "Rise of the Robots (Europe).sfc"
+  }
+ ],
  "gf_score": 1.43,
  "metascore": null,
  "cover_urls": [

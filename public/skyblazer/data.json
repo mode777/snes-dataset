@@ -31,6 +31,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CEF3E26C",
+   "md5": "B28E6CBDC81EB9CEA7F80817B5EB76F2",
+   "sha1": "526EE59E45C796C4F251067C718C6D73EBCFF934",
+   "region": "USA",
+   "file": "Skyblazer (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "1594A363",
+   "md5": "CA4396140CF961BCCF1FA79B1105FFC6",
+   "sha1": "7AAE012DEC1A31A9230859EB0E949216410CF302",
+   "region": "USA",
+   "file": "Skyblazer (USA) (Beta) (Alt 1).sfc"
+  },
+  {
+   "crc32": "F13B00B0",
+   "md5": "5DD2C9F0A933E6A43B7E38E6EF0769BA",
+   "sha1": "8426A16F7D8656C8D2CE4AC3151EC96B433F938D",
+   "region": "USA",
+   "file": "Skyblazer (USA).sfc"
+  },
+  {
+   "crc32": "4A25D0C8",
+   "md5": "9C170BA816526ED046B9429B6B7F5033",
+   "sha1": "967875D587B02533018F3D29F0715C107D31F19B",
+   "region": "Europe",
+   "file": "Skyblazer (Europe).sfc"
+  }
+ ],
  "gf_score": 3.66,
  "metascore": null,
  "cover_urls": [

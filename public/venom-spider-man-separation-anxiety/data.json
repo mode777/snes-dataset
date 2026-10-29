@@ -35,6 +35,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "CD274974",
+   "md5": "61A3E67CDFADF27C0F1DCBCF7D50C1AB",
+   "sha1": "41C50CD9065DBD127B06A8FC1CFE63A8F0132602",
+   "region": "Europe",
+   "file": "Venom-Spider-Man - Separation Anxiety (Europe).sfc"
+  },
+  {
+   "crc32": "919C509D",
+   "md5": "07F817A784C393B381DB699A046FA4A9",
+   "sha1": "4CC91F82F800B9A10433D91579911083CA47484E",
+   "region": "USA",
+   "file": "Venom-Spider-Man - Separation Anxiety (USA).sfc"
+  }
+ ],
  "gf_score": 3.6,
  "metascore": null,
  "cover_urls": [

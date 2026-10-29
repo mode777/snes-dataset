@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0EAFD03C",
+   "md5": "54B010DAFF0D9BF1DAE091D7DC75C383",
+   "sha1": "76BF3709A28FCE0C7DBAB00E4FAA949EF23FEAB4",
+   "region": "Japan",
+   "file": "Earth Light - Luna Strike (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

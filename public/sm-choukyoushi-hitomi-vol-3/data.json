@@ -24,6 +24,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1156CAC6",
+   "md5": "3A0314EF50FD2976DF3C7CB92EC4395F",
+   "sha1": "37D404B0C213053D32B9D778A1C99F8477837B42",
+   "region": "Japan",
+   "file": "SM Choukyoushi Hitomi Vol. 3 (Japan) (Unl) [b].sfc"
+  },
+  {
+   "crc32": "92E6D22F",
+   "md5": "772AE04431DDF99122453AAA09023698",
+   "sha1": "CFED5026F490DCD3A9848C5499D4F6F010BAB880",
+   "region": "Japan",
+   "file": "SM Choukyoushi Hitomi Vol. 3 (Japan) (Alt 1) (Unl) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

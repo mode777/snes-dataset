@@ -25,6 +25,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C5D1DDB3",
+   "md5": "E15327D4E73CDBE3440D55DA0D69D84D",
+   "sha1": "79528190898A9E737E3B00838B168CC649BA6429",
+   "region": "Europe",
+   "file": "Puzzle Bobble - Bust-A-Move (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

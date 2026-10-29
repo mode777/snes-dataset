@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "52FC7228",
+   "md5": "CFD3C6B8A68BA403B6D5B346D6D085EE",
+   "sha1": "CFB5D2CE3EAB576DAE49F570284B75C1A8C0465D",
+   "region": "Japan",
+   "file": "Dragon Knight 4 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "908B90B1",
+   "md5": "722D1C53FBB8767ADA8008C733CE83E7",
+   "sha1": "E87FC16D74BD5A692977BDEFBDC7BFD074BE3291",
+   "region": "USA",
+   "file": "Rise of the Phoenix (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

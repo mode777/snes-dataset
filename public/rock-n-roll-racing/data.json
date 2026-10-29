@@ -38,6 +38,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7D06F473",
+   "md5": "1978359063C02AD2BADD3C0E993ACA14",
+   "sha1": "66D864DD07F8EAE86CF4E1F60F176B405A2DDBE9",
+   "region": "USA",
+   "file": "Rock n' Roll Racing (USA).sfc"
+  },
+  {
+   "crc32": "D9FAFB8A",
+   "md5": "890B6702C14B1A17314EF16C04364330",
+   "sha1": "1839E07A21EECA554C0A852FF6BA5DBC49DC887C",
+   "region": "USA",
+   "file": "Rock n' Roll Racing (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "A206384C",
+   "md5": "C8B23EC6E96472EE45828EFBF287C903",
+   "sha1": "F0673D5446E42C4DBF1C177F9AD02EE2F5BA36FC",
+   "region": "Japan",
+   "file": "Rock n' Roll Racing (Japan).sfc"
+  },
+  {
+   "crc32": "B02DAF39",
+   "md5": "EA99D9924329380FE4A0D523CAF9D2E2",
+   "sha1": "61430BE47083D7E7F5879A69247DD17DDAFF50D1",
+   "region": "Europe",
+   "file": "Rock n' Roll Racing (Europe).sfc"
+  }
+ ],
  "gf_score": 4.04,
  "metascore": 80,
  "cover_urls": [

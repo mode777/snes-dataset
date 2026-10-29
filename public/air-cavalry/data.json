@@ -30,6 +30,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "B3F57CC6",
+   "md5": "444A1CA2373FD295248C18B42E2E3079",
+   "sha1": "0F526A429170EBB8A7981A2B4DF42203D4ECA71D",
+   "region": "Europe",
+   "file": "Air Cavalry (Europe).sfc"
+  },
+  {
+   "crc32": "6B452801",
+   "md5": "B8FA02456B70F529AFA265B2BA3D189F",
+   "sha1": "65F8142DDBCE9C03B175D03ECFD304E8589227C1",
+   "region": "USA",
+   "file": "Air Cavalry (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

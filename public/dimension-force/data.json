@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3D0D6FDC",
+   "md5": "C5C1FA9E0F1F3634DBA100ED82311FE7",
+   "sha1": "383C26494BCDCAC152EC31D806E7C4E72425748A",
+   "region": "Japan",
+   "file": "Dimension-Force (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

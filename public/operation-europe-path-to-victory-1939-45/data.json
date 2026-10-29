@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F84C2BB6",
+   "md5": "0EEE67AF3D35A1654C2343911FE529A1",
+   "sha1": "2C08D0DAF70A44A4D73D16C803A0C323CD4D01E8",
+   "region": "USA",
+   "file": "Operation Europe - Path to Victory 1939-45 (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

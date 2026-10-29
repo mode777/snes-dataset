@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E344627B",
+   "md5": "84EC7562B5D178951A60F85E79D3AE3E",
+   "sha1": "10B4BB69733286B1997DE882383E4EAF2A574210",
+   "region": "Europe",
+   "file": "Alfred Chicken (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

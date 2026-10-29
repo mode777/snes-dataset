@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8676126B",
+   "md5": "911B6AD146E6BFF67F82DE466B7521C7",
+   "sha1": "A79B186F9B02C58D60BD77AA69B3711725FAEE2E",
+   "region": "Japan",
+   "file": "Keeper (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

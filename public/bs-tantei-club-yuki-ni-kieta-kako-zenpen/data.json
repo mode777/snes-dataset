@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D98FD7D1",
+   "md5": "2E138DEBDFDEA9FF819B1CCE9101CE4D",
+   "sha1": "DD7DAF70638AB526CB384F26C491AFDC0BCE2A08",
+   "region": "Japan",
+   "file": "BS Tantei Club - Yuki ni Kieta Kako - Zenpen (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

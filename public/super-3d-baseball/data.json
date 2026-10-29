@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "304123C2",
+   "md5": "AB42576AC7EFB809F701A6C08F1554F3",
+   "sha1": "124EE1EE5BAE9268095037ABD7D51045DE6AC55E",
+   "region": "Japan",
+   "file": "Super 3D Baseball (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

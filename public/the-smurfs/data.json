@@ -31,6 +31,15 @@
  "languages": [
   "English, German, Spanish, French, Italian"
  ],
+ "roms": [
+  {
+   "crc32": "2AE148D6",
+   "md5": "425D5643E470836B3EF0919811655813",
+   "sha1": "371B0E8329EB48EBA1CAEB8B8A051FEA240282BD",
+   "region": "Europe",
+   "file": "Smurfs, The (Europe) (En,Fr,De,Es,It).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

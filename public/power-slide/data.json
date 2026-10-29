@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "65CE3729",
+   "md5": "ABD8381A8E4693FA8C04CAA91F790E07",
+   "sha1": "30115DB2558060D9293684F3D5810D063A0C710E",
+   "region": "Europe",
+   "file": "Power Slide (Europe) (Proto) (1994-04-12).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -39,6 +39,43 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8AEDD3A1",
+   "md5": "23715FC7EF700B3999384D5BE20F4DB5",
+   "sha1": "9140AE08D62A562CCB98576BA89F381F9F4F1439",
+   "region": "USA",
+   "file": "SimCity (USA).sfc"
+  },
+  {
+   "crc32": "81D85180",
+   "md5": "13CC9509758072502ECD8721F5F09FCB",
+   "sha1": "2A3C347A779A8E438736A214A169A49FAA44E7A5",
+   "region": "Europe",
+   "file": "SimCity (Europe).sfc"
+  },
+  {
+   "crc32": "5D026339",
+   "md5": "2F1C1A70F2268B4C37E2A095A9BE0058",
+   "sha1": "AF13DE6DDF7D33A2D29E9D1B40CEC58823EDCF42",
+   "region": "France",
+   "file": "SimCity (France).sfc"
+  },
+  {
+   "crc32": "A39FD8D8",
+   "md5": "FBB0966E5F977AF9E3F475C3DA667526",
+   "sha1": "DE4592A75DD58E2E9116BCC4669507D00BCBFE00",
+   "region": "Japan",
+   "file": "SimCity (Japan).sfc"
+  },
+  {
+   "crc32": "451E4708",
+   "md5": "D0142F63A3DEE58F97C21D939B6DBD60",
+   "sha1": "EB55AAABB8ECAB6C750B5A14D8A9A67A03968D6F",
+   "region": "Germany",
+   "file": "SimCity (Germany).sfc"
+  }
+ ],
  "gf_score": 3.84,
  "metascore": null,
  "cover_urls": [

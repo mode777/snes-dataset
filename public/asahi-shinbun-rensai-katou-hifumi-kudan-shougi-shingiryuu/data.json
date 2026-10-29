@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "506A8F77",
+   "md5": "3D3C735AD372DBBBB7CAFB809C60678B",
+   "sha1": "EB1F8139D1490C268EB2C2CCA3634BF1676E1C48",
+   "region": "Japan",
+   "file": "Asahi Shinbun Rensai - Katou Hifumi Kudan Shougi - Shingiryuu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

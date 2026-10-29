@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1DF7233C",
+   "md5": "D3F797A2284BEDB24D0D81E69AF5D2C4",
+   "sha1": "F0CFF996EC3AB7DA5FF7E8474647FDE767DD0B12",
+   "region": "Europe",
+   "file": "Power Rangers (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

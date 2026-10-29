@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "21B47E62",
+   "md5": "DAD772810B232CCF10053CB24E13D850",
+   "sha1": "6AD488B27EEA331CD3B710C708AA6ECB285C0D4F",
+   "region": "Japan",
+   "file": "Destructive (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

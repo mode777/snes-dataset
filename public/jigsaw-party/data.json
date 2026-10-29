@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "78F229DC",
+   "md5": "52E1CB037D122B5651FC514E1C233FDB",
+   "sha1": "8872D187CEFD882145359EEF8C659EDCBE99FA85",
+   "region": "Japan",
+   "file": "Jigsaw Party (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -37,6 +37,36 @@
  "languages": [
   "English, German, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "65AD4F8D",
+   "md5": "19C9A9F9E6835BD2879D8C9BAD3830AD",
+   "sha1": "80333FC4F45D36C23B1F2EB35465ED8E53E0DD52",
+   "region": "USA",
+   "file": "Wing Commander (USA).sfc"
+  },
+  {
+   "crc32": "42299CEA",
+   "md5": "0A8C257612B2E42624DC81AC8FBAF03E",
+   "sha1": "0CFEB3A4FF98B62708C9AF2E951B49976B2BEE90",
+   "region": "Japan",
+   "file": "Wing Commander (Japan).sfc"
+  },
+  {
+   "crc32": "C8A95814",
+   "md5": "DFBC169B9927F0E8881857889EC9811E",
+   "sha1": "4573A4DB25707DEC5468C0B4CFEBFE54A56DDFCA",
+   "region": "Germany",
+   "file": "Wing Commander (Germany).sfc"
+  },
+  {
+   "crc32": "A7A22A40",
+   "md5": "A8F7ACBE9DFEE7EFC3E581A445238C50",
+   "sha1": "1EE9B054438B77E5E427823A20CC71CC339BF970",
+   "region": "Europe",
+   "file": "Wing Commander (Europe).sfc"
+  }
+ ],
  "gf_score": 3.32,
  "metascore": null,
  "cover_urls": [

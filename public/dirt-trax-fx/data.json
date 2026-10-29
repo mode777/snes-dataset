@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "9DBC2330",
+   "md5": "8746B7BDDDE64AF9314E34B66E42C714",
+   "sha1": "D2940767DE799FCD7A2EE0995F072930475AB88F",
+   "region": "Europe",
+   "file": "Dirt Trax FX (Europe).sfc"
+  },
+  {
+   "crc32": "61A86C7F",
+   "md5": "A67235F2E7CDF0F7D8AAA15AA74B0353",
+   "sha1": "D36E3E949C46939029C82B19B2F99A098EFDAB76",
+   "region": "USA",
+   "file": "Dirt Trax FX (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -32,6 +32,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "F57DBA3B",
+   "md5": "D484B197AEEF6981E49772ADC6866990",
+   "sha1": "08524189BD10051005C2A15BDAAE999C3A90359D",
+   "region": "USA",
+   "file": "Michael Jordan - Chaos in the Windy City (USA).sfc"
+  },
+  {
+   "crc32": "8E37DB87",
+   "md5": "1A1BD0A7652A2B7B025E9E5132831A81",
+   "sha1": "F5ADF0DF565F88D6E0155660EFECDE259292A1C0",
+   "region": "Europe",
+   "file": "Michael Jordan - Chaos in the Windy City (Europe).sfc"
+  }
+ ],
  "gf_score": 2.91,
  "metascore": null,
  "cover_urls": [

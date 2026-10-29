@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "71B24BEE",
+   "md5": "194296F2AE4E496FD5D513E54FA43207",
+   "sha1": "3488BBA31A1FCFCB82671C7D6B3402151AD78B9F",
+   "region": "Japan",
+   "file": "Ultra Seven (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

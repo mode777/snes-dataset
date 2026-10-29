@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "4CE2B818",
+   "md5": "8DC92A769FEE1C11BA1219D884830F57",
+   "sha1": "C405045B0BA5CFBF971BBA378942449A8E39A8BD",
+   "region": "USA",
+   "file": "Inspector Gadget (USA).sfc"
+  }
+ ],
  "gf_score": 3.07,
  "metascore": null,
  "cover_urls": [

@@ -18,6 +18,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "6FD2CD8C",
+   "md5": "ABF6C56882D13F3F7D337D114603EB76",
+   "sha1": "91D5DA97339606C1350B69F07FB594564CED5CA2",
+   "region": "USA",
+   "file": "Spider-Man and the X-Men in Arcade's Revenge (USA) (Beta) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

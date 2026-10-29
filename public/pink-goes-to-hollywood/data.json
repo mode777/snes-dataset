@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8BAE9438",
+   "md5": "A547ADCAF7977CCD482278EDBBFAD684",
+   "sha1": "94466FF1143311261DC514F2E30F682B55DE71C1",
+   "region": "USA",
+   "file": "Pink Goes to Hollywood (USA).sfc"
+  },
+  {
+   "crc32": "94DA9BD9",
+   "md5": "C622B804B4C9282DAA58C67E553F150F",
+   "sha1": "3D83672FCC88940FB0E8502E822F52A75944B067",
+   "region": "Europe",
+   "file": "Pink Goes to Hollywood (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

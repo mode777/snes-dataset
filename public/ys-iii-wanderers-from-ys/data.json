@@ -32,6 +32,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8E39A006",
+   "md5": "2E9F2E765560B90ED46A25CC1BDFFF93",
+   "sha1": "AC2E080C47A98BDF1196AEB6EC06736795A3AE74",
+   "region": "Japan",
+   "file": "Ys III - Wanderers from Ys (Japan).sfc"
+  },
+  {
+   "crc32": "64A91E64",
+   "md5": "C8236962FD9F85F6D1961934166D6BD5",
+   "sha1": "0B677AF3C10AFC4CF4FEE26225E70E3967F9B757",
+   "region": "USA",
+   "file": "Ys III - Wanderers from Ys (USA).sfc"
+  }
+ ],
  "gf_score": 3.4,
  "metascore": null,
  "cover_urls": [

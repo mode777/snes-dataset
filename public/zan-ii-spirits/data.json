@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "39942E05",
+   "md5": "03F2685D09ECE47FDC785D1AAD1D9818",
+   "sha1": "731D7D56BAFCA7B5A6613CBA10F1872EF326F60A",
+   "region": "Japan",
+   "file": "Zan II Spirits (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

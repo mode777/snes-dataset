@@ -31,6 +31,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "98A96AE8",
+   "md5": "306FE638317AEE4843FDC8EDE55F1C6F",
+   "sha1": "DB7514BEE2236E8D0339D00D51A5BAF392CCBEFF",
+   "region": "USA",
+   "file": "Double Dragon V - The Shadow Falls (USA).sfc"
+  },
+  {
+   "crc32": "E80F6B65",
+   "md5": "43ADB401C1003499DF8665FA2CAD3E85",
+   "sha1": "09847567EDD0B09C6F401D830107A60E26AC8FB5",
+   "region": "Europe",
+   "file": "Double Dragon V - The Shadow Falls (Europe).sfc"
+  }
+ ],
  "gf_score": 2.3,
  "metascore": null,
  "cover_urls": [

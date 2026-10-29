@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AB82EBBE",
+   "md5": "A1C9F6E6191D483F33F0369FAD43EA22",
+   "sha1": "F62471127CA7E6AC834FC90BBF1058A9E4102256",
+   "region": "Japan",
+   "file": "Miracle Girls (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

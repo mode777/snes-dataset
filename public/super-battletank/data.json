@@ -28,6 +28,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C53B82CD",
+   "md5": "4D2AD8F55CD7F49878B23C13211C1A60",
+   "sha1": "EF5FB01CB8C18A94475E98691959D0695AE26E94",
+   "region": "Japan",
+   "file": "Super Battletank (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

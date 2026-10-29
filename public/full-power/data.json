@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "66C04587",
+   "md5": "2EF2A029D8DB36A3E899182069D43F8A",
+   "sha1": "B532B95797C60474F201FBED74F46AC0484EBB18",
+   "region": "Japan",
+   "file": "Full Power (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

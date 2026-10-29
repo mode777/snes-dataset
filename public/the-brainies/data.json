@@ -31,6 +31,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "DE551746",
+   "md5": "ED661A0826BAAC2908596FA2B2A023BA",
+   "sha1": "D56E4C729B295055DF70BB37111BEF1021173F6F",
+   "region": "Europe",
+   "file": "Brainies, The (Europe).sfc"
+  },
+  {
+   "crc32": "718CB0DF",
+   "md5": "EF8F6F5D9F26F5AF70B0892CC4FDEA21",
+   "sha1": "BA2E624390925F0993B5CCF74072E168FBFE4606",
+   "region": "USA",
+   "file": "Brainies, The (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C7DAA598",
+   "md5": "5880425952E1A279CF4C2CBE1505835C",
+   "sha1": "79EAC4CC3C50A08BFD56AED1B27417F3D13A3447",
+   "region": "Japan",
+   "file": "MVP Baseball (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

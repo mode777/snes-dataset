@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CEDF3BA7",
+   "md5": "B9B77E5F378B871ECE75CABA82718A8E",
+   "sha1": "46FE42F195D43B71BA0608356EB7C2B65BFF70AC",
+   "region": "Japan",
+   "file": "Marvelous - Mouhitotsu no Takara-jima (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

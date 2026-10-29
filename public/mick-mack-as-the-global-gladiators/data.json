@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "240442EA",
+   "md5": "FA5BFB92D0F9BD9C27190E4C5B36DB9D",
+   "sha1": "920ADCFCE57EC5E882A39A95E616053A438CE91A",
+   "region": "USA",
+   "file": "Mick & Mack as the Global Gladiators (USA) (Proto) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

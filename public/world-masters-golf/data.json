@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "E0EE681F",
+   "md5": "205D25F1763B969A85A7B16C7F749737",
+   "sha1": "9F3223C7851C1E6D0B3833A035293AD3DFA3EDED",
+   "region": "Europe",
+   "file": "World Masters Golf (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

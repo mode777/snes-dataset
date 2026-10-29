@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3CCEED49",
+   "md5": "B1774FC2E0AF8427FD3BCF116A4EC0E0",
+   "sha1": "2FD4ACDF34424A85B9371AB9BF0438DE1D8F72C5",
+   "region": "Japan",
+   "file": "Treasure Hunter G (Japan).sfc"
+  }
+ ],
  "gf_score": 4.04,
  "metascore": null,
  "cover_urls": [

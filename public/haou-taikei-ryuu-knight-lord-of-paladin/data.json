@@ -25,6 +25,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B7B6BEF7",
+   "md5": "F6B18C51FB4B704B2C56A5D8E6C0B299",
+   "sha1": "221305F1E5913C7876B89D4A5D56406275E143A7",
+   "region": "Japan",
+   "file": "Haou Taikei Ryuu Knight - Lord of Paladin (Japan).sfc"
+  },
+  {
+   "crc32": "2740560B",
+   "md5": "7CAD74B21B53193B7426B6684CAECF75",
+   "sha1": "9C063EE178A8B142A10BC7FBFC3661FA6F4278C5",
+   "region": "Japan",
+   "file": "Haou Taikei Ryuu Knight - Lord of Paladin (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

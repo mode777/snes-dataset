@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "926ACD7E",
+   "md5": "A99BA6DBC612744F5EFFD37A43A7BAA7",
+   "sha1": "F64768FA10C69A99531E9D17C74134E540244064",
+   "region": "Japan",
+   "file": "3-ji no Wide Shou - 6 Gatsugou (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

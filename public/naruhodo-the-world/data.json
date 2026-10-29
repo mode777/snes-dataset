@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6460FBBE",
+   "md5": "2D259796396E93F6D13B71D9F3769F11",
+   "sha1": "86CB9C0A58F9683800F1B16A3414709F62396E3F",
+   "region": "Japan",
+   "file": "Naruhodo! The World (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

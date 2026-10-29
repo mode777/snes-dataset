@@ -25,6 +25,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2A5F8D8F",
+   "md5": "8DD2247E9F98284C800468D9BDB99C23",
+   "sha1": "47A48729B03E2221E1FB433DE0F3F835463DFD5F",
+   "region": "Europe",
+   "file": "R-Type III - The Third Lightning (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "1E1FF9FE",
+   "md5": "E5CB261F53BCA5A8BF70EC05C2A9E3DB",
+   "sha1": "945259EBA6B62E4BA124452A0C393640F4B61A09",
+   "region": "Japan",
+   "file": "R-Type III - The Third Lightning (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

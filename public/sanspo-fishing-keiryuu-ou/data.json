@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C7EEB640",
+   "md5": "DAF9A33976A400D861DBB2CC28F2A1DA",
+   "sha1": "9ECA7C9007A0B4B1E3078A84F111CB5226E61B99",
+   "region": "Japan",
+   "file": "Sanspo Fishing - Keiryuu Ou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

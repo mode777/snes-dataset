@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "935EA22C",
+   "md5": "95088BAF98FE3E9E50730DCF48DB1B60",
+   "sha1": "2F4DCC8AE4553BE208CA71A353261ADFC11D0E9D",
+   "region": "USA",
+   "file": "Goal! (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "65BBE8B4",
+   "md5": "B0344723A1A2AF7FF4FE9D46E57D2180",
+   "sha1": "D030C6512BE1E10C4C8B8B27D8ACAA59661AC264",
+   "region": "USA",
+   "file": "Operation Logic Bomb - The Ultimate Search & Destroy (USA).sfc"
+  },
+  {
+   "crc32": "0F956136",
+   "md5": "DC4127B47DC79C99C960D06CD4364912",
+   "sha1": "1FD1C5098F68E8AA625B1C77B672CA2A4ACDA8CE",
+   "region": "Europe",
+   "file": "Operation Logic Bomb - The Ultimate Search & Destroy (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

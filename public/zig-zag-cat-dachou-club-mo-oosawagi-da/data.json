@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "53554D5E",
+   "md5": "CEB86757F8F80AFADA6E5FBCA2707AE3",
+   "sha1": "FD1262A5E51BC76400A10E0673231AA7BFA0CFFA",
+   "region": "Japan",
+   "file": "Zig Zag Cat - Dachou Club mo Oosawagi da (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

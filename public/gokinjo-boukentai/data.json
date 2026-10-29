@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "33374F65",
+   "md5": "C29077648552CE87A60726D9DBA27B55",
+   "sha1": "E60A7FCD9FE464E287DA033C97719365915B6293",
+   "region": "Japan",
+   "file": "Gokinjo Boukentai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

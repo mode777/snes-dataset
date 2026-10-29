@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D7875512",
+   "md5": "DF368F8933DEC39C701908F10480EDDC",
+   "sha1": "40EE0B41399EF1E17639E69051B9AABA3A9B27DD",
+   "region": "USA",
+   "file": "Genghis Khan II - Clan of the Gray Wolf (USA).sfc"
+  }
+ ],
  "gf_score": 3.7,
  "metascore": null,
  "cover_urls": [

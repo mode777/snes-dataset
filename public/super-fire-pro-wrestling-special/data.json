@@ -29,6 +29,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E279EBE3",
+   "md5": "DF71B6CA861EBF02AC73A6E335718F79",
+   "sha1": "DEDFC7198C64813EE2628D4471884DEF959D4182",
+   "region": "Japan",
+   "file": "Super Fire Pro Wrestling Special (Japan).sfc"
+  },
+  {
+   "crc32": "1A13435C",
+   "md5": "F5F1E0691D62E308B86BC7BBF500BED9",
+   "sha1": "C469BF653D9505A509314A62A658B0FDA4E69C24",
+   "region": "Japan",
+   "file": "Super Fire Pro Wrestling Special (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

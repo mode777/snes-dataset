@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5C2A701D",
+   "md5": "720DE2F44DE00C8677094A6CFB780709",
+   "sha1": "F650083142D9F3EB2BF1B315B44D18077743FE17",
+   "region": "Japan",
+   "file": "Zool no Yume Bouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

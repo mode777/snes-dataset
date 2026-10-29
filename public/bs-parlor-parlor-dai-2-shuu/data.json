@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C54F08BE",
+   "md5": "888237278C1BD6DEF92E79E5F01AC2EA",
+   "sha1": "3911FD4BEB1261A096EB094F4C144D05B8220005",
+   "region": "Japan",
+   "file": "BS Parlor! Parlor! - Dai-2-shuu (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

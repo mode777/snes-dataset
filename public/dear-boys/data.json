@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9ED82C00",
+   "md5": "0BA067FDA3E1BD7CD42534FE86FF2C39",
+   "sha1": "266B152AD4FF8F7B85C415F76D469A779FB32956",
+   "region": "Japan",
+   "file": "Dear Boys (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

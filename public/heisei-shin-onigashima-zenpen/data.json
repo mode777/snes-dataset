@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1725E556",
+   "md5": "1535DDC23C9EBDFCE12A84BB9E13EC15",
+   "sha1": "CC33B67DA829CE809D3657A353802FF4E6B5BBC2",
+   "region": "Japan",
+   "file": "Heisei Shin Onigashima - Zenpen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

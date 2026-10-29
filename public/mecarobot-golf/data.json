@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "82CEEE3A",
+   "md5": "D75F476B1EBF207AA939F7322D53DC36",
+   "sha1": "7FC213CF74189DF1ADA9633852A3843E082EE677",
+   "region": "USA",
+   "file": "Mecarobot Golf (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

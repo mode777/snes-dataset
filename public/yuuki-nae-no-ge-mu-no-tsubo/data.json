@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2C889959",
+   "md5": "381F0F44159407C4ADC8299DDBD5779C",
+   "sha1": "CE70937945E84DB5D5E0CF1D9BD622D2C69ADFF3",
+   "region": "Japan",
+   "file": "Yuuki Nae no GE-MU no Tsubo (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

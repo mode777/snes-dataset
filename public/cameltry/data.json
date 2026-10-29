@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A95C1FFF",
+   "md5": "A1AB61005E58FF018CF16A0914863FF8",
+   "sha1": "B1D4F383D8E0D47BCE6B6574585EEAE47B2DC071",
+   "region": "Japan",
+   "file": "Cameltry (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

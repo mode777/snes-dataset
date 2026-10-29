@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C406562F",
+   "md5": "4FDC885B7C5D03E0B40350CFA2CF3577",
+   "sha1": "52EADD827BDBA497BC2B0DC10CCFEC4ABEBC8C0F",
+   "region": "Japan",
+   "file": "MARIA - Part 1 (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

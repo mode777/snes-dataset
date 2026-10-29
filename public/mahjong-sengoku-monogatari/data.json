@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2E89DB51",
+   "md5": "93B251DF5080307CF640E759ACC6B329",
+   "sha1": "5D7DBECBA63A9795E79D3DA1365866278A9E7B49",
+   "region": "Japan",
+   "file": "Mahjong Sengoku Monogatari (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

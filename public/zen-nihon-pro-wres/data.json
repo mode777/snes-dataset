@@ -21,6 +21,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E00FDC09",
+   "md5": "AA9F1998DDBDEAF0FFB2385D88BA17B6",
+   "sha1": "625831887786BF7CCF9B07285B5A167244EB4697",
+   "region": "Japan",
+   "file": "Zen-Nihon Pro Wres (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

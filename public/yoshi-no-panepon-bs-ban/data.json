@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "6775B6CA",
+   "md5": "A8C3308B9C0E2EDD4246F09B9A040E6A",
+   "sha1": "0E13049E2F0E5FD3E65D36BDAD790E1312392476",
+   "region": "Japan",
+   "file": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

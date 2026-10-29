@@ -18,6 +18,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0C34D7B5",
+   "md5": "396802F72E8B708DE6ECC6823C010F58",
+   "sha1": "68C77C52E5D91C379A897CE4048922E15AC9B9ED",
+   "region": "Japan",
+   "file": "Chou Makai Taisen! Dorabocchan (Japan) (Beta) (1992-12-21).sfc"
+  },
+  {
+   "crc32": "497D7C95",
+   "md5": "5A30E529224B5D7ACAB154D9FFA794E4",
+   "sha1": "3106CE675511A2D5D21D2600BC5438910DB9F7A8",
+   "region": "Japan",
+   "file": "Chou Makai Taisen! Dorabocchan (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

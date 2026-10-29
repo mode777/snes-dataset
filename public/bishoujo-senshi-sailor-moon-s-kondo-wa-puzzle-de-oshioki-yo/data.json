@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "10F03E3C",
+   "md5": "60E054A73BCAB9C73A73C05C5E17DCD1",
+   "sha1": "FEAB726C9A8A664435AE177A163C36B09E694D85",
+   "region": "Japan",
+   "file": "Bishoujo Senshi Sailor Moon S - Kondo wa Puzzle de Oshioki yo! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

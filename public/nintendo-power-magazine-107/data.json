@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F3ED881C",
+   "md5": "8FF1ED6B54618AC7985B23178E42E7BC",
+   "sha1": "D991321FF6CBBBCAF780297D597330F6F74FD2CE",
+   "region": "Japan",
+   "file": "Nintendo Power Magazine 107 (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

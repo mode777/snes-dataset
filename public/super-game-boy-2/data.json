@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "CB176E45",
+   "md5": "8ECD73EB4EDF7ED7E81AEF1BE80031D5",
+   "sha1": "E5B2922CA137051059E4269B236D07A22C07BC84",
+   "region": "Japan",
+   "file": "Super Game Boy 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2FEC70B6",
+   "md5": "5CE8EB4F5ABCD37C985182E05A26ACD9",
+   "sha1": "FF06EDBE0CCFE27F2F9CD0EAC4011C9B79B5207F",
+   "region": "USA",
+   "file": "Shanghai II - Dragon's Eye (USA).sfc"
+  },
+  {
+   "crc32": "45C2F934",
+   "md5": "5C7EB17D71EDEBB5C7193524A287A9E3",
+   "sha1": "A02811E013CA864562E1B1142DDC96FDA04F4359",
+   "region": "Europe",
+   "file": "Shanghai II - Dragon's Eye (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

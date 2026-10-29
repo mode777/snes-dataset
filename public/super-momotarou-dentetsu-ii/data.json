@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "277AD4A1",
+   "md5": "6CFDA5094BA89D8AD7A2E143D2BF66D0",
+   "sha1": "83D5F3E3E4D0D224549269DB4556FF7189203FAF",
+   "region": "Japan",
+   "file": "Super Momotarou Dentetsu II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "56F3A65A",
+   "md5": "679C59911E0449AB82A409AD51DEAAE4",
+   "sha1": "40805AA74278EEE3A8C0163EE9EC4F1DAE512111",
+   "region": "Japan",
+   "file": "Super Power League (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

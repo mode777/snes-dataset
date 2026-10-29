@@ -30,6 +30,29 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "7C07E4A0",
+   "md5": "7D33A268EFB97562A9B25E3A2CBC65FD",
+   "sha1": "4712886F61DD9CEDD4BDD69AA858858D216A7B21",
+   "region": "Europe",
+   "file": "Star Trek - Starfleet Academy - Starship Bridge Simulator (Europe).sfc"
+  },
+  {
+   "crc32": "CB2738BD",
+   "md5": "C01A91DDE0BC004E39971EF07878FF40",
+   "sha1": "1F32FED7052B7EC4F86AEF7747FAB096BFEF4F9D",
+   "region": "Germany",
+   "file": "Star Trek - Starfleet Academy - Starship Bridge Simulator (Germany).sfc"
+  },
+  {
+   "crc32": "2DB38D24",
+   "md5": "EE04E40432B2E60068EAC344E790EEA7",
+   "sha1": "A0147FE58B4A5B0B7D6A395BE37170429C89D102",
+   "region": "USA",
+   "file": "Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).sfc"
+  }
+ ],
  "gf_score": 3.42,
  "metascore": null,
  "cover_urls": [

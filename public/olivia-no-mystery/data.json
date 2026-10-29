@@ -20,6 +20,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0DFDE2AA",
+   "md5": "FD5996240DD8A2EC6565F6D269153C02",
+   "sha1": "DF542FFBFA614FA640B5425AA05AC7CEECB723DD",
+   "region": "Japan",
+   "file": "Olivia no Mystery (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

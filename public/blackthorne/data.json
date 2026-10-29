@@ -28,6 +28,22 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B39AF3FA",
+   "md5": "49715A9BCED9DBA4E6AAA1DAB639E743",
+   "sha1": "D10550FB9976BBEDE23952E7DB163CB341D80D91",
+   "region": "USA",
+   "file": "Blackthorne (USA) (Beta) (CES Version).sfc"
+  },
+  {
+   "crc32": "856BEAB1",
+   "md5": "EE33097D436B4901A71F7E4C9A5CB409",
+   "sha1": "BCAC87C7A982D8EB90CBF30A6C34FBABDE135FF7",
+   "region": "USA",
+   "file": "Blackthorne (USA).sfc"
+  }
+ ],
  "gf_score": 3.65,
  "metascore": 67,
  "cover_urls": [

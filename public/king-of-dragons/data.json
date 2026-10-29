@@ -32,6 +32,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DD505DF7",
+   "md5": "1CA6D04FCE9FFDE7DE781398A18DA88C",
+   "sha1": "792355FB2CE50496B84760E3833662CA1C63CFC5",
+   "region": "USA",
+   "file": "King of Dragons (USA).sfc"
+  },
+  {
+   "crc32": "78F0820B",
+   "md5": "11F55EEA6B817C9CCFB6151F8C707C7E",
+   "sha1": "E65EAA67DBC227FEAD5ECC15E23771C29050EECD",
+   "region": "Europe",
+   "file": "King of Dragons (Europe).sfc"
+  }
+ ],
  "gf_score": 3.77,
  "metascore": null,
  "cover_urls": [

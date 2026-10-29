@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "96DEC679",
+   "md5": "76C0D775AF541F17AB7A1232F8836495",
+   "sha1": "21E6CE377E3DE7052BFE06402D08CCB58678BB52",
+   "region": "Germany",
+   "file": "Lothar Matthaeus Super Soccer (Germany).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

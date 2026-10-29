@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "49C4CC15",
+   "md5": "3593DF92FBA7BEDBB68F22F61F081D55",
+   "sha1": "3386462D9A7670F94BCBACE6C19ADC1FF64C1575",
+   "region": "Japan",
+   "file": "Laplace no Ma (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

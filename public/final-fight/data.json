@@ -35,6 +35,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4CAB21DB",
+   "md5": "F638224CE95E2101C2948EDF7569AC73",
+   "sha1": "6CA2AC5916B3201D90F88612D28006CFFEDDE03D",
+   "region": "USA",
+   "file": "Final Fight (USA).sfc"
+  },
+  {
+   "crc32": "A425A202",
+   "md5": "4FE8E34AE98DF02555371625B31CE4C6",
+   "sha1": "8AB57C0AEF69A86BE74A8C74399313A5317B1250",
+   "region": "Japan",
+   "file": "Final Fight (Japan).sfc"
+  },
+  {
+   "crc32": "A4437629",
+   "md5": "EF781F6FE0D198FC227E51AFB3C17584",
+   "sha1": "C448AFE49F5EC5E94430AD25069F43BA28838859",
+   "region": "Europe",
+   "file": "Final Fight (Europe).sfc"
+  }
+ ],
  "gf_score": 3.42,
  "metascore": null,
  "cover_urls": [

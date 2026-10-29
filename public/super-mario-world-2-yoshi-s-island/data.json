@@ -32,6 +32,36 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "857980B2",
+   "md5": "CEF1055E9B4A2BE56EA7810C07976C17",
+   "sha1": "512E0B2AB74081FDA5FF5459162948D28226FC0B",
+   "region": "Europe",
+   "file": "Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De).sfc"
+  },
+  {
+   "crc32": "D138F224",
+   "md5": "CB472164C5A71CCD3739963390EC6A50",
+   "sha1": "C807F2856F44FB84326FAC5B462340DCDD0471F8",
+   "region": "USA",
+   "file": "Super Mario World 2 - Yoshi's Island (USA).sfc"
+  },
+  {
+   "crc32": "CF98DDAA",
+   "md5": "CE1E3E33B6E39D37B43D7DE599F9E785",
+   "sha1": "34612A93741F156D6E497462AB7F253CB8A959A0",
+   "region": "USA",
+   "file": "Super Mario World 2 - Yoshi's Island (USA) (Rev 1).sfc"
+  },
+  {
+   "crc32": "07E01EF9",
+   "md5": "9F235E4C17CF9762A49B83E82794D278",
+   "sha1": "1E1DC02C684652F9E927F3873AF65EA4B374BB80",
+   "region": "Europe",
+   "file": "Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 4.34,
  "metascore": 91,
  "cover_urls": [

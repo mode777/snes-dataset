@@ -31,6 +31,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C788B696",
+   "md5": "CDEF890E99A0FB62C4D449D867C4244A",
+   "sha1": "B8A9E3023B92E0F4139428F6D7A9E0F9DB70F60E",
+   "region": "USA",
+   "file": "Breath of Fire (USA).sfc"
+  }
+ ],
  "gf_score": 3.79,
  "metascore": 79,
  "cover_urls": [

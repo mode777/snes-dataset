@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CEAAADC2",
+   "md5": "B9AE6796818431FA8185C9FC89F1E586",
+   "sha1": "C4EA6F2599C3AC6CE499403C30BC5F81E2F92224",
+   "region": "Japan",
+   "file": "St. Andrews - Eikou to Rekishi no Old Course (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

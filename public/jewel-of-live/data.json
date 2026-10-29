@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "CE6A4D7F",
+   "md5": "792459E89C84627B53A77B3BF92B6195",
+   "sha1": "18B18757C79B48D1472DBA53E475EDAE73E867AE",
+   "region": "Japan",
+   "file": "Jewel of Live (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E822065C",
+   "md5": "96C2F98BAF38DD63C6A466688D7099F1",
+   "sha1": "01BF09E99D9B7BAA88F852293EC941CF863F7009",
+   "region": "USA",
+   "file": "Brawl Brothers (USA).sfc"
+  }
+ ],
  "gf_score": 3.36,
  "metascore": null,
  "cover_urls": [

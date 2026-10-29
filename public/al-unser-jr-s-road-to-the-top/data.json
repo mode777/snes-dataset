@@ -35,6 +35,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "4CF5D45F",
+   "md5": "F086B3C1C0B2DDE6963D254F4CDF7EF2",
+   "sha1": "94D1C2E49A2AF4169EF7BD01653EDB71F39A4C53",
+   "region": "Europe",
+   "file": "Al Unser Jr.'s Road to the Top (Europe).sfc"
+  },
+  {
+   "crc32": "D0550624",
+   "md5": "48B9B7110373B958128B41DAEEBF45FB",
+   "sha1": "0573C76EFD98BF103F278365783A26C9CFD73BD3",
+   "region": "USA",
+   "file": "Al Unser Jr.'s Road to the Top (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

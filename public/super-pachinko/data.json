@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "410D9F0A",
+   "md5": "2305598DAE517E95D727C54A9B376117",
+   "sha1": "47FC4A6712DCCA24EF360F3E6A99B68DB85CD9A4",
+   "region": "Japan",
+   "file": "Super!! Pachinko (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

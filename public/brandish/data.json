@@ -32,6 +32,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "74F70A0B",
+   "md5": "90BB70C75F0000492F99725DE54C264F",
+   "sha1": "EAB3718608F1657F484B27C6F684527FC27F2BA1",
+   "region": "USA",
+   "file": "Brandish (USA).sfc"
+  },
+  {
+   "crc32": "A087B6AD",
+   "md5": "934D5AC523E4CC829D67931F915B2284",
+   "sha1": "138B4E89918DFF0018B72217E56B7071F621F2B6",
+   "region": "Japan",
+   "file": "Brandish (Japan).sfc"
+  }
+ ],
  "gf_score": 3.38,
  "metascore": 78,
  "cover_urls": [

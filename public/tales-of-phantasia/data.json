@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E9946B84",
+   "md5": "207CD1C0AAACA29FAA389218B800F8FC",
+   "sha1": "FDECB234F416EB1CC1924E4F3D52C080C5BCD8D0",
+   "region": "Japan",
+   "file": "Tales of Phantasia (Japan).sfc"
+  }
+ ],
  "gf_score": 4.22,
  "metascore": 76,
  "cover_urls": [

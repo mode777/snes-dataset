@@ -34,6 +34,22 @@
  "languages": [
   "English, Spanish"
  ],
+ "roms": [
+  {
+   "crc32": "0730C37C",
+   "md5": "AB16565F70E427D048A0D8DDAB577139",
+   "sha1": "A477C7C8FFF0591792FBC7E4731BB7E7988D0617",
+   "region": "USA",
+   "file": "Cool World (USA).sfc"
+  },
+  {
+   "crc32": "BC2E1304",
+   "md5": "AB73FAEDC1409C5EA13BD5EC56B10C6C",
+   "sha1": "9EFAB99AB1B778ACA3023A71479E634206AC3507",
+   "region": "Spain",
+   "file": "Cool World (Spain).sfc"
+  }
+ ],
  "gf_score": 1.75,
  "metascore": null,
  "cover_urls": [

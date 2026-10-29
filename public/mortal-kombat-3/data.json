@@ -38,6 +38,43 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "342BF9D0",
+   "md5": "E61AB7A7BF3760F03BAB5E7383228040",
+   "sha1": "73975CA0707248159C036ECA4CB0A7E516F80E56",
+   "region": "Europe",
+   "file": "Mortal Kombat 3 (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "4E6AF725",
+   "md5": "EC6FA27BFC201DD0EF0000F4C65FB57A",
+   "sha1": "58E4E1259A86FAAADBC982176E569CB2038DBAC5",
+   "region": "USA",
+   "file": "Mortal Kombat 3 (USA).sfc"
+  },
+  {
+   "crc32": "FFCBF355",
+   "md5": "F425E9F251A325723D2211FD40BE7043",
+   "sha1": "D3030A0A80FF173DD07A3E7362EFEB31D4553543",
+   "region": "USA",
+   "file": "Mortal Kombat 3 (USA) (Beta) (Alt 1).sfc"
+  },
+  {
+   "crc32": "CA3CEB0A",
+   "md5": "AFA64DD1C92D2138B2D723D136B1EB76",
+   "sha1": "520ED61AA390F447D71A6A16582464E9888381D2",
+   "region": "Europe",
+   "file": "Mortal Kombat 3 (Europe).sfc"
+  },
+  {
+   "crc32": "8DB650F1",
+   "md5": "ECC2DD9ED4D0988DEEC85F31DB3F94A3",
+   "sha1": "1FA8C39E5D904FF68D095785CE611B96D4C2809C",
+   "region": "USA",
+   "file": "Mortal Kombat 3 (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.89,
  "metascore": null,
  "cover_urls": [

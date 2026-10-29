@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "6F9632D7",
+   "md5": "249CF91B9341CF8572F4BDD4B8D944E6",
+   "sha1": "22650E997555D3CF40EB82FFBC743D31CCB219DD",
+   "region": "Japan",
+   "file": "Super Casino - Caesars Palace (Japan).sfc"
+  },
+  {
+   "crc32": "53193B87",
+   "md5": "80541AD79F0BCAA7869EABF18F035639",
+   "sha1": "7A51CF4DDA4CABB1FEF9825AFACAD80C117E9C3E",
+   "region": "Japan",
+   "file": "Super Casino - Caesars Palace (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -38,6 +38,43 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "026F2C19",
+   "md5": "CB12E4FC8F2F0D3E2407284190AE39A0",
+   "sha1": "6DEFC4AA66A3D7534ADB32B21B48576A45AC2C03",
+   "region": "Europe",
+   "file": "Plok (Europe).sfc"
+  },
+  {
+   "crc32": "E5E84E18",
+   "md5": "7BED3A10E8E42D47B542637313EB96FE",
+   "sha1": "9FC200F34EECE7E477CAE7BE0217B66015E613EE",
+   "region": "France",
+   "file": "Plok (France) (En,Fr).sfc"
+  },
+  {
+   "crc32": "EDC2BEFD",
+   "md5": "43560F356FB0534D7E0E25ABA1CA31E5",
+   "sha1": "88E30C9575D7A96DB29D3DCC5725612C359FF047",
+   "region": "Germany",
+   "file": "Plok (Germany).sfc"
+  },
+  {
+   "crc32": "BBD678F6",
+   "md5": "478A2723FF6DB38428D9B26CF0D504BF",
+   "sha1": "E2C19E9F434F7791FF9F2E48FDAD37FD11AE9933",
+   "region": "USA",
+   "file": "Plok (USA).sfc"
+  },
+  {
+   "crc32": "57DCD2A1",
+   "md5": "82F57AA2348FED1EAB3377DB42B2F3BB",
+   "sha1": "7590045AC3C4FB85C56C47EED646327A718AE33B",
+   "region": "Japan",
+   "file": "Plok! (Japan).sfc"
+  }
+ ],
  "gf_score": 3.64,
  "metascore": null,
  "cover_urls": [

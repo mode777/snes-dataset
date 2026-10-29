@@ -35,6 +35,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "6FCEA1A1",
+   "md5": "E54701014E2A92AC21166525082B06E1",
+   "sha1": "F9F0493CA8ACA56859AF57A2A501258F3350F3BD",
+   "region": "USA",
+   "file": "Super Battleship (USA).sfc"
+  },
+  {
+   "crc32": "9C365CAE",
+   "md5": "368C0F0144374F8B693F01024F14A684",
+   "sha1": "C9280F66ACED5B0B8879D2636BC050A59763B7E5",
+   "region": "Europe",
+   "file": "Super Battleship (Europe).sfc"
+  }
+ ],
  "gf_score": 3.04,
  "metascore": null,
  "cover_urls": [

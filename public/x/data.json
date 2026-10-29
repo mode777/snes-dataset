@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "BC0D0201",
+   "md5": "A8B77A638A1380C3ED36E2CC70B3B5CA",
+   "sha1": "E2BEA5718D6709B0CFDE44F1F5E48F5702E992A6",
+   "region": "Japan",
+   "file": "X (Japan) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

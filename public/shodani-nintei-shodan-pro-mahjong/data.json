@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7557C1B6",
+   "md5": "E05A465196C6E2E5BF1C411BE04046C3",
+   "sha1": "4A66BDFA9C98105E25B18104210E4624C31A448D",
+   "region": "Japan",
+   "file": "Shodani Nintei - Shodan Pro Mahjong (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

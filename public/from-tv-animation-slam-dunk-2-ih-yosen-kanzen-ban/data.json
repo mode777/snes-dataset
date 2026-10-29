@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AA2B7692",
+   "md5": "A2A7611E27201748883626B0CAE094E6",
+   "sha1": "1EFECC88AAD38A084AEA8E4D5D4C21633C37669C",
+   "region": "Japan",
+   "file": "From TV Animation Slam Dunk 2 - IH Yosen Kanzen Ban!! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

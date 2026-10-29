@@ -27,6 +27,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "10BCA5E1",
+   "md5": "874D8B7C7ECC7CD65F4846FF6EDF3299",
+   "sha1": "20D0754A2F3D6C50EED0E0BF00513763BED359C1",
+   "region": "Japan",
+   "file": "Heisei Gunjin Shougi (Japan).sfc"
+  },
+  {
+   "crc32": "B8B4E75A",
+   "md5": "FE0046EC0E6F4BEA38E5D2E4E1EFD32A",
+   "sha1": "B9A5BD489A8ABC38A6D178F5552D4EDE3E0DD9E4",
+   "region": "Japan",
+   "file": "Heisei Gunjin Shougi (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

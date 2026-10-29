@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A3277C10",
+   "md5": "F045387E3403DF95A3F09E098D830962",
+   "sha1": "8D9BA291A86A3588823D8CED0F28742B5754C789",
+   "region": "Japan",
+   "file": "Rockman's Soccer (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -33,6 +33,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "53D8410E",
+   "md5": "96B4E98C45B9B77B2641D7F81D77E890",
+   "sha1": "B2F13BE7EC7E955EF8FDD398BCA44E06B690A8E2",
+   "region": "USA",
+   "file": "BioMetal (USA).sfc"
+  },
+  {
+   "crc32": "8BA3D382",
+   "md5": "FD4CC301D2B5853091A84F2C6354BB23",
+   "sha1": "9B1277BE93AA06C9C0A2ECAE99C5C357FFC5C879",
+   "region": "Japan",
+   "file": "BioMetal (Japan).sfc"
+  },
+  {
+   "crc32": "E901A947",
+   "md5": "43D393D1E6AEAE259509DFEA907DFB50",
+   "sha1": "4C4017369FAFBAD7AFD34548B4A94217117A0A03",
+   "region": "Europe",
+   "file": "BioMetal (Europe).sfc"
+  }
+ ],
  "gf_score": 3.69,
  "metascore": null,
  "cover_urls": [

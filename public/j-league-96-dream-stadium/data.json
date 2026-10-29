@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "93A0A25C",
+   "md5": "44A69556D57A9FAC6E20B4D70CBA8715",
+   "sha1": "BCB2756C42E52B2035C93F4AA33057A74D63E74C",
+   "region": "Japan",
+   "file": "J.League '96 Dream Stadium (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "385E4860",
+   "md5": "DC7B39A5998BFD5C15F15E286A34FD93",
+   "sha1": "A12EE74C2FEA2DE553FA9F1AF65CED2F9E233961",
+   "region": "Japan",
+   "file": "Super Nichibutsu Mahjong 4 - Kisokenkyuu Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

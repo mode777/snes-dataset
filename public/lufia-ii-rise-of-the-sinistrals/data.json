@@ -28,6 +28,15 @@
  "languages": [
   "English, German, Spanish, Japanese, Dutch"
  ],
+ "roms": [
+  {
+   "crc32": "20F2AC29",
+   "md5": "6EFC477D6203ED2B3B9133C1CD9E9C5D",
+   "sha1": "A89931C1F29B161B8BE717DFAB4A4ADB54B42B84",
+   "region": "USA",
+   "file": "Lufia II - Rise of the Sinistrals (USA).sfc"
+  }
+ ],
  "gf_score": 4.3,
  "metascore": null,
  "cover_urls": [

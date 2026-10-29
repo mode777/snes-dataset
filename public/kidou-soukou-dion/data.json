@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1E54F2C6",
+   "md5": "EAACE143D3DCF51B9848419EF07120EC",
+   "sha1": "E98065E1DFC3E8AB1FC00F16EE90D4EA5A46D1BF",
+   "region": "Japan",
+   "file": "Kidou Soukou Dion (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

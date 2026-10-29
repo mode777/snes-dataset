@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EE6534B5",
+   "md5": "0AB069047F1B03983241C014F8378555",
+   "sha1": "ACA055472184AB256E92A3A593436124519DF1BB",
+   "region": "Japan",
+   "file": "Gaia Saver - Hero Saidai no Sakusen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -23,6 +23,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1DF8A75C",
+   "md5": "38DE95C1E45B718FA97A8648B0C60993",
+   "sha1": "DBAD4ED4F1C4BB54BF44223833C056179C4CC4F2",
+   "region": "Japan",
+   "file": "Picross NP Vol. 2 (Japan) (Rev 1) (NP).sfc"
+  },
+  {
+   "crc32": "CA8BE5E9",
+   "md5": "7CCD3D8FC102F5898F60E85D3A58344C",
+   "sha1": "F713B4180FAFFFE69821DA69506D70803CB6442F",
+   "region": "Japan",
+   "file": "Picross NP Vol. 2 (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

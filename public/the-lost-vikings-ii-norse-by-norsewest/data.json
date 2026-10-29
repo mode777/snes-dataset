@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3C49A285",
+   "md5": "9CF4265A4A1AAD19959DCDBB94803D12",
+   "sha1": "FA76C28408D6D9B441423C1349E1908D8C155001",
+   "region": "Europe",
+   "file": "Lost Vikings II, The - Norse by Norsewest (Europe) (En,Fr,De).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

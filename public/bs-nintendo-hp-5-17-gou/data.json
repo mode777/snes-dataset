@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9CA4AB1A",
+   "md5": "ED42E0210C12DA6F6D415F4E119B1B8F",
+   "sha1": "0B9C13066A6745D5C5ED2B452DF1F288B4663A7A",
+   "region": "Japan",
+   "file": "BS Nintendo HP - 5-17 Gou (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

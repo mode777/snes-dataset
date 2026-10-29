@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8E4BEFD0",
+   "md5": "AE1E9C92D0B7E6DBA6C6007D99C9C3F4",
+   "sha1": "2C27B89A244ABE941B6A9FCEB1A674DBEFD1F734",
+   "region": "Japan",
+   "file": "Otogirisou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

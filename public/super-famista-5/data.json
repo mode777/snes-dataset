@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "27AA431C",
+   "md5": "C9A6F2140490FBCBA02DDECFD5409EA5",
+   "sha1": "276991C3B74E92FF13352025520AD504E644B4AA",
+   "region": "Japan",
+   "file": "Super Famista 5 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

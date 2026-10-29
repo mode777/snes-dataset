@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "767164DD",
+   "md5": "75FC1D42DAAC8B9C036D94C715B7D78C",
+   "sha1": "AB1F6DA568D8592A933578E85F7286BF161CBEC2",
+   "region": "Japan",
+   "file": "Koushien 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -33,6 +33,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "64D7B231",
+   "md5": "D50E311A55D041A2E921272389EF2416",
+   "sha1": "5339B9F100F51CFE64CA71173F7722CDB0077D5D",
+   "region": "Europe",
+   "file": "Zero the Kamikaze Squirrel (Europe).sfc"
+  },
+  {
+   "crc32": "F4830329",
+   "md5": "8E3C8F4883C9A523A9A2750FFBDEC319",
+   "sha1": "C00BBB06DB50F7D1A9F15A2DE1B44B20D2D34ABD",
+   "region": "Europe",
+   "file": "Zero the Kamikaze Squirrel (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "5397D5BC",
+   "md5": "7981BE58E5EEC603C585A0F1A3190840",
+   "sha1": "622EDFE3A7B2C65724C2D78FB3D692775CD1FDE1",
+   "region": "USA",
+   "file": "Zero the Kamikaze Squirrel (USA).sfc"
+  }
+ ],
  "gf_score": 3.52,
  "metascore": null,
  "cover_urls": [

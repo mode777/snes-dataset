@@ -35,6 +35,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "FA15D068",
+   "md5": "598DA256AAF4AF53AEC3930352196A56",
+   "sha1": "2F231BA8DEE2E744FA41984C0E9C5B8C0F4E854E",
+   "region": "Europe",
+   "file": "HyperZone (Europe).sfc"
+  },
+  {
+   "crc32": "613C62B7",
+   "md5": "71537EBF8C308CF939B9E8E98ADDDFF0",
+   "sha1": "4860BBB7474870A4B2565B15480767922C38BFF4",
+   "region": "Japan",
+   "file": "HyperZone (Japan).sfc"
+  },
+  {
+   "crc32": "C95B4129",
+   "md5": "E86CBAE509E389450046234DC29CD62E",
+   "sha1": "2D9C6CE1613B2180CE6A3CD4603E1ECF10F2BAC6",
+   "region": "USA",
+   "file": "HyperZone (USA).sfc"
+  }
+ ],
  "gf_score": 3.17,
  "metascore": null,
  "cover_urls": [

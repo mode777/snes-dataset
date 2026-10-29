@@ -33,6 +33,36 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "A4B1DD93",
+   "md5": "7EA711E169B14961932EC5FA715CD476",
+   "sha1": "F8D1C903616F7B4302DF6D2BA36967EDE9940258",
+   "region": "Japan",
+   "file": "NFL Football (Japan).sfc"
+  },
+  {
+   "crc32": "126E876F",
+   "md5": "DE01494F0D83C2B5F811EE7AC3519B99",
+   "sha1": "F0001D287273E6B3581DAF1C884619302B09E4CE",
+   "region": "Europe",
+   "file": "NFL Football (Europe) (Proto).sfc"
+  },
+  {
+   "crc32": "ADB7731B",
+   "md5": "A95DA08BB65079B75CFFD45A8ED19317",
+   "sha1": "E1E5C81EA3CF52821E24C016DAF484DF13730422",
+   "region": "USA",
+   "file": "NFL Football (USA).sfc"
+  },
+  {
+   "crc32": "5EE9D7E4",
+   "md5": "C609A3102896A71F6AEEA37129F81FC7",
+   "sha1": "C741DF70BC87FA03EDD4C3D52EEA7DCAAA03B5D2",
+   "region": "Europe",
+   "file": "NFL Football (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

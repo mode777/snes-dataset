@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "FCE8A74D",
+   "md5": "8CDB19821E71ED3B979F8390E8FEA68E",
+   "sha1": "0B6C5C4F7484AE643DCE60F760B600E3FA310448",
+   "region": "Japan",
+   "file": "Hat Trick Hero (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

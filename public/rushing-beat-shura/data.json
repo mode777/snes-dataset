@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0A2E4C2F",
+   "md5": "325A9D637C9F6E7211B2D413EE1FEF3D",
+   "sha1": "0381086AD61745FB7AAA0B3950434EEF586D3989",
+   "region": "Japan",
+   "file": "Rushing Beat Shura (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

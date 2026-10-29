@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C54AE0F9",
+   "md5": "3736F16B72DECF82E9D9629753A76650",
+   "sha1": "09614BE9CB31F26D02780E25A6217E73F0899084",
+   "region": "Japan",
+   "file": "Battle Soccer - Field no Hasha (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

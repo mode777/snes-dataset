@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8F35EBE0",
+   "md5": "93091900AC3B48F7B348F62026D4D2C7",
+   "sha1": "2B382B1D0DFBBDC810D28A8F6E0821B8E3734C48",
+   "region": "Japan",
+   "file": "Rushing Beat Ran - Fukusei Toshi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

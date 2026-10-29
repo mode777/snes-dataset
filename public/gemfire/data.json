@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EE801A54",
+   "md5": "CDB89D0358E2008402BC3767BAD96120",
+   "sha1": "B0BF12D5333B0A4F45BC4A56575E4C61871B7835",
+   "region": "USA",
+   "file": "Gemfire (USA).sfc"
+  }
+ ],
  "gf_score": 3.71,
  "metascore": null,
  "cover_urls": [

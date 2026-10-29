@@ -35,6 +35,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "1899AAFF",
+   "md5": "148DBE529816BB0721190B1D4B7AF4F4",
+   "sha1": "AA6AFBEC0C111943DF266F93143AA1082659070E",
+   "region": "USA",
+   "file": "Boogerman - A Pick and Flick Adventure (USA).sfc"
+  },
+  {
+   "crc32": "4328BD1B",
+   "md5": "8B37076E92B5C9F7A3055998C67B3807",
+   "sha1": "D8C904EAD121D4D8D46DC4495E3FD2B2A91B7B62",
+   "region": "Europe",
+   "file": "Boogerman - A Pick and Flick Adventure (Europe).sfc"
+  }
+ ],
  "gf_score": 2.98,
  "metascore": null,
  "cover_urls": [

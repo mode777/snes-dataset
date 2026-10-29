@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5DD9AF58",
+   "md5": "1092702C3D5BDD4656831566128F0397",
+   "sha1": "CAD0AC1823CC18F040B3FD262A0832949C4EE7DC",
+   "region": "Japan",
+   "file": "Nichibutsu Collection 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

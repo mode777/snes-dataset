@@ -35,6 +35,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "27325E4D",
+   "md5": "AD7349EB7AFD3D809161EE70BD2C361D",
+   "sha1": "0D64EF4149B71D13D287122F58ECA9C580FA7D0F",
+   "region": "USA",
+   "file": "Magic Sword (USA).sfc"
+  },
+  {
+   "crc32": "0B159D53",
+   "md5": "36C8600C796F3A12FC5B8657FB280986",
+   "sha1": "F5A431E46124D7A8638176203CDB351CD1E8423C",
+   "region": "Japan",
+   "file": "Magic Sword (Japan).sfc"
+  },
+  {
+   "crc32": "9E50509F",
+   "md5": "D043CCC5B99BDAFCDF26E4FE971EF910",
+   "sha1": "1C5BC94EDC7D612593C740DCE7F21D2F9E917BB6",
+   "region": "Europe",
+   "file": "Magic Sword (Europe).sfc"
+  }
+ ],
  "gf_score": 3.39,
  "metascore": null,
  "cover_urls": [

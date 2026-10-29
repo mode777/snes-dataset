@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "811475B0",
+   "md5": "8618FE6CDED4580B438887DE8E3E4407",
+   "sha1": "C8DF95CDF8D8941ADB5775EFDE3A9489711ECEEE",
+   "region": "Europe",
+   "file": "Exertainment Mountain Bike Rally + Speed Racer (Europe) (En,Fr,De,Es,Nl) (Proto).sfc"
+  },
+  {
+   "crc32": "EE5E1906",
+   "md5": "9B3A17D9E27B10D15AAB32CF7B8C82A7",
+   "sha1": "D2F6CF90E877A5CFA614934B3F9FCC95059DB90B",
+   "region": "USA",
+   "file": "Exertainment Mountain Bike Rally + Speed Racer (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -22,6 +22,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B4FD7AFF",
+   "md5": "EC9817453FEE64BBE1E0FC1260459A80",
+   "sha1": "EB553B77418DEDBA25FC4D5DDDCB04F424B0F6A9",
+   "region": "Japan",
+   "file": "New 3D Golf Simulation - Harukanaru Augusta (Japan).sfc"
+  },
+  {
+   "crc32": "D7E41218",
+   "md5": "A54BF529F445F207C8BB88FD8474D88A",
+   "sha1": "C399DFACA26154E635345EFDD24E5C4CE36110A7",
+   "region": "Japan",
+   "file": "New 3D Golf Simulation - Harukanaru Augusta (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

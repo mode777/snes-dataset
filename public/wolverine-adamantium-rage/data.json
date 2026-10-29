@@ -35,6 +35,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "98455315",
+   "md5": "AAAECEE1FA991D3C5E66667ECF6DD84F",
+   "sha1": "D7065E9C9907C524329679A2D4890D45871B4316",
+   "region": "USA",
+   "file": "Wolverine - Adamantium Rage (USA) (Beta) (Alt 1).sfc"
+  },
+  {
+   "crc32": "7AC71F65",
+   "md5": "8D224D0778A167B99BD0A08AB5B0D9AF",
+   "sha1": "DA24DD20D592147AB825B55A9561C8D4A8C3ECF5",
+   "region": "USA",
+   "file": "Wolverine - Adamantium Rage (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "4E62D6BF",
+   "md5": "8D2CFB56C792E03DF5B423E73B86FEC0",
+   "sha1": "3042DC1FBF896BEC0944B24A19042324CD3E1BFE",
+   "region": "USA",
+   "file": "Wolverine - Adamantium Rage (USA).sfc"
+  },
+  {
+   "crc32": "78FC0D86",
+   "md5": "B34D1223D4756AA1074069DD807A237F",
+   "sha1": "7282CFB57C0D33F22156E8DC52A0E535FB4B187B",
+   "region": "Europe",
+   "file": "Wolverine - Adamantium Rage (Europe).sfc"
+  }
+ ],
  "gf_score": 2.91,
  "metascore": null,
  "cover_urls": [

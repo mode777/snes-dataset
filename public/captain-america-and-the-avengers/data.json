@@ -37,6 +37,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "456AB5C8",
+   "md5": "A3181E27CF6644EF8B67E4316255936C",
+   "sha1": "8634CB94412DE777197A462759393C074EFFF061",
+   "region": "USA",
+   "file": "Captain America and the Avengers (USA).sfc"
+  },
+  {
+   "crc32": "ACB31F2A",
+   "md5": "0DCB75C9918260439599656E4A648872",
+   "sha1": "A256DD6A32C7EFC305EFA704585DB49BD9E69D17",
+   "region": "Europe",
+   "file": "Captain America and the Avengers (Europe).sfc"
+  }
+ ],
  "gf_score": 2.56,
  "metascore": null,
  "cover_urls": [

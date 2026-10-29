@@ -26,6 +26,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "025ADBF9",
+   "md5": "85038F8592B1BA565A6E44CDD1753E81",
+   "sha1": "83787327E2FC621B97C16CF2A1E215554E2904A1",
+   "region": "USA",
+   "file": "Wild Snake (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

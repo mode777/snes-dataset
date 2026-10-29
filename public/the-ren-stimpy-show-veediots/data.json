@@ -35,6 +35,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "FD1C12A3",
+   "md5": "104B810086FF026D92BB271D11D2DAE6",
+   "sha1": "F6A33D59F2222E9661DC89C205388FFC5A622A2E",
+   "region": "USA",
+   "file": "Ren & Stimpy Show, The - Veediots! (USA).sfc"
+  },
+  {
+   "crc32": "06DDBB0D",
+   "md5": "F8B616F1EFC3938CE4697B24E2C92188",
+   "sha1": "94C4261C46A5811EB323DD6A1D5D2830D7FE502C",
+   "region": "Europe",
+   "file": "Ren & Stimpy Show, The - Veediots! (Europe).sfc"
+  }
+ ],
  "gf_score": 2.66,
  "metascore": null,
  "cover_urls": [

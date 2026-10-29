@@ -33,6 +33,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CF00D401",
+   "md5": "A8F3662EB9DE138DEA03635424645371",
+   "sha1": "6337842736B7BCBD22191D2A2664F802C1BF7B54",
+   "region": "USA",
+   "file": "King Arthur's World (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "99BD1FE1",
+   "md5": "2C09803C418DA30C4FBD99C59BA057EB",
+   "sha1": "55D037575AFFE9A1ACAE30A395BB4680E76A3E0B",
+   "region": "USA",
+   "file": "King Arthur's World (USA).sfc"
+  },
+  {
+   "crc32": "A0972C36",
+   "md5": "3F73AD60BA1B1FB24345552311D2139C",
+   "sha1": "78302947C76CF03449242223A24BBBD84FC5FE3F",
+   "region": "Europe",
+   "file": "King Arthur's World (Europe).sfc"
+  }
+ ],
  "gf_score": 3.28,
  "metascore": null,
  "cover_urls": [

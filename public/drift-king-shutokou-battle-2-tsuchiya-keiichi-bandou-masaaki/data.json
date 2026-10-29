@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "87AAB79A",
+   "md5": "465F3757655A06741F7E2A7277AC4FCA",
+   "sha1": "8D510935B6BF3A1AC42EF3501DCA3477CC4CAB5C",
+   "region": "Japan",
+   "file": "Drift King Shutokou Battle 2 - Tsuchiya Keiichi & Bandou Masaaki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

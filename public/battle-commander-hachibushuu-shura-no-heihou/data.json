@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AD80E50E",
+   "md5": "BD83CCAEC407DB81BCB26D22B025FDA3",
+   "sha1": "B30566F1FAFE2C5417FE57CE209029BBA1106843",
+   "region": "Japan",
+   "file": "Battle Commander - Hachibushuu, Shura no Heihou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

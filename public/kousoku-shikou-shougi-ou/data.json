@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0E536DD2",
+   "md5": "8FDC85BAD8E1C1AA928018AA8DAD9ED2",
+   "sha1": "F456FBEF02AB88BC3827EA049DF3FF3F1885A160",
+   "region": "Japan",
+   "file": "Kousoku Shikou Shougi Ou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

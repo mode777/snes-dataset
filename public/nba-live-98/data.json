@@ -33,6 +33,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "514BFCB5",
+   "md5": "FBBC69E91C2AA544B37C97395C67486F",
+   "sha1": "ECAEF1ECAE3D6F55B7520F87D6344B9AD9A3DC98",
+   "region": "USA",
+   "file": "NBA Live 98 (USA).sfc"
+  }
+ ],
  "gf_score": 4.07,
  "metascore": null,
  "cover_urls": [

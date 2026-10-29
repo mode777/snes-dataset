@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9BF79A7D",
+   "md5": "8AA7370F7D849F37EFDE838E2393C4C9",
+   "sha1": "482208C624CB797E6C37FE5577FFD400F81BFD37",
+   "region": "Japan",
+   "file": "Pinball Pinball (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

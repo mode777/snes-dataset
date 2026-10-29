@@ -20,6 +20,15 @@
  "languages": [
   "zh"
  ],
+ "roms": [
+  {
+   "crc32": "F33C710D",
+   "md5": "FFEDE6468D207310C3A6CD5E2698AB68",
+   "sha1": "A789C63CA0F4723C2224E890F7D367F23CEBC0FF",
+   "region": "China",
+   "file": "Super Big 2 (China) (Unl).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

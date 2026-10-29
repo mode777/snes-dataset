@@ -29,6 +29,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "A27940C1",
+   "md5": "17AD9DD1179D8C05BE1803FE70605A75",
+   "sha1": "8FD9C0A0A20307B206E20990331E54E27DB2A179",
+   "region": "USA",
+   "file": "College Football USA 97 (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F9DF0081",
+   "md5": "4DFC083694B60580E5B0C000CE61C980",
+   "sha1": "343A6E422B8C84B5B6266364804C951168DA6BCB",
+   "region": "Japan",
+   "file": "Super Real Mahjong PV Paradise - All-Star 4-nin Uchi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

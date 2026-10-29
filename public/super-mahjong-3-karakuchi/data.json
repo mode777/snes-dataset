@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FE691648",
+   "md5": "A238CC578FE852CB9346AA891A9D2ACE",
+   "sha1": "5856632B6141BC0C4A929462B38803B9D52BF006",
+   "region": "Japan",
+   "file": "Super Mahjong 3 - Karakuchi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

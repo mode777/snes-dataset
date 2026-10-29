@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3A92DB1A",
+   "md5": "9B333BA9C6010751229D38C4A4E0A46B",
+   "sha1": "E5C0F7B86FDD69B36CD84C15ADCB16A8A7C9CF9C",
+   "region": "Japan",
+   "file": "Sangokushi IV (Japan).sfc"
+  },
+  {
+   "crc32": "57674647",
+   "md5": "71D723637D25FEF604C67C3D922BC63A",
+   "sha1": "F1FDD94D71FBACC794A8A7AD82C217926FC94C6F",
+   "region": "Japan",
+   "file": "Sangokushi IV (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

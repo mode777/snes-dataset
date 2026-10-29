@@ -33,6 +33,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "F729B19E",
+   "md5": "64E0FDFC5DD759018924791FAA77C2F9",
+   "sha1": "C95C46BF2C77E7233792FC1212E90D8FC267C1A3",
+   "region": "USA",
+   "file": "Terminator 2 - Judgment Day (USA).sfc"
+  },
+  {
+   "crc32": "6EE8F433",
+   "md5": "4A82F6A55B17D9BB730AEDA043711C58",
+   "sha1": "83790FADBF049ED9065A9973F1EDEE5CE5EFD93C",
+   "region": "Europe",
+   "file": "Terminator 2 - Judgment Day (Europe).sfc"
+  },
+  {
+   "crc32": "AC933465",
+   "md5": "0D1E3D3DF062422B90CB18BB085DC4EC",
+   "sha1": "BAB24606BE3B1ED0C716C9A9BEB70D67D20C7FCB",
+   "region": "Europe",
+   "file": "Terminator 2 - Judgment Day (Europe) (Beta).sfc"
+  }
+ ],
  "gf_score": 2.29,
  "metascore": null,
  "cover_urls": [

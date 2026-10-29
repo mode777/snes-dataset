@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "4674E469",
+   "md5": "F321E2F1AE57A28062F0ED4A9E4F988F",
+   "sha1": "12E31DCC65676C784BDA58A684D40D9203232F15",
+   "region": "Japan",
+   "file": "Super Dunk Shot (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

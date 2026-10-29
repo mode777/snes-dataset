@@ -36,6 +36,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "7EF2BB0C",
+   "md5": "C4F2FE9B3EC4FC5C9C5D1B8AE1BD8054",
+   "sha1": "E85F33C59903826F76DF1F43D60BACF5C024D673",
+   "region": "USA",
+   "file": "Spider-Man-Venom - Maximum Carnage (USA).sfc"
+  },
+  {
+   "crc32": "D2B0D5FE",
+   "md5": "4CE2360C2FCDED64F1952D624BDFD5BF",
+   "sha1": "CC83EC37D7669834047510D6BBDE1E0EEE4667C9",
+   "region": "Europe",
+   "file": "Spider-Man-Venom - Maximum Carnage (Europe).sfc"
+  }
+ ],
  "gf_score": 3.58,
  "metascore": null,
  "cover_urls": [

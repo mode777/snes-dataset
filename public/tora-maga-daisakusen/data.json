@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "47BAFFA7",
+   "md5": "BD294663C30D771904D5FA3C0D02DCAC",
+   "sha1": "F97E44A0DF56C7B47964D07D50E38487F2C530B5",
+   "region": "Japan",
+   "file": "Tora Maga Daisakusen (12-21-1997) (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

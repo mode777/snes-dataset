@@ -27,6 +27,29 @@
  "languages": [
   "English, German, Spanish, French"
  ],
+ "roms": [
+  {
+   "crc32": "6A4347FF",
+   "md5": "4B873C78DD98352F98CA31820D0B56CC",
+   "sha1": "CD949F174E8FDD9D6D7D20064AEF2022B13D00B6",
+   "region": "Europe",
+   "file": "Push-Over (Europe) (En,Fr,De,Es).sfc"
+  },
+  {
+   "crc32": "FA06D5F5",
+   "md5": "A2EAA3A65D1A82AD837274980C105278",
+   "sha1": "3ABDCC83A074C8378CEE03EABB36E5F3AFD1E3AF",
+   "region": "USA",
+   "file": "Push-Over (USA).sfc"
+  },
+  {
+   "crc32": "C34465A3",
+   "md5": "79EFD9EEB94FF391589A75CF7668381D",
+   "sha1": "254435EC8D24F5DE5E780857DD1BE4C0F17617EB",
+   "region": "USA",
+   "file": "Push-Over (USA) (En,Fr,De,Es) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

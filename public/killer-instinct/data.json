@@ -33,6 +33,36 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "09E9A04E",
+   "md5": "C9B698CF98F1AEDE7A87C1E449384632",
+   "sha1": "D31AE8E41C743C9AD8B6D43BBBBE660151F052DF",
+   "region": "USA",
+   "file": "Killer Instinct (USA) (Rev 1).sfc"
+  },
+  {
+   "crc32": "0A2EF2B6",
+   "md5": "E78A5AA2B537F92ADB32EAE36ACAC7C2",
+   "sha1": "8028EF197B84F1722192A26779A265639FACF970",
+   "region": "USA",
+   "file": "Killer Instinct (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "252C1DA7",
+   "md5": "2BB72E91F9B2AC505D917607C23E92CE",
+   "sha1": "EE9E2E95D6E99EB1B0E2060A1210A489E88DCC13",
+   "region": "USA",
+   "file": "Killer Instinct (USA).sfc"
+  },
+  {
+   "crc32": "3D7252D4",
+   "md5": "9D0C50C8C1C5970C67C0FC41A23FB8B8",
+   "sha1": "BA0B5147C6C87C9A7471A1D7BE2579F4644898EA",
+   "region": "Europe",
+   "file": "Killer Instinct (Europe).sfc"
+  }
+ ],
  "gf_score": 3.87,
  "metascore": null,
  "cover_urls": [

@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "4EF452F6",
+   "md5": "F487330132177F2182B17BF6EF617A13",
+   "sha1": "9DF714226C880ED96B43B2D1CDC0884DA26A09B1",
+   "region": "Japan",
+   "file": "Jerry Boy (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

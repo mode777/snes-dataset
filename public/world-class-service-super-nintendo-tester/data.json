@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "71DB3BC5",
+   "md5": "3DACAFDC3FC2E66FF229D1458F18D917",
+   "sha1": "B2DE388630F514F124ABFFD0F1DC5E8EAC36FCC2",
+   "region": "USA",
+   "file": "World Class Service Super Nintendo Tester (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

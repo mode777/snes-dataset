@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "84F95868",
+   "md5": "471AA9E832E01FC3187D6A90780FFCBA",
+   "sha1": "44BC21575B3D072A1E52F5E912C58C0EA2EAB9F1",
+   "region": "Japan",
+   "file": "Super Bombliss (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -19,6 +19,22 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "CAA15E97",
+   "md5": "A2959AD8C1FF5F2719264AB4C7E40464",
+   "sha1": "EAC14578B3465FFCE874119005F9B244E8565A79",
+   "region": "Japan",
+   "file": "Final Fantasy IV (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "21027C5D",
+   "md5": "5CDC56BA9F5F23E412AF09F11ED47F83",
+   "sha1": "7502ED13FE969B294AAB9EA3600DD8341713CD03",
+   "region": "Japan",
+   "file": "Final Fantasy IV (Japan).sfc"
+  }
+ ],
  "gf_score": 4.16,
  "metascore": 85,
  "cover_urls": [

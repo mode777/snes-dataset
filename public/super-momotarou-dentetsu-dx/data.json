@@ -25,6 +25,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1C0C3D81",
+   "md5": "AD9B1606DAD5C75F418CA79304720DE8",
+   "sha1": "F4B17DE2D326707DDA139D3507C50538DA04EDDA",
+   "region": "Japan",
+   "file": "Super Momotarou Dentetsu DX (Japan).sfc"
+  },
+  {
+   "crc32": "46239D31",
+   "md5": "258DE07703A9DBC29C56551AB5C748AA",
+   "sha1": "C19938BA94526C03794B8833954A1CD407220285",
+   "region": "Japan",
+   "file": "Super Momotarou Dentetsu DX (Japan) (JR Nishi-Nihon Presents).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

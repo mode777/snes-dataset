@@ -26,6 +26,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "EC8C1CCA",
+   "md5": "1B83CA7F9F35BD2A73C4A013764FDD6A",
+   "sha1": "0E97FE3FDEFF2CD2D806713282726C147E7F3312",
+   "region": "Japan",
+   "file": "Super Drift Out - World Rally Championships (Japan).sfc"
+  },
+  {
+   "crc32": "EA2B03F9",
+   "md5": "1B907044364D4CA92E42B48B954E663E",
+   "sha1": "CC96864F513CB4D86E94BC84577A80B70565983A",
+   "region": "USA",
+   "file": "Super Drift Out - World Rally Championships (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

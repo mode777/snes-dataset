@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C8659B56",
+   "md5": "4F41CB7BA5C6CFAA69881C2E06D67B5C",
+   "sha1": "0FC7F09ECABC30D5B7BB74234F57A73F2D058CCA",
+   "region": "Japan",
+   "file": "Digital Magazine Busters BS - 8-23 Gou (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

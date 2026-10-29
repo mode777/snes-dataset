@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "920A738E",
+   "md5": "F685EAF034D3CF6AFEA7B6040DA2131F",
+   "sha1": "4E14015C23B130DCEB8F887AA0F92A7C86F58068",
+   "region": "Japan",
+   "file": "Heracles no Eikou IV - Kamigami kara no Okurimono (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

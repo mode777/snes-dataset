@@ -40,6 +40,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "32633FA6",
+   "md5": "3AF126F4B6E5E0AF52ECC734FA5D12CF",
+   "sha1": "E8DE632ECE8CED5D797BB213D48365A7A5C82060",
+   "region": "Europe",
+   "file": "T2 - The Arcade Game (Europe).sfc"
+  },
+  {
+   "crc32": "CB5409FF",
+   "md5": "060C2F08F03BFAB47EC283B9562F4A2D",
+   "sha1": "E0D076D42F85449CDD688F654C67D7F874FB4744",
+   "region": "Japan",
+   "file": "T2 - The Arcade Game (Japan).sfc"
+  },
+  {
+   "crc32": "5DC6B9FE",
+   "md5": "49A4CF748B491F6E7BDBFC86F2CF4D16",
+   "sha1": "29597788B9240BE9FD1F800CE61A54298986CE73",
+   "region": "USA",
+   "file": "T2 - The Arcade Game (USA).sfc"
+  }
+ ],
  "gf_score": 2.99,
  "metascore": null,
  "cover_urls": [

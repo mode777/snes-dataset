@@ -26,6 +26,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "55581328",
+   "md5": "CAF70B20AECD0001D65FFA0550F30365",
+   "sha1": "CE9D80233A978E3D29D54CABD8BF1555D813A4FF",
+   "region": "Japan",
+   "file": "Oonita Atsushi FMW (Japan) (Beta).sfc"
+  },
+  {
+   "crc32": "88B2DA36",
+   "md5": "385CF0EF90E18F8658FD8B15853FD95A",
+   "sha1": "89FEF293229D5C4F7ADC0AA985BDF906F1E4FF78",
+   "region": "Japan",
+   "file": "Oonita Atsushi FMW (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

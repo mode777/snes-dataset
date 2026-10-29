@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9624E6ED",
+   "md5": "B7EDE602782F8FF1CF182D1B7E95F2C6",
+   "sha1": "7D53B77C51C7C7E964F40E12B641A405D2E68B2A",
+   "region": "Japan",
+   "file": "America Oudan Ultra Quiz (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

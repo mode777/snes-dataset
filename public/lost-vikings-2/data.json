@@ -20,6 +20,15 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3AA01DBD",
+   "md5": "6808B453828D6A6F228E3225055DF4C4",
+   "sha1": "7A461513FCEA58E3C8C9DBAA431AB6635DBB3FFD",
+   "region": "USA",
+   "file": "Lost Vikings 2 (USA).sfc"
+  }
+ ],
  "gf_score": 3.87,
  "metascore": null,
  "cover_urls": [

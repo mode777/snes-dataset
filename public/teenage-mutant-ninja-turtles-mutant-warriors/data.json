@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "7E97E194",
+   "md5": "1B7851989F649BCFAA3257B78BD3B1A2",
+   "sha1": "B1B7B0860100D98F676EDC6A59D45DA542EFE83C",
+   "region": "Japan",
+   "file": "Teenage Mutant Ninja Turtles - Mutant Warriors (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

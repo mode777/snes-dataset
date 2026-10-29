@@ -29,6 +29,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "AD2EFFC3",
+   "md5": "738BDA0D92DD3DCD6C4B0D65A957E01E",
+   "sha1": "B59E45C1B885FB67C9E0964E3DACCC69D809ED63",
+   "region": "Japan",
+   "file": "BlaZeon (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

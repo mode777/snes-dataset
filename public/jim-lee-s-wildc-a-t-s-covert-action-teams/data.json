@@ -23,6 +23,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "10C6F5AD",
+   "md5": "0B4B29E9BD2652510E642876DEA06016",
+   "sha1": "B0C324BB5307A1FF139DC163B523D5925C48F93D",
+   "region": "USA",
+   "file": "Jim Lee's WildC.A.T.S - Covert-Action-Teams (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "AED8892A",
+   "md5": "F7FE3D7B170CD85D4B008E6338B23FE9",
+   "sha1": "01AB7E90B6B2360670FEF916772D657D237FD182",
+   "region": "USA",
+   "file": "Rampart (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

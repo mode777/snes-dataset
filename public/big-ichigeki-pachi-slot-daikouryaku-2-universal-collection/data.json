@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3AEE8812",
+   "md5": "DAB2A915E12C723974A66A24C5743553",
+   "sha1": "CE0B6476692569BE42834BBE7F78B0C08873908F",
+   "region": "Japan",
+   "file": "Big Ichigeki! Pachi-Slot Daikouryaku 2 - Universal Collection (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

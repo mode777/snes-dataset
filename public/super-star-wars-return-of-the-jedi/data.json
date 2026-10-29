@@ -39,6 +39,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A79C7E7F",
+   "md5": "33AE54BD306D290F259D2778F520859F",
+   "sha1": "9802F8603D2B86282758CBD3C2DA101DFAF0BAB8",
+   "region": "Europe",
+   "file": "Super Star Wars - Return of the Jedi (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "4A5F30D8",
+   "md5": "DC147FCBF64265D2940F359CFDE7E74F",
+   "sha1": "B8DCA1CD8B2AC99E46078FC91FD42EE336E761E4",
+   "region": "USA",
+   "file": "Super Star Wars - Return of the Jedi (USA) (Rev 1).sfc"
+  },
+  {
+   "crc32": "020CA165",
+   "md5": "7039070B977469E4B441980A20B98911",
+   "sha1": "8DA7CFFFBF60ECC58B758CEFE6EE0869512B66C3",
+   "region": "Europe",
+   "file": "Super Star Wars - Return of the Jedi (Europe).sfc"
+  },
+  {
+   "crc32": "C709EC69",
+   "md5": "06AA5B85ED1D3BC61D94ECE1F96A050E",
+   "sha1": "9E8F9FEF03A417125BE8C7A07778D453F315F7C3",
+   "region": "USA",
+   "file": "Super Star Wars - Return of the Jedi (USA).sfc"
+  }
+ ],
  "gf_score": 3.66,
  "metascore": null,
  "cover_urls": [

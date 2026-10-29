@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5A2B7DAC",
+   "md5": "FD2D5E97642FDD833902468CE9FC31DE",
+   "sha1": "6A8E4F53511118F384B1C12CA267C00222D7AB7C",
+   "region": "Japan",
+   "file": "Dekitate High School (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

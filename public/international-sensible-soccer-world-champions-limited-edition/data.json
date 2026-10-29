@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "6FF2D97E",
+   "md5": "BB4C8235E6BF0913E13C4BFD3ED06E7E",
+   "sha1": "1B7E843210B1939B1032F829D33C2F27600049CA",
+   "region": "Europe",
+   "file": "International Sensible Soccer - World Champions Limited Edition (Europe) (En,Fr,De,It) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "379645BD",
+   "md5": "97599530546821BFDEFAE6A658760170",
+   "sha1": "52AA5CE4612B81C90FD07F6C3DC9A712AFB32668",
+   "region": "Japan",
+   "file": "Zen-Nihon Pro Wres - Fight da Pon! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

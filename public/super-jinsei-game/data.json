@@ -25,6 +25,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F3B6A9AD",
+   "md5": "23DEF3F2DF69D90278210A60BDA8A54B",
+   "sha1": "E9611257525B11D02023C1BAE1D1519B74C87FBF",
+   "region": "Japan",
+   "file": "Super Jinsei Game (Japan).sfc"
+  },
+  {
+   "crc32": "5B1837BE",
+   "md5": "6143E0CC3AD67A58AC1BAC2C54F71BDE",
+   "sha1": "6DC9F479F7BC323B59ABC04FED59A22042D7DDA0",
+   "region": "Japan",
+   "file": "Super Jinsei Game (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

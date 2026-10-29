@@ -34,6 +34,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "CE2EAA41",
+   "md5": "5FC687949FCE8125A54986D531D417BF",
+   "sha1": "C82EF847EC4B01948DBAB5E93C2D3FA9053296D8",
+   "region": "USA",
+   "file": "Cal Ripken Jr. Baseball (USA).sfc"
+  },
+  {
+   "crc32": "F48DC221",
+   "md5": "177669365F1522D1FF9836E71D225134",
+   "sha1": "DC1F07BEA830F1A5F0858791B4B1CB5A03F6588A",
+   "region": "USA",
+   "file": "Cal Ripken Jr. Baseball (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "C1357473",
+   "md5": "E087FBDBCCE9A302E39C82C2C049BA27",
+   "sha1": "6C6CF19D7AB33A9248AB57DD264D4A6DE0EC276A",
+   "region": "Europe",
+   "file": "Cal Ripken Jr. Baseball (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

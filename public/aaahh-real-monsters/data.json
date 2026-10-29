@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "27FF5BA1",
+   "md5": "E4E77B581700A6CD58E711EE02B1A61F",
+   "sha1": "7A4452F38C76A1FAA50AEC790E7E38B069B2471E",
+   "region": "USA",
+   "file": "Aaahh!!! Real Monsters (USA).sfc"
+  },
+  {
+   "crc32": "946313FB",
+   "md5": "7C688BF357106D21CE61F528979EB90E",
+   "sha1": "ED042967A8528405BA7C67F9BAD0AF624E8C8497",
+   "region": "Europe",
+   "file": "Aaahh!!! Real Monsters (Europe).sfc"
+  }
+ ],
  "gf_score": 2.66,
  "metascore": null,
  "cover_urls": [

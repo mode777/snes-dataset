@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EEF45A93",
+   "md5": "D5F4D1A52DE393E6EF10D707E92FD2CB",
+   "sha1": "54198529C9D989B7DBAF767D5185E9557F178292",
+   "region": "Japan",
+   "file": "Yu Yu Hakusho 2 - Kakutou no Shou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

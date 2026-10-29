@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "65CD17E3",
+   "md5": "7A64CC8D342F443402A3BF5605F2AD49",
+   "sha1": "F1BB96D66558EE754F9224FEA3C6DE5D91FBA869",
+   "region": "Japan",
+   "file": "Densetsu no Ogre Battle - The March of the Black Queen (Japan).sfc"
+  },
+  {
+   "crc32": "3E50C7C2",
+   "md5": "F3AB58809B82D1C36D988159AE6CBEFA",
+   "sha1": "CCCD0F07F13B12C760A41F082571BE8FFABF80D1",
+   "region": "Japan",
+   "file": "Densetsu no Ogre Battle - The March of the Black Queen (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

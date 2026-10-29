@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FEEFAEC4",
+   "md5": "451F380C17C09207A2D20BF8B20B6C79",
+   "sha1": "B5326A0BE9743D9755961137046A5B79D47C0084",
+   "region": "Japan",
+   "file": "Leading Jockey 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -32,6 +32,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "02CE6C96",
+   "md5": "4E3A04E52DDDC4E8A676386BEA87D3AD",
+   "sha1": "B80AB440635C149F86B7CB8AB39D19FCE2EA934C",
+   "region": "USA",
+   "file": "Raiden Trad (USA).sfc"
+  }
+ ],
  "gf_score": 3.19,
  "metascore": null,
  "cover_urls": [

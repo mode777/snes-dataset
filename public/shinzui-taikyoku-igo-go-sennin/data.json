@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "13FCC999",
+   "md5": "4181788E2F5563D59BC51BE4ACA6EF3B",
+   "sha1": "ED61E7DF9675DBE93C77540C97CE51B5C3F60998",
+   "region": "Japan",
+   "file": "Shinzui Taikyoku Igo - Go Sennin (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "BBCD16F4",
+   "md5": "0379B3F0D6D4358A9490C791BF6BB678",
+   "sha1": "4AD0793C4B1C598AD5611670A9EAF5BF8E7EB148",
+   "region": "Europe",
+   "file": "Soccer Shootout (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

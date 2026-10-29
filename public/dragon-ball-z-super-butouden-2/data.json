@@ -22,6 +22,22 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A5E37609",
+   "md5": "875745A359320734097E0EFD522F5592",
+   "sha1": "D5148A5CB1E7B01AAC23FBE03BB735A2C29C4012",
+   "region": "Japan",
+   "file": "Dragon Ball Z - Super Butouden 2 (Japan).sfc"
+  },
+  {
+   "crc32": "081FDE86",
+   "md5": "921913F82C2575FCCAFA55B23560DF81",
+   "sha1": "98BED6D48DD69702B3FBA546F09149622B25DC84",
+   "region": "Japan",
+   "file": "Dragon Ball Z - Super Butouden 2 (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 3.57,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,15 @@
  "languages": [
   "English, German, Spanish, French"
  ],
+ "roms": [
+  {
+   "crc32": "797E2E82",
+   "md5": "AF9A48FC80B600539CC0F60EA6CDD1C5",
+   "sha1": "2FC0170173455250CB421DCD380CB933091B9591",
+   "region": "Europe",
+   "file": "Spirou (Europe) (En,Fr,De,Es).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

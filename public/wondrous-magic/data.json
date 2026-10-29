@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4FFD52A0",
+   "md5": "4E8B9004605AECCCD2F6F93217E6A21B",
+   "sha1": "EFB183BD188D7F288BC326017CB89653D4361E53",
+   "region": "Japan",
+   "file": "Wondrous Magic (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

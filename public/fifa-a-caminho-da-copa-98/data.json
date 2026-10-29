@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "28C2D764",
+   "md5": "9036D197E04EE34D7D364EDC70C6744F",
+   "sha1": "84E58DA5F4A2CD15ACF72FBE5CB0037EA8AD6B4A",
+   "region": "Brazil",
+   "file": "FIFA - A Caminho Da Copa 98 (Brazil) (En,Fr,De,Es,It,Sv).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

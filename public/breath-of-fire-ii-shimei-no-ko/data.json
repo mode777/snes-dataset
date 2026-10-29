@@ -18,6 +18,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9B846E8C",
+   "md5": "9CFBB811463C24CBFB834941D1A73FFF",
+   "sha1": "1062FB9E1F70E4855EDFB55811B93CEA55F918EB",
+   "region": "Japan",
+   "file": "Breath of Fire II - Shimei no Ko (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "1D8014F6",
+   "md5": "0EA349408473E47006FA2AD4471F4108",
+   "sha1": "9A1CFC03F27710DE04083D709A4C18F90B431947",
+   "region": "Japan",
+   "file": "Breath of Fire II - Shimei no Ko (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

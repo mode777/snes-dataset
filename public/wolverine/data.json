@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D9119D9B",
+   "md5": "5629862516B201AE74ADBA025DD5E228",
+   "sha1": "228E12075F9AC73E68F91690298DE8C40CBBA14E",
+   "region": "Japan",
+   "file": "Wolverine (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -31,6 +31,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A7F8D832",
+   "md5": "93ECF7902DDFDA6FC66A8EDB1F4A51C1",
+   "sha1": "3AF0769CE1AA7BA964C91A472E3687D1656DF450",
+   "region": "Europe",
+   "file": "Fatal Fury Special (Europe).sfc"
+  },
+  {
+   "crc32": "93935BEE",
+   "md5": "5FCD3E9663EA54CF9DD7883625F18956",
+   "sha1": "8113EF06DC16BF570463636094DF30C9593B2DB9",
+   "region": "USA",
+   "file": "Fatal Fury Special (USA).sfc"
+  },
+  {
+   "crc32": "3EFFA0F5",
+   "md5": "1314516EB82135210A977C8480797641",
+   "sha1": "D95055083E3274A92EACC360D29895BA0086D8D3",
+   "region": "Europe",
+   "file": "Fatal Fury Special (Europe) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.65,
  "metascore": null,
  "cover_urls": [

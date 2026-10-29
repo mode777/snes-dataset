@@ -34,6 +34,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "89B31066",
+   "md5": "C1E02B9006490B381739FCB97070B10A",
+   "sha1": "5A7CF0B3BCAD9CE270C6D903AE8602EA6309138E",
+   "region": "Japan",
+   "file": "Carrier Aces (Japan).sfc"
+  },
+  {
+   "crc32": "8BC5B8DE",
+   "md5": "98EA675EC5FA346B6D1B2D80F7EDD429",
+   "sha1": "10E4754153E22116BCF3F9082FE6FE193748732E",
+   "region": "USA",
+   "file": "Carrier Aces (USA).sfc"
+  },
+  {
+   "crc32": "4DA4A34F",
+   "md5": "B19A8F57162E59FF453C02551824F333",
+   "sha1": "E8E1E031FBC82CBA27C76A7DB7974F44713D1747",
+   "region": "Europe",
+   "file": "Carrier Aces (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

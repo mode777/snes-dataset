@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E70AA119",
+   "md5": "087A5C3426006AF6EE1584B6E1B2C199",
+   "sha1": "C9DA62B92951F93AB923D3255E87DCF00826BDE3",
+   "region": "Japan",
+   "file": "Super Double Yakuman II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

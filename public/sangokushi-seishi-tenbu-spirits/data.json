@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D09762FB",
+   "md5": "CEC5CF36812A8390A739BDF3FE654C22",
+   "sha1": "BCB8D5DC750F28A677CF55C727C9E98F95571BE3",
+   "region": "Japan",
+   "file": "Sangokushi Seishi - Tenbu Spirits (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

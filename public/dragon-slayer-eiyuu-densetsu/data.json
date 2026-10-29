@@ -30,6 +30,29 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CACBEB09",
+   "md5": "E312154E1845B1B277358CF71468A4C2",
+   "sha1": "A0F2E265375C17981F601CB3C9FF8EA16CFBC6E1",
+   "region": "Japan",
+   "file": "Dragon Slayer - Eiyuu Densetsu (Japan) (BS).sfc"
+  },
+  {
+   "crc32": "70BBA233",
+   "md5": "EA889D9D47EC05B7D42A20630A452477",
+   "sha1": "2FBC7D0B48F6017D4A2D65B3C37032AD708A6255",
+   "region": "Japan",
+   "file": "Dragon Slayer - Eiyuu Densetsu (Japan).sfc"
+  },
+  {
+   "crc32": "9B306E64",
+   "md5": "67CD9968634F1EAF7D248B0E9D9D6922",
+   "sha1": "0D0AAC657895D4DC1E1EE29A99CEB3F258DF40CC",
+   "region": "Japan",
+   "file": "Dragon Slayer - Eiyuu Densetsu (Japan) (Rev 1) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

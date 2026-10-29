@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3F0343A7",
+   "md5": "5C58B54BF19FFEE86F5B6D53AACEE255",
+   "sha1": "C19109D5187A716D0543B5CD59033C225DEFB6B4",
+   "region": "USA",
+   "file": "Rap Basketball (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

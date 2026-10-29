@@ -20,6 +20,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "43B1AAD9",
+   "md5": "03C868AB217E6E676F965A2319871A5C",
+   "sha1": "108774BFBB16F11D9884587F98A4A76077E7B12F",
+   "region": "Japan",
+   "file": "Aryol (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

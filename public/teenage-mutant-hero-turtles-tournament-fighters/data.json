@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0DDA3124",
+   "md5": "F009F85C09B421748C8944957F7EFEB7",
+   "sha1": "A72747217F1C43C54C1B8A175DFAD171023CD78E",
+   "region": "Europe",
+   "file": "Teenage Mutant Hero Turtles - Tournament Fighters (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -21,6 +21,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A3096A8E",
+   "md5": "F1E1430F816D83F165E1D05C37754652",
+   "sha1": "9437591E9A8CDFC352B61FA21EFB0F59A909B1F7",
+   "region": "Japan",
+   "file": "World Soccer (Japan).sfc"
+  },
+  {
+   "crc32": "AB7D2076",
+   "md5": "D3A1EF6057F0D493B5DBE453E25663F6",
+   "sha1": "1E4EDE70E1FD15E68F9698386FE443A3A80F89D7",
+   "region": "Europe",
+   "file": "World Soccer (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

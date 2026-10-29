@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F78B76E9",
+   "md5": "C45215A3AD7F1E8581ACA7F4982F6E1B",
+   "sha1": "A38D39D6F1E71878C53523FB9D1177210C453BE1",
+   "region": "Japan",
+   "file": "Oozumou Spirits (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

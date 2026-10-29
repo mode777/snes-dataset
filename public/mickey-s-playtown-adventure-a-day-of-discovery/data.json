@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "53524952",
+   "md5": "67E33DB27253C90FE9EDB9C5CFEC9DE9",
+   "sha1": "4C3CF0FE8F4B662414660977D913C0372EE7FE0E",
+   "region": "USA",
+   "file": "Mickey's Playtown Adventure - A Day of Discovery! (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

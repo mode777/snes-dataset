@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C1BC267D",
+   "md5": "D69B2115E17D1CF2CB3590D3F75FEBB9",
+   "sha1": "E937B54FFF99838E2E853697E4F559359AA91FD6",
+   "region": "Japan",
+   "file": "Final Fantasy V (Japan).sfc"
+  }
+ ],
  "gf_score": 4.09,
  "metascore": 83,
  "cover_urls": [

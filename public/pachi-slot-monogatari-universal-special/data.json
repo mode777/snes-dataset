@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E47E4AB2",
+   "md5": "FA402E92DB8197F56BAAF156C0B58A12",
+   "sha1": "2D95A36D79CDD66392D0EB8A92D28F0F95EDDA79",
+   "region": "Japan",
+   "file": "Pachi-Slot Monogatari - Universal Special (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

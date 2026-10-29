@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1128572B",
+   "md5": "2484F41A03392DEE2116AFB9C7D7BDC6",
+   "sha1": "EC07F7E81F13193805C3CD4B486118D218653DA3",
+   "region": "Japan",
+   "file": "Michael Andretti's IndyCar Challenge (Japan).sfc"
+  },
+  {
+   "crc32": "0FDB210E",
+   "md5": "8874A87E4E0CCFA742E244017B6C544C",
+   "sha1": "20B7FD6A8604FA36F75EDF9CCB24380B13D8C905",
+   "region": "USA",
+   "file": "Michael Andretti's IndyCar Challenge (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

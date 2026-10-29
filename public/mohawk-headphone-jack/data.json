@@ -18,6 +18,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "6CF14848",
+   "md5": "290174186CE28989E71334E1263CDEEC",
+   "sha1": "820A6342326556FDAE1AFFD822BD2BB2FCB941CB",
+   "region": "Europe",
+   "file": "Mohawk & Headphone Jack (Europe).sfc"
+  },
+  {
+   "crc32": "0B207E7F",
+   "md5": "C8F9800D07E9F8AA4FE983D23A948A74",
+   "sha1": "524BC88A5DAFF3435149AD079A593295E22740B0",
+   "region": "USA",
+   "file": "Mohawk & Headphone Jack (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

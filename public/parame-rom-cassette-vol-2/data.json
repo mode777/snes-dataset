@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "DCF534F1",
+   "md5": "3B2144F9EAC61D678ECAA6F23A28A476",
+   "sha1": "CA80E147A6783D897EBC22B1524C584BCF91654B",
+   "region": "Japan",
+   "file": "Parame ROM Cassette Vol. 2 (Japan) (Unl).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

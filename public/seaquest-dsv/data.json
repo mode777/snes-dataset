@@ -32,6 +32,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "DCA75893",
+   "md5": "A26954790F921A3A4DA44F40DFF0C48B",
+   "sha1": "FB704167CB269E00C4108CF1EABED8B5DF2D547D",
+   "region": "Europe",
+   "file": "SeaQuest DSV (Europe).sfc"
+  },
+  {
+   "crc32": "A6579E03",
+   "md5": "7F419B8A17260C794C52E61030380856",
+   "sha1": "A6C4E9FBD6B8A18E5219D958292F3C33B552511E",
+   "region": "USA",
+   "file": "SeaQuest DSV (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

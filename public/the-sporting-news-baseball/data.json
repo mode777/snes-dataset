@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "315AF696",
+   "md5": "95689BDD54DDDE67FEA1B05A96BCB6F4",
+   "sha1": "13DFB9435F4D6227F1D484C6E76D1172AEC91F6A",
+   "region": "USA",
+   "file": "Sporting News Baseball, The (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

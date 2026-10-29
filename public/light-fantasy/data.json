@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "17BBF914",
+   "md5": "25ECB915971A5AB74F0E872D431DB5C4",
+   "sha1": "7C4BE5B562695E737EA614EC375B6B3D0D5DD7B0",
+   "region": "Japan",
+   "file": "Light Fantasy (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

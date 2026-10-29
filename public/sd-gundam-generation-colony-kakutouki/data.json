@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C5DFA8FD",
+   "md5": "3E84A2BCCC251FF42C01166BA55DFDAF",
+   "sha1": "0A335EF645D058C2DA5389AD622C62D0BFFCE944",
+   "region": "Japan",
+   "file": "SD Gundam Generation - Colony Kakutouki (Japan) (ST).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

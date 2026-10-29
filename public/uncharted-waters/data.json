@@ -31,6 +31,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "95724A2F",
+   "md5": "39E2CAE94022E26CAE42CC1856430F20",
+   "sha1": "08AA3634B5CF3B912B1AFC74D6EF6183E8C65299",
+   "region": "USA",
+   "file": "Uncharted Waters (USA).sfc"
+  }
+ ],
  "gf_score": 3.7,
  "metascore": null,
  "cover_urls": [

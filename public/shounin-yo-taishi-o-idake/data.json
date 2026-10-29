@@ -20,6 +20,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "51227E94",
+   "md5": "C53F3BF8925BD866128079FDDF2C2A52",
+   "sha1": "01A8947142572E7FEE83CBDC95D5BD854D2152D7",
+   "region": "Japan",
+   "file": "Shounin yo, Taishi o Idake!! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

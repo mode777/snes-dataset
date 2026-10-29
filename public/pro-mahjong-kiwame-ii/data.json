@@ -25,6 +25,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C06DC507",
+   "md5": "DB6A219A02663A18DC83BCAEE22D392F",
+   "sha1": "92E74FFAE1AC82A0BED59C2B75599D88CCD4A610",
+   "region": "Japan",
+   "file": "Pro Mahjong Kiwame II (Japan).sfc"
+  },
+  {
+   "crc32": "2142A484",
+   "md5": "CE087EEAA4CD5ECFEA3E6925606FE61D",
+   "sha1": "663DB2593CC4437655DB3522ED2786E651A202F6",
+   "region": "Japan",
+   "file": "Pro Mahjong Kiwame II (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8CDD1054",
+   "md5": "26603B9CA7A789EAD6894262F5714AB4",
+   "sha1": "6B0F6932B8761BF6E0C816CA9F782BD793A22C38",
+   "region": "Japan",
+   "file": "Sutte Hakkun - Event Version (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

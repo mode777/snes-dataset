@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "61ABD015",
+   "md5": "8DD0B3F2C3DA8A8B0FEDF9ACD03BB80E",
+   "sha1": "E9DE2AF45A11A17A33B2FE436EE593F48EF9175F",
+   "region": "Japan",
+   "file": "Kidou Senshi Z Gundam - Away to the Newtype (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

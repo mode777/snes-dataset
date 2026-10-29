@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1F73C832",
+   "md5": "D6D788471B2BE53629AA257686893ABB",
+   "sha1": "0D58B1B35D870CCA2B7F6CD99C868A522BF9B597",
+   "region": "Japan",
+   "file": "GT Racing (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -31,6 +31,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "597AA981",
+   "md5": "186D7D1585DC6A0E9AD96A5740A1A03A",
+   "sha1": "E9B6482FF501B35DB2AAFFD1E2FCA4F4BE82034B",
+   "region": "USA",
+   "file": "Bonkers (USA).sfc"
+  }
+ ],
  "gf_score": 3.34,
  "metascore": null,
  "cover_urls": [

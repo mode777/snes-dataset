@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9B68248E",
+   "md5": "A803E42B34FB1A76731C2DF802C88BA6",
+   "sha1": "C09698565A0B0B897DFBE18A2A3823FB5148D2DF",
+   "region": "Japan",
+   "file": "F-1 Grand Prix - Part III (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "758A0322",
+   "md5": "55E50B10BE0B73A2B6A87A7DBA3478D6",
+   "sha1": "9ECC8D4805E3CB7DF1848EEDCF32EC641008A655",
+   "region": "Japan",
+   "file": "Super Chinese World 3 - Chou Jigen Daisakusen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

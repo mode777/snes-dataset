@@ -32,6 +32,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "388F6DAA",
+   "md5": "5AFBBA346D499FA38552C500478DF101",
+   "sha1": "322ADEC252911BF7C7A38DA7C23ECEDB26FD92B3",
+   "region": "Europe",
+   "file": "Super Morph (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

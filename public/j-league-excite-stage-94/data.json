@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D96B3936",
+   "md5": "A9A8496CC8DA79CD29AC63E949CF8F59",
+   "sha1": "3A8D418F81D94435692ADFED77B6A5FC7E775071",
+   "region": "Japan",
+   "file": "J.League Excite Stage '94 (Japan).sfc"
+  },
+  {
+   "crc32": "C9E33615",
+   "md5": "CD34AB3048EF09529AD5120AD30095BA",
+   "sha1": "6A23BCA3EBFBAD41875A737F7D64204342F0E574",
+   "region": "Japan",
+   "file": "J.League Excite Stage '94 (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

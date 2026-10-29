@@ -34,6 +34,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "98D7611E",
+   "md5": "9D180DECDC39239518F56C36B4102B21",
+   "sha1": "59E3920BCDA8A16B16DECDF274456AC1C3FF613E",
+   "region": "USA",
+   "file": "Scooby-Doo Mystery (USA).sfc"
+  }
+ ],
  "gf_score": 3.23,
  "metascore": null,
  "cover_urls": [

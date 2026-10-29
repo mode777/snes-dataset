@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "60B2D4A8",
+   "md5": "0008D2A79FA3D7382800F3528AFDD59E",
+   "sha1": "580746916E3963C9867C8B9B2FA951279BA9D573",
+   "region": "Europe",
+   "file": "Striker (Europe) (En,Fr,De,Es,It,Nl,Sv).sfc"
+  },
+  {
+   "crc32": "89AC1EAA",
+   "md5": "0984C905EA77D86E716EC90C692AD161",
+   "sha1": "CC8E8D77A03AAF266863AC16AF55601E4B274629",
+   "region": "Europe",
+   "file": "Striker (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

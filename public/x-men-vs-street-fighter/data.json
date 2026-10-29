@@ -22,6 +22,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "40242231",
+   "md5": "740E48A66F1DE6135C818433DAAAFC55",
+   "sha1": "7EA216437C77E1AC20F9A00EB53B283D269AA15A",
+   "region": "World",
+   "file": "X-Men vs. Street Fighter (World) (Unl).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

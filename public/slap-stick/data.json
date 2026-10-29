@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "53FB163B",
+   "md5": "EEA1D6E9C25D39D0BA92BE05E61F75F5",
+   "sha1": "AF9BCFAA13D2CDBED7D946FCB68E7028210A2489",
+   "region": "Japan",
+   "file": "Slap Stick (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

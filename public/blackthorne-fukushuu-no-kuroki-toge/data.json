@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "EDF476B3",
+   "md5": "30729D81A5B1F83CE26631918062EB82",
+   "sha1": "F7B38C81596973336E72CF4B8A5C575E23DED515",
+   "region": "Japan",
+   "file": "Blackthorne - Fukushuu no Kuroki Toge (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

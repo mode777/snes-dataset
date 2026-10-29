@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "BF252997",
+   "md5": "C67E9B04A528A4C39470B2637AB2D8FD",
+   "sha1": "5F7D31A93C7244C01733098EE1F05655E7F0A8C1",
+   "region": "Japan",
+   "file": "Super H.Q. - Criminal Chaser (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

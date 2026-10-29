@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "75993355",
+   "md5": "61C0652BF7D3B21735DA9263849D0D4F",
+   "sha1": "7C47B2F47969D6F0E6CE100ED5E915D964C8BD02",
+   "region": "Japan",
+   "file": "Elfaria - The Isle of the Blest (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

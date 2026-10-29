@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4B32C8AA",
+   "md5": "500F024B10B8AF520BD2229C3ADD874E",
+   "sha1": "08B98ECF75F36ACCF3DC3B213B1D6F87F9CB306E",
+   "region": "Japan",
+   "file": "Oekaki Logic 2 (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

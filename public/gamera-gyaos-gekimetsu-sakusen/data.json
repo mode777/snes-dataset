@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BDB4DD84",
+   "md5": "7DB5D13A4B6FEFCE823D407BBA95D232",
+   "sha1": "D218BE6B87F614DBB037E50ED748897CC77699B5",
+   "region": "Japan",
+   "file": "Gamera - Gyaos Gekimetsu Sakusen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

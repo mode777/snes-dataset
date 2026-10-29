@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E60EB6C0",
+   "md5": "2FBBB990042AF576C74C6EB5F05ECA0F",
+   "sha1": "562D0FD49642EE0C3F36F051DD256BA181E488BE",
+   "region": "Japan",
+   "file": "Might and Magic - Book II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

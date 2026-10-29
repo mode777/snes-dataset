@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "64B62E81",
+   "md5": "84A92E69CFB08CF1161D755D0907A278",
+   "sha1": "C4FA47274C2DB0EB6EFD02072B71BFEC2679C41D",
+   "region": "Japan",
+   "file": "Kirby no Omochabako - Guruguru Ball (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

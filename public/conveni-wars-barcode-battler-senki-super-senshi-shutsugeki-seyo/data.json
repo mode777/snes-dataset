@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "115233DB",
+   "md5": "A4960BB80A93CB3CB5421CEA5713F1A8",
+   "sha1": "72CA858F50D67121B06868633B8588A79316C3E2",
+   "region": "Japan",
+   "file": "Conveni Wars Barcode Battler Senki - Super Senshi Shutsugeki seyo! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

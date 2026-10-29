@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "46B9F6D3",
+   "md5": "400F570CAB1C9FE639091F03D3B311BB",
+   "sha1": "898E3B1CA4A83D88302721AC2DBF7228140A7C15",
+   "region": "Japan",
+   "file": "Mahoujin Guruguru (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5617A42E",
+   "md5": "49812BD8FC347C5C4D0D5207933CFD71",
+   "sha1": "73A444501A9AECC390EC9DFA6D6726E0E2FCED9A",
+   "region": "Japan",
+   "file": "Yu Yu Hakusho Final - Makai Saikyou Retsuden (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

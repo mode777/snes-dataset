@@ -20,6 +20,29 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3FE1854A",
+   "md5": "0D4D5ED54AE085BD4E785CFA152FA0C9",
+   "sha1": "F852D5312FB2290049CDC76B9E902C02C5E5FDB3",
+   "region": "France",
+   "file": "Ranma 1-2 (France).sfc"
+  },
+  {
+   "crc32": "9264E9A7",
+   "md5": "BE7FB6B1483B6A251E35B47ECD43666A",
+   "sha1": "6DCCDAFB2ADDF9AB5BAE673C81542B3DA45A4BDB",
+   "region": "Europe",
+   "file": "Ranma 1-2 (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "E6C51FF7",
+   "md5": "00B4680CAF2BC5C73D12466CECFFAD27",
+   "sha1": "DA01DB3AAA4AAF8F62ACF218BE9D4BECFFA92E3E",
+   "region": "Europe",
+   "file": "Ranma 1-2 (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

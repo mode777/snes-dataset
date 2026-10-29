@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8CE1BA79",
+   "md5": "22C61C5030CB934EBEEA07C20C9EAA49",
+   "sha1": "A03B948527267DA11E908C41A41FAB69D45CA766",
+   "region": "USA",
+   "file": "Barbie Vacation Adventure (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

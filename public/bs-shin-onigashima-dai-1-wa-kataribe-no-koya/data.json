@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "60F24A80",
+   "md5": "E93A3A52A282758DAF3765264B073D28",
+   "sha1": "9F448C3FB632215AC86BFA5E2529B05A87CBBE77",
+   "region": "Japan",
+   "file": "BS Shin Onigashima - Dai-1-wa - Kataribe no Koya (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

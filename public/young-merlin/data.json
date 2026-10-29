@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "7EA1AFE8",
+   "md5": "B2C941607E09AB246B5CB110756DDB9A",
+   "sha1": "8534DDFA5CEE1FA4A2C7FF045BFA5A4C8ABEB296",
+   "region": "USA",
+   "file": "Young Merlin (USA).sfc"
+  },
+  {
+   "crc32": "D5E69DC4",
+   "md5": "20D12565ABE667A0624004C134F79065",
+   "sha1": "8E0DA5960039DE1D25C18EAAF8F9D8F3B2F125E9",
+   "region": "Europe",
+   "file": "Young Merlin (Europe).sfc"
+  }
+ ],
  "gf_score": 3.09,
  "metascore": null,
  "cover_urls": [

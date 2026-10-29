@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0EC0DDAC",
+   "md5": "4E4F8F4CFDAABFFDDE20C8053202D4F0",
+   "sha1": "F977AFABF24ED269D86366209A460450BBC37E76",
+   "region": "Japan",
+   "file": "Super Mario World - Super Mario Bros. 4 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

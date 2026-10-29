@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "84DA7CFE",
+   "md5": "EDE82658DAFDD6FEBBFBE6A9C9082500",
+   "sha1": "265886E3F665ADF2507E7B2F08B6B2ED9D0018B2",
+   "region": "USA",
+   "file": "Contra III - The Alien Wars (USA).sfc"
+  }
+ ],
  "gf_score": 4.11,
  "metascore": null,
  "cover_urls": [

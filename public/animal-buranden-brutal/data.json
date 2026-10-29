@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "78ECA50D",
+   "md5": "99C3EBFB50BC017D7384568619937C6B",
+   "sha1": "C6F5BD4C9BCA100C49735A3F79FCB97ED8D7C379",
+   "region": "Japan",
+   "file": "Animal Buranden - Brutal (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

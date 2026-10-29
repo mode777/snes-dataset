@@ -31,6 +31,29 @@
  "languages": [
   "English, German, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0A0235C0",
+   "md5": "83B543020E09BF69DFC1D4AD41DA1F2D",
+   "sha1": "2821AD1B9AF311B39AEAE8EB129786146E11AD0E",
+   "region": "Japan",
+   "file": "Populous II - Trials of the Olympian Gods (Japan).sfc"
+  },
+  {
+   "crc32": "C5DAE9B9",
+   "md5": "7B93C4A184CD4D360C2CF7C9411F3644",
+   "sha1": "38A0FD0AEE434B504551D4F9D2DBEFD7014C7263",
+   "region": "Germany",
+   "file": "Populous II - Trials of the Olympian Gods (Germany).sfc"
+  },
+  {
+   "crc32": "6C28CC39",
+   "md5": "6DDCE6FDBF50DA1A3D8089844A7BDBF6",
+   "sha1": "9CD32145453BF1BCDE11905E3C213A0F44C50692",
+   "region": "Europe",
+   "file": "Populous II - Trials of the Olympian Gods (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

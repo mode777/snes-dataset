@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "2820F702",
+   "md5": "09C7BD0263613728894CD449B1B9D5A5",
+   "sha1": "904F5DCF5AEDAD12D77F335690BFD740BC28801A",
+   "region": "Europe",
+   "file": "Run Saber (Europe).sfc"
+  },
+  {
+   "crc32": "8708E5BB",
+   "md5": "BF356060C13D1A841E6B3342D1E9C981",
+   "sha1": "5FBA73777ACDD5B8BDB6EF429EFFCF6034C88072",
+   "region": "USA",
+   "file": "Run Saber (USA).sfc"
+  }
+ ],
  "gf_score": 3.5,
  "metascore": null,
  "cover_urls": [

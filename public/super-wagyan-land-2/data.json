@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D5063AE0",
+   "md5": "221B7D997646D830782F7A423A239FE7",
+   "sha1": "16E6728C0BC25BF9905F30BD4FA33C0445C37571",
+   "region": "Japan",
+   "file": "Super Wagyan Land 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

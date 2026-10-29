@@ -30,6 +30,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9E6A60E9",
+   "md5": "60D064BCEA06AE5BFFB333EFB6FC878A",
+   "sha1": "57F594C3745C6DE11AC6CDFE45317249FB4AAD12",
+   "region": "Japan",
+   "file": "Super Power League 2 (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "E5539E76",
+   "md5": "FE589848DE9E8BDA5F8DBAE6B5E22152",
+   "sha1": "03E11FF31DB618462E0CE43B9A863957DB78DCA0",
+   "region": "Japan",
+   "file": "Super Power League 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

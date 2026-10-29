@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "832C8449",
+   "md5": "FD026CC607B25F1F81A41AE56E116DCF",
+   "sha1": "F892F9DBCB8715AD5C71E5B43DF7BF2523D39E50",
+   "region": "Japan",
+   "file": "Verne World (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

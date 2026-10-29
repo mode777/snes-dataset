@@ -31,6 +31,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D1048918",
+   "md5": "EF83866BD12204DCAD53FC2EE731EDF5",
+   "sha1": "1930E1F67F28AFEE0A666980EA1A018AF9B77B6A",
+   "region": "USA",
+   "file": "Kendo Rage (USA).sfc"
+  }
+ ],
  "gf_score": 3.29,
  "metascore": null,
  "cover_urls": [

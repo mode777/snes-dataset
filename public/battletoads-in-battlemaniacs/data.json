@@ -33,6 +33,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "617AC925",
+   "md5": "E44B9987E33EF7237B24457A6C997723",
+   "sha1": "3041C5C2A88449CF358A57D019930849575F8F6D",
+   "region": "USA",
+   "file": "Battletoads in Battlemaniacs (USA).sfc"
+  },
+  {
+   "crc32": "1783E3A2",
+   "md5": "6B042DA023E26CF195689FA182C19A0E",
+   "sha1": "650680FA4DA5D4F0B319451B4E3BD5B828585CFB",
+   "region": "USA",
+   "file": "Battletoads in Battlemaniacs (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "48F15B03",
+   "md5": "4AC6353734BD0D3B1B11AC56EDBDC9B0",
+   "sha1": "433B6C7F09DE42C869601A35129809AE3E8E5FE8",
+   "region": "Japan",
+   "file": "Battletoads in Battlemaniacs (Japan).sfc"
+  },
+  {
+   "crc32": "BBF1CF8D",
+   "md5": "866B25CC8A348525A6CE344DC37916BF",
+   "sha1": "26D8297D8B9B09A61125FE9906AD1C2A7C38AC11",
+   "region": "Europe",
+   "file": "Battletoads in Battlemaniacs (Europe).sfc"
+  }
+ ],
  "gf_score": 3.44,
  "metascore": null,
  "cover_urls": [

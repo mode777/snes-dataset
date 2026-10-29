@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "37AB70E5",
+   "md5": "7B5FD843AE32F96A8A267E9054850753",
+   "sha1": "CD4F22776CBBECE517007C6A60A11B3EC28BE6AA",
+   "region": "Japan",
+   "file": "Dokuritsu Sensou - Liberty or Death (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

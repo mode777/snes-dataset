@@ -19,6 +19,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4808E2B2",
+   "md5": "325A085D8350F91F5F4759B4AA64DCDA",
+   "sha1": "73D817B43224C3FA5E1BEE697D25B7090C23B099",
+   "region": "Japan",
+   "file": "Logos Panic Goaisatsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

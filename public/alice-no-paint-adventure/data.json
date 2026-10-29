@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "05798DA8",
+   "md5": "9907058DB9815C7F4068A6EDB870D673",
+   "sha1": "18B6FADBCEE0741001537AD3F62C8477A2B664CF",
+   "region": "Japan",
+   "file": "Alice no Paint Adventure (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

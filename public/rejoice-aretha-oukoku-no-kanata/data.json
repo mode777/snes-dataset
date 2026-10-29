@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C2413BDD",
+   "md5": "448DC6E365739C8166166609782D54BA",
+   "sha1": "50350BEF7244C9D668DC1083F0E90AFF549B3200",
+   "region": "Japan",
+   "file": "Rejoice - Aretha Oukoku no Kanata (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

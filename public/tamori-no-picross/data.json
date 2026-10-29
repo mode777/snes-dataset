@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "98A4E46F",
+   "md5": "5AE775C4EC16C02BE046868FDCF2F28A",
+   "sha1": "71BA1312CCB600A8A652BA326881F94CF97BC08C",
+   "region": "Japan",
+   "file": "Tamori no Picross (Japan) (6-26) (BS) [b].sfc"
+  },
+  {
+   "crc32": "BF6CAB42",
+   "md5": "269D47792F93FB7B8448CD99B08E02AB",
+   "sha1": "9573A7E1A2151B05302A9EA2E5B7F1AB1F195593",
+   "region": "Japan",
+   "file": "Tamori no Picross (Japan) (6-13) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

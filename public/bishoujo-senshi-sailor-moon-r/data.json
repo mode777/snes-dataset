@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4AEE5ABB",
+   "md5": "39B1E06FAE0D6176C6EC4BB98F842EB7",
+   "sha1": "3FE66EFA28F97579602ECA80FE1765A6F45F762D",
+   "region": "Japan",
+   "file": "Bishoujo Senshi Sailor Moon R (Japan).sfc"
+  }
+ ],
  "gf_score": 3.55,
  "metascore": null,
  "cover_urls": [

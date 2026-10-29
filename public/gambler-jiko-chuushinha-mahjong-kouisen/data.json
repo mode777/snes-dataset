@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8EBD1223",
+   "md5": "9056DB0BDA2B6A835732F2905F50F804",
+   "sha1": "433366CC5FE3A8CE20DE52399B66EE73570D5AAA",
+   "region": "Japan",
+   "file": "Gambler Jiko Chuushinha - Mahjong Kouisen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

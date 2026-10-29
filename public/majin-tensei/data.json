@@ -28,6 +28,29 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9743E190",
+   "md5": "845739FBCA42F73FE079743A2329B8E0",
+   "sha1": "02AA3B58D04900B7147FC5EBB5E25A7D11184D4B",
+   "region": "Japan",
+   "file": "Majin Tensei (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "5415B5E9",
+   "md5": "FDC72B52865167CCABEA1E5E23AA2C6D",
+   "sha1": "26F5C4AFDBE5F4130B10B8AEDF393596FBA216CB",
+   "region": "Japan",
+   "file": "Majin Tensei (Japan) (Rev 2).sfc"
+  },
+  {
+   "crc32": "C1B5D46A",
+   "md5": "0FE71F9A99EC8DFCB14E0195C9AC3940",
+   "sha1": "E7794AB6A0D62FF317254BB439672590A4E765CB",
+   "region": "Japan",
+   "file": "Majin Tensei (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

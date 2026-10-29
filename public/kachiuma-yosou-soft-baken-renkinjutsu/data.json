@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BA902CD5",
+   "md5": "439D7F65A4261CE879A6DE75BA405879",
+   "sha1": "E4D9F3176DF6DC1EA5B05505D158C92B40D9D597",
+   "region": "Japan",
+   "file": "Kachiuma Yosou Soft - Baken Renkinjutsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

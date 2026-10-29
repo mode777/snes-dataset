@@ -33,6 +33,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3C49C39C",
+   "md5": "C36BB9677A1E428A2613A1A68E6EFD8D",
+   "sha1": "5C767285DA713DE2BC883A6291D32ADC9B2D13FA",
+   "region": "Europe",
+   "file": "Mega Man X2 (Europe).sfc"
+  },
+  {
+   "crc32": "947B0355",
+   "md5": "67905B989B00046DB06DF3434ED79F04",
+   "sha1": "637079014421563283CDED6AEAA0604597B2E33C",
+   "region": "USA",
+   "file": "Mega Man X2 (USA).sfc"
+  }
+ ],
  "gf_score": 4.18,
  "metascore": null,
  "cover_urls": [

@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "44A0DE9C",
+   "md5": "4207F10EE585F05FD13A91599353169E",
+   "sha1": "5E561A432C4429557418F76C6D87338E6CAC3864",
+   "region": "Japan",
+   "file": "Pro Football '93 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

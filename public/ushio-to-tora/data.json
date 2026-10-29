@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6EB78AE8",
+   "md5": "56EB2EFAE78362A61A06067199029155",
+   "sha1": "C93E52877D33907C09F2976163BF0E4679009BA4",
+   "region": "Japan",
+   "file": "Ushio to Tora (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

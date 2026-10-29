@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8488759E",
+   "md5": "7863059C4F21C9FD8C8C8A40D45822AD",
+   "sha1": "15F3A610FD47707639E96FFAD06ABD35457D9A32",
+   "region": "Japan",
+   "file": "Tottemo! Lucky Man - Lucky Cookie Roulette de Totsugeki!! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

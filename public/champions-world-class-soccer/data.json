@@ -37,6 +37,29 @@
  "languages": [
   "English, German, Spanish, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D89C8156",
+   "md5": "8E76A5E840D694C29B239F6483B646B0",
+   "sha1": "7CB016AE25D4377F9AABC1825AB5ECAB05BF28E3",
+   "region": "Europe",
+   "file": "Champions - World Class Soccer (Europe) (En,Fr,De,Es).sfc"
+  },
+  {
+   "crc32": "07CAD002",
+   "md5": "FF64D3429CC7D3920AFB6414F1C875F6",
+   "sha1": "B610AED56A55EF062465A8C31E59691CF65F059F",
+   "region": "Japan",
+   "file": "Champions - World Class Soccer (Japan).sfc"
+  },
+  {
+   "crc32": "BCD59D08",
+   "md5": "6C28BAC6C9D6D554782940F8D95B2391",
+   "sha1": "573B316E5B08F47DC0C8E339E2DC3101C4F74AFC",
+   "region": "USA",
+   "file": "Champions - World Class Soccer (USA) (En,Fr,De,Es).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

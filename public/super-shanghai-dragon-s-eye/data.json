@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "6F95D27E",
+   "md5": "BBA3C7A15107DAE0484D83B76CCB35B0",
+   "sha1": "BFECF6C263466409B83095244B658F3AD39343AC",
+   "region": "Japan",
+   "file": "Super Shanghai - Dragon's Eye (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

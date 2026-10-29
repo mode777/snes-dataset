@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "24935769",
+   "md5": "4F5449C5A1DB9ECED78A9573AFFFFED9",
+   "sha1": "DE21BE64FDE447D9C6A2F1B063D2F2E0D4034CA0",
+   "region": "Europe",
+   "file": "Stunt Race FX (Europe).sfc"
+  },
+  {
+   "crc32": "380C2635",
+   "md5": "128B316A74CAF17FDC216B3AB46D4A9A",
+   "sha1": "781E376FF453A83C7BCF72339ABE6B842EFD9C86",
+   "region": "USA",
+   "file": "Stunt Race FX (USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 3.39,
  "metascore": null,
  "cover_urls": [

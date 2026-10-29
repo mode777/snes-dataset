@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E790F52F",
+   "md5": "E6304E77CB4BC340F5AA733D70C19200",
+   "sha1": "1F41CE082530E40857642DCCDE2D1C8DE88C6744",
+   "region": "USA",
+   "file": "Ultima - The Black Gate (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

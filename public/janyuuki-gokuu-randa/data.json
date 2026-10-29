@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "10978B2D",
+   "md5": "48FA5B2A15BD6B2FAB765DC78DBAFB23",
+   "sha1": "4BB2685BDA75714C5AB8DA641C0A11ED034AC68F",
+   "region": "Japan",
+   "file": "Janyuuki - Gokuu Randa (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

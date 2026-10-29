@@ -36,6 +36,43 @@
  "languages": [
   "English, German, Spanish, French"
  ],
+ "roms": [
+  {
+   "crc32": "7BFE934F",
+   "md5": "F6516A3B18C262EC00CD4348921C3897",
+   "sha1": "4363CE4B19E76261F9325AC9A0CCE27D97490DF2",
+   "region": "Spain",
+   "file": "Secret of Evermore (Spain).sfc"
+  },
+  {
+   "crc32": "A5C0045E",
+   "md5": "6E9C94511D04FAC6E0A1E582C170BE3A",
+   "sha1": "79E7738630FFF5699217EF58ECC421BC8FCBCD89",
+   "region": "USA",
+   "file": "Secret of Evermore (USA).sfc"
+  },
+  {
+   "crc32": "E168D085",
+   "md5": "1C02824BDD165BACB52597551C3C87C5",
+   "sha1": "AE17166919FDFDF26CC5771F83CFD19EAF71806C",
+   "region": "Europe",
+   "file": "Secret of Evermore (Europe).sfc"
+  },
+  {
+   "crc32": "7425BB91",
+   "md5": "4C33B3B733B2CBD63295446B14654652",
+   "sha1": "8A430C9D6A3DCEF974252FE8D946A0D619BB1A61",
+   "region": "France",
+   "file": "Secret of Evermore (France).sfc"
+  },
+  {
+   "crc32": "27F60E77",
+   "md5": "0D131FF1D7896D6994B03FE2751D820B",
+   "sha1": "5E5C2082526690D05F962C3FFBD7E080C681BFA4",
+   "region": "Germany",
+   "file": "Secret of Evermore (Germany).sfc"
+  }
+ ],
  "gf_score": 3.98,
  "metascore": null,
  "cover_urls": [

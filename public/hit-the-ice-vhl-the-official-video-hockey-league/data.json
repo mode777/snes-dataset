@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "EC13477E",
+   "md5": "7B4088151DF3FA7523010B385A757D49",
+   "sha1": "A8B2F000B1DF0CF5B1FA0430697D23AD64EE962A",
+   "region": "USA",
+   "file": "Hit the Ice - VHL - The Official Video Hockey League (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

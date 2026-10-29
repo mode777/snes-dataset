@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4FA5FC25",
+   "md5": "568BD0C48ACBA2109C8097A23D4C1167",
+   "sha1": "656FDEEA71F823BA62BA604B412E86A18C55A838",
+   "region": "Japan",
+   "file": "Song Master (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

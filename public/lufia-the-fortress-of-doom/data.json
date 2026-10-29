@@ -28,6 +28,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5E1AA1A6",
+   "md5": "4BBAAD6ABDFC9F05D2D8DDE47DF8B15D",
+   "sha1": "904BBA17F5A37FDC714C91BE80082444136586EA",
+   "region": "USA",
+   "file": "Lufia & The Fortress of Doom (USA).sfc"
+  }
+ ],
  "gf_score": 3.7,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "571D4776",
+   "md5": "3AF5DDC51F8C05341BCA13DEEAB2015A",
+   "sha1": "1005EA1578CAD401A586E6716AAE85AF21F0CE9F",
+   "region": "Japan",
+   "file": "Kodomo Chousadan Mighty Pockets - Chousa 1 - Junk-ya Black no Ie (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

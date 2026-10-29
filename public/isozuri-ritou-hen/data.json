@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3D35D085",
+   "md5": "AE62407336CAE6E9E15A20A5B186645D",
+   "sha1": "49741C14E923BDAA0FF5776744508544921CBB2D",
+   "region": "Japan",
+   "file": "Isozuri - Ritou Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

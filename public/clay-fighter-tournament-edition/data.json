@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B360F7AF",
+   "md5": "A6637CCB145E42BBCE94FBCE3A1BB5E7",
+   "sha1": "A7D9A90F792C90D3D51F62DB6279E9533DAB5CA8",
+   "region": "USA",
+   "file": "Clay Fighter - Tournament Edition (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

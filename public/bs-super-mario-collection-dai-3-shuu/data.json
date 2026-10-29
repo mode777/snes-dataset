@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "53F2DD11",
+   "md5": "346A7BADE699B60D20D78423D248AE4E",
+   "sha1": "0B6E6ECFF4682DC8F8E1B9A9A1399D2F805C9BEE",
+   "region": "Japan",
+   "file": "BS Super Mario Collection - Dai-3-shuu (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

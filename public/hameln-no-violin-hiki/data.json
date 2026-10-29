@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FB500926",
+   "md5": "5B042F9443D8338E0EB7E2604F9A3363",
+   "sha1": "9A1451C46B10D1C6B85F1BBD9825805D9171FB2D",
+   "region": "Japan",
+   "file": "Hameln no Violin Hiki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

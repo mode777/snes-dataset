@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "76E01CCB",
+   "md5": "AB6CBBE55068A36718E223EE98090946",
+   "sha1": "19A6B27DFF5D1E7E1790405A9CF29AE80FD5DF3C",
+   "region": "Japan",
+   "file": "Chaos Seed - Feng Shui Kairouki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -28,6 +28,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C709B922",
+   "md5": "3A90852E4B43AC17A9B34F45980E4637",
+   "sha1": "26F1BE182EEB3D86B276269CC8FEC8F1BC6DBF83",
+   "region": "Japan",
+   "file": "Super Tetris 2 + Bombliss (Japan) (Genteiban).sfc"
+  },
+  {
+   "crc32": "4AE93C10",
+   "md5": "DAD417DC031D7515D878FAFDBE8B737B",
+   "sha1": "5FA25D027940907B769578D7BF85A9D5BA94911A",
+   "region": "Japan",
+   "file": "Super Tetris 2 + Bombliss (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "8AE5E443",
+   "md5": "E1C86D4289EF84F5151F341F62876EF0",
+   "sha1": "3AC3C616DFE4D36496303B38275D15D7ACEB8572",
+   "region": "Japan",
+   "file": "Super Tetris 2 + Bombliss (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

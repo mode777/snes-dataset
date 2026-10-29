@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "91867AF4",
+   "md5": "B965286DE67B7116B8EB587457F9B649",
+   "sha1": "9991B9ED49C7FE663DEEB9EC51B54A216B957A1F",
+   "region": "Japan",
+   "file": "TwinBee - Rainbow Bell Adventure (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

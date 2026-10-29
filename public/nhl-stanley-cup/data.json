@@ -30,6 +30,15 @@
  "languages": [
   "English, French"
  ],
+ "roms": [
+  {
+   "crc32": "584CE502",
+   "md5": "54DC56A5CF3199E53B556775AE0304C7",
+   "sha1": "D5FD9281A7D7CD25D87ED917873914829937D626",
+   "region": "USA",
+   "file": "NHL Stanley Cup (USA) (En,Fr).sfc"
+  }
+ ],
  "gf_score": 3.03,
  "metascore": null,
  "cover_urls": [

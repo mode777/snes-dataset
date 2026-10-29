@@ -30,6 +30,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9654194D",
+   "md5": "0C0FE140C1851B2D80148118F1DE9B02",
+   "sha1": "60794DFDEBAF4A3F2295B388F02CE605E7DE8231",
+   "region": "Japan",
+   "file": "Little Magic (Japan).sfc"
+  },
+  {
+   "crc32": "59059D83",
+   "md5": "781258044FDE962357232BE69E845E34",
+   "sha1": "7CED82FF061DD5A7EE9E35B67FBA068B78754120",
+   "region": "Europe",
+   "file": "Little Magic (Europe) (Proto).sfc"
+  },
+  {
+   "crc32": "0E201E8F",
+   "md5": "FD2F923ABB68E32350694EC5AE159289",
+   "sha1": "8B607F785E9AB15DDDB3BB572D494BD79B15CCE0",
+   "region": "Japan",
+   "file": "Little Magic (Japan) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

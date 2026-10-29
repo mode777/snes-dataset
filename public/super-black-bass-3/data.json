@@ -26,6 +26,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "97AE0DF4",
+   "md5": "EB4EEE0E4A9ABF9D1567AD6135E3F520",
+   "sha1": "CC43952F2CFC9A5B99325301B58178F7713AC942",
+   "region": "Japan",
+   "file": "Super Black Bass 3 (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "EC9104DB",
+   "md5": "F251867B759EC5450D70EF63365A91B9",
+   "sha1": "1D3D5862622C097743FF159F47F49F5F7BB47BA9",
+   "region": "Japan",
+   "file": "Super Black Bass 3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

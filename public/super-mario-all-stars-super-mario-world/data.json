@@ -36,6 +36,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "F84305B1",
+   "md5": "7ECAF3E2E021C8A836041C85886F4594",
+   "sha1": "D245E41A2B590F7D63666B0772CBDDFB26F254A2",
+   "region": "USA",
+   "file": "Super Mario All-Stars + Super Mario World (USA).sfc"
+  }
+ ],
  "gf_score": 4.57,
  "metascore": null,
  "cover_urls": [

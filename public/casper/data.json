@@ -33,6 +33,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A3B745BC",
+   "md5": "01D9FC846D4D979435AD71D062A5C658",
+   "sha1": "59D578D2C1762627DA0D13E6B4C2B56A08B72F5B",
+   "region": "USA",
+   "file": "Casper (USA).sfc"
+  },
+  {
+   "crc32": "A7677E65",
+   "md5": "915D7368E777DA1F4356FE0D7C71AF39",
+   "sha1": "43CE76773F2BD1232AAE3268325B0DAEBCFB29C0",
+   "region": "Europe",
+   "file": "Casper (Europe).sfc"
+  },
+  {
+   "crc32": "696458B3",
+   "md5": "971368DB1974B14A25518A33E2BB5022",
+   "sha1": "848E5E0F4D622B81DD34E166BB98011C9BB2BA46",
+   "region": "Japan",
+   "file": "Casper (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "80B112CA",
+   "md5": "1B559446CE5CAF763BD10F133AD58D25",
+   "sha1": "B1E58E076F353CBD704AC0743F0A00A276570D89",
+   "region": "Europe",
+   "file": "Wario's Woods (Europe).sfc"
+  },
+  {
+   "crc32": "2D1004F1",
+   "md5": "F5C1BD28F88529473AB205B3F364DEF8",
+   "sha1": "1D814276114BD5CAFB6AB041305CE83E8093DC10",
+   "region": "USA",
+   "file": "Wario's Woods (USA).sfc"
+  }
+ ],
  "gf_score": 3.61,
  "metascore": null,
  "cover_urls": [

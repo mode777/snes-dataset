@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "573C8A65",
+   "md5": "0F39F63CF133FC52A5C33620E3333E96",
+   "sha1": "4265F1B266760623A15B00D85F46D3DE0F281457",
+   "region": "Japan",
+   "file": "NBA Pro Basketball '94 - Bulls vs Suns (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

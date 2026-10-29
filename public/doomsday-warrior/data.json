@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CEEB7C32",
+   "md5": "49C1FBB62CD882128FBB13C9FE11AC4C",
+   "sha1": "5B7294665583510468D257F4896E825F642AD95F",
+   "region": "USA",
+   "file": "Doomsday Warrior (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

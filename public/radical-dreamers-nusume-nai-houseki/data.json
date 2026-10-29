@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "660B8CC4",
+   "md5": "5D1C642C23D0BB113ACE249A586F0689",
+   "sha1": "A4FF257E0CA71A60A7D76EA49B0DBAB770268A5F",
+   "region": "Japan",
+   "file": "Radical Dreamers - Nusume Nai Houseki (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

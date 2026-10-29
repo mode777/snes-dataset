@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5F863463",
+   "md5": "2D5F6F69A8069735CF83B379BBE35CB7",
+   "sha1": "49CB2ECF265E1534A2912C14D41C3FC157FC0DB9",
+   "region": "Japan",
+   "file": "Magical Taruruuto-kun - Magic Adventure (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

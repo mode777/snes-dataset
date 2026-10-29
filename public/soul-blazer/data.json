@@ -31,6 +31,36 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "31B965DB",
+   "md5": "83CF41D53A1B94AEEA1A645037A24004",
+   "sha1": "F2832EB02547C39CAE3BDAAB5C2A53E4F8B31810",
+   "region": "USA",
+   "file": "Soul Blazer (USA).sfc"
+  },
+  {
+   "crc32": "54370191",
+   "md5": "646266B49957FDD51D19FA9496E6480B",
+   "sha1": "862B017E9EE68E5F19E464F7666ADABA4E1B9F99",
+   "region": "Europe",
+   "file": "Soul Blazer (Europe).sfc"
+  },
+  {
+   "crc32": "20157693",
+   "md5": "47711F0773AC31490EB52F1AD5AE2683",
+   "sha1": "7498FB48BC977A85A73610C3185AF3E5998C09B5",
+   "region": "France",
+   "file": "Soul Blazer (France).sfc"
+  },
+  {
+   "crc32": "FE28D2C1",
+   "md5": "5421E92FA9A070A2207D38832D07BD4F",
+   "sha1": "3278E5D375A0E206F711C89CD92A9B80DFBBD95E",
+   "region": "Germany",
+   "file": "Soul Blazer (Germany).sfc"
+  }
+ ],
  "gf_score": 3.94,
  "metascore": null,
  "cover_urls": [

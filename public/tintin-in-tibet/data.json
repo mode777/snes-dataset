@@ -31,6 +31,15 @@
  "languages": [
   "English, German, Spanish, French, Dutch, Swedish"
  ],
+ "roms": [
+  {
+   "crc32": "F1DCE2B7",
+   "md5": "5D6716D6793E9F9C456265D18CF763BC",
+   "sha1": "F93338ABC37FCF77E68C4C8C1CBAB9EFCA32B5B4",
+   "region": "Europe",
+   "file": "Tintin in Tibet (Europe) (En,Fr,De,Nl).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -18,6 +18,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5693CDB4",
+   "md5": "29570127F654652B9744F93D34462197",
+   "sha1": "B66AAA8EDC196851B83FEBED235ADC7A9200190D",
+   "region": "Japan",
+   "file": "Ultima VI - Itsuwari no Yogensha (Japan) (Beta).sfc"
+  },
+  {
+   "crc32": "7DD62A5E",
+   "md5": "BEE7EDF40DC22E9B5EC73D62AB176EFB",
+   "sha1": "52F027EAD9E35E5EB72DFF007CBF73BD3E005AFF",
+   "region": "Japan",
+   "file": "Ultima VI - Itsuwari no Yogensha (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

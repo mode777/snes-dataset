@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "634344A0",
+   "md5": "0E0A4D7EBC87433BBBC95929F3E0A6D2",
+   "sha1": "DBFBEF2CFDC44F692BCBA1E3E5E3C4D73D15BB02",
+   "region": "Japan",
+   "file": "Esparks - Ijikuu kara no Raihousha (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

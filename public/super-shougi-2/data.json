@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EF8A2138",
+   "md5": "3DDA7E5735F91F21FC5B4EA1B69E63C7",
+   "sha1": "2B36A6F456D7267F021BA129CAFDF054D815C979",
+   "region": "Japan",
+   "file": "Super Shougi 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

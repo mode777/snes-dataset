@@ -19,6 +19,15 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1B8A0625",
+   "md5": "D0B68D68D9EFC0558242F5476D1C5B81",
+   "sha1": "A4F7539054C359FE3F360B0E6B72E394439FE9DF",
+   "region": "USA",
+   "file": "Super Mario RPG - Legend of the Seven Stars (USA).sfc"
+  }
+ ],
  "gf_score": 4.46,
  "metascore": null,
  "cover_urls": [

@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FEB80589",
+   "md5": "540E82F13AD57A2C6FFC0E14E3F61098",
+   "sha1": "BA80E259616529F907425BCC553A1A0959F0D7F4",
+   "region": "Japan",
+   "file": "Mystic Ark (Japan).sfc"
+  }
+ ],
  "gf_score": 3.88,
  "metascore": null,
  "cover_urls": [

@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "244CF4DF",
+   "md5": "EB752374CAC33FB36827D6CC91BD838F",
+   "sha1": "E8510CA50D8E9AEBCA8843C6C4FB3B37D2C10227",
+   "region": "Japan",
+   "file": "Super Gussun Oyoyo 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

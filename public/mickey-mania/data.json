@@ -31,6 +31,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "75FDDF27",
+   "md5": "25079AE8CF72ED2138E6CA781A2210E9",
+   "sha1": "69A1F2A6541565F86ABBB568DBF04A8BB3AC90B0",
+   "region": "Europe",
+   "file": "Mickey Mania (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8005054D",
+   "md5": "1202D37F2F4860F70E97085B643AD7F5",
+   "sha1": "3A9A40F7E3985D658ABEA8C338235FE6889F1338",
+   "region": "Japan",
+   "file": "Burai - Hachigyoku no Yuushi Densetsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

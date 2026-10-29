@@ -36,6 +36,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "82B97464",
+   "md5": "80EBA5229AD4118906FBE1404FDE5AF8",
+   "sha1": "AD516A2BB9E7A8C9ECCCDFBB491BA3DCC92A0519",
+   "region": "USA",
+   "file": "Blues Brothers, The (USA).sfc"
+  },
+  {
+   "crc32": "362620D2",
+   "md5": "31E4B7AE3C269859D93357CD241C0BD0",
+   "sha1": "BD052490D6D57B92841FE4E97EDDAA159E660D78",
+   "region": "Japan",
+   "file": "Blues Brothers, The (Japan).sfc"
+  },
+  {
+   "crc32": "1351DA2A",
+   "md5": "ACB641AEECEA31942610C91E092BD63F",
+   "sha1": "E97B319729BB8FDF0883C349C009B76F01210E68",
+   "region": "Europe",
+   "file": "Blues Brothers, The (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "4A62057D",
+   "md5": "5818B4DDC461070DBD12207D95F341D5",
+   "sha1": "4CA07BC7319303952BC4B036EB3322DFF3212D29",
+   "region": "Europe",
+   "file": "Blues Brothers, The (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

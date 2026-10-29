@@ -32,6 +32,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "09ED12A5",
+   "md5": "38129CF359C7BC93A82358FA305B07AE",
+   "sha1": "5DCAEE58BA92E620055E1CEE7F1C84DA4E22A61A",
+   "region": "USA",
+   "file": "Super Double Dragon (USA).sfc"
+  },
+  {
+   "crc32": "1064E0E0",
+   "md5": "0AD40E866397A2C024B76E2B95EC8A78",
+   "sha1": "250B8CB96692A4FDBB88DFE5773F1A0CEA488126",
+   "region": "Europe",
+   "file": "Super Double Dragon (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "B3F6009B",
+   "md5": "A749634233FCBCF77CCB1DF28B985EA8",
+   "sha1": "2F7994C5B7466EF3EFCA5D20C69F4139E573B8C7",
+   "region": "Europe",
+   "file": "Super Double Dragon (Europe).sfc"
+  }
+ ],
  "gf_score": 3.52,
  "metascore": null,
  "cover_urls": [

@@ -21,6 +21,36 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "FDB80165",
+   "md5": "0BE6B99C33CFDCC4F0CA6172AFB7683D",
+   "sha1": "495686E039759B400B557D1EC3CF040336ADF343",
+   "region": "Europe",
+   "file": "Lufia (Europe).sfc"
+  },
+  {
+   "crc32": "8278693D",
+   "md5": "8607561B2D3175B949EBD899AA12052B",
+   "sha1": "858197F17AC8081BD7D43F4089A75785A2016C6C",
+   "region": "Germany",
+   "file": "Lufia (Germany).sfc"
+  },
+  {
+   "crc32": "380D91FE",
+   "md5": "E5BA6B230AA1E4986B7CD3906C63B170",
+   "sha1": "2CBB1A60656C6571ECB0B0CD8AE8E46609F37514",
+   "region": "Netherlands",
+   "file": "Lufia (Netherlands).sfc"
+  },
+  {
+   "crc32": "D93C0DD4",
+   "md5": "35505A978CF25E99C38806B634FF4BD0",
+   "sha1": "EAF67E123573CA50D7FB8828C59E4F7A1DF23FA2",
+   "region": "Spain",
+   "file": "Lufia (Spain).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

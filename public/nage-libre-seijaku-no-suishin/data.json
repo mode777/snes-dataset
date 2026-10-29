@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A98F24E1",
+   "md5": "CBBC7C92B5C2557CC610D58EFCC50CDE",
+   "sha1": "25A013E43989870F4F3E59FF4E4C34BDA7BC5C44",
+   "region": "Japan",
+   "file": "Nage Libre - Seijaku no Suishin (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

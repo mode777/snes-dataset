@@ -35,6 +35,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "02C52D37",
+   "md5": "83B92FBB05FC2418266365F891E8FB57",
+   "sha1": "560A2E7A288462E38AAC59488FB8CBB88E3C46AA",
+   "region": "Europe",
+   "file": "Spider-Man (Europe).sfc"
+  },
+  {
+   "crc32": "C99E174E",
+   "md5": "73199B27FE52CAA56B12E42122DF1FC8",
+   "sha1": "CBAF541F9A1B62E7151F0407A1A4C6266A5610F5",
+   "region": "USA",
+   "file": "Spider-Man (USA).sfc"
+  },
+  {
+   "crc32": "DC57FC0B",
+   "md5": "65C79622F1DAB31859A905CF4550A1C7",
+   "sha1": "9C20D719D79D9556AA3CB67B2040CF0505D8BF8D",
+   "region": "USA",
+   "file": "Spider-Man (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 2.86,
  "metascore": null,
  "cover_urls": [

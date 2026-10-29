@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "068CC21B",
+   "md5": "FBBFF1F9F8DA69851F3C1D87013EBDB8",
+   "sha1": "9193F29C34DFF2D7045120F9402DC21204CEDC78",
+   "region": "Japan",
+   "file": "Kishin Douji Zenki - Denei Raibu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

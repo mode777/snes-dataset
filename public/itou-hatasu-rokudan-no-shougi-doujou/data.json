@@ -24,6 +24,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BFFCE7C6",
+   "md5": "A410F691CE66CA1244CA676C86CFE448",
+   "sha1": "0C3F7F10748DE085DD73E43522F69EFA1F5CFF4F",
+   "region": "Japan",
+   "file": "Itou Hatasu Rokudan no Shougi Doujou (Japan).sfc"
+  },
+  {
+   "crc32": "7EE270DA",
+   "md5": "C628EE035B19846E6BA55E166FE8C2D8",
+   "sha1": "F316B459DADA4670A2E0B5CD360910979D34B5C6",
+   "region": "Japan",
+   "file": "Itou Hatasu Rokudan no Shougi Doujou (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

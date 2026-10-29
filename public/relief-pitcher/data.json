@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "CFED1EA8",
+   "md5": "ABE4FABF85388B195CAFCFE444603E46",
+   "sha1": "8E665CEF3007C77B94636448295C09D0209E768A",
+   "region": "USA",
+   "file": "Relief Pitcher (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "2F48FF14",
+   "md5": "714A7B313164FF476E4E5DD425A41230",
+   "sha1": "1036B526252BC91DB3F298FD68778EC635702CD0",
+   "region": "USA",
+   "file": "Relief Pitcher (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FE66FEF2",
+   "md5": "DF5744DA0EB4342F2E3302CA5DB81B01",
+   "sha1": "FA665BA625DB778BA102E1B8164BC86926BD3904",
+   "region": "Japan",
+   "file": "Zico Soccer (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

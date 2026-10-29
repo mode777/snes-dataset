@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "534AE12E",
+   "md5": "81E9351FB973347EDA644EC5A30B1A1E",
+   "sha1": "47B06FE78E7FB9B1C482C756585929420F06C6CD",
+   "region": "Japan",
+   "file": "F-1 Grand Prix - Part II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

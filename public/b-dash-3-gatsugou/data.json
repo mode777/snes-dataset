@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3494E10F",
+   "md5": "6A9F9024403AAA4DDC9E0F3B7D917231",
+   "sha1": "AA64E0479D246D7763A0820749F06C88F0F3B4DF",
+   "region": "Japan",
+   "file": "B Dash - 3 Gatsugou (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -22,6 +22,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C8382F39",
+   "md5": "E34B50CCFAA8416E5B8F2A810EA6E9B3",
+   "sha1": "8F4BA3BDFE097E24235EE7DB56E92EDE09CC0E07",
+   "region": "Europe",
+   "file": "Aguri Suzuki F-1 Super Driving (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

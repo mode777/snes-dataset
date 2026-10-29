@@ -33,6 +33,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "67CDACC5",
+   "md5": "E1FF1ED4AD5DBDBE86774920DFB5E9D4",
+   "sha1": "1F7707E606B7E9FA8FB3908BBDDFCB5DEA93D776",
+   "region": "USA",
+   "file": "Breath of Fire II (USA).sfc"
+  },
+  {
+   "crc32": "A4AB3B33",
+   "md5": "FE075D38DB46D0F9F5A575A021EFE86F",
+   "sha1": "D429DBCBFAE8C8D1749029841002A8DEC6F55890",
+   "region": "Europe",
+   "file": "Breath of Fire II (Europe).sfc"
+  },
+  {
+   "crc32": "F44859AF",
+   "md5": "8404DE3FFB504407B54F6603EE4058C8",
+   "sha1": "60F35DB144C838B4C6DF30661E6A8334A7E60AF0",
+   "region": "USA",
+   "file": "Breath of Fire II (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 4.06,
  "metascore": 81,
  "cover_urls": [

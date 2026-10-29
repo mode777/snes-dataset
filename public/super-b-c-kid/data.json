@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5615D5ED",
+   "md5": "3753C4389DE6554A00E12A08C4E0035C",
+   "sha1": "773D1D4C1D4F974E0AF25C754280F376EA00F510",
+   "region": "Europe",
+   "file": "Super B.C. Kid (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "AC096DE4",
+   "md5": "11CDB16BD1C9FE199E4B9E6C9A7CB801",
+   "sha1": "DA8215203827E5F9D8D4EAC57F7EB9C2F975404E",
+   "region": "Japan",
+   "file": "Wario no Mori - Futatabi (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

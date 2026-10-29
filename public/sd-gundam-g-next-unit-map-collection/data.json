@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "60B1B7E0",
+   "md5": "FE119FAF3160454E8979BC3C9CD4A401",
+   "sha1": "81A75B1A19907E831B3B80D2067108A61C4BAE40",
+   "region": "Japan",
+   "file": "SD Gundam G Next - Unit & Map Collection (Japan) (BSROM).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

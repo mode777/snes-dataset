@@ -29,6 +29,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "FDF2F478",
+   "md5": "8B50319E3EEA44705E4F1044C9856FDB",
+   "sha1": "100AFCA042722209352682D705E3AE73BBB91CA8",
+   "region": "Europe",
+   "file": "Looney Tunes Basketball (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "English, German, Spanish, French, Italian, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1664AE48",
+   "md5": "5A5F9F82B366700ECAAD6465966FDE3F",
+   "sha1": "AB1BC78DC622E746262F6CF7B4D248449FBC9509",
+   "region": "USA",
+   "file": "Adventures of Kid Kleets, The (USA) (En,Fr,Es).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

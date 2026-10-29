@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "757AD630",
+   "md5": "234D8F3B35188F193F7C0A596BFBA111",
+   "sha1": "4CDF73E7F528A8C6A9F47A6E728CF9A631CD3316",
+   "region": "Japan",
+   "file": "Super Rugby (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

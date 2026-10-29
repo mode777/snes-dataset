@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E5FAADD2",
+   "md5": "F8FAA664C096FCBC3AB853BBAA30EC7D",
+   "sha1": "28753EF9F0AF186DE192F851EDC835BDECFE4064",
+   "region": "USA",
+   "file": "Redline F-1 Racer (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

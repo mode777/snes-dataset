@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4998A9D6",
+   "md5": "864FEA76885E76577E56378B56F47012",
+   "sha1": "A29958DB07C3BF3F9731DA75844A0835F21B34E7",
+   "region": "Japan",
+   "file": "Super Okumanchouja Game (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

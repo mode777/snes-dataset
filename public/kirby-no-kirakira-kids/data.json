@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "035265BF",
+   "md5": "7BAB28C964F9306B161BBEF8871E17A7",
+   "sha1": "DC252753D4964516419CA981D59A8E704BA41842",
+   "region": "Japan",
+   "file": "Kirby no Kirakira Kids (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

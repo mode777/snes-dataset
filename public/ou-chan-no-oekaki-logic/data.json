@@ -20,6 +20,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9A5F2955",
+   "md5": "D193B7EE202B26C11EAA0ECBCE03BA38",
+   "sha1": "87D4AA8B1E049D1A81296B6B3B0382ED9EBFC007",
+   "region": "Japan",
+   "file": "Ou-chan no Oekaki Logic (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

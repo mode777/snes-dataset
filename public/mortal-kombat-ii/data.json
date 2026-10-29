@@ -39,6 +39,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1CC0C6EF",
+   "md5": "CEC1C21CDCE0579D18B78A5CAF517032",
+   "sha1": "5E078F59779DC4D26FEA5B5B38292F30E1E64961",
+   "region": "Europe",
+   "file": "Mortal Kombat II (Europe).sfc"
+  },
+  {
+   "crc32": "00DC2D51",
+   "md5": "EFB7C2FF3A042CEF9653388A12075E68",
+   "sha1": "1FAC35BF7EDC34FACD5CA8CAFE0239847305A504",
+   "region": "Europe",
+   "file": "Mortal Kombat II (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "1C3D3B72",
+   "md5": "9873C45BF77EB06262E9B8D8C4B841B4",
+   "sha1": "C312F03638CF09ADED2B662597D4D407C3904764",
+   "region": "USA",
+   "file": "Mortal Kombat II (USA).sfc"
+  },
+  {
+   "crc32": "70BB5513",
+   "md5": "A0B9BEBBC80958E36292ABD9B8FB758E",
+   "sha1": "F6AA5291759E982EA249C4B76F729CA2F4AB1CF4",
+   "region": "USA",
+   "file": "Mortal Kombat II (USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 3.86,
  "metascore": null,
  "cover_urls": [

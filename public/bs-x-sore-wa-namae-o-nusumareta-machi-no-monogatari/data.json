@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F51F07A0",
+   "md5": "FED4D8242CFBED61343D53D48432ACED",
+   "sha1": "604556B2E62860AF18DB5A77F2956EBC75450020",
+   "region": "Japan",
+   "file": "BS-X - Sore wa Namae o Nusumareta Machi no Monogatari (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

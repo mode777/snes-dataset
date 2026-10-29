@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "33304519",
+   "md5": "AC9955FA4C1AA8EBCC1D09511808C58B",
+   "sha1": "3E699DC7E064D6AC84B1981AA150FDF1672B5456",
+   "region": "Japan",
+   "file": "Dragon Quest VI - Maboroshi no Daichi (Japan).sfc"
+  }
+ ],
  "gf_score": 4.08,
  "metascore": 78,
  "cover_urls": [

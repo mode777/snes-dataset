@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0F02330F",
+   "md5": "304C99C423974F81178E9445CEC5F5ED",
+   "sha1": "64D3F337E06FA33EB012C98169426A92E4058F1F",
+   "region": "Japan",
+   "file": "Maten Densetsu - Senritsu no Ooparts (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

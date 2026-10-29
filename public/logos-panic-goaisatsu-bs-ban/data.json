@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C6F54C8D",
+   "md5": "004984AB9B18933D6EB8C5C42B66B45E",
+   "sha1": "A36CDB6CA4A01EEA4CD68568241CC82DB7BA5CBC",
+   "region": "Japan",
+   "file": "Logos Panic Goaisatsu BS Ban (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

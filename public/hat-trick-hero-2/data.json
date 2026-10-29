@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "19E67DFF",
+   "md5": "875EBD0B9ECC6FFB7A071D619586FB37",
+   "sha1": "826806420C11D0B5ADCCAC50ADFF89057157786C",
+   "region": "Japan",
+   "file": "Hat Trick Hero 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

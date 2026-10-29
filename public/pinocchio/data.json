@@ -33,6 +33,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2832C824",
+   "md5": "65E80E5269CC964531289C7577AD92D5",
+   "sha1": "0F7D84215E21F8778199BD8FE3B8A55A056E029F",
+   "region": "Europe",
+   "file": "Pinocchio (Europe).sfc"
+  },
+  {
+   "crc32": "D9F5A47A",
+   "md5": "B33958CF8CF078E804ECE42871DC5907",
+   "sha1": "F643355B3E05B25D54B0E6F73D07A2D14C02831D",
+   "region": "Japan",
+   "file": "Pinocchio (Japan).sfc"
+  },
+  {
+   "crc32": "00FAD8FD",
+   "md5": "085AEF23DF7C45E5EAB8209345ECE4CA",
+   "sha1": "31382104E7F6A80EA6BAB82314BA74B518CE4B3C",
+   "region": "USA",
+   "file": "Pinocchio (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

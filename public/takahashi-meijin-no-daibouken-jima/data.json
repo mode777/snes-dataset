@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "37C0AE76",
+   "md5": "5B2A83D6727C4E19192AF2878654D301",
+   "sha1": "090742859B1F8CA6077BEE80855B53FFDA4C0FA1",
+   "region": "Japan",
+   "file": "Takahashi Meijin no Daibouken-jima (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

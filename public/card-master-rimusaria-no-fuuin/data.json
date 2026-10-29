@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9E772B8F",
+   "md5": "E6B6E30C8D6793B154C0BF4FCA0E4AAE",
+   "sha1": "02E73E9D7F39FD3E2217E0D693E8A0D40B650D65",
+   "region": "Japan",
+   "file": "Card Master - Rimusaria no Fuuin (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

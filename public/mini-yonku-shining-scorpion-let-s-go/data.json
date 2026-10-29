@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B17E95D4",
+   "md5": "EF9C8A95C14A70C75199BCF0C8761563",
+   "sha1": "B1F27592546E5D6029843CBE8CD6F09FC3752106",
+   "region": "Japan",
+   "file": "Mini Yonku Shining Scorpion - Let's & Go!! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

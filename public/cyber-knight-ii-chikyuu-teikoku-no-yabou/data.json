@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "ED8BCBF4",
+   "md5": "4244BB90AA722836B746BE0574351874",
+   "sha1": "2FAFF9F7082F458D1C9F4F2F1514520F872FF1A1",
+   "region": "Japan",
+   "file": "Cyber Knight II - Chikyuu Teikoku no Yabou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

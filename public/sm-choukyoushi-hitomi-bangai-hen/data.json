@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E7A659E0",
+   "md5": "6F7CABA4D1925EA45F1D48A2F2CE28FD",
+   "sha1": "F457B876BF1DD0B3BA323AE990B6E56567D7E29B",
+   "region": "Japan",
+   "file": "SM Choukyoushi Hitomi - Bangai Hen (Japan) (Unl) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

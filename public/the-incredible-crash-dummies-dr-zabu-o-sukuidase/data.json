@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C3BC16D5",
+   "md5": "ECB903B1CD2358AE4C6886EBF371C595",
+   "sha1": "8EB6827C4CA660233F52567559B72F611FE39FE2",
+   "region": "Japan",
+   "file": "Incredible Crash Dummies, The - Dr. Zabu o Sukuidase (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

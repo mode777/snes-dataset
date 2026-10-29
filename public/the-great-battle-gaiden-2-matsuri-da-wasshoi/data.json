@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "83806E38",
+   "md5": "8C19E5107985ED27FAC3AD8BD2EB1D70",
+   "sha1": "76941A710D54943E30212B90C8A14DC1995FE3D2",
+   "region": "Japan",
+   "file": "Great Battle Gaiden 2, The - Matsuri da Wasshoi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

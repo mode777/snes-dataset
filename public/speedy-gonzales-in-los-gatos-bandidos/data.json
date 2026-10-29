@@ -24,6 +24,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "E44F42BA",
+   "md5": "D3EA405167A0ECF5206BF7360569F8D3",
+   "sha1": "F9351F0609F2F0AFA3F888DB7619E44694F3A281",
+   "region": "USA",
+   "file": "Speedy Gonzales in Los Gatos Bandidos (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "EFE9E087",
+   "md5": "5F5DD66696417DF957C549BF2BFD69C6",
+   "sha1": "2B8AD57DDE13D58B5CECEC1F0309A4BB83908B5E",
+   "region": "Europe",
+   "file": "Speedy Gonzales in Los Gatos Bandidos (Europe) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -35,6 +35,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "13CD7FC1",
+   "md5": "20BF4F66A39977BBA99A570F1A51D3D4",
+   "sha1": "6DE92E2EACE487548B5D7267FD8199A0579407C0",
+   "region": "Europe",
+   "file": "Lethal Weapon (Europe).sfc"
+  },
+  {
+   "crc32": "A14C3DBC",
+   "md5": "29A70ECF317EDE4EC1C19365A76E8201",
+   "sha1": "C02E8042A1A637C84D762152F8033E8ADC7F0F2E",
+   "region": "USA",
+   "file": "Lethal Weapon (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

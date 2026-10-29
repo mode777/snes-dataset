@@ -31,6 +31,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "A7A4BE9B",
+   "md5": "8D3AB6AFCACB2E6629FEB333F5588738",
+   "sha1": "2C3A40B29D67810249A4E675544524A61C8E8DD5",
+   "region": "Europe",
+   "file": "ESPN Baseball Tonight (Europe).sfc"
+  },
+  {
+   "crc32": "D0117D67",
+   "md5": "0CAA35F34C977ED7CC47C7345D740320",
+   "sha1": "A327273816B184A0FFEF72BD81E984CD5C0B5C04",
+   "region": "USA",
+   "file": "ESPN Baseball Tonight (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "8606D69B",
+   "md5": "2B4A58D50238A768FAB4AD0AB32DBEB7",
+   "sha1": "E954D294C6B5AC5BE30099C13E75CC290909964A",
+   "region": "USA",
+   "file": "ESPN Baseball Tonight (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

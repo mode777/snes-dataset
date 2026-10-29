@@ -27,6 +27,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E0AF8150",
+   "md5": "E60D13827B094F7399F24902D46B1D90",
+   "sha1": "B59127E1EE0838BFEB7C1A21F08EF6F2F593C335",
+   "region": "Japan",
+   "file": "Winning Post (Japan).sfc"
+  },
+  {
+   "crc32": "5B30EDD9",
+   "md5": "A3865D95AE478B4A6077A58431F9C7D0",
+   "sha1": "1F32446666090CA2D1B63CA06C39848CA2F5E324",
+   "region": "Japan",
+   "file": "Winning Post (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

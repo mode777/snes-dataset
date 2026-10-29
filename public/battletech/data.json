@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "FA29E335",
+   "md5": "0EC4573AB28D28DBC75C21F3197FB9F2",
+   "sha1": "29DCB93667033AA611A52DD8906A9BCE7BD09896",
+   "region": "Japan",
+   "file": "BattleTech (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

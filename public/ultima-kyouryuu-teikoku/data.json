@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DDDB20AD",
+   "md5": "AE8A5CB920BAC544872C22C4D6D5EC97",
+   "sha1": "C1702689D6946983BD8FEC54231C514DD44C4CF7",
+   "region": "Japan",
+   "file": "Ultima - Kyouryuu Teikoku (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

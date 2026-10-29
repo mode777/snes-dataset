@@ -34,6 +34,50 @@
  "languages": [
   "English, German, Spanish, French, Italian, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "503D467A",
+   "md5": "BB4CA7B4DCA71C3B8DCAE129F6072313",
+   "sha1": "29BCC2DF05198F27EE24534E7AA1840B5B0EB914",
+   "region": "Germany",
+   "file": "MechWarrior (Germany).sfc"
+  },
+  {
+   "crc32": "D713A74F",
+   "md5": "AE1525BF00EFECC378C86048D2FDBA4F",
+   "sha1": "48D6F2E0C8F673D79C2394BF9D7FC7B1218B0E6F",
+   "region": "Spain",
+   "file": "MechWarrior (Spain).sfc"
+  },
+  {
+   "crc32": "DE2552AD",
+   "md5": "C320825E5EA7E4F1641071AD6524C727",
+   "sha1": "2B146B18E7A323B92A3A8CE33BD34EE738BC2154",
+   "region": "France",
+   "file": "MechWarrior (France).sfc"
+  },
+  {
+   "crc32": "FBA97820",
+   "md5": "2C3B742C31ECFB1D7E316ED344D808C7",
+   "sha1": "6687F893AC79E7CE497695BBD833FBA5E4CD6F4D",
+   "region": "Europe",
+   "file": "MechWarrior (Europe).sfc"
+  },
+  {
+   "crc32": "40B7A858",
+   "md5": "71516A3B67963CF91055A6C78566A1BA",
+   "sha1": "DAC468B0D0885CFDD5B5FC02B0D92B53A638921F",
+   "region": "USA",
+   "file": "MechWarrior (USA).sfc"
+  },
+  {
+   "crc32": "9136DCE8",
+   "md5": "6ABE3F39C2F6F58986DD8665C1147AA1",
+   "sha1": "D85E61B4FA00172A7BD2E7F1FD06F939752B6238",
+   "region": "Italy",
+   "file": "MechWarrior (Italy).sfc"
+  }
+ ],
  "gf_score": 3.01,
  "metascore": null,
  "cover_urls": [

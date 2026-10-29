@@ -37,6 +37,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A096A6E5",
+   "md5": "681343F71B5FCE4F7E960F3091E56026",
+   "sha1": "14886D0FA66AF3BD919C354B2AD6FBB8892AD0AE",
+   "region": "Europe",
+   "file": "Super Bomberman 3 (Europe).sfc"
+  }
+ ],
  "gf_score": 3.73,
  "metascore": null,
  "cover_urls": [

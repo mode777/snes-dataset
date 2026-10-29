@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D1E14D4F",
+   "md5": "92C04C8DB939A53BDE5808E66E54ED10",
+   "sha1": "8FA122EE163D9060580A7B3553F398B9F8683AA9",
+   "region": "Japan",
+   "file": "Monster Maker III - Hikari no Majutsushi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

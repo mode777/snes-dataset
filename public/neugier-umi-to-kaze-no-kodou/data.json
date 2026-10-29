@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7F0DDCCF",
+   "md5": "D7289C3133E50CB6A3738D9FBC69769E",
+   "sha1": "F065C1079A1C795C7C5DBB4F6A6D3B792A811A67",
+   "region": "Japan",
+   "file": "Neugier - Umi to Kaze no Kodou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

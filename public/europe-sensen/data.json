@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "AE066C31",
+   "md5": "705E98147E6BE59263FDB5DCC517286B",
+   "sha1": "344C3CAAFA3772363C387149463AB0EE4D53CD1C",
+   "region": "Japan",
+   "file": "Europe Sensen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

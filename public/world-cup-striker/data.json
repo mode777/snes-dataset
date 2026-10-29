@@ -21,6 +21,29 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "CAB690A1",
+   "md5": "4F18A5F363066FEAA1F7D83DF726FC1F",
+   "sha1": "8304E45D14C752E0B31BAA416FD9B88187DDA144",
+   "region": "Japan",
+   "file": "World Cup Striker (Japan).sfc"
+  },
+  {
+   "crc32": "6928D52A",
+   "md5": "9476C8969035157DE84DB6FD5CD8608D",
+   "sha1": "12EDBA034AB414B17502499C333E891A9F72D0E8",
+   "region": "Europe",
+   "file": "World Cup Striker (Europe) (En,Fr,De) (Beta).sfc"
+  },
+  {
+   "crc32": "6D16F5E7",
+   "md5": "AE748774DCB36A05609310318E313DCC",
+   "sha1": "3E199976050B0E6F53B8529409671354948D450F",
+   "region": "Europe",
+   "file": "World Cup Striker (Europe) (En,Fr,De).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

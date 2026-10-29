@@ -32,6 +32,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "09C3C0EF",
+   "md5": "F888DE27AF3B9240BEF6CC61CC58AD5C",
+   "sha1": "802894D5D271D5D29700284FC0E03748BFC3861E",
+   "region": "USA",
+   "file": "Emmitt Smith Football (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

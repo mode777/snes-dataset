@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0866A769",
+   "md5": "97169504F80C4BBDD89EE7A40C6F3D54",
+   "sha1": "AAA8EE733CD5E60FFAB85CE0948C561B11D24173",
+   "region": "Japan",
+   "file": "Sky Mission (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

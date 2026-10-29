@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4AA7F384",
+   "md5": "DCE9998F26DE33FA4FE5586D966A4478",
+   "sha1": "9AC9496AAC5F5C2BAF277A918598B20260AA99B2",
+   "region": "Japan",
+   "file": "Granhistoria - Genshi Sekaiki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

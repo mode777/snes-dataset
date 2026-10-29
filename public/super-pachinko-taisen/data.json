@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "ED959CC9",
+   "md5": "67BFA145CE08ECDA13BF34296C925B2C",
+   "sha1": "68CA21F2E49916CE72EC58DDEB9CB89B63608E27",
+   "region": "Japan",
+   "file": "Super Pachinko Taisen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

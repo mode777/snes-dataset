@@ -25,6 +25,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CB6D3883",
+   "md5": "B690FF0D506FC20FAF670CD42C3DC01F",
+   "sha1": "BFBCD8432437F8FFF6BE15572CD2503FEF792C37",
+   "region": "USA",
+   "file": "Tom & Jerry (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "29E1EFBF",
+   "md5": "812ECC989F32DE688E57F94FD06E8F4C",
+   "sha1": "8814268822A211F46A5DB15A78CC9353A8DE5068",
+   "region": "Japan",
+   "file": "SM Choukyoushi Hitomi Vol. 2 - Trial Version (Japan) (Unl) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

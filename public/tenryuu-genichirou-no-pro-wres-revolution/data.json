@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D5FB8C83",
+   "md5": "A2029C66518DB9E91BAF303E94287167",
+   "sha1": "5260F47AB74DD1DE5EB222C5A4687AD52333F968",
+   "region": "Japan",
+   "file": "Tenryuu Genichirou no Pro Wres Revolution (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

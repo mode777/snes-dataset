@@ -29,6 +29,29 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5E21F557",
+   "md5": "CA6696E04C4506CDCAD3334B0628A391",
+   "sha1": "E5EB55B49D0697C5E7D0DC84D451C9BFA6FF9950",
+   "region": "Japan",
+   "file": "Shanghai - Banri no Choujou (Japan).sfc"
+  },
+  {
+   "crc32": "BD681869",
+   "md5": "2172E624FBB095C53E130221740C7B37",
+   "sha1": "540796404FFA4A7C0FBCDC0FCF4B4CE0027096C1",
+   "region": "Japan",
+   "file": "Shanghai - Banri no Choujou (Japan) (BS).sfc"
+  },
+  {
+   "crc32": "5956E946",
+   "md5": "436B932CF61082E9BBD7DB0C9614AB00",
+   "sha1": "84B6BAA45E93128F89145C263F82E3286B984EB6",
+   "region": "Japan",
+   "file": "Shanghai - Banri no Choujou (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

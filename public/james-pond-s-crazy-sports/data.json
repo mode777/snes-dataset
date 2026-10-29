@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "66F00725",
+   "md5": "6D67DAB3B57CB58AC2A8ED7271083E59",
+   "sha1": "CB89E6AA9A83A2324049E1342DA7C5B0D2A89B9D",
+   "region": "Europe",
+   "file": "James Pond's Crazy Sports (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A427B7E6",
+   "md5": "0CB432DD9D5C1AFA5048334B110FDDC0",
+   "sha1": "B0B03831D9104E3C5DF551D50EBC275A1692149E",
+   "region": "Japan",
+   "file": "Fire Emblem - Monshou no Nazo (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "25D214F4",
+   "md5": "2D674A5B82F7691CDB27702031D0F960",
+   "sha1": "3EE8CBE6638DA64F1D91DF9B81B1478498A5999F",
+   "region": "Japan",
+   "file": "Fire Emblem - Monshou no Nazo (Japan).sfc"
+  }
+ ],
  "gf_score": 3.86,
  "metascore": null,
  "cover_urls": [

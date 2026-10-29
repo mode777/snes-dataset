@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "845790EF",
+   "md5": "A78EC64D1A77628599585F4EA48866E6",
+   "sha1": "986EBA16B04E47DE3E2D4E6DF481AE280DBFE821",
+   "region": "Japan",
+   "file": "Ultra League - Moero! Soccer Daikessen!! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

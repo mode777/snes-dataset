@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "571AEF10",
+   "md5": "B41B0711494E0FE2FE69657BB5B20756",
+   "sha1": "C1DE02C52DBED3AD8BF081C21CC4B80FE1A79B2E",
+   "region": "Japan",
+   "file": "Sword World SFC 2 - Inishie no Kyojin Densetsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

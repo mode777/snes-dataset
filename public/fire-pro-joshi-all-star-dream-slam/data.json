@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EC8E8A05",
+   "md5": "F4C2D8C2DF8FDDD669F3753F37264F42",
+   "sha1": "542A7D68A2EE5CEC7FCFC922EAF327A6CADB50EA",
+   "region": "Japan",
+   "file": "Fire Pro Joshi - All Star Dream Slam (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

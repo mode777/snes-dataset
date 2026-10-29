@@ -41,6 +41,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "378613B0",
+   "md5": "0F10EC520FBDBB009F97333B59FF8D49",
+   "sha1": "4D20445C4C366EDF98C62DF944E60C52F5C88C5D",
+   "region": "Europe",
+   "file": "Alien 3 (Europe).sfc"
+  },
+  {
+   "crc32": "8A21B63F",
+   "md5": "ED460CFDB52936CC0C850FFC71A89A8A",
+   "sha1": "C719DA33015B96C78A5233351BAE7B9DD466C4EB",
+   "region": "Japan",
+   "file": "Alien 3 (Japan).sfc"
+  },
+  {
+   "crc32": "98E2AC15",
+   "md5": "09120BA8C0052997481117683B4E70DB",
+   "sha1": "7C29A915C28C534C8A67A940E86D8346958F4FA1",
+   "region": "USA",
+   "file": "Alien 3 (USA).sfc"
+  },
+  {
+   "crc32": "77713C95",
+   "md5": "15B31E37AB766C440D6BC407FB4BA3E4",
+   "sha1": "61FADA9C94A7A834EDF0567F12A90D336611A9C7",
+   "region": "USA",
+   "file": "Alien 3 (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.63,
  "metascore": null,
  "cover_urls": [

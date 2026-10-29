@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D343B398",
+   "md5": "3908A11B8A82BC2E99766A1ED9CA17E4",
+   "sha1": "8672E208C3716B8FAE3FD612BC80679A5459B616",
+   "region": "Japan",
+   "file": "Doraemon 2 - Nobita no Toys Land Daibouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

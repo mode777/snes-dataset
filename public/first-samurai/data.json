@@ -38,6 +38,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4F0A1E2A",
+   "md5": "8A72B499041F58EE065D314F445A67A3",
+   "sha1": "02AE2E06E34AF12BD9B1F000BB03AF79B1E38269",
+   "region": "USA",
+   "file": "First Samurai (USA).sfc"
+  },
+  {
+   "crc32": "B249401B",
+   "md5": "78D8898B37390D3A29A44D2C71458FB1",
+   "sha1": "E59C07F46B0A2A562B929EBD6DA715E984CC9FF1",
+   "region": "Japan",
+   "file": "First Samurai (Japan).sfc"
+  },
+  {
+   "crc32": "5685773A",
+   "md5": "4A1BB571C917B1A410FEF58B5614547D",
+   "sha1": "E6CA5B727D83C31A5AAB8EF31AF272DCFD4BBBB8",
+   "region": "Europe",
+   "file": "First Samurai (Europe).sfc"
+  },
+  {
+   "crc32": "9B855ED0",
+   "md5": "E5400FD97A513B5A42F815A1715750D4",
+   "sha1": "93F142FB27F778576A8E0CCC06E8FEF60EAF637B",
+   "region": "Europe",
+   "file": "First Samurai (Europe) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

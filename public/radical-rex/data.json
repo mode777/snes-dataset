@@ -34,6 +34,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "9B5D585D",
+   "md5": "8BA7098D6AAAEAC93923B3DD363B17A8",
+   "sha1": "D8457AC20B7CB07CDFBF1048F2B779ACFFFAEE0C",
+   "region": "USA",
+   "file": "Radical Rex (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "5065B197",
+   "md5": "B10F2D8F4D46CB00677C944674C6F48E",
+   "sha1": "94303E3BA9C759545662AC1B0EE265151012DD64",
+   "region": "Europe",
+   "file": "Radical Rex (Europe).sfc"
+  },
+  {
+   "crc32": "E2B8DA18",
+   "md5": "D3664D3F30BE16B2586B74108F8F3914",
+   "sha1": "2E3336721770668DDBB2687CC9DA5C719FE38823",
+   "region": "USA",
+   "file": "Radical Rex (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

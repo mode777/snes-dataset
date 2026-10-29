@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9A8178BF",
+   "md5": "044D6D9860E635D55BBB6192B5CBB121",
+   "sha1": "96C4FE523A339E8E81E36CAE6630C068982A5108",
+   "region": "Europe",
+   "file": "Yoshi's Safari (Europe).sfc"
+  },
+  {
+   "crc32": "59490CE8",
+   "md5": "70DB2519602D9D6E6DC6FA0069ED54DA",
+   "sha1": "CAAB75BEE99ABBCE7B812410491A9E6E0EBAD9BE",
+   "region": "USA",
+   "file": "Yoshi's Safari (USA).sfc"
+  }
+ ],
  "gf_score": 3.28,
  "metascore": null,
  "cover_urls": [

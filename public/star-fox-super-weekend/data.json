@@ -23,6 +23,15 @@
  "languages": [
   "English, German"
  ],
+ "roms": [
+  {
+   "crc32": "CD1F04B8",
+   "md5": "700F0A4B0D161669EA4A7E7385C6C16F",
+   "sha1": "2BA5F446DCB56D1164E28B337AE7B4833278B6D9",
+   "region": "USA",
+   "file": "Star Fox - Super Weekend (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

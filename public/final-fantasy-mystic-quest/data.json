@@ -30,6 +30,22 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6B19A2C6",
+   "md5": "DA08F0559FADE06F37D5FDF1B6A6D92E",
+   "sha1": "787C535AACA7B57F6B85FC02CEEF106F7FE5EA59",
+   "region": "USA",
+   "file": "Final Fantasy - Mystic Quest (USA).sfc"
+  },
+  {
+   "crc32": "2C52C792",
+   "md5": "F7FAEAE5A847C098D677070920769CA2",
+   "sha1": "6BE74B73B736BC6027C0E92619874DA7C498BED0",
+   "region": "USA",
+   "file": "Final Fantasy - Mystic Quest (USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 3.38,
  "metascore": null,
  "cover_urls": [

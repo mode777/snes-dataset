@@ -34,6 +34,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FB770320",
+   "md5": "555B87D479701E22A3F88E4969B5C877",
+   "sha1": "07D155903F8D7CFA0B66F5E379163282987A635F",
+   "region": "Europe",
+   "file": "Jungle Strike (Europe).sfc"
+  },
+  {
+   "crc32": "335487E5",
+   "md5": "FF1044AD900A70DC2FD91ABDD67CE1C6",
+   "sha1": "8A37F3C440623306D7B60A484A9F83BD0DAACE26",
+   "region": "USA",
+   "file": "Jungle Strike (USA).sfc"
+  }
+ ],
  "gf_score": 3.36,
  "metascore": null,
  "cover_urls": [

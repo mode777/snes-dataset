@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BEE62812",
+   "md5": "52C34E40808950A2C985C1C3962C30D9",
+   "sha1": "91413A589922350C761C2B46ABC1237E1B43ECE4",
+   "region": "Japan",
+   "file": "Galaxy Robo (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

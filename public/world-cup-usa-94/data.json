@@ -38,6 +38,29 @@
  "languages": [
   "English, German, Spanish, French, Italian, Dutch, Portuguese, Swedish"
  ],
+ "roms": [
+  {
+   "crc32": "5EB18063",
+   "md5": "DEA7E63AE1BC6F016FC636555729DB28",
+   "sha1": "AC748A67F63450732503A24148A1478E2F4EBE2A",
+   "region": "Europe",
+   "file": "World Cup USA 94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).sfc"
+  },
+  {
+   "crc32": "24F92540",
+   "md5": "D6C6CD6DBC0F0034D2CB7B117CEBCAC7",
+   "sha1": "1882B7BE1760F5CB8F2250B62D1FC3816BF36CBB",
+   "region": "Japan",
+   "file": "World Cup USA 94 (Japan) (En,Fr,De,Es,It,Nl,Pt,Sv).sfc"
+  },
+  {
+   "crc32": "FB1C9082",
+   "md5": "868CA119EA2DE2A15E8ECECE66E23915",
+   "sha1": "AEFC74B282101896737245513E7C0A718F122F54",
+   "region": "USA",
+   "file": "World Cup USA 94 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

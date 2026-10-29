@@ -37,6 +37,50 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "8F42CAE7",
+   "md5": "6EE56E3FDFA9543EF7755A08897767EC",
+   "sha1": "62ACC93FA1E3009B3A2E92D11AAF612848C1E7FF",
+   "region": "USA",
+   "file": "NBA Jam (USA) (Rev 1).sfc"
+  },
+  {
+   "crc32": "43F1C013",
+   "md5": "808B6D01CA9C7E1938541F55EB71F73C",
+   "sha1": "1405EFA8183FF65B645F8453DCB40B6CAD5DDC07",
+   "region": "USA",
+   "file": "NBA Jam (USA).sfc"
+  },
+  {
+   "crc32": "118B162E",
+   "md5": "D9D67A64841F05FCD4F567415F1C7E25",
+   "sha1": "8C5BE1E760A6EB91E29312AD71D25D4BB093CFF5",
+   "region": "Japan",
+   "file": "NBA Jam (Japan).sfc"
+  },
+  {
+   "crc32": "2B8E81C6",
+   "md5": "5A7BB097ED50ED69F852D2B4A148D450",
+   "sha1": "B4EADB624EA501F472E963DBD486DE29CA6B9245",
+   "region": "Europe",
+   "file": "NBA Jam (Europe).sfc"
+  },
+  {
+   "crc32": "FA9A577A",
+   "md5": "81DCFBBAA66F8BED4C0AB0E2B6D3E053",
+   "sha1": "CCFD2A5C4195A4080F60FCFA4FC8A1F28511C902",
+   "region": "Europe",
+   "file": "NBA Jam (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "0318705B",
+   "md5": "16A0200371580DF2204884B35CE1F30D",
+   "sha1": "E8DC45562FEBF5F644BA4FB4D8D3FCFFFFBCE38A",
+   "region": "USA",
+   "file": "NBA Jam (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.81,
  "metascore": null,
  "cover_urls": [

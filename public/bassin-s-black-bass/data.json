@@ -21,6 +21,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7DC5B7B3",
+   "md5": "043CF610D2CF595329499A0FBB5CB459",
+   "sha1": "A4D107CA8A6CE9022BC99B0212BDA040D57AE3BB",
+   "region": "USA",
+   "file": "Bassin's Black Bass (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5621000D",
+   "md5": "E4FBAC9E377B5B08E7B88084766B1C03",
+   "sha1": "8D8387305B6D65D4E1FAB77BCD197DD05891E664",
+   "region": "Japan",
+   "file": "Super Gomoku Narabe - Renju (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -21,6 +21,22 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "00FF0C74",
+   "md5": "52824E72C80A8309797E5A8EA4E9536F",
+   "sha1": "872727944A3D79EBDF21DA4BE945A8AE619E7B5A",
+   "region": "USA",
+   "file": "NHL '94 (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "42212A77",
+   "md5": "A93FFED8EA7198A8CD23D698933E2CD9",
+   "sha1": "10DCD21BE9C5542E82B0B94473BF5FF569B36CF5",
+   "region": "USA",
+   "file": "NHL '94 (USA).sfc"
+  }
+ ],
  "gf_score": 3.74,
  "metascore": null,
  "cover_urls": [

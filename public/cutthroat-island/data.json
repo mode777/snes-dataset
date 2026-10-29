@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "B5799F9C",
+   "md5": "0F9F6529750ACCD0AA3705AF863A4EA7",
+   "sha1": "D88BED88C8979BB0FFCD73F02CEBB92B7625598B",
+   "region": "Europe",
+   "file": "Cutthroat Island (Europe).sfc"
+  },
+  {
+   "crc32": "19EA457B",
+   "md5": "669F9147AB96A16F07E93CA9F18EF779",
+   "sha1": "40965E6C9D6AEC698B7A0D3106241FEF7F2E6EE8",
+   "region": "USA",
+   "file": "Cutthroat Island (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

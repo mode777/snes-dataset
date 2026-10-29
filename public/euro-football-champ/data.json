@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2C6EB470",
+   "md5": "57B9FCA31CFD1D27061F7890DA3B7EE6",
+   "sha1": "6D31E1CC08123B788526EA51937758C641AC8E57",
+   "region": "Europe",
+   "file": "Euro Football Champ (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

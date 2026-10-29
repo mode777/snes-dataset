@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "543F3327",
+   "md5": "CD46A61F34F818F23BB23CDC7C7A7E99",
+   "sha1": "0920A7C9A4CF4EC6D80684F35DE275F70DE6B805",
+   "region": "USA",
+   "file": "Inindo - Way of the Ninja (USA).sfc"
+  }
+ ],
  "gf_score": 3.38,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "27376C3E",
+   "md5": "4DA97FACD625F5A67541158F6BB75AA9",
+   "sha1": "52C22F53B250BB1A670CA0F165210A6D73BD7E66",
+   "region": "Japan",
+   "file": "BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

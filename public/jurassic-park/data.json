@@ -41,6 +41,71 @@
  "languages": [
   "English, German, Spanish, French, Italian, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8C3F510D",
+   "md5": "D4F063F065BD06935DC3F75732DF9450",
+   "sha1": "5BA69A86A6A5A996212937E27C031B53456F090D",
+   "region": "Germany",
+   "file": "Jurassic Park (Germany).sfc"
+  },
+  {
+   "crc32": "3EE3E840",
+   "md5": "F859C4F7C9D2BF507287F7208D44DF7F",
+   "sha1": "E205BF1CAD258FBE119E5305DE06778D84548ABF",
+   "region": "Italy",
+   "file": "Jurassic Park (Italy).sfc"
+  },
+  {
+   "crc32": "8BFDE0B7",
+   "md5": "FF42B93F32C7921A88EF46FDF79A8445",
+   "sha1": "4D0E15CA36C11F3B3257424F48A1D3BE39972835",
+   "region": "USA",
+   "file": "Jurassic Park (USA) (Rev 1).sfc"
+  },
+  {
+   "crc32": "77540CB9",
+   "md5": "BB9C2F667CED16A2E605B385C041C744",
+   "sha1": "DCF24B8BCBDA766FFAFDEBFD39AAD073C18176F3",
+   "region": "USA",
+   "file": "Jurassic Park (USA).sfc"
+  },
+  {
+   "crc32": "3DEE6FD9",
+   "md5": "961167DA14C524D1F5D0458745028017",
+   "sha1": "0748801306572E7EBCDD8A9176C633DC98EC2945",
+   "region": "Spain",
+   "file": "Jurassic Park (Spain).sfc"
+  },
+  {
+   "crc32": "559C7CF5",
+   "md5": "46AD51FA248A84A8879BA67389BC3878",
+   "sha1": "D2E247038570164F1271BBBD11929057C2B2BEA4",
+   "region": "Japan",
+   "file": "Jurassic Park (Japan).sfc"
+  },
+  {
+   "crc32": "61011074",
+   "md5": "C0C7E365D54CA41CF619908449ED069C",
+   "sha1": "A02A935C4AD7164AE146623159A4EFE746B28952",
+   "region": "France",
+   "file": "Jurassic Park (France).sfc"
+  },
+  {
+   "crc32": "B2B1804B",
+   "md5": "9CC5EA438C6D30D99E16EA5FF5421C8D",
+   "sha1": "B6C52672796653CBC32483A53876E98B71C25056",
+   "region": "Europe",
+   "file": "Jurassic Park (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "7CCB8762",
+   "md5": "FA583B9D1A2DCC270A8FC91259B89C96",
+   "sha1": "25ECFBCDE78169F517E2A15BDB7A6DAA54F414D3",
+   "region": "Europe",
+   "file": "Jurassic Park (Europe).sfc"
+  }
+ ],
  "gf_score": 3.16,
  "metascore": null,
  "cover_urls": [

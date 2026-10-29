@@ -23,6 +23,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "68B09B12",
+   "md5": "D1E78775D72E96FB3404566D2871A795",
+   "sha1": "8EA9CD119BB2B23FF1DB2B64A06DB31BAE5ECA09",
+   "region": "Japan",
+   "file": "King of Dragons, The (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

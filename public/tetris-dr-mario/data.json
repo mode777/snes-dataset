@@ -31,6 +31,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "523E4153",
+   "md5": "BCC6F990C2BEFBA0F8AF1FE5DB95B3EC",
+   "sha1": "97ACF69826F035E8530568763F55432C40898CF3",
+   "region": "Europe",
+   "file": "Tetris & Dr. Mario (Europe).sfc"
+  },
+  {
+   "crc32": "6C852EF3",
+   "md5": "73CF4163C3C2B3F8A38775A5D132C448",
+   "sha1": "940E7F557E1DBADFDB38190975A2C4E1F712CB3F",
+   "region": "USA",
+   "file": "Tetris & Dr. Mario (USA).sfc"
+  }
+ ],
  "gf_score": 4.0,
  "metascore": null,
  "cover_urls": [

@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6299FB1C",
+   "md5": "586159E9055691AA8DE3757F408350FD",
+   "sha1": "25E107E21D45B0C4095E623A723E2020A55C9253",
+   "region": "Japan",
+   "file": "Hourai Gakuen no Bouken! - Tenkousei Scramble (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

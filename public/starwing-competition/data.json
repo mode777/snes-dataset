@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "17C8FE56",
+   "md5": "01633BA7E39E0DED24BDC23E8AD80320",
+   "sha1": "C7D4F1A7A5261FC3B95280F302056226FD8AA68A",
+   "region": "Europe",
+   "file": "Starwing - Competition (Europe).sfc"
+  },
+  {
+   "crc32": "B25F606A",
+   "md5": "9A668DCE0A5589E7209949F441F0180E",
+   "sha1": "DAF6C7BDBF8C9733705B1C586C85BE9EDD864A23",
+   "region": "Germany",
+   "file": "Starwing - Competition (Germany).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

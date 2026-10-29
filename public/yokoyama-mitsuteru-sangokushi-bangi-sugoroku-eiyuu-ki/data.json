@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "08F8CC16",
+   "md5": "1019EC986177C949F715685B52B2E7BD",
+   "sha1": "D5151775058C5738397A74CB1072BDBC806CB917",
+   "region": "Japan",
+   "file": "Yokoyama Mitsuteru Sangokushi Bangi - Sugoroku Eiyuu-ki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

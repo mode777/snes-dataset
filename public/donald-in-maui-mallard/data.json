@@ -33,6 +33,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D56C21A1",
+   "md5": "DC886EDA4C45AE4C7FDE88E2B4B8CFC1",
+   "sha1": "9AC9CD41EB96FD9F405200AE12698DCC63BB156A",
+   "region": "Europe",
+   "file": "Donald in Maui Mallard (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

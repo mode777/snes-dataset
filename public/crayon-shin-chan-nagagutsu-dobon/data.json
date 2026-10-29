@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8EB753F3",
+   "md5": "3C951183AE15567C811A675CF44AA22C",
+   "sha1": "98A99807A958C1175A2B257166D7B08B2BE6D442",
+   "region": "Japan",
+   "file": "Crayon Shin-chan - Nagagutsu Dobon!! (Japan) (ST).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

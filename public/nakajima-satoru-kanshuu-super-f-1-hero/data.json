@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D7D6A0E9",
+   "md5": "AE5302900E176222091AEB3668DC77AD",
+   "sha1": "FE66B32EBFFFD2C8B9B303AA2272265D22FBDA4B",
+   "region": "Japan",
+   "file": "Nakajima Satoru Kanshuu - Super F-1 Hero (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

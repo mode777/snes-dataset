@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EBA309C0",
+   "md5": "8CD94D65C42B7770509A5F265FD91758",
+   "sha1": "49CD5E7A0A56213D3CE3AAE04FD2EBC5503E659E",
+   "region": "Japan",
+   "file": "Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

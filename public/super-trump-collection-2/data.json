@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "22711FC8",
+   "md5": "E991DC51C1BD71C9E45B304584930FB9",
+   "sha1": "716C0F4BE7D9E11ED76551BD0336688381CEB2B5",
+   "region": "Japan",
+   "file": "Super Trump Collection 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

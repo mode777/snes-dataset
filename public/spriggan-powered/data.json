@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3F83F67C",
+   "md5": "06940EF9BB2ED5340A37951831323468",
+   "sha1": "6A6D0F4DBB65D16D3D68C7F28E4D31DF75C24889",
+   "region": "Japan",
+   "file": "Spriggan Powered (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

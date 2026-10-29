@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E6D19429",
+   "md5": "5A0B11D30A97462A60BC443AF8853A21",
+   "sha1": "808C4C4B68FFC3AB7A8C3793D2F91909B067357D",
+   "region": "Japan",
+   "file": "Youkai Buster - Ruka no Daibouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

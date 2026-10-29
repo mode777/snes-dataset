@@ -33,6 +33,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B6D94361",
+   "md5": "D9B22466B44C0B573917471B26D7C7AC",
+   "sha1": "797A9082F78C8E38D4D5F79E69373139F2552054",
+   "region": "Europe",
+   "file": "Super SWIV (Europe).sfc"
+  },
+  {
+   "crc32": "70F28A6D",
+   "md5": "E1140DB6E8558B2A5592CFB9E2EF3CC7",
+   "sha1": "40CFDE9CFD4C3B175957FFC49163BAD8238E64CD",
+   "region": "Japan",
+   "file": "Super SWIV (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

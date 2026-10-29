@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4F453A21",
+   "md5": "5B606541C4975BDF61F79DA198276617",
+   "sha1": "47CDDAC778643DC25499CFCAA451956BF4B657B5",
+   "region": "Japan",
+   "file": "Hanafuda Ou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

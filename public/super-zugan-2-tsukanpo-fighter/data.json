@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8679BEB8",
+   "md5": "DC95FC8263A7A6865D70F91CFDB1CCC0",
+   "sha1": "429433E5D430DF6EB63DCFDCA195F3E5CE21DC85",
+   "region": "Japan",
+   "file": "Super Zugan 2 - Tsukanpo Fighter (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

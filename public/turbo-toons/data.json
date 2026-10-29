@@ -22,6 +22,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "26A9C3F4",
+   "md5": "3DFD2C576E5AD135A58D12E8197F1254",
+   "sha1": "A2FD56B1507F36189756E5089E45B053DF508553",
+   "region": "Europe",
+   "file": "Turbo Toons (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

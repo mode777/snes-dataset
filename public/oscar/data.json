@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "CDF463C0",
+   "md5": "9CBBA211206B477E31A45C3C2A122708",
+   "sha1": "7D981C08B8F418F80C1B8D565EB46323D087F6AB",
+   "region": "USA",
+   "file": "Oscar (USA).sfc"
+  },
+  {
+   "crc32": "B458FDBC",
+   "md5": "447D7B149F1838DEEDAB1873A9CDA1D6",
+   "sha1": "EE40AF66F9088AC1B695C8A197D38F85AFECDDC5",
+   "region": "Europe",
+   "file": "Oscar (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

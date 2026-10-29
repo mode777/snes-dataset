@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "846151C8",
+   "md5": "B1143F5577BF8A872E58010202D371C8",
+   "sha1": "C83973D6A458FF7234CDFC8660A9261D561FDB1A",
+   "region": "Japan",
+   "file": "Chibi Maruko-chan - Harikiri 365-nichi no Maki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

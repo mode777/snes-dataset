@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "265AFE97",
+   "md5": "06AD35538ED23584D46E6D5F9D5A4C24",
+   "sha1": "75CAD8B252D69544A5ACE94799E98C95E8EEF51D",
+   "region": "Japan",
+   "file": "Super Formation Soccer (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

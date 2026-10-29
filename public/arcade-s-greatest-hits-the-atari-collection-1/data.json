@@ -24,6 +24,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "D562233E",
+   "md5": "778DB880D42AA2BA19ADB71F69E7067E",
+   "sha1": "A2D55E5D9FA13A90DA776BA48B008B6AC7F9724D",
+   "region": "Europe",
+   "file": "Arcade's Greatest Hits - The Atari Collection 1 (Europe).sfc"
+  },
+  {
+   "crc32": "02394F36",
+   "md5": "FBF6512DCB3905A0E1847B397F0F5886",
+   "sha1": "5ED17711300AB1C82791931E910620D2497FC0CF",
+   "region": "USA",
+   "file": "Arcade's Greatest Hits - The Atari Collection 1 (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -21,6 +21,22 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B6C13316",
+   "md5": "AC416A3A1D727895C404AEEBD9633F32",
+   "sha1": "5E7C62D7304CC302367F57D6C2C6B5CDF9F2AC57",
+   "region": "Japan",
+   "file": "Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan).sfc"
+  },
+  {
+   "crc32": "08806B5B",
+   "md5": "E3F9CC6D8321FA661A30CABE5DCE141A",
+   "sha1": "34B11763D672DF886789C428F7CF8A567876A57E",
+   "region": "USA",
+   "file": "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).sfc"
+  }
+ ],
  "gf_score": 3.48,
  "metascore": null,
  "cover_urls": [

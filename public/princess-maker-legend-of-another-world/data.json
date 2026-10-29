@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "67187BC9",
+   "md5": "135AD0C718E88AAA9DE9CE848B47753A",
+   "sha1": "4D300D196AC735939E297D7CD7E6813BBA84A50E",
+   "region": "Japan",
+   "file": "Princess Maker - Legend of Another World (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

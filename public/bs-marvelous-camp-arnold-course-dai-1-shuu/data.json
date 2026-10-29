@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "6B90C767",
+   "md5": "D595866C4EE6221FBB27D0E02E629999",
+   "sha1": "8D15078191F7B7B49B7DDA602207456A7CAF3B12",
+   "region": "Japan",
+   "file": "BS Marvelous - Camp Arnold Course - Dai-1-shuu (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

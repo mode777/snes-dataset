@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3227F1B1",
+   "md5": "868C5612612444E545EE610245990FC0",
+   "sha1": "C429D948288DEEBCC904F5C0780AF0F4F2F708E9",
+   "region": "Japan",
+   "file": "Super Fire Pro Wrestling - Queen's Special (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

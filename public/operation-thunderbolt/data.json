@@ -32,6 +32,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "3042B049",
+   "md5": "BE4F6B60A2CE518BA46C9F33E4FA0FF5",
+   "sha1": "204B7E98053CA51D6539198379C3FA025C7CB9FB",
+   "region": "USA",
+   "file": "Operation Thunderbolt (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

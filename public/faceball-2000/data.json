@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "8D4DF815",
+   "md5": "F67294AFFB35C2CF8ACAB2E7CDD5CAA3",
+   "sha1": "4B5E0657306CC9E8EBCC72214FFC6F75EFBDFB28",
+   "region": "USA",
+   "file": "Faceball 2000 (USA).sfc"
+  }
+ ],
  "gf_score": 2.86,
  "metascore": null,
  "cover_urls": [

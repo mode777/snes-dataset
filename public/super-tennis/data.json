@@ -31,6 +31,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CDB03BFB",
+   "md5": "C09B97C956BC42E3B942F9D8A3196686",
+   "sha1": "1AB6C1785C6D7E44B44D5EBB1C774673039177B9",
+   "region": "Europe",
+   "file": "Super Tennis (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "8D383776",
+   "md5": "17ACCF8A0B3D514561CADBDB03715A71",
+   "sha1": "9B2C6BEB347C6487C170D4F6FC5EE537A223626E",
+   "region": "USA",
+   "file": "Super Tennis (USA).sfc"
+  },
+  {
+   "crc32": "0E31FDEF",
+   "md5": "122AC9AFC134DF090BFBDE77D5377A13",
+   "sha1": "2C2B30C060B022A3FC9B0A7972B0FC7F18EC6007",
+   "region": "Europe",
+   "file": "Super Tennis (Europe).sfc"
+  }
+ ],
  "gf_score": 3.58,
  "metascore": null,
  "cover_urls": [

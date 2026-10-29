@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "177937AB",
+   "md5": "83BFF16D6C17F3E965E40BB56AF80A90",
+   "sha1": "5D0BF1A3DD8A2AE65EB79ADB8EB4A4E3C34E01A3",
+   "region": "Japan",
+   "file": "Jikkyou Oshaberi Parodius (Japan).sfc"
+  }
+ ],
  "gf_score": 3.72,
  "metascore": null,
  "cover_urls": [

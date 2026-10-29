@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "60844B65",
+   "md5": "177C79BCD095D112889845188E8D082D",
+   "sha1": "19BAA189FCA29F40BD118EF58A3CBC2AAE56D6AB",
+   "region": "Japan",
+   "file": "Multi Play Volleyball (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

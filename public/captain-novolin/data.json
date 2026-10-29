@@ -33,6 +33,15 @@
  "languages": [
   "English, Spanish, French"
  ],
+ "roms": [
+  {
+   "crc32": "9FD460A4",
+   "md5": "006FA55E70348B2020D1ACF0C4A02C3A",
+   "sha1": "72CFB569819DA4E799BF8FA1A6F023664CC7069B",
+   "region": "USA",
+   "file": "Captain Novolin (USA) (En,Fr,Es).sfc"
+  }
+ ],
  "gf_score": 1.16,
  "metascore": null,
  "cover_urls": [

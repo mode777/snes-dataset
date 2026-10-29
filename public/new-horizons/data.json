@@ -31,6 +31,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3C3C63E6",
+   "md5": "6FE8DB7C73BB14F322CA6045C2FDE46A",
+   "sha1": "E63BCBED001C63011DF0AC043BC56D0FE323482F",
+   "region": "USA",
+   "file": "New Horizons (USA).sfc"
+  }
+ ],
  "gf_score": 3.98,
  "metascore": null,
  "cover_urls": [

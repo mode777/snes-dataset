@@ -28,6 +28,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AB893412",
+   "md5": "0DDD927709D83149122E5AE1D9A1AA1A",
+   "sha1": "B6C1BF197AC5B85B6A691F5942783E6BFCCFEB48",
+   "region": "USA",
+   "file": "Dragon View (USA).sfc"
+  }
+ ],
  "gf_score": 3.72,
  "metascore": null,
  "cover_urls": [

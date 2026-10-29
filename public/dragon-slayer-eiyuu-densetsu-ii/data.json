@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F409C139",
+   "md5": "FA801080556A99F47C07D26EA7CA0B92",
+   "sha1": "680539D0A7699ADCF06EB0B1BA541603D3AA02E9",
+   "region": "Japan",
+   "file": "Dragon Slayer - Eiyuu Densetsu II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

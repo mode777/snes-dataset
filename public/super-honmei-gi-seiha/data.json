@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7CEB9F66",
+   "md5": "2E266609F3DF6B21E48BE9A3EABD43BF",
+   "sha1": "4A8E3C93E8F7E3087ADF5105F201E58E2AB68ADA",
+   "region": "Japan",
+   "file": "Super Honmei - GI Seiha (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

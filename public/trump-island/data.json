@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "62830BEF",
+   "md5": "5B19374BF681017280AF4841C3D97ADC",
+   "sha1": "7F04F0DD06EB1AF6641D621052BF6C57285124FF",
+   "region": "Japan",
+   "file": "Trump Island (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -26,6 +26,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "81079934",
+   "md5": "FC18CF1DD9618AC590E0B72460285768",
+   "sha1": "CF08381A912A03AA3FF800625CE92FF2756F7AC2",
+   "region": "Japan",
+   "file": "Kishin Kourinden Oni (Japan).sfc"
+  },
+  {
+   "crc32": "5A137504",
+   "md5": "774D755E5DAC4A18E760E98343D64B24",
+   "sha1": "254BE6420472624B0A97CB4B5AB2C93C940D2614",
+   "region": "Japan",
+   "file": "Kishin Kourinden Oni (Japan) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -39,6 +39,43 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1E7EA62C",
+   "md5": "61003F39100168A2ACE6FF952C72689D",
+   "sha1": "82BF21E0BA427BCC9C6390BF028DFD76DE3C94D3",
+   "region": "USA",
+   "file": "Super Star Wars - The Empire Strikes Back (USA) (Rev 1).sfc"
+  },
+  {
+   "crc32": "F45B15BE",
+   "md5": "9E9286F8971ABE77F34B0FCDA8391E8F",
+   "sha1": "94293158B1B2DC72318E408946D69AB59B57DE84",
+   "region": "USA",
+   "file": "Super Star Wars - The Empire Strikes Back (USA).sfc"
+  },
+  {
+   "crc32": "D308AA3E",
+   "md5": "54399F40577B0988593DCAEBA06E7CA1",
+   "sha1": "5F0DDC911E9C10597C28FFB3A07B66CAF2C0645D",
+   "region": "Europe",
+   "file": "Super Star Wars - The Empire Strikes Back (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "101D2DFA",
+   "md5": "CD2F7CAF038BA5F61ED27602DF500D35",
+   "sha1": "E634F992BC7B41CA00EEF0E91F218289AC7110C9",
+   "region": "Europe",
+   "file": "Super Star Wars - The Empire Strikes Back (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "5BFDCD6C",
+   "md5": "C2952FB60C0B269C19972BED8FCBCFF6",
+   "sha1": "C5457B4FBF3F950A504050603F57573DABC6AD41",
+   "region": "Europe",
+   "file": "Super Star Wars - The Empire Strikes Back (Europe).sfc"
+  }
+ ],
  "gf_score": 3.56,
  "metascore": null,
  "cover_urls": [

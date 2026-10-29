@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5897D86E",
+   "md5": "14868054915FB4DF7050A246409553BC",
+   "sha1": "09F965CEC7BB6E201E011A203DA806E05982A0CA",
+   "region": "Japan",
+   "file": "Mahoujin Guruguru 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

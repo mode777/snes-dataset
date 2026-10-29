@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "299D7A89",
+   "md5": "42AECC0AA8A369AB42056EBD4C7D0AC4",
+   "sha1": "34DC37C8A1905EC5631FA666EBA84BB78F9C5BDF",
+   "region": "Japan",
+   "file": "Rockman X2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "64C6297B",
+   "md5": "C9A0D73751E068FA48269728EFE027E7",
+   "sha1": "2E92D9F37A90BD2287FC41CF6B1F9F7C2E7ED4B4",
+   "region": "Europe",
+   "file": "Super Adventure Island II (Europe).sfc"
+  },
+  {
+   "crc32": "52FE16FD",
+   "md5": "B4E732B3D742AF1791605BCD7AA4A1C4",
+   "sha1": "06776EFD3CC3997513F90FBE2507939A1C61BB87",
+   "region": "USA",
+   "file": "Super Adventure Island II (USA).sfc"
+  }
+ ],
  "gf_score": 3.66,
  "metascore": null,
  "cover_urls": [

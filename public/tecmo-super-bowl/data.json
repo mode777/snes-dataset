@@ -32,6 +32,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "C7D84893",
+   "md5": "C6610E7578F8D5930C4AA1358D4C2A0D",
+   "sha1": "5742652D7013E7E355C7347AF1CC432C366C1D71",
+   "region": "Japan",
+   "file": "Tecmo Super Bowl (Japan).sfc"
+  },
+  {
+   "crc32": "CDE3746B",
+   "md5": "A1D58582E88A5F2CCF4394A4DADEBF3C",
+   "sha1": "C376A45C72612E35592EDB90F637A7E3E55561CE",
+   "region": "USA",
+   "file": "Tecmo Super Bowl (USA).sfc"
+  },
+  {
+   "crc32": "F8E691D9",
+   "md5": "3069C2F07BB7288F33E97E75A97EA619",
+   "sha1": "D89A1DDFD28FE4212AEFFC9F7687E8DA106AC009",
+   "region": "USA",
+   "file": "Tecmo Super Bowl (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.79,
  "metascore": null,
  "cover_urls": [

@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "019309A2",
+   "md5": "5D8D8FB146442020D3E07F139CAC7955",
+   "sha1": "9845DA97CF44E5A1CCCB001FF6F3097996510D78",
+   "region": "Japan",
+   "file": "Gionbana (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

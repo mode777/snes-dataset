@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F3F8A200",
+   "md5": "26BE7C4B848871EA38FAFCF0BD4980E0",
+   "sha1": "540FCB3619298945FE3EC08F1B32E936C830A97C",
+   "region": "Japan",
+   "file": "Kuusou Kagaku Sekai Gulliver Boy (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

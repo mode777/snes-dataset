@@ -29,6 +29,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "552BF16A",
+   "md5": "B9A3D2C89793E6A6A97010A08B8C05DA",
+   "sha1": "804E40D9F651760654D36807F5C8E6CED9643EAC",
+   "region": "USA",
+   "file": "Chester Cheetah - Too Cool to Fool (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

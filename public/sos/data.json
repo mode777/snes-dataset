@@ -26,6 +26,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "09AE53F5",
+   "md5": "E49AE43BED71C1F9DC568936C83D28EE",
+   "sha1": "0B793C19EE452B12D3F4ECB12C1C24F889B68671",
+   "region": "USA",
+   "file": "SOS (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

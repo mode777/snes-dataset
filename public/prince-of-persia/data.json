@@ -39,6 +39,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "320562C3",
+   "md5": "AE497494BAF8A03069B8415846DC1AB7",
+   "sha1": "D2E9BA4C7E75A178A551FC13D5FA05A2CE55D509",
+   "region": "Europe",
+   "file": "Prince of Persia (Europe).sfc"
+  },
+  {
+   "crc32": "CFC71E89",
+   "md5": "6F49DF735CD2CF9D351D549F1CBFDAA9",
+   "sha1": "DE1D327F90EE57C8B20E2489109638B8632F18F5",
+   "region": "Japan",
+   "file": "Prince of Persia (Japan).sfc"
+  },
+  {
+   "crc32": "891BB2BB",
+   "md5": "8FFC8D34BC75BC049122894B4292EB85",
+   "sha1": "29CE1E32CF57D8284D0670949045C0D9128C3E1B",
+   "region": "USA",
+   "file": "Prince of Persia (USA).sfc"
+  }
+ ],
  "gf_score": 3.67,
  "metascore": null,
  "cover_urls": [

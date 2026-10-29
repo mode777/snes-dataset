@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "6B3B7B52",
+   "md5": "82FB645560D5EDF6FB2E7C307254BA7C",
+   "sha1": "26EE05B1DDF26BD0CD00C652024A21499F31A0CE",
+   "region": "Japan",
+   "file": "Cacoma Knight (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -35,6 +35,43 @@
  "languages": [
   "English, German"
  ],
+ "roms": [
+  {
+   "crc32": "D7099BC2",
+   "md5": "D15C7E7C50A0991C53793087AAC18F59",
+   "sha1": "9ADF1FEAAD5A562D344D6683512A588E8C1C6B02",
+   "region": "Europe",
+   "file": "True Lies (Europe).sfc"
+  },
+  {
+   "crc32": "CA7342CD",
+   "md5": "5A3E1278FD9D774D84D5D764FFA6D9EA",
+   "sha1": "F54AA038CD6A8876373D37C70B8DCC933C99F5FF",
+   "region": "Germany",
+   "file": "True Lies (Germany).sfc"
+  },
+  {
+   "crc32": "6150D3F9",
+   "md5": "8C40F310DF027E936BA18DA320856225",
+   "sha1": "BBF8756AA17B1277C031D3F0E79A3E8B46CA9AC3",
+   "region": "Japan",
+   "file": "True Lies (Japan).sfc"
+  },
+  {
+   "crc32": "40CA49AE",
+   "md5": "39F967AF37382588A517D7A1B3CE6262",
+   "sha1": "06B6B9BDB46629731B53BA15D37DE5C254847B51",
+   "region": "USA",
+   "file": "True Lies (USA).sfc"
+  },
+  {
+   "crc32": "6BB6A72F",
+   "md5": "70FA7641B339DD72137CEB1C36B9C7CC",
+   "sha1": "675F59F72D9E84092081AE81B13E2D47B4034823",
+   "region": "USA",
+   "file": "True Lies (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.8,
  "metascore": null,
  "cover_urls": [

@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E2B26D99",
+   "md5": "7CE717463D7ADC50F65DC869DF347B4D",
+   "sha1": "AD8AE8944E492B8336427AC3CD8AF0853AD8B00B",
+   "region": "Japan",
+   "file": "Captain Tsubasa V - Hasha no Shougou Campione (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

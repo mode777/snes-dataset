@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "BA2DE054",
+   "md5": "5CA81CEF38F609C6EB3AEF7D567137F5",
+   "sha1": "8AE694DD0113F4C8DC6DD878B85A5F68DAD374EC",
+   "region": "Japan",
+   "file": "Tom to Jerry (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

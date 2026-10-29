@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2743017D",
+   "md5": "5F579309272216100A6CFF92DE297479",
+   "sha1": "05A71B38A66F285564EC8447FF4877DB74387860",
+   "region": "Japan",
+   "file": "Benkei Gaiden - Suna no Shou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

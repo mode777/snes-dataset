@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "426FC1A3",
+   "md5": "FE62D384810CCC424EB071AC87A5B800",
+   "sha1": "A89333E237C7CB5721FD5E125B299CFFA1B0D1FE",
+   "region": "Japan",
+   "file": "Shinri Game 2, The - Magical Trip (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

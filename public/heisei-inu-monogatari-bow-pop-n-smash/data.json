@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FE4A2622",
+   "md5": "04DC291B448B838A70B345348BD82ADD",
+   "sha1": "E50D6CDF138716BAD867200198405D40E48CCEF5",
+   "region": "Japan",
+   "file": "Heisei Inu Monogatari Bow - Pop'n Smash!! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

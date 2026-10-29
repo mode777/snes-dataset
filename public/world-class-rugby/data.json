@@ -33,6 +33,29 @@
  "languages": [
   "English, French"
  ],
+ "roms": [
+  {
+   "crc32": "3BB679D9",
+   "md5": "16C7ED944A13CD0C4767A4B46103889D",
+   "sha1": "D4754759D3688119D2C959878A70E22DE15F1538",
+   "region": "Japan",
+   "file": "World Class Rugby (Japan).sfc"
+  },
+  {
+   "crc32": "8EFFC2D4",
+   "md5": "92FE34E7F0101296325354BE2D67AF2F",
+   "sha1": "D34E903870AB0FA1B15B992696A9497AFDC3183F",
+   "region": "France",
+   "file": "World Class Rugby (France).sfc"
+  },
+  {
+   "crc32": "D73D6C80",
+   "md5": "7C06413E99C43B0EEB10201C8F10B80C",
+   "sha1": "CCDB5ED88BC7FCAEF9722229BB1BCFBDF0E4161F",
+   "region": "Europe",
+   "file": "World Class Rugby (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

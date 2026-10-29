@@ -34,6 +34,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3495ADF0",
+   "md5": "33BC8127561110B2776ABC832CA1BC62",
+   "sha1": "FA8C12862BCD350336E17BCCE5AC1284EF1072C5",
+   "region": "Japan",
+   "file": "Ultraman (Japan).sfc"
+  },
+  {
+   "crc32": "8B7CB277",
+   "md5": "56E5676449A9D9A9B2F12C6B90331DD8",
+   "sha1": "3FCB9B146A4EAFF1958EB15E7E613E09820C7882",
+   "region": "Europe",
+   "file": "Ultraman (Europe).sfc"
+  },
+  {
+   "crc32": "1DED2814",
+   "md5": "E97CE9C40D286A71BDAE7C6B7447EED2",
+   "sha1": "6DF8DA25B8CBD8436FE329901D7682432973D4F5",
+   "region": "USA",
+   "file": "Ultraman (USA).sfc"
+  }
+ ],
  "gf_score": 2.26,
  "metascore": null,
  "cover_urls": [

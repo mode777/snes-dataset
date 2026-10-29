@@ -24,6 +24,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C157978C",
+   "md5": "DFE85CF6EDFA7CC5EF63020D45775E81",
+   "sha1": "D79896F4AD042961A6B0111CEE2F6E425C253059",
+   "region": "Japan",
+   "file": "Jaleco Rally Big Run - The Supreme 4WD Challenge (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

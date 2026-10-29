@@ -21,6 +21,29 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "546062C7",
+   "md5": "049A88774B855E84A4EC078A3A4D71CF",
+   "sha1": "572246049C52D2AF2796229F5FE84508F2461FD8",
+   "region": "Japan",
+   "file": "Newman-Haas IndyCar featuring Nigel Mansell (Japan).sfc"
+  },
+  {
+   "crc32": "A0F80C02",
+   "md5": "4306E1DFA9D4CA381775B10322B6DC5F",
+   "sha1": "EB12AFA9E2771C45FDABD6B43E65AE89B7181037",
+   "region": "USA",
+   "file": "Newman-Haas IndyCar featuring Nigel Mansell (USA).sfc"
+  },
+  {
+   "crc32": "595684AF",
+   "md5": "98FC1A327942F8D7203BC7FE6F29AFAC",
+   "sha1": "A514E5A1362946B1E50060FF17EB4E6CD8289702",
+   "region": "Europe",
+   "file": "Newman-Haas IndyCar featuring Nigel Mansell (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

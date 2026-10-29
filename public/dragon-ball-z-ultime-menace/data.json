@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "593EEFE0",
+   "md5": "2A827D44ED95DB34E85854031EE8AE5E",
+   "sha1": "C45A0A775AE09C00A9DCADC14E94AF8877D775A4",
+   "region": "France",
+   "file": "Dragon Ball Z - Ultime Menace (France).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

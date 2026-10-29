@@ -18,6 +18,29 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "BBBE3253",
+   "md5": "880C5A7087FAF0081DD9DAF61B6D7986",
+   "sha1": "DFF363586F1E79EF336D54F9069CB59AFB6C20CD",
+   "region": "Japan",
+   "file": "Romancing Sa-Ga 3 (Japan) (Sample).sfc"
+  },
+  {
+   "crc32": "5399BDDB",
+   "md5": "42561559D91013C63B0FDBA31FC323BF",
+   "sha1": "71B404B4F775C86B924F26203DC00D7DEB72CE58",
+   "region": "Japan",
+   "file": "Romancing Sa-Ga 3 (Japan).sfc"
+  },
+  {
+   "crc32": "6C50C2CF",
+   "md5": "54C1454F8067EC39BD6D97F197E09816",
+   "sha1": "ED50AC054F664175A2004D3B7423DAAD3021FB7B",
+   "region": "Japan",
+   "file": "Romancing Sa-Ga 3 (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

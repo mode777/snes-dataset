@@ -20,6 +20,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0B94CCD4",
+   "md5": "4C001CFC562003F8B9EC93326B10A2FE",
+   "sha1": "6B9DBE40EF560D71F28B932DEF655073F5D78DDC",
+   "region": "Japan",
+   "file": "Hebereke no Oishii Puzzle wa Irimasenka (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "65815455",
+   "md5": "45447FB33C6CE75066D94C3FE56CB147",
+   "sha1": "C795AE98ACF450422AD11925EA1A5573FCBE555D",
+   "region": "Japan",
+   "file": "Jissen Kyoutei (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

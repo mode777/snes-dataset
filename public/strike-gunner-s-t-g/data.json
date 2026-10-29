@@ -31,6 +31,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "AE2B4567",
+   "md5": "B427922FF0310F11E5B88EFA4D51692E",
+   "sha1": "B5112C6A237621A726091E130FB783A2BA0E8DCA",
+   "region": "Japan",
+   "file": "Strike Gunner S.T.G (Japan).sfc"
+  },
+  {
+   "crc32": "D054E288",
+   "md5": "6041D861AE1E590DEE99E45A3EEABD49",
+   "sha1": "110E46DC4D6301C3B41F8A9337E4BA78719B7917",
+   "region": "USA",
+   "file": "Strike Gunner S.T.G (USA).sfc"
+  }
+ ],
  "gf_score": 3.58,
  "metascore": null,
  "cover_urls": [

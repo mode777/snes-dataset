@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "164771B5",
+   "md5": "A1C5022FC059C8E12EAB7ABC58643DB3",
+   "sha1": "32C473E8F732273D4192FBABBEA6D8CE981F3341",
+   "region": "Japan",
+   "file": "Daisenryaku Expert (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

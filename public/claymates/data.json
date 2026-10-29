@@ -33,6 +33,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "3A571132",
+   "md5": "F7E716A3DE695D65E85F920668F8E198",
+   "sha1": "32FB2C9F9255AE2927CE720C78CEF90BB1200B6B",
+   "region": "Europe",
+   "file": "Claymates (Europe).sfc"
+  },
+  {
+   "crc32": "7AD5CCAC",
+   "md5": "40B89FA020786F323AB5A36DDE4686EB",
+   "sha1": "D136279CE3EB62A06F5762167DB588C9D60F7441",
+   "region": "USA",
+   "file": "Claymates (USA).sfc"
+  },
+  {
+   "crc32": "5C00F14C",
+   "md5": "B26AB69028F17BAE7A7F4AC951D0CE74",
+   "sha1": "C69A66B9A3E25BE98A3A12641FCEEDA621E1AB6D",
+   "region": "USA",
+   "file": "Claymates (USA) (Sample).sfc"
+  }
+ ],
  "gf_score": 3.3,
  "metascore": null,
  "cover_urls": [

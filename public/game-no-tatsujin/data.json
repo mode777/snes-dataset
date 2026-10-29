@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A3203356",
+   "md5": "E7D30CDDD41ED114F4E646DA80BEEA79",
+   "sha1": "885A80B1B65B182D697538AC4218FC219A1E5103",
+   "region": "Japan",
+   "file": "Game no Tatsujin (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

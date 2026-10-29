@@ -32,6 +32,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "D6C60A84",
+   "md5": "37AA5231C5576678B244FE913254F518",
+   "sha1": "2AE6116162503B06F91A06D3A9E4924C21D80488",
+   "region": "USA",
+   "file": "Mickey's Ultimate Challenge (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

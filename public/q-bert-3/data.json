@@ -36,6 +36,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EA3BC44E",
+   "md5": "37EFB68B59C9259B38DB72AA90BF96CC",
+   "sha1": "05856B77E44BC47680BAE26C11FCE92A9D915DA8",
+   "region": "Japan",
+   "file": "Q-bert 3 (Japan).sfc"
+  },
+  {
+   "crc32": "694CBFE4",
+   "md5": "E926BE5B5C41C5BC1D001DAF948F27EF",
+   "sha1": "AC67C459CB3910909EA6649B05355D56813D051B",
+   "region": "USA",
+   "file": "Q-bert 3 (USA).sfc"
+  }
+ ],
  "gf_score": 3.08,
  "metascore": null,
  "cover_urls": [

@@ -32,6 +32,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "2BB26C4A",
+   "md5": "097DA94A3066DA59D1D31F4C54BAD041",
+   "sha1": "524B7252FB07C7085D6539DA91BF2F9E18C92D8B",
+   "region": "USA",
+   "file": "Pirates of Dark Water, The (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "4C4782B5",
+   "md5": "CD4DF66A9798365D5A766FCFF18B4377",
+   "sha1": "DAED2AA89DFC2FB4DE1C690C2E26ACF271C0AA31",
+   "region": "Europe",
+   "file": "Pirates of Dark Water, The (Europe).sfc"
+  },
+  {
+   "crc32": "7CA0CA4D",
+   "md5": "E57FF9A6F8A23935A1171F871C0CE68F",
+   "sha1": "EE8CB83B46B0DFCE33CBBFA16BF0C713FBF288BA",
+   "region": "USA",
+   "file": "Pirates of Dark Water, The (USA).sfc"
+  }
+ ],
  "gf_score": 3.32,
  "metascore": null,
  "cover_urls": [

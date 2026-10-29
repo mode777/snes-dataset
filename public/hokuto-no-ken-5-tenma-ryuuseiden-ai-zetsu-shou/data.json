@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "68BDCBD7",
+   "md5": "24C48CD81E9E2DF7A4BBCB0088A328FF",
+   "sha1": "6DEC225946050BA3AF1EF102F8C039EE3279C5D9",
+   "region": "Japan",
+   "file": "Hokuto no Ken 5 - Tenma Ryuuseiden Ai Zetsu Shou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

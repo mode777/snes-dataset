@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B907BB27",
+   "md5": "04769393A325603DBFF70AD8A0F859C3",
+   "sha1": "E46A3BC826F0A5CBC2300913B7F9CC1D5EBE537B",
+   "region": "Japan",
+   "file": "Solid Runner (Japan).sfc"
+  }
+ ],
  "gf_score": 4.08,
  "metascore": null,
  "cover_urls": [

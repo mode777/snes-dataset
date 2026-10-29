@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6160829B",
+   "md5": "A683932FAE8C63F0DEBF7893191F63C3",
+   "sha1": "1916537FA72E7692D7225C4EFC18920A048B1BFC",
+   "region": "Japan",
+   "file": "Libble Rabble (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

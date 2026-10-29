@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "179DE034",
+   "md5": "CC4D0D4DA5403F10348535368BDA1216",
+   "sha1": "74F923F3F722BF84670496D8415A9FFF62A01D8A",
+   "region": "Japan",
+   "file": "BS Nichibutsu Mahjong - Renshuu Mahjong - Nimantou (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F0810694",
+   "md5": "5403A00958BCB9A3D3FD714C48115E7E",
+   "sha1": "0CACA71401B96B3AB42EC89E9BCF7AF82B1BD3D4",
+   "region": "Japan",
+   "file": "3-jigen Kakutou Ballz (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

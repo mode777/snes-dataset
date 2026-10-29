@@ -31,6 +31,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E5612567",
+   "md5": "B02DC604826EDEF6E4D8E54C7B04E060",
+   "sha1": "7212C255F0800BDE41FD351BB71511EE83C6E77B",
+   "region": "Japan",
+   "file": "Masters New - Harukanaru Augusta 3 (Japan).sfc"
+  },
+  {
+   "crc32": "C1281F9B",
+   "md5": "24C32DD521A0DB0990801991DE4B514B",
+   "sha1": "F417A523E79FF0D6FC36FE8940011705FC3B346A",
+   "region": "Japan",
+   "file": "Masters New - Harukanaru Augusta 3 (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

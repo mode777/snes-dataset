@@ -13,6 +13,7 @@ files on a CDN (GitHub Pages), so standard HTTP caching applies.
 | `/index.json` | `{ "<Original Title>": "<slug>" }` — game title → folder/slug |
 | `/index-reverse.json` | `{ "<slug>": "<Original Title>" }` — the reverse mapping |
 | `/catalog.json` | Array of lightweight records (one per game) — powers the grid UI |
+| `/by-crc.json` | `{ "<CRC32>": "<slug>" }` — exact ROM-identity lookup (see below) |
 | `/<slug>/data.json` | Full metadata for one game |
 | `/<slug>/thumb.png` | Box art thumbnail, 140×186 PNG (1,645 games) |
 | `/<slug>/box.jpeg` | Full box image (1,645 games) |
@@ -32,6 +33,9 @@ curl -s .../index.json | jq '."Chrono Trigger"'                        # "chrono
 
 # resolve a folder/slug back to the display title
 curl -s .../index-reverse.json | jq '."chrono-trigger"'                # "Chrono Trigger"
+
+# exact lookup by ROM checksum — no fuzzy matching needed
+curl -s .../by-crc.json | jq '."E95A3DD7"'                             # "2020-super-baseball"
 
 # one full record + its thumbnail
 curl -sO .../chrono-trigger/data.json
@@ -81,6 +85,15 @@ for g in catalog:
   "description_source": "snes_csv",              // "snes_csv" | "opengamedb" | "openvgdb"
   "players": "1",                                // string | null, free-form ("1 - 2")
   "languages": ["English, Japanese"],            // string[]
+  "roms": [                                      // ROM checksums (OpenVGDB/No-Intro),
+    {                                            // headerless; uppercase hex
+      "crc32": "05FBB855",                       //   8-char — key used in /by-crc.json
+      "md5": "3369347F7663B133CE445C15200A5AFA", //   32-char
+      "sha1": "005CCD83…",                       //   40-char
+      "region": "Japan",                         //   string, may be ""
+      "file": "'96 Zenkoku Koukou Soccer Senshuken (Japan).sfc"  // No-Intro filename
+    }
+  ],
   "gf_score": 4.58,                              // GameFAQs rating 1–5, float | null
   "metascore": 92,                               // Metacritic 0–100, int | null
   "cover_urls": ["https://…"],                   // external cover image URLs (reference)
@@ -97,6 +110,12 @@ Notes:
   highest-priority source (Wikipedia scrape → Kaggle → OpenVGDB → opengamedb).
 - **`images`** is present only when local box art exists; both keys optional
   independently, though in practice they appear together (1,645 games, ~54%).
+- **`roms`** holds one entry per known ROM dump of the game (revisions/regions).
+  Hashes follow the **No-Intro, headerless** convention in **uppercase hex** —
+  this is what emulation DATs and frontends (e.g. Superflix `rom_crc32`)
+  standardize on. If your ROM has a copier header (512-byte), strip it before
+  hashing or the lookup will miss. `by-crc.json` is the flat CRC32 → slug map
+  for O(1) identity resolution; on the ~1-in-10⁷ collision the first slug wins.
 - **`cover_urls`** are outbound links (LaunchBox/GameFAQs CDNs) kept for
   reference — GameFAQs' image CDN blocks some datacenter IP ranges.
 - Everything not listed (`release_dates` keys beyond the common ones) is raw

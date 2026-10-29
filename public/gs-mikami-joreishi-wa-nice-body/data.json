@@ -34,6 +34,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "444C9962",
+   "md5": "388CFFCEBCD3155CAE2F2C5CEC1F92C1",
+   "sha1": "46853D2212D2F55DDC27224F943AF14D4353EEEA",
+   "region": "Japan",
+   "file": "GS Mikami - Joreishi wa Nice Body (Japan).sfc"
+  }
+ ],
  "gf_score": 3.64,
  "metascore": null,
  "cover_urls": [

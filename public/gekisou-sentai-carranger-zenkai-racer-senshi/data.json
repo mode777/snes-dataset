@@ -17,6 +17,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "14C66FCA",
+   "md5": "27EB2C85BB733416762FA1BCD91A4AB7",
+   "sha1": "50B9D6EBF0E3F4B9DAD5D0660D6C834820CBE391",
+   "region": "Japan",
+   "file": "Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan) (ST).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

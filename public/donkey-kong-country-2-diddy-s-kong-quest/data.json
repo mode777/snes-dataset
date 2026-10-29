@@ -31,6 +31,43 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2EB33785",
+   "md5": "2AE8161CB714F2DAD38F845674553A4B",
+   "sha1": "5A5EE7C1E3D36530C3EBF98BDCED2C9C3A0313AB",
+   "region": "Germany",
+   "file": "Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De) (Rev 1).sfc"
+  },
+  {
+   "crc32": "006364DB",
+   "md5": "98458530599B9DFF8A7414A7F20B777A",
+   "sha1": "3EC2035962918B5523D8B4745406F46F2A739B8D",
+   "region": "USA",
+   "file": "Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr).sfc"
+  },
+  {
+   "crc32": "4C794A4D",
+   "md5": "F39D026F5BB47B1E8C72B36DCA524849",
+   "sha1": "DC6A271AD77B49E59CB86CBA0B7799845D7347A0",
+   "region": "Germany",
+   "file": "Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De).sfc"
+  },
+  {
+   "crc32": "2EA6B7E8",
+   "md5": "6FF526F388A179EC6EBA9907EB8E3254",
+   "sha1": "29601B586C57C1F5DA8956B640E5FC48DCC4364F",
+   "region": "Europe",
+   "file": "Donkey Kong Country 2 - Diddy's Kong Quest (Europe) (En,Fr) (Rev 1).sfc"
+  },
+  {
+   "crc32": "4E2D90F4",
+   "md5": "D323E6BB4CCC85FD7B416F58350BC1A2",
+   "sha1": "69D0F91BFD05837B44023E33A6699AA28FCA19CB",
+   "region": "USA",
+   "file": "Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 4.41,
  "metascore": null,
  "cover_urls": [

@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "1FD515D6",
+   "md5": "0630D7D38BAEE90A849A77722D54C395",
+   "sha1": "F9523CC140C6006B9931CA4A2794C05F83A05865",
+   "region": "Europe",
+   "file": "Phalanx (Europe).sfc"
+  },
+  {
+   "crc32": "DC90A8AB",
+   "md5": "6261DB3E834E245F99FB2072FC97FDE7",
+   "sha1": "67CDB495F4A6B53AB79965A6AF6DBBD9990D1060",
+   "region": "USA",
+   "file": "Phalanx (USA).sfc"
+  }
+ ],
  "gf_score": 3.52,
  "metascore": null,
  "cover_urls": [

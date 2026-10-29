@@ -32,6 +32,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "403C692D",
+   "md5": "916D7C3A895F680A9ED41245F72D0C2D",
+   "sha1": "A10D51C5E86CA9F00EC822DE74228A4108D1D435",
+   "region": "Japan",
+   "file": "Super Slap Shot (Japan).sfc"
+  },
+  {
+   "crc32": "7355C9B9",
+   "md5": "EE108BEE9135634310B5DD9A3E78DD20",
+   "sha1": "198DDFA080FFAC5FBE2570B0B3E63F041247A5F4",
+   "region": "USA",
+   "file": "Super Slap Shot (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

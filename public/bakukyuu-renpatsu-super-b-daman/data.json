@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5613F172",
+   "md5": "6F76A0BC204424863A9BA846F5183996",
+   "sha1": "5670308F143087F1CA6E19978E3FE1E776CDF249",
+   "region": "Japan",
+   "file": "Bakukyuu Renpatsu!! Super B-Daman (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

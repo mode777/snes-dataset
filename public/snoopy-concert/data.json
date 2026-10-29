@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3836A202",
+   "md5": "64E20693431CBF71B52A872E6EE53430",
+   "sha1": "30B36036A2AEB59F9D477A2F630800352929B194",
+   "region": "Japan",
+   "file": "Snoopy Concert (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

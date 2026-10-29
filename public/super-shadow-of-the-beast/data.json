@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "BEADFD61",
+   "md5": "EB4EFFEE6BF3E97632B92768AB51FA1C",
+   "sha1": "463FC84A163E1946190AA9683F518DC4E1BF0B97",
+   "region": "USA",
+   "file": "Super Shadow of the Beast (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

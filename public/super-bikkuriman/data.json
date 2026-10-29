@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B367B8B6",
+   "md5": "24CDD84975E4D8146146940E74775B2F",
+   "sha1": "4C3742A3FA0D1501A16E7C17E35820F8790BC622",
+   "region": "Japan",
+   "file": "Super Bikkuriman (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5C869CA5",
+   "md5": "0D88029CC15252B3A8C91FF99A44C796",
+   "sha1": "961B0B1F53C92BB1D62FF1C0440DCAD5E4F5E157",
+   "region": "Japan",
+   "file": "Kinnikuman - Dirty Challenger (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

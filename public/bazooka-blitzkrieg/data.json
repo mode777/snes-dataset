@@ -31,6 +31,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6810AA95",
+   "md5": "D741108C2EC64BF52DA7A0F70D976654",
+   "sha1": "3A1238F88CAFE6E25B07A10682FB93BDD559F771",
+   "region": "USA",
+   "file": "Bazooka Blitzkrieg (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

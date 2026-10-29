@@ -32,6 +32,22 @@
  "languages": [
   "English, German, Spanish, French, Italian, Japanese, Dutch"
  ],
+ "roms": [
+  {
+   "crc32": "A423A9D8",
+   "md5": "DCA9B3FCC00E3F7B1868C4207DABEC7B",
+   "sha1": "1B9CE057FD686DB93CBA24403D728A8DFB9F3EB6",
+   "region": "Europe",
+   "file": "Joe & Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl).sfc"
+  },
+  {
+   "crc32": "DB8447EB",
+   "md5": "FFC2B7AD2127E8CD84A9B732E877626F",
+   "sha1": "0E2F55C1560B732B5A3595452415143CBE5D2F83",
+   "region": "Europe",
+   "file": "Joe & Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

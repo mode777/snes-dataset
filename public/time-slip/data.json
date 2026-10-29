@@ -32,6 +32,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "ADAC8EFF",
+   "md5": "B24BCD646A121C3F031640DE5AD393CB",
+   "sha1": "00E791FEFB9923EB832BC7FEF2C1B738DE4F8F3F",
+   "region": "Europe",
+   "file": "Time Slip (Europe).sfc"
+  },
+  {
+   "crc32": "DE12F893",
+   "md5": "E78976C1794FEB111B1B2F36FA2CE618",
+   "sha1": "08A9C6B92641DA07A2B96D5DA7F183E683F9D149",
+   "region": "Europe",
+   "file": "Time Slip (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "838D0304",
+   "md5": "7BBA0629BB668EDAC3692CAFFCA4A638",
+   "sha1": "B1F11F8816C2DE7F0055E680D710EE8ADEFE2735",
+   "region": "USA",
+   "file": "Time Slip (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EFC21F71",
+   "md5": "A8FE07895A4D7651E99A39B9EB5A3539",
+   "sha1": "5771B2366802F7FF2F5A2402D11BEB1DA5627DD5",
+   "region": "Japan",
+   "file": "Blue Crystalrod, The (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

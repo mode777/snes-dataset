@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "623F2197",
+   "md5": "0C25503647EE300B1404259E8C277D58",
+   "sha1": "06F72963FFAB3850399EAF9D4AF311A988E883F0",
+   "region": "Japan",
+   "file": "Thunderbirds - Kokusai Kyuujotai Shutsudou seyo! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

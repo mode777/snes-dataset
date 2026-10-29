@@ -32,6 +32,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "61D22779",
+   "md5": "D5D78F98005544392B2759075A65A1AB",
+   "sha1": "43D1742E210F45313033C4FEF526732B783AB41F",
+   "region": "USA",
+   "file": "Equinox (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "96A4D1C0",
+   "md5": "2AEF2EF396E58D2253614EEE2A801B51",
+   "sha1": "CAD7E5CE2B3DC60455CCDD474CF1A128A14D1803",
+   "region": "USA",
+   "file": "Equinox (USA).sfc"
+  },
+  {
+   "crc32": "A2B15AC4",
+   "md5": "CAB818EF062547DD0C6FA679435809CC",
+   "sha1": "29CF0F3068E37B37DC6F032FC3C3E16730430A08",
+   "region": "Europe",
+   "file": "Equinox (Europe).sfc"
+  }
+ ],
  "gf_score": 3.17,
  "metascore": null,
  "cover_urls": [

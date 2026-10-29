@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "4CA1696F",
+   "md5": "5223B322DE6CDB821F9752972ADBC00C",
+   "sha1": "CB95D1BFD57E0A226FC7322A572032A6D4A149BF",
+   "region": "Japan",
+   "file": "Aqutallion (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

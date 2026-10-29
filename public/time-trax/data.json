@@ -36,6 +36,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "F6628157",
+   "md5": "ADA1ADBF0155EA67FD25A9C88645180A",
+   "sha1": "B5E1FD97B3F27667D753DFBD88CD8D64C0984FA5",
+   "region": "USA",
+   "file": "Time Trax (USA).sfc"
+  },
+  {
+   "crc32": "4D7C512F",
+   "md5": "35054BF29FA226E4DE211FC7957F1725",
+   "sha1": "EABDECED0B753986F46AD9CCFEC597220271FE3E",
+   "region": "Europe",
+   "file": "Time Trax (Europe).sfc"
+  },
+  {
+   "crc32": "A7A54043",
+   "md5": "F77A528CBD79BC685780D2AE2E32F2DC",
+   "sha1": "A6B78B258DB1BB858B6EA11D09BB32AE0ECD39DA",
+   "region": "USA",
+   "file": "Time Trax (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

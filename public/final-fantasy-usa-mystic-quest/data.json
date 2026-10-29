@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1DA17F0C",
+   "md5": "5164060BD3350D7A6325EC8AE80BBA54",
+   "sha1": "FFC05A65EF43FA5C56C9930AF1AF527509C1AE05",
+   "region": "Japan",
+   "file": "Final Fantasy USA - Mystic Quest (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

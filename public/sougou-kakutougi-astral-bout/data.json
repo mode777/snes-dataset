@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E87BD7EC",
+   "md5": "79B2FA6C93568A77238C202A75C2AB04",
+   "sha1": "EE4B75388F75CF663DF96C0F4391B028A7AD631D",
+   "region": "Japan",
+   "file": "Sougou Kakutougi - Astral Bout (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

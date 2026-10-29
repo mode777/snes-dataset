@@ -26,6 +26,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "6AA46CFC",
+   "md5": "E19BA660E4D6C744234137A6FAAA0CDA",
+   "sha1": "BDAFD8414E832ACB4F85C2F3A539BA9B9AF8BCC9",
+   "region": "Europe",
+   "file": "Power Rangers Zeo - Battle Racers (Europe).sfc"
+  },
+  {
+   "crc32": "389300CF",
+   "md5": "1B92A6E65433DE62272D32AA3CF28E52",
+   "sha1": "F83F07F2A6DE60ED5E96E7F08DE42ED69B9F6E62",
+   "region": "USA",
+   "file": "Power Rangers Zeo - Battle Racers (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "EBEFBDE2",
+   "md5": "5D3AB5B37BB1B21AC21E176E9FF4CAAA",
+   "sha1": "97D942604CE1A2FA40C89B8C19BAD765EC660D8A",
+   "region": "Europe",
+   "file": "All-American Championship Football (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

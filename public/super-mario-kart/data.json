@@ -37,6 +37,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CD80DB86",
+   "md5": "7F25CE5A283D902694C52FB1152FA61A",
+   "sha1": "47E103D8398CF5B7CBB42B95DF3A3C270691163B",
+   "region": "USA",
+   "file": "Super Mario Kart (USA).sfc"
+  },
+  {
+   "crc32": "C8002453",
+   "md5": "F7AFA112D7EC1D532636703E4B02700A",
+   "sha1": "CBB853BF911255C1D8EB27CD34FC7855A0DDA218",
+   "region": "Japan",
+   "file": "Super Mario Kart (Japan).sfc"
+  },
+  {
+   "crc32": "56410E5E",
+   "md5": "F9FE266E91632E68B558D6B43393EABA",
+   "sha1": "27D9B4F30D39AF75075691344B7BDEEDBD32AC19",
+   "region": "Europe",
+   "file": "Super Mario Kart (Europe).sfc"
+  }
+ ],
  "gf_score": 4.06,
  "metascore": null,
  "cover_urls": [

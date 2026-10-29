@@ -37,6 +37,36 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "BD037A57",
+   "md5": "EC8BB481B2625E63191F069851DE064D",
+   "sha1": "15A7F1E233484D1BC6B3688D0E6A394F2CD3C971",
+   "region": "USA",
+   "file": "Jungle Book, The (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "3511EFB3",
+   "md5": "CF539BEF183BCB97C192562BB1CB29EC",
+   "sha1": "F9DBB76FB1A62D47F8DE4E7DB46BFBCB1A038CA5",
+   "region": "USA",
+   "file": "Jungle Book, The (USA).sfc"
+  },
+  {
+   "crc32": "CE14892D",
+   "md5": "1BF5EBE464359EF40747CF1FE98001C2",
+   "sha1": "30C2B0119F697CFB3F9ED5CD8871CD56F47F62E0",
+   "region": "Japan",
+   "file": "Jungle Book, The (Japan).sfc"
+  },
+  {
+   "crc32": "392AE185",
+   "md5": "EA22FD957281C0888C97D34A27CF3FA9",
+   "sha1": "108F21E83050BDEAD3C229398CE3E42085758E56",
+   "region": "Europe",
+   "file": "Jungle Book, The (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

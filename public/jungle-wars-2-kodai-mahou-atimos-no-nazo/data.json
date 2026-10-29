@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "42014B93",
+   "md5": "EB00D4DDCDCA32644C2058FF2C71B81B",
+   "sha1": "B2D8118CA99F279CFA3F4FD6873E39B39253147E",
+   "region": "Japan",
+   "file": "Jungle Wars 2 - Kodai Mahou Atimos no Nazo (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

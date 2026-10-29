@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "FCDF43CA",
+   "md5": "F1755F08DB760B3136D9D9AC962CB05A",
+   "sha1": "6EB8A406D97EC596234CE53E9698D8AF3765807F",
+   "region": "Japan",
+   "file": "Desert Strike - Wangan Sakusen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

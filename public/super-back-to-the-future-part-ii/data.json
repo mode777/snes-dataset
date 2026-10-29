@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B367D0B9",
+   "md5": "427FE52B3883EE077BF189476492C2F0",
+   "sha1": "DD95D3F729E9373322904F92B9816AE02B4C45F6",
+   "region": "Japan",
+   "file": "Super Back to the Future Part II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

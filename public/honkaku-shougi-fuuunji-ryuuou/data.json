@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B8BE82C2",
+   "md5": "6DAB4BF6C34CEF8CACAA58D7ACDE17DB",
+   "sha1": "11D5501A8A617D5E57D26264B171850DF0788FF5",
+   "region": "Japan",
+   "file": "Honkaku Shougi - Fuuunji Ryuuou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

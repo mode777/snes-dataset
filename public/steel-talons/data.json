@@ -32,6 +32,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "4EA9F93F",
+   "md5": "E290D802C7CA9138553B03A886713062",
+   "sha1": "048E58CDB7CA20F3B346DC2432D07498AB301817",
+   "region": "USA",
+   "file": "Steel Talons (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

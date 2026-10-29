@@ -31,6 +31,36 @@
  "languages": [
   "English, German, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "41A60B3F",
+   "md5": "71E8A70DD4A17B8278D03D74C8372E77",
+   "sha1": "A2DCEAB341EF20C836D4D3426F37F0EC396BBDCB",
+   "region": "Japan",
+   "file": "Star Fox (Japan).sfc"
+  },
+  {
+   "crc32": "0BAE0941",
+   "md5": "9DCE6A9DCBE4E304D67B9E8FD8999E7E",
+   "sha1": "1F5355534CCFAF26AE6C8F055F3E4768F9D72A7E",
+   "region": "USA",
+   "file": "Star Fox (USA).sfc"
+  },
+  {
+   "crc32": "8FC4E6D0",
+   "md5": "DEF66DB12F5E644C0CF00C42CFA7AE7B",
+   "sha1": "CF08148CD8F26D51F8C67C956179DFC594E7A4F1",
+   "region": "USA",
+   "file": "Star Fox (USA) (Rev 2).sfc"
+  },
+  {
+   "crc32": "AD668A41",
+   "md5": "D84E0E30DADF7B1F1782D6C832B655CA",
+   "sha1": "39FF7354A7FA02295C899B7A7EC3556998AC2636",
+   "region": "Japan",
+   "file": "Star Fox (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 3.85,
  "metascore": null,
  "cover_urls": [

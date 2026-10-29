@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "282611CD",
+   "md5": "0804A1CFA0DDCA79F566BDCCC987A036",
+   "sha1": "A609E3F8A2DE393D5565035A7469EA5BFBB2D3CE",
+   "region": "Europe",
+   "file": "Paperboy 2 (Europe).sfc"
+  },
+  {
+   "crc32": "C85AA66A",
+   "md5": "55112A9E516A1D74EB4F446588616C85",
+   "sha1": "DC9E458D9463877802D4440141186BCAFEA0EBA2",
+   "region": "USA",
+   "file": "Paperboy 2 (USA).sfc"
+  }
+ ],
  "gf_score": 3.15,
  "metascore": null,
  "cover_urls": [

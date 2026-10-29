@@ -27,6 +27,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "8B477300",
+   "md5": "9697253EAC2B9137D803271D47C402FB",
+   "sha1": "DD102CAEEC784913C5208F0DE5ED473FD1E7EEF6",
+   "region": "USA",
+   "file": "WCW Super Brawl Wrestling (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

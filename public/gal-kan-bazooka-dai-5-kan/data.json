@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "38762B6B",
+   "md5": "2A112531C9B269CC71FE0689A6ED6920",
+   "sha1": "382154EA2304618A2F61F57B022EC6C65617348D",
+   "region": "Japan",
+   "file": "Gal Kan Bazooka - Dai-5-kan (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

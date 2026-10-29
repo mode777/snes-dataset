@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "41ADF18F",
+   "md5": "78580A40A2BB0ABAF7E5358059199BEE",
+   "sha1": "DA07AF2AF6F9D57FC65861703E18DBF61937E962",
+   "region": "Japan",
+   "file": "Tsukikomori (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

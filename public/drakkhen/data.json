@@ -35,6 +35,36 @@
  "languages": [
   "English, German, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B0A016A2",
+   "md5": "38D2F009F6352F044DBAF6405CC2EF4A",
+   "sha1": "5D886F282655968B547F780E23CA77B7C0502512",
+   "region": "Japan",
+   "file": "Drakkhen (Japan).sfc"
+  },
+  {
+   "crc32": "9D291732",
+   "md5": "00DEC808D74998F8F95D804DC43FA0D1",
+   "sha1": "F4B2CAA1FD642CB2909BE32F6176BF423D17F700",
+   "region": "Germany",
+   "file": "Drakkhen (Germany).sfc"
+  },
+  {
+   "crc32": "C6CD0BED",
+   "md5": "C24C4C442A4CA29CADB368A82DBF2B60",
+   "sha1": "32E8D5C903379A59909A0F8CCD51555857FBD606",
+   "region": "Europe",
+   "file": "Drakkhen (Europe).sfc"
+  },
+  {
+   "crc32": "7DAE5C2A",
+   "md5": "DBBF6EA2E52C988A1D519029AE4E731C",
+   "sha1": "42915D0F261D400FFBDB8EE7E6410B2D2D0A71F4",
+   "region": "USA",
+   "file": "Drakkhen (USA).sfc"
+  }
+ ],
  "gf_score": 2.64,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AA760FEC",
+   "md5": "E0C88E127A60C7D90B1EBD545FF856FF",
+   "sha1": "1E2F8914636A6E22717BD4DD7BB5CD01AFC6C560",
+   "region": "USA",
+   "file": "Super Baseball Simulator 1.000 (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

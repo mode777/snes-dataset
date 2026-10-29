@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "688382B6",
+   "md5": "B12A279063604FED8AB7DB5D8A427B9E",
+   "sha1": "861AAED1A8179D65C6BEC306098B7502219A203D",
+   "region": "Japan",
+   "file": "Super Jinsei Game 3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

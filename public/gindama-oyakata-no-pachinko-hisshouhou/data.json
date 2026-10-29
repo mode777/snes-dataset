@@ -20,6 +20,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7ADACC49",
+   "md5": "6756DA8B230263AD67C5411480EEF63E",
+   "sha1": "272D9DBF6ED5001F8DA8AE6B00D523B291EAAB4D",
+   "region": "Japan",
+   "file": "Gindama Oyakata no Pachinko Hisshouhou (Japan).sfc"
+  },
+  {
+   "crc32": "B8C7A417",
+   "md5": "4B61A35AA65B4E3961E9DC33835BCF07",
+   "sha1": "80BFA015F12A6AF38AA3DCBF88560F928B07CF1D",
+   "region": "Japan",
+   "file": "Gindama Oyakata no Pachinko Hisshouhou (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

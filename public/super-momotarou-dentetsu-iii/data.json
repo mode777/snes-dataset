@@ -25,6 +25,29 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F787CB9A",
+   "md5": "EDFF6C0A924F42C0F4790F3CF9D20E5A",
+   "sha1": "CB86306630A9AE60428C7E7A09F5E06C172319DE",
+   "region": "Japan",
+   "file": "Super Momotarou Dentetsu III (Japan).sfc"
+  },
+  {
+   "crc32": "9B9F3F71",
+   "md5": "7817B84E7F305279E767DDC355A573F7",
+   "sha1": "BD0BF4AAD55D00FA1E52BD8A1CB649C7A026657B",
+   "region": "Japan",
+   "file": "Super Momotarou Dentetsu III (Japan) (Rev 2).sfc"
+  },
+  {
+   "crc32": "8587EB6E",
+   "md5": "5700E69AEA19C6C41BA55A9991973E11",
+   "sha1": "5442CDB949F60E002C6AAA60A7C916EB1290A7C9",
+   "region": "Japan",
+   "file": "Super Momotarou Dentetsu III (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

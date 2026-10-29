@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8D977B20",
+   "md5": "86FBB6E803D6CD84313A6D11395A5E20",
+   "sha1": "B0302DF072B676A838C18AE95C2B3EC20B07EE7C",
+   "region": "Japan",
+   "file": "BS Fuurai no Shiren - Surara o Sukue - Dai-2-shuu (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

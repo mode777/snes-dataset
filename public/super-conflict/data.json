@@ -32,6 +32,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "F254D5CF",
+   "md5": "AAFED29677C46EC6511D29E8B5A39A43",
+   "sha1": "6AD80097738A6C8E3611DBBD959828E89624A930",
+   "region": "USA",
+   "file": "Super Conflict (USA).sfc"
+  },
+  {
+   "crc32": "0A699604",
+   "md5": "F49DFB1B3AD3945C57201EB720D156D6",
+   "sha1": "E3DE5475971F635DF1014C38342DFF6A3642DB0C",
+   "region": "Europe",
+   "file": "Super Conflict (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -34,6 +34,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6A455EE2",
+   "md5": "E807372E95281D5268579283EC3D115F",
+   "sha1": "97DD894D4C0008FE935ED5C54B8D5CE2E0A32B7A",
+   "region": "Europe",
+   "file": "Wolfenstein 3D (Europe).sfc"
+  },
+  {
+   "crc32": "63E442B4",
+   "md5": "1BA48C769E64413F4456ACCB00B918C6",
+   "sha1": "A420602687CA86F75708DA463E1EFFEF85EBDC14",
+   "region": "USA",
+   "file": "Wolfenstein 3D (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.23,
  "metascore": 57,
  "cover_urls": [

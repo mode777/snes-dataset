@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4D6B6C80",
+   "md5": "E87810D478F3175EC97866C3B366490E",
+   "sha1": "38AB30962381E004618FF0EBFB563AA585C0282F",
+   "region": "Japan",
+   "file": "Higashio Osamu Kanshuu Super Pro Yakyuu Stadium (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5D4E4EE1",
+   "md5": "788E836661537802F78EE1FCC636B75A",
+   "sha1": "B11BADC115F54F267A22D90CA30D2CC7DD57AE14",
+   "region": "Japan",
+   "file": "Keiba Eight Special (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "A5FAEFAA",
+   "md5": "B8DBAA4EFF9542ECE95D5BEBBBCA0DA2",
+   "sha1": "AF2E7ACE9EDC1D1D6D109EE0E28C8A61BDD22B0E",
+   "region": "Japan",
+   "file": "Keiba Eight Special (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A9CC0A74",
+   "md5": "1BBC6D1C1E162603F9C99E1E4A846A7D",
+   "sha1": "07E0C6AFAB2674D474800FD9BC0B35FECC085356",
+   "region": "USA",
+   "file": "Pro Sport Hockey (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

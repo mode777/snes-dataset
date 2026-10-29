@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0B8D1474",
+   "md5": "18862A20E311F8CA08D064190C25504F",
+   "sha1": "A0EEBF715C93751C6423DC277717E365D69C735F",
+   "region": "Japan",
+   "file": "Momotarou Dentetsu Happy (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

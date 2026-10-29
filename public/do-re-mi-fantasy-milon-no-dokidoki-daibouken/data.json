@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9F2C2633",
+   "md5": "19B64F594FFD4C312FFEE6AF1102EC7D",
+   "sha1": "E56EBBCD0A2DB7BF58E2209ADB96F589F0100702",
+   "region": "Japan",
+   "file": "Do-Re-Mi Fantasy - Milon no Dokidoki Daibouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

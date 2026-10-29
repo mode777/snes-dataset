@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8BAFCA10",
+   "md5": "404797AD46837AC9F4B02FE1AEE3DD3E",
+   "sha1": "EB78D985AADE66CF1F2AAF19EBED104288746006",
+   "region": "Japan",
+   "file": "New 3D Golf Simulation - Waialae no Kiseki (Japan).sfc"
+  },
+  {
+   "crc32": "87C888B8",
+   "md5": "A49CBE7DB2E8131F2DA88BE2777AB787",
+   "sha1": "484F393A8455334861ECAF02B64FA99F0C9B6038",
+   "region": "Japan",
+   "file": "New 3D Golf Simulation - Waialae no Kiseki (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

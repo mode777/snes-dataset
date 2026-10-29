@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F716C24D",
+   "md5": "0F2F913E72ED1633B6A8D6991F1A565B",
+   "sha1": "957D8484D4E114C1C5777DCA83D875C59EDD898F",
+   "region": "Japan",
+   "file": "Dolucky no Puzzle Tour '94 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

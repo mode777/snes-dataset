@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B9B9DF06",
+   "md5": "6AE194D9F8022C9A2962A423FFBC40CC",
+   "sha1": "3E7F10E13065424A28C93871B4A1E458817D754C",
+   "region": "Japan",
+   "file": "Planet's Champ TG 3000, The (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

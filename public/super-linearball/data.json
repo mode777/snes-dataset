@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "689AC35C",
+   "md5": "EF5F11D518BA98875C07349605313C19",
+   "sha1": "73CD9170C5935E3367DA84956CA59AA4F851C671",
+   "region": "Japan",
+   "file": "Super Linearball (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

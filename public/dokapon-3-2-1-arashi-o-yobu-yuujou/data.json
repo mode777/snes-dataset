@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FC353400",
+   "md5": "4C4435011D5D0300EBACF969B47E2796",
+   "sha1": "9343CA8D3161DEA847E0369A4A91CD7F8DC2D3AE",
+   "region": "Japan",
+   "file": "Dokapon 3-2-1 - Arashi o Yobu Yuujou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

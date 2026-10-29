@@ -20,6 +20,15 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "327416D4",
+   "md5": "650E587408E8691C511E831DE5F606DC",
+   "sha1": "9CA23CF83594D2C17AC790684DE278F3FA91B360",
+   "region": "USA",
+   "file": "Firepower 2000 (USA).sfc"
+  }
+ ],
  "gf_score": 3.59,
  "metascore": null,
  "cover_urls": [

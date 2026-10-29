@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A1BF047B",
+   "md5": "A25E227D4C4A1FE3CC2D946EF9480122",
+   "sha1": "0C315C653F8778D1CEF906E9843F054F7E839CC0",
+   "region": "Japan",
+   "file": "Hissatsu Pachinko Collection (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8C2068D1",
+   "md5": "80D1144DC2D6F7AD5BBBCB1DD448B6CF",
+   "sha1": "029FD32F8561B7D1EF9EC17384D4E77EA08CD1EA",
+   "region": "USA",
+   "file": "Twisted Tales of Spike McFang, The (USA).sfc"
+  }
+ ],
  "gf_score": 3.42,
  "metascore": null,
  "cover_urls": [

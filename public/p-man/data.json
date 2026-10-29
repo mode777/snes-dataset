@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C4F299B5",
+   "md5": "146C7CD073165C271B6EB09E032F91E9",
+   "sha1": "047F62CCF6FEF833A1ADDC523001E1B403507B56",
+   "region": "Japan",
+   "file": "P-Man (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

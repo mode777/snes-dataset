@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1FC1915D",
+   "md5": "F8E661954BF8F574D4A4C9944452C197",
+   "sha1": "52718D5EA0982905254648DA88DF36AB6025F2A8",
+   "region": "Japan",
+   "file": "JRA PAT - Wide Taiyouban (Japan) (TJDJ).sfc"
+  },
+  {
+   "crc32": "673468C8",
+   "md5": "5595A1051D085F7D88713B625B5111F0",
+   "sha1": "F3344C19BCCCA1CF1647A72C1A113A702B5BDF8B",
+   "region": "Japan",
+   "file": "JRA PAT - Wide Taiyouban (Japan) (TJEJ).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

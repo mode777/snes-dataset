@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "07FAFCD0",
+   "md5": "F0789172FCC8941BC37E65E451D53318",
+   "sha1": "3F6C584D818F45A5AA241CBDA88B7139EF2D0462",
+   "region": "Japan",
+   "file": "Space Invaders - The Original Game (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

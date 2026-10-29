@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0C52E145",
+   "md5": "3CAA81141B1404DCCE0B6B761B58B537",
+   "sha1": "F68881BA0CD10224D4DB4A9A82CE35CDF418F7E8",
+   "region": "Japan",
+   "file": "Yoshi no Cookie - Kuruppon Oven de Cookie (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

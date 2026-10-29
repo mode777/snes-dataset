@@ -30,6 +30,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E500C7BA",
+   "md5": "A9BB24A7622114B91CA85DCB30026830",
+   "sha1": "CCA28AF7C399845DFF3CA17BE3F5DC1051C959AC",
+   "region": "USA",
+   "file": "FireStriker (USA).sfc"
+  },
+  {
+   "crc32": "BBBBABB6",
+   "md5": "A72F10336EC1AC372B4A2AE7DC43D265",
+   "sha1": "9DF853DDE743616FD09F34631D0C4C849E163969",
+   "region": "USA",
+   "file": "FireStriker (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

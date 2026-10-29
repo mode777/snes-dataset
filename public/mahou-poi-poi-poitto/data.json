@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BDF35044",
+   "md5": "0E5D6FD072D440B11719DE4BF8A7C074",
+   "sha1": "9903ADA5EFA56D644AE0D2FE1F5FD378BDDC135B",
+   "region": "Japan",
+   "file": "Mahou Poi Poi Poitto! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

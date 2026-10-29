@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "95B65DFE",
+   "md5": "FA3C211A2F115CCF90518ED91097B395",
+   "sha1": "F44BA05908CB36462505EF431A68D11BAD301DBC",
+   "region": "USA",
+   "file": "Itchy & Scratchy Game, The (USA).sfc"
+  },
+  {
+   "crc32": "C402347A",
+   "md5": "207C00AAE8F1DEF78BDE238B6740BF3C",
+   "sha1": "85DB54D4D546EEB9B25EE84C065D480696BEB762",
+   "region": "Europe",
+   "file": "Itchy & Scratchy Game, The (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9008C18A",
+   "md5": "85C9029C63AC3A61191303D957E37259",
+   "sha1": "C8F24DE4078170D14C729083A29758F05051C27B",
+   "region": "Japan",
+   "file": "4-nin Shougi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

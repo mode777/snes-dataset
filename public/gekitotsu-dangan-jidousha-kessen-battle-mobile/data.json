@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3E88E883",
+   "md5": "F03545B1932D26A755B9DCEF3ADEEF59",
+   "sha1": "220A463789E245E2B970F8D45F5E9FE540B26144",
+   "region": "Japan",
+   "file": "Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

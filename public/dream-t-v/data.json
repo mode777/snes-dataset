@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "AB5A9E40",
+   "md5": "A33CD61E05671DF8529FBFA70DA007D1",
+   "sha1": "2EC99D3997677116CAA8277544D4BB12D6F74B80",
+   "region": "USA",
+   "file": "Dream T.V. (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

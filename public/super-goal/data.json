@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "BB624450",
+   "md5": "74AAA0F11CFAD1D372AC450ACBB65067",
+   "sha1": "D5D677EB2A2804D7B88E29351CF99B6E669B71A1",
+   "region": "Europe",
+   "file": "Super Goal! (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

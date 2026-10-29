@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "28BD0DBF",
+   "md5": "FE3D283E4491DA96CA622B9854C04BEF",
+   "sha1": "E595FF72C8BDE192D1B72477EFF3D1F906B07C12",
+   "region": "Japan",
+   "file": "Super Chinese World 2 - Uchuu Ichibutou Taikai (Japan) (Sample).sfc"
+  },
+  {
+   "crc32": "77DAFBB6",
+   "md5": "E5F23D8AFB3517DAB7101CDC2C4E040B",
+   "sha1": "C05F88DDD689F4A0DBAD6880D29413973777C48A",
+   "region": "Japan",
+   "file": "Super Chinese World 2 - Uchuu Ichibutou Taikai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

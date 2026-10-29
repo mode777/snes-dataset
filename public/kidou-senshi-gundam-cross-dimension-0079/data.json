@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9AB3EB18",
+   "md5": "EBF9327ED199214D8B12B03875C89507",
+   "sha1": "DB139DFA793F85AAFF8EC97CF79FD4A59AFA119F",
+   "region": "Japan",
+   "file": "Kidou Senshi Gundam - Cross Dimension 0079 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

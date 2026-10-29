@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A9FCFD53",
+   "md5": "6FA817FA8BB28D12151F4CAD181E904D",
+   "sha1": "1B651E943B3B8C17815E5619837AF600E3097557",
+   "region": "Japan",
+   "file": "Vs. Collection (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

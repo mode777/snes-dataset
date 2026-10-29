@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "52948F3C",
+   "md5": "AD04758596F502576972EA3B163E8F13",
+   "sha1": "25208AA414EA5F1C25FD7332BE54590B565320D5",
+   "region": "Japan",
+   "file": "Yoshi no Road Hunting (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B041C754",
+   "md5": "3F3B32F682ECCC0C2FE376CC15996C5B",
+   "sha1": "4D59B58DCC12116FF8C5672D6582B01132B9C714",
+   "region": "Japan",
+   "file": "BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

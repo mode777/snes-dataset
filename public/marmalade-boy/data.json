@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5299B3A6",
+   "md5": "0605A0F14051F95B959EC34F9256C1E6",
+   "sha1": "50E72AEBB03E3EA8C20146EDCC5AD6AB40BC60CA",
+   "region": "Japan",
+   "file": "Marmalade Boy (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

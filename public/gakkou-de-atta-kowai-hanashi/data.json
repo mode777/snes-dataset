@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "94B93B25",
+   "md5": "1C9BA754FB7C18266D028BF3010E5412",
+   "sha1": "602C0B6DD24C0D975B02E0574FF2B6041B041E34",
+   "region": "Japan",
+   "file": "Gakkou de Atta Kowai Hanashi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

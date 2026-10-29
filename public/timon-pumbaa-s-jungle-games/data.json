@@ -32,6 +32,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "341C6FB0",
+   "md5": "60A86BA313DE38D47E17AF55A864A626",
+   "sha1": "28D76E1CC2B4F5399863B291D94E16600BF0BDA6",
+   "region": "USA",
+   "file": "Timon & Pumbaa's Jungle Games (USA).sfc"
+  },
+  {
+   "crc32": "5E91C599",
+   "md5": "9B35CCAF117B408D36FF204D4C4955FA",
+   "sha1": "039E513E0B84B549E38C0305DA70A9A4C1513361",
+   "region": "Europe",
+   "file": "Timon & Pumbaa's Jungle Games (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

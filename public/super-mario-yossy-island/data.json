@@ -11,6 +11,29 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F1063FAD",
+   "md5": "C464855C3EE3CD6652DC42FC4BB2BE38",
+   "sha1": "53188BC4623F5B8C9DF5C1C54BD187347A2AD969",
+   "region": "Japan",
+   "file": "Super Mario - Yossy Island (Japan) (Rev 2).sfc"
+  },
+  {
+   "crc32": "0F66698B",
+   "md5": "B6CF9BD3C7C5B5F596EF81DA37648F0F",
+   "sha1": "E1279E5701E4880B666982C9C056419500835952",
+   "region": "Japan",
+   "file": "Super Mario - Yossy Island (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "343E0DFB",
+   "md5": "05F0B393E491AE879CD1E729341C9430",
+   "sha1": "ABACCA9B1BE88B082E7DD8A50E809AEF6AB4D0EF",
+   "region": "Japan",
+   "file": "Super Mario - Yossy Island (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

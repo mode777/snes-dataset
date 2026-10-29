@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B90696D0",
+   "md5": "EB1160BA1592C687F88A7C39D96B67E1",
+   "sha1": "FD38D4B4F1EB87DF2D8378F9028DF3DAC3786C06",
+   "region": "Japan",
+   "file": "Super Power League 3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

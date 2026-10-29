@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "125A0C22",
+   "md5": "D58849487D0AB3038F5F9CC38EFC8602",
+   "sha1": "A4312636BFAC45A21B3E2F4475E5DB622E9FC0E3",
+   "region": "Japan",
+   "file": "Dark Law - Meaning of Death (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

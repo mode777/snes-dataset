@@ -29,6 +29,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AA58A166",
+   "md5": "D3345C674DEE52C654F6859ACDE2ED1F",
+   "sha1": "30CC3ABB60F6037918017725139F4A3074800B64",
+   "region": "Europe",
+   "file": "Final Fight 3 (Europe).sfc"
+  },
+  {
+   "crc32": "A916E708",
+   "md5": "1288DE058352D6F9C3BA146A61581555",
+   "sha1": "09D542FBB06DCAFEC26602BDC626BCDAF56B23CB",
+   "region": "USA",
+   "file": "Final Fight 3 (USA).sfc"
+  },
+  {
+   "crc32": "FB764D87",
+   "md5": "5AAF2D403FCF928F5439424037BC4348",
+   "sha1": "24E7B1FA0B5727A9C9A353108C97BA5964BED404",
+   "region": "USA",
+   "file": "Final Fight 3 (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.93,
  "metascore": null,
  "cover_urls": [

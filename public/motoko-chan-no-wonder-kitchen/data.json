@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "18AFF666",
+   "md5": "AE83F7BB3966CC887FA210AEBB5422B0",
+   "sha1": "83698C00B7E5C6902768DDC96D5D88A701715E19",
+   "region": "Japan",
+   "file": "Motoko-chan no Wonder Kitchen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

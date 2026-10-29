@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5CCE2E55",
+   "md5": "0289033CB1A8A60BA12C3116E94C7728",
+   "sha1": "F783453422AB69CBC8A21838DA036D34CFF6A07E",
+   "region": "Japan",
+   "file": "Block Kuzushi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

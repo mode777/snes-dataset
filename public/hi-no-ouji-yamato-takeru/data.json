@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2FC4C8A2",
+   "md5": "346926E5B753679B0F149991CAD8E095",
+   "sha1": "9A8BA4260537EBFF78018514E1E02AC29B3B4C0D",
+   "region": "Japan",
+   "file": "Hi no Ouji - Yamato Takeru (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

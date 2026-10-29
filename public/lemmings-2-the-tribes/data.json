@@ -37,6 +37,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1E7A945A",
+   "md5": "3BCBD2878D937046EC2379C7433631DB",
+   "sha1": "265AB3CF95E4816C46BFD7D6A5A0BDAC9D659CB2",
+   "region": "Japan",
+   "file": "Lemmings 2 - The Tribes (Japan).sfc"
+  },
+  {
+   "crc32": "DF7200C8",
+   "md5": "4269B8D0D9DEF1AC349FAADF3B93BCEF",
+   "sha1": "2A4EE59FB47A8CC50113839C9400348A33EB80C3",
+   "region": "USA",
+   "file": "Lemmings 2 - The Tribes (USA).sfc"
+  },
+  {
+   "crc32": "290107A1",
+   "md5": "374642FC7F368A7AF262C7D945C26F9E",
+   "sha1": "FDA84C807739021E40F5D20A65995A3BB6FFD371",
+   "region": "Europe",
+   "file": "Lemmings 2 - The Tribes (Europe).sfc"
+  }
+ ],
  "gf_score": 3.5,
  "metascore": null,
  "cover_urls": [

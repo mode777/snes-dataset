@@ -30,6 +30,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "04C716BB",
+   "md5": "D8461A815FBDB4660ADA1F155CDEBF37",
+   "sha1": "3F20C2C8749CCEE3A53732B41AE026BF3AAA2158",
+   "region": "USA",
+   "file": "Family Feud (USA).sfc"
+  },
+  {
+   "crc32": "0C664B71",
+   "md5": "07B716C2F413C7A0DB5849F88AD1A7FF",
+   "sha1": "8556B6545B78022FE55705A83C3E751C463F56C7",
+   "region": "USA",
+   "file": "Family Feud (USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 2.97,
  "metascore": null,
  "cover_urls": [

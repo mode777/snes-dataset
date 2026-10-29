@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5E1B435A",
+   "md5": "D7769774CA048383A910AF5800994834",
+   "sha1": "E6A8DA842C850084BF328353EA2C8D8D001AE2DE",
+   "region": "Japan",
+   "file": "Shinchou Kouki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

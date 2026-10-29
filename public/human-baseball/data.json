@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "010E3DAB",
+   "md5": "B535262CDB7D1A6863841573BA68E982",
+   "sha1": "D653331974983226D0A1C425737A19FEE580833E",
+   "region": "Japan",
+   "file": "Human Baseball (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

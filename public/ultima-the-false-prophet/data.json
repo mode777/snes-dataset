@@ -28,6 +28,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9277C9F7",
+   "md5": "B99E36B9E0E84BCE7D3E399BAB2AEE3F",
+   "sha1": "3BA23E4CFF05E72B1A6A9719AC7A2E5CC1A0E60A",
+   "region": "USA",
+   "file": "Ultima - The False Prophet (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

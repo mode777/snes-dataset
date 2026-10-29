@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0A7DC25D",
+   "md5": "04AF527BA84C8B3E301FEBF269089E4D",
+   "sha1": "1448BDFC3DDB301616CB269DB02554517CE6B64D",
+   "region": "Japan",
+   "file": "Hansei Zaru Jiro-kun no Daibouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

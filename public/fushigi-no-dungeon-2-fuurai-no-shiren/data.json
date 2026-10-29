@@ -28,6 +28,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AF5703EE",
+   "md5": "8C8FC738EAE4EB714B43889767DAF094",
+   "sha1": "E043F3096F0BD883644287344F18050EE43D69E9",
+   "region": "Japan",
+   "file": "Fushigi no Dungeon 2 - Fuurai no Shiren (Japan).sfc"
+  },
+  {
+   "crc32": "824AA6B5",
+   "md5": "6CDD5607E78D7F240EA7AA85565C97C2",
+   "sha1": "19E206B3ADED81F47AFC1608AA4E452F425244F1",
+   "region": "Japan",
+   "file": "Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (Rev 1) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

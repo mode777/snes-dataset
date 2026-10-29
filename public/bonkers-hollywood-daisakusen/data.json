@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9401D956",
+   "md5": "783A0C32F9FA04218D2BB866F1D89352",
+   "sha1": "AE55FF828D17CCCD712516F587D4E8EF7FFF3AFB",
+   "region": "Japan",
+   "file": "Bonkers - Hollywood Daisakusen! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E235F0C6",
+   "md5": "3F26C6BFAD366D6FC84666D7D5E22C2F",
+   "sha1": "1AD723C995C8AA6393569F68489811585F5A1C12",
+   "region": "Japan",
+   "file": "Mickey no Tokyo Disneyland Daibouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

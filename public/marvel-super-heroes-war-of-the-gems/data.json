@@ -28,6 +28,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E86CFE8F",
+   "md5": "371801EAA887310336742007A5157175",
+   "sha1": "A5F38340C110D96B9D9622CA1FB1DE81936C5EF4",
+   "region": "USA",
+   "file": "Marvel Super Heroes - War of the Gems (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "AB628C0C",
+   "md5": "A911C65EC01AFC2A240F28A91F5FAFC6",
+   "sha1": "8662105AAE89D1FE9A0CD484CA96FB39FE7DC638",
+   "region": "Japan",
+   "file": "Marvel Super Heroes - War of the Gems (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

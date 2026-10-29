@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DB6B9DB1",
+   "md5": "205BCE99C37DA293F370E81310632C20",
+   "sha1": "723BCAB119F733D0CA9B7E46CC94C83FF83F4A9F",
+   "region": "Japan",
+   "file": "Miracle Casino Paradise (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

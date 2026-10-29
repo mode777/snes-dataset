@@ -24,6 +24,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DA73211F",
+   "md5": "6BCC4773B3FA212ADA8C8BBF5B630C9B",
+   "sha1": "45B9E3C8E02B23F75ED12A56377F6219FBDE68C0",
+   "region": "Japan",
+   "file": "U.F.O. Kamen Yakisoban - Kettler no Kuroi Inbou (Japan) (Keihin Ban).sfc"
+  },
+  {
+   "crc32": "272DFC4B",
+   "md5": "8B58548B2B84DB269D3945819088581F",
+   "sha1": "14FA63AC89FDCF3095120963FD16C73AE60F2CC7",
+   "region": "Japan",
+   "file": "U.F.O. Kamen Yakisoban - Kettler no Kuroi Inbou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "31197A53",
+   "md5": "F120EF3D44AC8780FC2F7FB40D72DDCB",
+   "sha1": "088E9D1A3F30FDD8F7183339E97FE4A68D99CB16",
+   "region": "Japan",
+   "file": "Miyaji Shachou no Pachinko Fan - Shouri Sengen 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

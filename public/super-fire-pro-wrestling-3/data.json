@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "10D71B45",
+   "md5": "35E38CEE31156D39C149CD8374EE65D1",
+   "sha1": "846AF9C7437F40F0F570C3ECCE36824D11611DDC",
+   "region": "Japan",
+   "file": "Super Fire Pro Wrestling 3 (Japan) (Sample).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

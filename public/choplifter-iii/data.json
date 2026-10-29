@@ -25,6 +25,15 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "788E42C9",
+   "md5": "768BB8313AEF9484172E18AB3CB5960B",
+   "sha1": "568593160CE187B78EA4082F4F1F9E934966AA6B",
+   "region": "Europe",
+   "file": "Choplifter III (Europe).sfc"
+  }
+ ],
  "gf_score": 3.78,
  "metascore": null,
  "cover_urls": [

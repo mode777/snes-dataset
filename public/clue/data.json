@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "A4FBE827",
+   "md5": "061FB90E60BC8EC8128AE4BB8F5884C8",
+   "sha1": "956B48F602A24DD3D5D64195F6366FA0B68F0738",
+   "region": "USA",
+   "file": "Clue (USA).sfc"
+  }
+ ],
  "gf_score": 3.21,
  "metascore": null,
  "cover_urls": [

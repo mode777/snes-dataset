@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B3258F38",
+   "md5": "E60EAC0054CCED7247F067AEF6F7494F",
+   "sha1": "5ABC7F3AB0B705028F9A7D101A68B31E36C4D11C",
+   "region": "Japan",
+   "file": "Chou Mahou Tairiku Wozz (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

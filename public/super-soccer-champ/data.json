@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B31D35A5",
+   "md5": "BBC469D1AAAAD8B0BD736CD383B23F9C",
+   "sha1": "AC7A314DC6C18177E9B38B061693FAEF67A9E079",
+   "region": "USA",
+   "file": "Super Soccer Champ (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

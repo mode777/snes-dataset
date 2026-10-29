@@ -31,6 +31,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BC3DCD9D",
+   "md5": "BE7FC84AC1151B99AD48329327E2AAA7",
+   "sha1": "7DDCB96E0D9FEA94D9370635262AC7C28DA85214",
+   "region": "USA",
+   "file": "Street Fighter II (USA).sfc"
+  },
+  {
+   "crc32": "5556C5C9",
+   "md5": "7BA1A7E9DA4BFF995242F57470E479A7",
+   "sha1": "B01D39475AD1CF0BC914C6B3865EF9295A9ECE3D",
+   "region": "Japan",
+   "file": "Street Fighter II (Japan).sfc"
+  },
+  {
+   "crc32": "8B93F566",
+   "md5": "A5ADB1AB3DAA665A58AD6AD1111D8F5B",
+   "sha1": "5FD528793373DACB085224B2E6CA3EAC305D65A9",
+   "region": "Europe",
+   "file": "Street Fighter II (Europe).sfc"
+  }
+ ],
  "gf_score": 3.9,
  "metascore": null,
  "cover_urls": [

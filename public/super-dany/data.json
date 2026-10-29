@@ -33,6 +33,22 @@
  "languages": [
   "French"
  ],
+ "roms": [
+  {
+   "crc32": "0F578F67",
+   "md5": "6B8B709DFDDFF8CEB5C729D43CC40C77",
+   "sha1": "9677299FAE28A2BD03E3A653238AAB4DA19ABA00",
+   "region": "France",
+   "file": "Super Dany (France).sfc"
+  },
+  {
+   "crc32": "3D1B4C77",
+   "md5": "A38622C10605E90FF478E555065DD0DD",
+   "sha1": "3D75BF2DE45027CBCF51A8589E466C27A217042C",
+   "region": "France",
+   "file": "Super Dany (France) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

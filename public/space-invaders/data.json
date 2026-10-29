@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6B62625A",
+   "md5": "A201DACB210CB8E85AE205DD2458D8E1",
+   "sha1": "1EDC9088DC695C31A396B914C1C921C77A740068",
+   "region": "Europe",
+   "file": "Space Invaders (Europe).sfc"
+  },
+  {
+   "crc32": "CAF035F5",
+   "md5": "925B7C04455633503842E524940A3676",
+   "sha1": "125A5A045AB6CB60728C8ADED449C7B6A8144035",
+   "region": "USA",
+   "file": "Space Invaders (USA).sfc"
+  }
+ ],
  "gf_score": 3.33,
  "metascore": null,
  "cover_urls": [

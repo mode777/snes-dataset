@@ -28,6 +28,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "E6C0B5DA",
+   "md5": "269025C5EB1C97F7EFFC613762EE06CF",
+   "sha1": "1CEE68420E5032821993A67CD79D0B49D729178C",
+   "region": "USA",
+   "file": "BreakThru! (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

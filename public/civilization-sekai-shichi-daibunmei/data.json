@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9D5CE088",
+   "md5": "E90E62287C85EB0A0CD975A941EF47E5",
+   "sha1": "E1CC964E95C8412B41D245F571AED9E1BE9BD1A5",
+   "region": "Japan",
+   "file": "Civilization - Sekai Shichi Daibunmei (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

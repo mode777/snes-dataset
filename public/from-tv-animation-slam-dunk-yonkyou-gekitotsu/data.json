@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "35B21BBA",
+   "md5": "26AC79C18C80BEDDF753CCFEA16393C3",
+   "sha1": "42E20AD3B9574A488E6A292BFFF960D2AE5167D9",
+   "region": "Japan",
+   "file": "From TV Animation Slam Dunk - Yonkyou Gekitotsu!! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

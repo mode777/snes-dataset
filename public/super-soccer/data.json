@@ -33,6 +33,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "442C47CB",
+   "md5": "876C36809F6F30BE9C407813621FD577",
+   "sha1": "6EB6DD6DA1E8EEFAD24C30B59EDEDBD671B9DB2C",
+   "region": "Europe",
+   "file": "Super Soccer (Europe).sfc"
+  },
+  {
+   "crc32": "4FD164D8",
+   "md5": "15BC713C9464C0E3243D1DBCF75C9BEE",
+   "sha1": "47F401CF0B5845E129B636D381233C23BA74CEF6",
+   "region": "USA",
+   "file": "Super Soccer (USA).sfc"
+  }
+ ],
  "gf_score": 3.22,
  "metascore": null,
  "cover_urls": [

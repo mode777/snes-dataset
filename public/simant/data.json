@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9D5FEB20",
+   "md5": "1662E41DEC5C6976987B482CDCEEDD2E",
+   "sha1": "27672B67EE5F3BEB52AE236DE7D39BE2509D9996",
+   "region": "USA",
+   "file": "SimAnt (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "34B99A85",
+   "md5": "8646848425C8D218A711F440BCAFDE3B",
+   "sha1": "1FBBC2749D3C3F74A1F163A28DFF0177E6A32344",
+   "region": "Japan",
+   "file": "SimAnt (Japan).sfc"
+  }
+ ],
  "gf_score": 3.46,
  "metascore": null,
  "cover_urls": [

@@ -34,6 +34,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D16810CD",
+   "md5": "8379D0277138024063110C1DB828CAD6",
+   "sha1": "618413E6092B9FE935DBB2E6C42FD3CE93A65775",
+   "region": "Japan",
+   "file": "Pokonyan! - Henpokorin Adventure (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

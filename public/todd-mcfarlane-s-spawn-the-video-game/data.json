@@ -23,6 +23,22 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "4E1DAFD0",
+   "md5": "FA499B552C4C9CCCD089802147B5DCD5",
+   "sha1": "F3D8B7FF4127899131FC9253BE8B30F7A8BAB717",
+   "region": "USA",
+   "file": "Todd McFarlane's Spawn - The Video Game (USA).sfc"
+  },
+  {
+   "crc32": "0CA0B84F",
+   "md5": "F22F267B9DE289701B1753E9BB5C9279",
+   "sha1": "8C90C410C93FEF6ECFC85DA3D2B85FB61A099C27",
+   "region": "Europe",
+   "file": "Todd McFarlane's Spawn - The Video Game (Europe).sfc"
+  }
+ ],
  "gf_score": 3.49,
  "metascore": null,
  "cover_urls": [

@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4D5DA64F",
+   "md5": "B240AD406AEA9C7AAB9728372FA525F4",
+   "sha1": "AE123C368F6401FB7285E0307C2ADEB78FA7D3FA",
+   "region": "Japan",
+   "file": "Elfaria II - The Quest of the Meld (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

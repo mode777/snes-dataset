@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DCFE0B6B",
+   "md5": "43B714DD30B5BC6A6AABF1991AD36835",
+   "sha1": "66B3AEB382187FB05DDDC12E808412E5C9A3B7B3",
+   "region": "Japan",
+   "file": "Fishing Koushien (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

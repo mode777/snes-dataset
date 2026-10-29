@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A0BFD8E9",
+   "md5": "0545CFE93C0CFA3A721B65D928E5AECD",
+   "sha1": "F4473F1150E61D0BD02180FA496B344AA61EF9D8",
+   "region": "Japan",
+   "file": "Mickey no Magical Adventure (Japan).sfc"
+  },
+  {
+   "crc32": "453BD625",
+   "md5": "2F50D8EE4E98E846DA5852268F44888B",
+   "sha1": "2A1BD97FCB38C7ABDBF8396D1DFD0EA3FFE161B3",
+   "region": "Japan",
+   "file": "Mickey no Magical Adventure (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

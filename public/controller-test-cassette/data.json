@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "EDF7EBB9",
+   "md5": "64934A22A04D044C4D6B295CDFBBA89E",
+   "sha1": "B93C39C683BA3BE4C8F7B4FC120444FE0510568E",
+   "region": "Japan",
+   "file": "Controller Test Cassette (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

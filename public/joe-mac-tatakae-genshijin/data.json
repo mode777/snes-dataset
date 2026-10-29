@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "FB9F19BA",
+   "md5": "332535D792C3EB3B5C865D3D96587B6E",
+   "sha1": "8E3C0993676D8E22A83EDC17B6B5335D34D2D631",
+   "region": "Japan",
+   "file": "Joe & Mac - Tatakae Genshijin (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "670B51CA",
+   "md5": "401AE46720B0197F5442A82914CFD6C7",
+   "sha1": "4A53E22E2B01F55245112DA5BDD24AED7A9F7C10",
+   "region": "Japan",
+   "file": "BS Zelda no Densetsu Map 2 - Dai-4-wa (Japan) (BS) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

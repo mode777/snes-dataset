@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "FB2D267C",
+   "md5": "3D166EFEE520AA0013C0846C3AC4D417",
+   "sha1": "CEF60BBAD2A194F87243413F02803167100AFE8F",
+   "region": "Japan",
+   "file": "Mortal Kombat II - Kyuukyoku Shinken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

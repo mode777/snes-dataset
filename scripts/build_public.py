@@ -5,6 +5,7 @@ Reads data/snes_merged.json and produces:
   public/index.json                  { "<Original Title>": "<slug>", ... }
   public/index-reverse.json          { "<slug>": "<Original Title>", ... }
   public/catalog.json                [{slug,title,year,developer,...}] for the UI grid
+  public/by-crc.json                 { "<CRC32>": "<slug>" } for exact ROM lookup
   public/<slug>/data.json            full metadata; images referenced by filename
   public/<slug>/thumb.<ext>          box art thumbnail (Kaggle "small" set) if available
   public/<slug>/box.<ext>            full box image (Kaggle "large" set) if available
@@ -54,7 +55,8 @@ def main() -> None:
     for entry in PUBLIC.iterdir():
         if entry.is_dir():
             shutil.rmtree(entry)
-        elif entry.name in ("index.json", "index-reverse.json", "catalog.json", "README.md"):
+        elif entry.name in ("index.json", "index-reverse.json", "catalog.json",
+                            "by-crc.json", "README.md"):
             entry.unlink()
     PUBLIC.mkdir(exist_ok=True)
     (PUBLIC / ".nojekyll").touch()
@@ -63,6 +65,8 @@ def main() -> None:
     index: dict[str, str] = {}          # title -> slug
     reverse: dict[str, str] = {}        # slug -> title
     catalog: list[dict] = []
+    by_crc: dict[str, str] = {}         # CRC32 (8-char uppercase hex) -> slug
+    crc_collisions = 0
     used: set[str] = set()
     with_thumb = with_box = 0
 
@@ -99,6 +103,15 @@ def main() -> None:
         if images:
             data["images"] = images
 
+        for rom in game.get("roms", []):
+            crc = rom.get("crc32", "")
+            if not crc:
+                continue
+            if crc in by_crc and by_crc[crc] != slug:
+                crc_collisions += 1
+                continue
+            by_crc[crc] = slug
+
         (game_dir / "data.json").write_text(
             json.dumps(data, indent=1, ensure_ascii=False), encoding="utf-8"
         )
@@ -121,6 +134,11 @@ def main() -> None:
     (PUBLIC / "catalog.json").write_text(
         json.dumps(catalog, ensure_ascii=False), encoding="utf-8"
     )
+    (PUBLIC / "by-crc.json").write_text(
+        json.dumps(by_crc, indent=1, ensure_ascii=False), encoding="utf-8"
+    )
+    if crc_collisions:
+        print(f"  by-crc collisions (first slug wins): {crc_collisions}")
 
     size = sum(f.stat().st_size for f in PUBLIC.rglob("*") if f.is_file())
     print(f"games: {len(index)}  (thumb: {with_thumb}, box: {with_box})")

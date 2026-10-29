@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5ABFBE21",
+   "md5": "8238A753738724820BA52DB3A56B7183",
+   "sha1": "5C884A7054B8FC538866ED8AE5964FF407DDB2AC",
+   "region": "Japan",
+   "file": "Space Funky B.O.B. (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

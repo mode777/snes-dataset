@@ -31,6 +31,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "B096E82E",
+   "md5": "7DB0A718AD77A37BF7F70FC37F56312D",
+   "sha1": "9B3C5A6887BA722AC29DE0EA13AFC38CD2091E33",
+   "region": "Europe",
+   "file": "Izzy's Quest for the Olympic Rings (Europe).sfc"
+  },
+  {
+   "crc32": "E9BB68C7",
+   "md5": "831FADFDF7D5DFA3F48BE8E33E072CD6",
+   "sha1": "741F235D251EA91485024BFAE45063895D2D5572",
+   "region": "USA",
+   "file": "Izzy's Quest for the Olympic Rings (USA).sfc"
+  },
+  {
+   "crc32": "53CE0546",
+   "md5": "546EBAC7BDA262263AF6190941AA673C",
+   "sha1": "0290E6D96183506BA5EFBF703D997A90973C930D",
+   "region": "USA",
+   "file": "Izzy's Quest for the Olympic Rings (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

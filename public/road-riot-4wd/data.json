@@ -34,6 +34,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "4CA1A3B2",
+   "md5": "CA29B2C092863C1E975048ED474CFC70",
+   "sha1": "889002825734711D3A9EB060A2D715773DDA17E3",
+   "region": "USA",
+   "file": "Road Riot 4WD (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "20367643",
+   "md5": "F9F9DDA0C2FA908E2ED377C8549B1674",
+   "sha1": "62E46F8997B3F5A47D2A26ABD455F172E742476D",
+   "region": "USA",
+   "file": "Road Riot 4WD (USA).sfc"
+  },
+  {
+   "crc32": "0EC43268",
+   "md5": "B432BF3FAFBAD88CAB13B62B120F0179",
+   "sha1": "EA42D647E59FB539118ED1FC215C71042283A04F",
+   "region": "Europe",
+   "file": "Road Riot 4WD (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

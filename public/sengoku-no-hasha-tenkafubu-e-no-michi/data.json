@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4B955941",
+   "md5": "0B0372F9994342DD7186AB2D0957A982",
+   "sha1": "BFE75624CC4C04BE2F73A5485C311C6D1D1F5ABA",
+   "region": "Japan",
+   "file": "Sengoku no Hasha - Tenkafubu e no Michi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

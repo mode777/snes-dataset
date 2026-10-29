@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "37FE8126",
+   "md5": "96E0F7D8BECB6C203BDE703C02A60122",
+   "sha1": "F0F7F946DA12866D064F67B8D639ABD3A212A1B4",
+   "region": "USA",
+   "file": "Paladin's Quest (USA).sfc"
+  }
+ ],
  "gf_score": 3.37,
  "metascore": null,
  "cover_urls": [

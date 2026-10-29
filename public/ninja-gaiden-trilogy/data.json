@@ -31,6 +31,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "066FE797",
+   "md5": "A641A33A829154F656CA00AB1EF35500",
+   "sha1": "D65B3B940FCE0BFD493F783170C364DAC2EA198D",
+   "region": "USA",
+   "file": "Ninja Gaiden Trilogy (USA).sfc"
+  }
+ ],
  "gf_score": 3.7,
  "metascore": null,
  "cover_urls": [

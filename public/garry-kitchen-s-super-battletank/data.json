@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "FE7DE9CE",
+   "md5": "603DFC96EB23F6F07F01CF03D210D252",
+   "sha1": "93A86DD8D83C1EDF7F0D028820B90355C2D4627E",
+   "region": "Europe",
+   "file": "Garry Kitchen's Super Battletank (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EEF47B5E",
+   "md5": "0D3E54C3867BDF7AF482BB0A991583D7",
+   "sha1": "A061D1B32303EC808983C473095AB50E1A9C1B2E",
+   "region": "Japan",
+   "file": "Akazukin Chacha (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

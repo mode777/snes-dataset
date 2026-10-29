@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "25C8F98A",
+   "md5": "E76185DDF24F2CCD4B57BD25990A179F",
+   "sha1": "7B399C8AC591AB76C7EF007DFBE6405679DCED32",
+   "region": "Europe",
+   "file": "Fever Pitch Soccer (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "9B1EA779",
+   "md5": "C2A0A1F3C9687E8C08E531986A8B2CB8",
+   "sha1": "92F1A0E583B0DC39E2D6B8D27862167C3F36B916",
+   "region": "Europe",
+   "file": "Fever Pitch Soccer (Europe) (En,Fr,De,Es,It).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3A426A4A",
+   "md5": "A751D0D01F68F3F4E57D0897AC690E8E",
+   "sha1": "8B534317C0DA7A8C8D2E35074FEAFDE33548E038",
+   "region": "Japan",
+   "file": "Reverse Kids (Japan) (Unl).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

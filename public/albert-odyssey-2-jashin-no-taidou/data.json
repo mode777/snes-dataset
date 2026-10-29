@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1B6ADD7B",
+   "md5": "17EE32DB6DE1524535D2F2E995380F70",
+   "sha1": "B3B78710000D467DC0304EFA0245D2CF7AE23D88",
+   "region": "Japan",
+   "file": "Albert Odyssey 2 - Jashin no Taidou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

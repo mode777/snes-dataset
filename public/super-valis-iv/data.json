@@ -33,6 +33,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "29E8AC9F",
+   "md5": "84285A12FDA6A466DF3490A3726724A1",
+   "sha1": "1539AFEA17ED866CDC976605F1BDC871547303FF",
+   "region": "USA",
+   "file": "Super Valis IV (USA).sfc"
+  }
+ ],
  "gf_score": 3.34,
  "metascore": null,
  "cover_urls": [

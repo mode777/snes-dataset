@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "21CB8FD4",
+   "md5": "62EC01A92CBD02F4680FCB59C53D7EC2",
+   "sha1": "728E0BF73E825B2555C6211D35B9041F37F0AE48",
+   "region": "Japan",
+   "file": "Kirby no Omochabako - Baseball (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

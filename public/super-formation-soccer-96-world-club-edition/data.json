@@ -34,6 +34,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F42272CB",
+   "md5": "C645D7275DE38D747885A7295F0E8FB8",
+   "sha1": "B99319C282B1674B818E1274723F474459470B84",
+   "region": "Japan",
+   "file": "Super Formation Soccer 96 - World Club Edition (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

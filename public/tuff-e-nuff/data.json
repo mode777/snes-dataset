@@ -30,6 +30,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C2423607",
+   "md5": "D442A95E842A44F89248A9132C870B2E",
+   "sha1": "DB535C28BA961787E19718849441E1F4FA1234B6",
+   "region": "Europe",
+   "file": "Tuff E Nuff (Europe).sfc"
+  },
+  {
+   "crc32": "865F37BF",
+   "md5": "050D9D0CFC04DCE72D96C75EE15330F5",
+   "sha1": "A5C4C7E0138E939AC4012850A294A90B24B42249",
+   "region": "USA",
+   "file": "Tuff E Nuff (USA).sfc"
+  }
+ ],
  "gf_score": 3.12,
  "metascore": null,
  "cover_urls": [

@@ -25,6 +25,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CA1B24B4",
+   "md5": "2EE8D8407A5D9B65453617230403EA33",
+   "sha1": "3880A6237B6D9FB34D22ED51720A518E714A1C4D",
+   "region": "Japan",
+   "file": "Pro Mahjong Tsuwamono (Japan) (Renkaban).sfc"
+  },
+  {
+   "crc32": "263DAE53",
+   "md5": "836437C26B4FA24DEFC32F9C350849B6",
+   "sha1": "0FF3DE288341EFA7163D4F8A16F3D1C540A10E02",
+   "region": "Japan",
+   "file": "Pro Mahjong Tsuwamono (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

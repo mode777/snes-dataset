@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "7455A7CF",
+   "md5": "70761AB447F48091A8DC437FD2E9C14D",
+   "sha1": "A0DB1045FB308D6A2975A4D305B69F877BE727A4",
+   "region": "Japan",
+   "file": "Street Fighter Zero 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

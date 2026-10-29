@@ -29,6 +29,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "BD0A0C0E",
+   "md5": "97EC6EF25F923FAD4CF4239573057D98",
+   "sha1": "2D4F33F1B72F158916CA2560EF42B9B831E50393",
+   "region": "USA",
+   "file": "Capcom's MVP Football (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

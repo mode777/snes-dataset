@@ -22,6 +22,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "26177842",
+   "md5": "247A9452B95C71DFD0F4F08575585937",
+   "sha1": "9331E9803706AB2298EE57BB4B4F65BFF6D7B00E",
+   "region": "USA",
+   "file": "True Golf Classics - Wicked 18 (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

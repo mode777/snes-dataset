@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F268DC1B",
+   "md5": "26BACC5BC306454A74E4DA1EBD9530D7",
+   "sha1": "86C56A950922A93BB9FE52F871B753BA05612F5B",
+   "region": "Japan",
+   "file": "Chrono Trigger - Music Library (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

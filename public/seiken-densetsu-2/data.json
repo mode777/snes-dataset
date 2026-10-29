@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B8049E3C",
+   "md5": "0836745A2275BAD48E0F98A7925FE4A2",
+   "sha1": "B78A9A844D165345631CEA1B5246C8FCBCDBC162",
+   "region": "Japan",
+   "file": "Seiken Densetsu 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

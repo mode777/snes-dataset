@@ -19,6 +19,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C1E2BB56",
+   "md5": "B22871E35D219853D268F2297E6937E7",
+   "sha1": "03D23158C196E84368374E153B97C3EF2D1A8166",
+   "region": "Japan",
+   "file": "Ball Bullet Gun (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

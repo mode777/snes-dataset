@@ -29,6 +29,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "4A4C657E",
+   "md5": "625B94AC4D17839B5C6262A4B08C87BA",
+   "sha1": "39EA9970AF8E1D088F4971E711726AD2A85EC3C9",
+   "region": "Europe",
+   "file": "Street Combat (Europe).sfc"
+  },
+  {
+   "crc32": "1969BBD9",
+   "md5": "15AD65E39686A928793DBF2D482164C1",
+   "sha1": "BDB67F6FBF3CFF1BC8E118EAD0F3F5894DB9EDF6",
+   "region": "USA",
+   "file": "Street Combat (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

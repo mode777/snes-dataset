@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1AA002D6",
+   "md5": "663FBB07DCD22C366CF940BBB9A5DB85",
+   "sha1": "544201FF2F0AD09A14142D3D7C02A2E07CFC7C5A",
+   "region": "Japan",
+   "file": "Dossun! Ganseki Battle (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

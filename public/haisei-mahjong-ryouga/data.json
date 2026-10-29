@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CF7B57E0",
+   "md5": "E550F158F2CCDA961ED0C624341B4228",
+   "sha1": "E0DA04A08540E3156FFEA47823F6EC0B49DE3198",
+   "region": "Japan",
+   "file": "Haisei Mahjong - Ryouga (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

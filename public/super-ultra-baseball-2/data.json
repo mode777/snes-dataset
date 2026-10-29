@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FFE37ADF",
+   "md5": "223DE12AD94141D910CFA59CEEF34D4D",
+   "sha1": "0AD316766F146BF6A9F873F8FC35E272135F74D1",
+   "region": "Japan",
+   "file": "Super Ultra Baseball 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8FAC5EFD",
+   "md5": "4C517F4A68FDBC876B9A70EAED1FCBA7",
+   "sha1": "0569141297F76B822C27660C1C3901D92A6FAE92",
+   "region": "Japan",
+   "file": "Super Fire Pro Wrestling 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

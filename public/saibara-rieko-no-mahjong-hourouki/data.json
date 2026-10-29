@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "42198D27",
+   "md5": "A9A2F5ED772002B743F2CC01EAC6AE7B",
+   "sha1": "D661FCCB6CABA79CE180D69E620778DFA2A80603",
+   "region": "Japan",
+   "file": "Saibara Rieko no Mahjong Hourouki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

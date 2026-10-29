@@ -36,6 +36,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "B3CD103E",
+   "md5": "1F6F9E2A3513BF924A10897FC6D0211C",
+   "sha1": "B10580F2DCD0E1F97E37783C06A7CEE0870EF203",
+   "region": "Europe",
+   "file": "Pit-Fighter (Europe).sfc"
+  },
+  {
+   "crc32": "9FAB69FC",
+   "md5": "BEC467ACE53B6D457B22DA8F828AE17A",
+   "sha1": "843E760347581315E65A3777DF00E31EF6CDB69D",
+   "region": "USA",
+   "file": "Pit-Fighter (USA).sfc"
+  }
+ ],
  "gf_score": 1.19,
  "metascore": null,
  "cover_urls": [

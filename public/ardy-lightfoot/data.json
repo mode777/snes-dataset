@@ -36,6 +36,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2AA7777B",
+   "md5": "FBFB078EFA9B6DE2DA700F4DD5FD5CE6",
+   "sha1": "75B727BA61BB8622B859B5E1C102E85F1C335AC7",
+   "region": "Japan",
+   "file": "Ardy Lightfoot (Japan).sfc"
+  },
+  {
+   "crc32": "51A5F489",
+   "md5": "000C3BB276FD456E0E259553DEDE9BA4",
+   "sha1": "941750D25912967084672DF1FB8310E35E4EE23F",
+   "region": "USA",
+   "file": "Ardy Lightfoot (USA).sfc"
+  },
+  {
+   "crc32": "F73A6E33",
+   "md5": "5D6AF8C84B0AA3520F16D05B7E5F8BAA",
+   "sha1": "F7F6950698ECB2FB38A3BEB79555B1DB39DD9740",
+   "region": "Japan",
+   "file": "Ardy Lightfoot (Japan) (Beta).sfc"
+  },
+  {
+   "crc32": "D239398F",
+   "md5": "12A0AE90DD65F109BEBB1172FCAF5DDD",
+   "sha1": "2902D66C27420AABD0270FF772244EAF30368781",
+   "region": "Europe",
+   "file": "Ardy Lightfoot (Europe).sfc"
+  }
+ ],
  "gf_score": 3.26,
  "metascore": null,
  "cover_urls": [

@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3CC7FDF4",
+   "md5": "5BEC2D7ECF3117B479C69CADA8EBAFA4",
+   "sha1": "F787672E766A43A73D9BD310FCB3C2CAC024B227",
+   "region": "Japan",
+   "file": "Tenchi Souzou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

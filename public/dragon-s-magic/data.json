@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0CF53835",
+   "md5": "495A4B0CC1249FAB9D41B7717C619B55",
+   "sha1": "F5271AC9111920C26378A27188C228D531415684",
+   "region": "Japan",
+   "file": "Dragon's Magic (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

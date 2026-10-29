@@ -34,6 +34,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "47453477",
+   "md5": "6E5F7A29C72B33D684B57CA369FF8CD1",
+   "sha1": "09B40B6138C473CAEC41B670912FBECC7F858555",
+   "region": "Japan",
+   "file": "Human Grand Prix IV - F1 Dream Battle (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -32,6 +32,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3280C18F",
+   "md5": "8D8BC7BD06507DC7BBB55CE6B57BBB1B",
+   "sha1": "8501570BFB32FE86F6CC7756EAE23C49DEFE9974",
+   "region": "USA",
+   "file": "Choplifter III - Rescue-Survive (USA) (Beta) [b].sfc"
+  },
+  {
+   "crc32": "AD26CC9E",
+   "md5": "E084FFEC81B78B8962CAA8343B66FB34",
+   "sha1": "1D5C4FA1B2638591F1F61D8CCC0855C0077BD8C0",
+   "region": "Japan",
+   "file": "Choplifter III - Rescue-Survive (Japan).sfc"
+  },
+  {
+   "crc32": "1D2EAE52",
+   "md5": "C8CDE268069B410A72EC4D012CFF1695",
+   "sha1": "4010D63E6D7EB0F7EA47A0796F3AF008AB98F22E",
+   "region": "USA",
+   "file": "Choplifter III - Rescue-Survive (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

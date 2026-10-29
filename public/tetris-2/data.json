@@ -32,6 +32,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "19B69A57",
+   "md5": "28D41F1B044AA415B094C48522AFC7F1",
+   "sha1": "DAE51612C26BDC0BA734F4BA2BC2EB3532608C03",
+   "region": "Europe",
+   "file": "Tetris 2 (Europe).sfc"
+  },
+  {
+   "crc32": "3BC7054A",
+   "md5": "DB2C468AA5888BB669938724ABEE691D",
+   "sha1": "3D1545911AD024BAC0AC7C68E8F77984FB25D278",
+   "region": "USA",
+   "file": "Tetris 2 (USA) (Rev 1).sfc"
+  },
+  {
+   "crc32": "CE3392B1",
+   "md5": "3A8BCED70AA5AFC873F0DE1B2E2D388A",
+   "sha1": "43CE6065DFA9D3FBD3C6BCAE9E23D160AE738EAE",
+   "region": "USA",
+   "file": "Tetris 2 (USA).sfc"
+  }
+ ],
  "gf_score": 3.53,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2D5DC011",
+   "md5": "09EF10B675AB713072BE7F4470D78EF3",
+   "sha1": "3947EFBFBDC64788B23528624370C9E33ABF7712",
+   "region": "USA",
+   "file": "SimCity 2000 - The Ultimate City Simulator (USA).sfc"
+  },
+  {
+   "crc32": "A1C28940",
+   "md5": "682162CCC126631BCF107427E0BCFA30",
+   "sha1": "56EBB8C7E7EE6AAD62B9E8A4BDC5C6D89DAE40C2",
+   "region": "Europe",
+   "file": "SimCity 2000 - The Ultimate City Simulator (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

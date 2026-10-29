@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9FEA854D",
+   "md5": "D66E6ECC1E56820F7BCB2AC68BB26C21",
+   "sha1": "1F1698BFDE71CABBCB7EA57BF0BA69141362E562",
+   "region": "Japan",
+   "file": "Bomber Man B-Daman (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

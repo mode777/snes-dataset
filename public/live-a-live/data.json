@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6291EE08",
+   "md5": "C223DE99D22665B62C91E02727963BD4",
+   "sha1": "F626B0B767D11C62C5CB3F8D1D0171FE5DEB4245",
+   "region": "Japan",
+   "file": "Live A Live (Japan).sfc"
+  }
+ ],
  "gf_score": 4.09,
  "metascore": null,
  "cover_urls": [

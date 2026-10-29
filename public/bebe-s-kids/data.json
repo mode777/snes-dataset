@@ -33,6 +33,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "BDA2E412",
+   "md5": "09DA2900A99D0134B77BFC8A3F09442A",
+   "sha1": "3E73BD7965EEE7DDD40BD60AE51ECBCA8D85DE0F",
+   "region": "USA",
+   "file": "Bebe's Kids (USA).sfc"
+  }
+ ],
  "gf_score": 0.97,
  "metascore": null,
  "cover_urls": [

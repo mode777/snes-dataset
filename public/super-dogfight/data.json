@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2F5D822D",
+   "md5": "56BC448E273B377984456EE282203DA5",
+   "sha1": "C32AAC8E6D9639C28B28BD8850D7119C9C03E8B8",
+   "region": "Japan",
+   "file": "Super Dogfight (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

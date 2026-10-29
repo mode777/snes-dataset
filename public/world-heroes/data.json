@@ -34,6 +34,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1228AD30",
+   "md5": "082862713DC4664A53426CD75971079C",
+   "sha1": "DDC03392F9E07EBA675818BD231DAD4AF8C8C128",
+   "region": "USA",
+   "file": "World Heroes (USA).sfc"
+  },
+  {
+   "crc32": "1FF42561",
+   "md5": "FB8F93519A7ACA817B93B331BFE012D2",
+   "sha1": "138B9D359A5EEBAC2DE609EAADF96987C49672DF",
+   "region": "Japan",
+   "file": "World Heroes (Japan).sfc"
+  },
+  {
+   "crc32": "FBB6E0D8",
+   "md5": "8A5EA6E6F32295721F587AE81E965482",
+   "sha1": "151A24269C72CE4A2D6EE40978409D2DDC112E07",
+   "region": "Europe",
+   "file": "World Heroes (Europe).sfc"
+  }
+ ],
  "gf_score": 3.23,
  "metascore": null,
  "cover_urls": [

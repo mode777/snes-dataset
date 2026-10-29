@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0928FC15",
+   "md5": "0B3FE2B7C34687107E91497F1AA8705A",
+   "sha1": "F321FECC3EAD4F2E5EC981ED591D87EEDC068E5B",
+   "region": "Japan",
+   "file": "Melfand Stories (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

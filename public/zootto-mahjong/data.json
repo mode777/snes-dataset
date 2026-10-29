@@ -20,6 +20,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C167987D",
+   "md5": "A990AE4416DD75F7C68C5DB06425D648",
+   "sha1": "21286747D360C03E3BF86CD4504508CE55DEFF8F",
+   "region": "Japan",
+   "file": "Zootto Mahjong! (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

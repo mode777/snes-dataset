@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "62A92E57",
+   "md5": "8D975752C0F2608F2D8179CA0627EC8F",
+   "sha1": "79DB2E2117B8F5651BD79FCF1C2162A5437DCD06",
+   "region": "USA",
+   "file": "MLBPA Baseball (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

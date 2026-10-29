@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "EFDED7C6",
+   "md5": "1D9DD1A7ED763852557C1305084109B2",
+   "sha1": "FBAC0D202DFB1E1E4072497B6A827C4AFCA87509",
+   "region": "USA",
+   "file": "Shooter (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

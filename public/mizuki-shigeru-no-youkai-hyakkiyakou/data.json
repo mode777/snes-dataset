@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "70740CF4",
+   "md5": "6DB27710A4A5167E5FFF97F50F8FE252",
+   "sha1": "A8F5A561072F4F5913DC001877863656ECD09F11",
+   "region": "Japan",
+   "file": "Mizuki Shigeru no Youkai Hyakkiyakou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

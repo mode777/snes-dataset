@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "97055733",
+   "md5": "2ACF6D53C3A2BAB717FE42C5F696DB6F",
+   "sha1": "AB8F877237B5E3944D3ABD956AD9356EC696BA82",
+   "region": "Japan",
+   "file": "Digital Magazine Busters BS - 4-12 Gou (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

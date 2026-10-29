@@ -34,6 +34,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "F8C72A24",
+   "md5": "C6CE4362E71935AA9B9AF2820BB5630A",
+   "sha1": "5B21A7646E0AA768845D42B54A8D8F6E125A8D61",
+   "region": "Europe",
+   "file": "Jelly Boy (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

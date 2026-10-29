@@ -32,6 +32,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C6906F5F",
+   "md5": "49D619C689C21A6E41E2B98C31F5838A",
+   "sha1": "658C4A3DD0B62577781DF2E05A28C43806B6DBC5",
+   "region": "Europe",
+   "file": "Super Punch-Out!! (Europe).sfc"
+  },
+  {
+   "crc32": "B5D92AF4",
+   "md5": "BBB741D5844BD1C29531F42967369D9A",
+   "sha1": "0F42B17E721671931E1EB3D9701D464DB163CFD3",
+   "region": "Japan",
+   "file": "Super Punch-Out!! (Japan) (NP).sfc"
+  },
+  {
+   "crc32": "E2F92F84",
+   "md5": "97FE7D7D2A1017F8480E60A365A373F0",
+   "sha1": "3604C855790F37DB567E9B425252625045F86697",
+   "region": "USA",
+   "file": "Super Punch-Out!! (USA).sfc"
+  }
+ ],
  "gf_score": 4.03,
  "metascore": null,
  "cover_urls": [

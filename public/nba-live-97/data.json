@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "2C680C99",
+   "md5": "59AF406928546B8E9579DC74A1918F67",
+   "sha1": "B6FBBECA6E5BCBC6C61CDED2DFEFD204FFDDF2BA",
+   "region": "Europe",
+   "file": "NBA Live 97 (Europe).sfc"
+  },
+  {
+   "crc32": "5115B8E5",
+   "md5": "362C3BFBA31038172DBA396CCE3C1EEC",
+   "sha1": "6255287751BC9679B9500AC9BE06CDA6640D1DCC",
+   "region": "USA",
+   "file": "NBA Live 97 (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

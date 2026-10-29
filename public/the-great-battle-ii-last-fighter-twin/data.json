@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8254A32E",
+   "md5": "25194C0F0E0E9B808E3DA152DBDFCDD2",
+   "sha1": "DD7BD49F27A6229E708D7C06BF432B390BC9B211",
+   "region": "Japan",
+   "file": "Great Battle II, The - Last Fighter Twin (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

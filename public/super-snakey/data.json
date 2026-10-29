@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5EC69FAD",
+   "md5": "6C2BE2A57CF82E0F904EB88214F0A6FD",
+   "sha1": "9C35EA0F3BD22B3018A1BC6447F0630C8026AA1A",
+   "region": "Japan",
+   "file": "Super Snakey (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

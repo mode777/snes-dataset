@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A2C7CB5F",
+   "md5": "F458D29CA7108DF930E5DB0C7BC124DF",
+   "sha1": "9CA328CD2E6CED05E0D0571F425A781C185E6D41",
+   "region": "Japan",
+   "file": "Kamen Rider SD - Shutsugeki!! Rider Machine (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

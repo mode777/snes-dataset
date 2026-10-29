@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D190CF58",
+   "md5": "159DB76662232BF8F9560EB13191F7D5",
+   "sha1": "188C653E31174CC1EC720F471DBDFBEB5A86FA2E",
+   "region": "France",
+   "file": "Eric Cantona Football Challenge (France) (En,Fr,De,Es,It,Nl,Sv).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

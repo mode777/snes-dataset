@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "4D7B39CD",
+   "md5": "794859D57FA38A5D5D55B11408BA391D",
+   "sha1": "B88EF0A395072974578E4DF4B194412637F3BBE8",
+   "region": "USA",
+   "file": "Lord of Darkness (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

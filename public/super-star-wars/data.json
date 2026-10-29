@@ -39,6 +39,50 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "ACBCAE7C",
+   "md5": "EA840D3722F90DEE824F5064E171E510",
+   "sha1": "DBFF9BBB155F09376C4C7FE3D68E77C4A444AE3C",
+   "region": "USA",
+   "file": "Super Star Wars (USA).sfc"
+  },
+  {
+   "crc32": "BE47F6C6",
+   "md5": "744B9D1A382ADFABF0515D6D0E5DFED7",
+   "sha1": "834B5C6B82B1EE22CC583075334800B51269624B",
+   "region": "USA",
+   "file": "Super Star Wars (USA) (Rev 1).sfc"
+  },
+  {
+   "crc32": "23665F74",
+   "md5": "AB1C2CEA41007EA28E7C461781A2D173",
+   "sha1": "E247C11D763C3595B205AC3E9E997F81E0B264A1",
+   "region": "USA",
+   "file": "Super Star Wars (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "99CB2058",
+   "md5": "F306742346C40C741E4DC045119483D3",
+   "sha1": "C3E7244CE77025F3026FAD340F822045E8B2E006",
+   "region": "Japan",
+   "file": "Super Star Wars (Japan).sfc"
+  },
+  {
+   "crc32": "055926BE",
+   "md5": "676638E83EA0FD79EBDE24674FCB948E",
+   "sha1": "F94C84132F4B53186D7399DD7C0AF5DDA27D0888",
+   "region": "Europe",
+   "file": "Super Star Wars (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "F63EC912",
+   "md5": "32FCFB6358DA10EBCEA6BB9FC99E4C8B",
+   "sha1": "5B167B97A23418CA629BDBFA8ABCC5C920D1FC47",
+   "region": "Europe",
+   "file": "Super Star Wars (Europe).sfc"
+  }
+ ],
  "gf_score": 3.54,
  "metascore": null,
  "cover_urls": [

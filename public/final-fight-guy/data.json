@@ -30,6 +30,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DE144411",
+   "md5": "36D4ABA59259DAB4144AFA655E44CF25",
+   "sha1": "DB68F895D5872CFAC82D666FB342AF8C1A06E1FD",
+   "region": "Japan",
+   "file": "Final Fight Guy (Japan).sfc"
+  },
+  {
+   "crc32": "BC1AE3C2",
+   "md5": "067AD2453B32CB6FE595FC822B780700",
+   "sha1": "67646B258D892D7ECBC660A01D4D19D525971801",
+   "region": "USA",
+   "file": "Final Fight Guy (USA).sfc"
+  }
+ ],
  "gf_score": 3.34,
  "metascore": null,
  "cover_urls": [

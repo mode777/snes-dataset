@@ -35,6 +35,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0A5DFA05",
+   "md5": "AFDE99960F1B2EC92D0DAC97ECF5A5A7",
+   "sha1": "8E8DE0C344AF1E1C357ED6F8A96443A369349D49",
+   "region": "Japan",
+   "file": "Ranma 1-2 - Ougi Jaanken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

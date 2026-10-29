@@ -32,6 +32,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A9FB97E9",
+   "md5": "41C74433082E4A423008608D1D0943D7",
+   "sha1": "10DCB06832F8F0CD68C703D206AFB0F82C96EB05",
+   "region": "USA",
+   "file": "Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (Beta) (Alt 1).sfc"
+  },
+  {
+   "crc32": "B28F1B9D",
+   "md5": "1481A235FB9A9CC6DE00D85FA22505C4",
+   "sha1": "C4BA9B0FD1B40A228E6BB1170EC227DAC5B83CE5",
+   "region": "Australia",
+   "file": "Teenage Mutant Ninja Turtles IV - Turtles in Time (Australia).sfc"
+  },
+  {
+   "crc32": "5940BD99",
+   "md5": "807009D25EB31559974DAA3E39EECCD7",
+   "sha1": "4F8FC0F45023E0339E501054B253C33F479A001A",
+   "region": "USA",
+   "file": "Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).sfc"
+  },
+  {
+   "crc32": "0598C5F4",
+   "md5": "5B0099E2B44A9EE1A5DB684653FFED73",
+   "sha1": "5F0450D0B99074FC8A93FD712736E96BE278B938",
+   "region": "USA",
+   "file": "Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 4.16,
  "metascore": null,
  "cover_urls": [

@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9516BF39",
+   "md5": "280DE22C65550BE2CC5FC2DCA36318F7",
+   "sha1": "BD1CA8F771169CFFF111046A79BCB297987E3BDC",
+   "region": "Japan",
+   "file": "Metal Max 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

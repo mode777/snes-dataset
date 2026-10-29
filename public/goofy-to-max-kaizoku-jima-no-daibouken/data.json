@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D3279AAC",
+   "md5": "62F678F5679A1DAF6DA4C72C7E38CD29",
+   "sha1": "810320D3280D26C43DF457C73115C673E4765A5E",
+   "region": "Japan",
+   "file": "Goofy to Max - Kaizoku-jima no Daibouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

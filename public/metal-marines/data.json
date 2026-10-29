@@ -29,6 +29,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1979CF23",
+   "md5": "9D69898691E9E6A434ABB10AFA2E8782",
+   "sha1": "47738DCC7C8D1F350CC7C04FB76F5458D629D75B",
+   "region": "Europe",
+   "file": "Metal Marines (Europe).sfc"
+  },
+  {
+   "crc32": "66787DF6",
+   "md5": "643058311EB11C1E0E0947BB27C77D49",
+   "sha1": "FE788E475FA5D44319E2C1C3D0A40F52A920E435",
+   "region": "USA",
+   "file": "Metal Marines (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

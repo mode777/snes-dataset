@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A6BB5A7A",
+   "md5": "9FC9439AEC3B423A65D4D971B3C5DB4D",
+   "sha1": "4EF6C42E8E30439A047566658BA7C17BF1E07F40",
+   "region": "Japan",
+   "file": "Las Vegas Dream in Golden Paradise (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

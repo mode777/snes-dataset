@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F0202E26",
+   "md5": "EC79AFDCC3B7B87115B5216E1EB4A2D8",
+   "sha1": "40B6DD3958EDC0E39C9C40EBEE7675419B9B2FA6",
+   "region": "Japan",
+   "file": "F-15 Super Strike Eagle (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

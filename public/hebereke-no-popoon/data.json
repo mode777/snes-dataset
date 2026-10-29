@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "890D9C9E",
+   "md5": "932053EFD1A9F95E78F0057FAB09C2E2",
+   "sha1": "CC3350CE455FEED0304372BD9DF11D5949C9EF4D",
+   "region": "Japan",
+   "file": "Hebereke no Popoon (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

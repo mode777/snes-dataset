@@ -32,6 +32,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "59C00310",
+   "md5": "D9B2A11D20A10FE4F82BE4A92481D3D3",
+   "sha1": "AB007AA2F0B56770B94FD3C7DC0EA161377C6DB2",
+   "region": "USA",
+   "file": "Battle Clash (USA).sfc"
+  },
+  {
+   "crc32": "11E5BC5E",
+   "md5": "391C2D0E4E81CA2139BC86080A2C4D2D",
+   "sha1": "D514520660DE9939D7D30DE9219ED9BCF21F7A15",
+   "region": "Europe",
+   "file": "Battle Clash (Europe).sfc"
+  }
+ ],
  "gf_score": 3.67,
  "metascore": null,
  "cover_urls": [

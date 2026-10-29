@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "EBADC924",
+   "md5": "680EE04AF6792C3891947B43B98EED46",
+   "sha1": "3FA8B1EDEB9A42916A1B59634D7EEAC0A5B26966",
+   "region": "Japan",
+   "file": "Super Robot Taisen Gaiden - Masou Kishin - The Lord of Elemental (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

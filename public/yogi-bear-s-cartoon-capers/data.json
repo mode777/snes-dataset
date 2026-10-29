@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "31703471",
+   "md5": "F61510614522A87F0998C06A6F6DB16B",
+   "sha1": "F2E7853B18613CBA9A529676BB8F91275A400341",
+   "region": "Europe",
+   "file": "Yogi Bear's Cartoon Capers (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

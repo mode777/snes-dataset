@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "395BADE3",
+   "md5": "DDF4920AE09530DA94EAE230FDFFD3C4",
+   "sha1": "AF4960F2EEC19EA7910A268BF8FAD266518DBCFA",
+   "region": "Japan",
+   "file": "Aretha (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

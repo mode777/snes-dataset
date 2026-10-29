@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4AC5623D",
+   "md5": "D13430AF1EBBA1DDC39E08BEFED3AB05",
+   "sha1": "8E820CE79D70D19641798FB61EEC1D0BE5FCCA6F",
+   "region": "Japan",
+   "file": "Super Igo - Go Ou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

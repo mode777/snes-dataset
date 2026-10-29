@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E009DBF8",
+   "md5": "515B77D71AB249F399463C1DF6D302FD",
+   "sha1": "65BFB22DB870A290673276AC1324242868D64A8B",
+   "region": "Japan",
+   "file": "Dandan Belt Conveyor - Gyuunyuu no Maki (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

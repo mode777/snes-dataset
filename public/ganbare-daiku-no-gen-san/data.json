@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "206BD866",
+   "md5": "9866B522BEC493784B124CA70CE69919",
+   "sha1": "90B419D3E71B17490F3AED0AD2AE3158AF94ED33",
+   "region": "Japan",
+   "file": "Ganbare! Daiku no Gen-san (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -33,6 +33,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "E9B4BD73",
+   "md5": "14B975818D4120FBE91F56128F0A4A30",
+   "sha1": "CA78FAF0DCAFCBBC7A114CF9F9F5A5D0F1F289F7",
+   "region": "USA",
+   "file": "Ken Griffey Jr.'s Winning Run (USA).sfc"
+  }
+ ],
  "gf_score": 4.02,
  "metascore": null,
  "cover_urls": [

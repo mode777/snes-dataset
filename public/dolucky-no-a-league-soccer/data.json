@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0BC19D72",
+   "md5": "F4BE2C03796922E2E6DF55E295CC437D",
+   "sha1": "E5548E359558FF6C044FD7F4F52C85434AE45C21",
+   "region": "Japan",
+   "file": "Dolucky no A.League Soccer (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

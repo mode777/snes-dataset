@@ -28,6 +28,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3CCBA79C",
+   "md5": "B9501BB47074288B8E83615EC83E6F2B",
+   "sha1": "20F4677FFF716E977A6D93815F3FBEFED1B26306",
+   "region": "Europe",
+   "file": "Smash Tennis (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "6F7D1745",
+   "md5": "91E75245C75C1F498E345CD368309801",
+   "sha1": "C1A782A4012E15C33B04D61C92144EAB3DB1FDEE",
+   "region": "Europe",
+   "file": "Smash Tennis (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -32,6 +32,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B47F5F20",
+   "md5": "7BB0487EACDB78D6635E89D797E5AB74",
+   "sha1": "46BF36BE1C3A2CE9DE7581323370BD2D891AD5A1",
+   "region": "Europe",
+   "file": "Super Mario World (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "3C41070F",
+   "md5": "4F17A1A17A098D0A5312703B55AD134B",
+   "sha1": "56265120A74B55260FF7CACC00DA1F21CBCB64F4",
+   "region": "Europe",
+   "file": "Super Mario World (Europe).sfc"
+  },
+  {
+   "crc32": "B19ED489",
+   "md5": "CDD3C8C37322978CA8669B34BC89C804",
+   "sha1": "6B47BB75D16514B6A476AA0C73A683A2A4C18765",
+   "region": "USA",
+   "file": "Super Mario World (USA).sfc"
+  }
+ ],
  "gf_score": 4.55,
  "metascore": null,
  "cover_urls": [

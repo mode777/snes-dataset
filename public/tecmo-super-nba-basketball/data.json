@@ -34,6 +34,43 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "1B6F0B43",
+   "md5": "762557921081E2ADE5D3F1EC599892E5",
+   "sha1": "765790E88D5B4F4202EF06A16A3D87055539745A",
+   "region": "USA",
+   "file": "Tecmo Super NBA Basketball (USA).sfc"
+  },
+  {
+   "crc32": "538717B4",
+   "md5": "3E87411742B25BC178E5BE04FE9644CD",
+   "sha1": "13A1B147A2E158A51A3891FF07B059FF7A7ED2E5",
+   "region": "Japan",
+   "file": "Tecmo Super NBA Basketball (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "3DFE85B3",
+   "md5": "0D1561450C26B5F0B85E3A0752AEDC7E",
+   "sha1": "983DE5EBA7F079555070D12BE46926C83F323F1A",
+   "region": "Japan",
+   "file": "Tecmo Super NBA Basketball (Japan).sfc"
+  },
+  {
+   "crc32": "AEA63622",
+   "md5": "5637DE79E862B25451EDAF6C9466EC29",
+   "sha1": "3C483E4DA49CEFD66096C7F1E2275DE45DD59B9F",
+   "region": "Europe",
+   "file": "Tecmo Super NBA Basketball (Europe).sfc"
+  },
+  {
+   "crc32": "1B1C3DD9",
+   "md5": "28E3F5814505CD0AD7883E820ADD7FA4",
+   "sha1": "017F394750402911C9AC5EB507053ACBADC9FC8C",
+   "region": "Australia",
+   "file": "Tecmo Super NBA Basketball (Australia).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

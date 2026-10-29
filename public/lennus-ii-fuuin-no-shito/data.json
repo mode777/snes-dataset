@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C68BE22A",
+   "md5": "52AF259AC9347CD2B6AE450671E9DBD6",
+   "sha1": "3CDEC34BF2652B278ED482D3F425EFFF2AA64E7E",
+   "region": "Japan",
+   "file": "Lennus II - Fuuin no Shito (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

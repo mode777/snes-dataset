@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9905D4C3",
+   "md5": "BE84F2DE2089E2BA6056C9985BA230FB",
+   "sha1": "BD742CBD788439E021CD101D935451BA34A8116E",
+   "region": "Japan",
+   "file": "AK LIVE Hit Gang (Japan) (BS) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

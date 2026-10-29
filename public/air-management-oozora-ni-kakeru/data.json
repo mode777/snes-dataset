@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F6643226",
+   "md5": "36457512DD505702A81650D4620A5D3E",
+   "sha1": "BEEF4F80A8C3A3B844EFC428E10034B587205A10",
+   "region": "Japan",
+   "file": "Air Management - Oozora ni Kakeru (Japan).sfc"
+  },
+  {
+   "crc32": "A533BC97",
+   "md5": "6463A3CBEEE3E79F2C65879876C4556D",
+   "sha1": "ACAAED5A29E434472F4751B740E644A036DEE67A",
+   "region": "Japan",
+   "file": "Air Management - Oozora ni Kakeru (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

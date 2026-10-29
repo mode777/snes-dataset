@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A220C6D5",
+   "md5": "C82666233F216DB472C77F8FD611DA6B",
+   "sha1": "640E2C49DFDB056F51369C6780F0683B6DD17565",
+   "region": "Japan",
+   "file": "Gangan Gan-chan (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

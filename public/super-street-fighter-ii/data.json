@@ -29,6 +29,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F16D5CE9",
+   "md5": "02C9C7E7914F9808487704E122554D4C",
+   "sha1": "8E67787988024503C4ADEADD5FE50A340AA860D7",
+   "region": "USA",
+   "file": "Super Street Fighter II (USA).sfc"
+  },
+  {
+   "crc32": "6D86BFB0",
+   "md5": "68F9192F7D9553327A976662AF9C331D",
+   "sha1": "A6FFEF36948854BECE1266B78224DAF3E64CA47E",
+   "region": "Europe",
+   "file": "Super Street Fighter II (Europe).sfc"
+  }
+ ],
  "gf_score": 4.2,
  "metascore": null,
  "cover_urls": [

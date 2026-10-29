@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "525FFB26",
+   "md5": "56D1BC2DFD68032AA3E7FFC50D187700",
+   "sha1": "35876222114F49CD335A375C6AC99123FB652694",
+   "region": "Japan",
+   "file": "Derby Stallion 98 (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

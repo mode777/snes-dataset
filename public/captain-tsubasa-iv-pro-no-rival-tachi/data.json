@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3E04B246",
+   "md5": "CB99EDFC9514036D6E5FD1E128937328",
+   "sha1": "7471D2D4EA7C3E9FE2349B624C4AE570B585475F",
+   "region": "Japan",
+   "file": "Captain Tsubasa IV - Pro no Rival-tachi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

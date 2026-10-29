@@ -30,6 +30,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C0FA0464",
+   "md5": "544311E104805E926083ACF29EC664DA",
+   "sha1": "057ADA1C641E3E0B3CA34E6E4F4EB1B05A87143A",
+   "region": "USA",
+   "file": "Final Fantasy III (USA) (Rev 1).sfc"
+  },
+  {
+   "crc32": "A27F1C7A",
+   "md5": "E986575B98300F721CE27C180264D890",
+   "sha1": "4F37E4274AC3B2EA1BEDB08AA149D8FC5BB676E7",
+   "region": "USA",
+   "file": "Final Fantasy III (USA).sfc"
+  },
+  {
+   "crc32": "4BD8902B",
+   "md5": "7EB6D69D33148336896D43D11EA25036",
+   "sha1": "0EF4E4DE4083A1B97E97196D81C5E3779263CD1E",
+   "region": "USA",
+   "file": "Final Fantasy III (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 4.55,
  "metascore": 92,
  "cover_urls": [

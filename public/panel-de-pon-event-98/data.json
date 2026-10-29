@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "720A850C",
+   "md5": "CB2AEE8E56FA50BBC4E4D9A1494C4699",
+   "sha1": "CFBEFC41406679C8BC906DA6ED9DB16F46C6BEFF",
+   "region": "Japan",
+   "file": "Panel de Pon - Event '98 (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

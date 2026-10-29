@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4396A35B",
+   "md5": "5C6821CB81C5B8F2B25F27B4030B21D7",
+   "sha1": "FDD81B8D91E4A46935189F31E5BC7DDCE868F7BA",
+   "region": "Japan",
+   "file": "Metal Max Returns (Japan).sfc"
+  }
+ ],
  "gf_score": 4.02,
  "metascore": null,
  "cover_urls": [

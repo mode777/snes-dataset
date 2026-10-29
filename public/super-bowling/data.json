@@ -32,6 +32,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "383BC5D5",
+   "md5": "2F3F6D8461EBB57CB33F031B7D4EA085",
+   "sha1": "15D3E2A9583D61562E08A6BA16799676DC9BA0A0",
+   "region": "Japan",
+   "file": "Super Bowling (Japan).sfc"
+  },
+  {
+   "crc32": "94945B50",
+   "md5": "50A1A66163020C19CDE18685A928A556",
+   "sha1": "B17492BB3D7EBE9FDCF465C1EEB78944B0484CDA",
+   "region": "USA",
+   "file": "Super Bowling (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -38,6 +38,36 @@
  "languages": [
   "English, Spanish, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F1F8F87A",
+   "md5": "C7A4A2E9B545A88C1CAF495810DE6022",
+   "sha1": "3BEE604951621E20912CD6EADCC80534E30E27EE",
+   "region": "USA",
+   "file": "Tiny Toon Adventures - Buster Busts Loose! (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "38CD6BB0",
+   "md5": "634A1209C90063589551349717CA1EF0",
+   "sha1": "6748BCF849410D3B4797499447E76E51EBA6D6A2",
+   "region": "Europe",
+   "file": "Tiny Toon Adventures - Buster Busts Loose! (Europe).sfc"
+  },
+  {
+   "crc32": "EEB4180C",
+   "md5": "C8EBC624D2BCCBF3EB3F46C434A24CB8",
+   "sha1": "7E8B79EA0E23AAA6E8212DAD9082D7A16FE2C67B",
+   "region": "Spain",
+   "file": "Tiny Toon Adventures - Buster Busts Loose! (Spain).sfc"
+  },
+  {
+   "crc32": "AB48D27A",
+   "md5": "68E83FE143A01EA5A68BBDFC17A34A2D",
+   "sha1": "04BF92B242BA965C453B6EB13D522AFB7DB7996B",
+   "region": "USA",
+   "file": "Tiny Toon Adventures - Buster Busts Loose! (USA).sfc"
+  }
+ ],
  "gf_score": 3.56,
  "metascore": null,
  "cover_urls": [

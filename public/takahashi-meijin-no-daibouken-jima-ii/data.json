@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1C71451C",
+   "md5": "BFF36FC37C1CC484FEC092463C1B7982",
+   "sha1": "2C9242BCD3BB6963C99B05D14E888232A630ACA4",
+   "region": "Japan",
+   "file": "Takahashi Meijin no Daibouken-jima II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

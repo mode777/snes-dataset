@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1B3E22C3",
+   "md5": "318FE70EF8F291DC3C3090AE7B84FE50",
+   "sha1": "0959F81E86FB39F1CD79C780E2F1ABE7AF2D6CA7",
+   "region": "Japan",
+   "file": "Lodoss-tou Senki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

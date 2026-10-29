@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D85C1C8F",
+   "md5": "98B85B43C6FE3DFB5565FCF1DF7F389F",
+   "sha1": "A371BC4AF113BB5824FA333F5BFCA50802CC1972",
+   "region": "Japan",
+   "file": "JB The Super Bass (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

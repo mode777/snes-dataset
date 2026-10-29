@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9ED8F6B3",
+   "md5": "47D4256CC90D7CBF173E8F502504F54C",
+   "sha1": "C4F95AB23079DAF820730D06C08FFEF9DC25E532",
+   "region": "Japan",
+   "file": "Nintama Rantarou 3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

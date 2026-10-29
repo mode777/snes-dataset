@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8F322C56",
+   "md5": "5B15C6EBF5BF1AC329A7401A9CC9D328",
+   "sha1": "E42025ED38E4A83B29B320D52780EEFA6DFA26C2",
+   "region": "Japan",
+   "file": "Honkakuha Igo - Gosei (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

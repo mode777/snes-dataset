@@ -32,6 +32,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "493FDB13",
+   "md5": "462E15C018C653335BA634D3C1CD06C9",
+   "sha1": "777D8732023A300A2C566F2D48BC354E0AA1DA7E",
+   "region": "Europe",
+   "file": "Top Gear 3000 (Europe).sfc"
+  },
+  {
+   "crc32": "A20BE998",
+   "md5": "23EAA07E3F3315FA43F4B4D94EC97A7B",
+   "sha1": "058AADF1EE719CB9E0C7333E665797F990A6381D",
+   "region": "USA",
+   "file": "Top Gear 3000 (USA).sfc"
+  }
+ ],
  "gf_score": 3.99,
  "metascore": null,
  "cover_urls": [

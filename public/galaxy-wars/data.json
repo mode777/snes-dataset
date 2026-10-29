@@ -29,6 +29,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "F159CA70",
+   "md5": "62D8C5570EE19F996B7656B7084DAD81",
+   "sha1": "1E74AB222270AA3C88BE3A36BE17BBCE27A1BB1E",
+   "region": "Japan",
+   "file": "Galaxy Wars (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "04E9D205",
+   "md5": "10117E6373A95078D900F87F6A862FF0",
+   "sha1": "D4854D3566E546D0C8D05A3B2D5C12EC9A1E5777",
+   "region": "Japan",
+   "file": "Sankyo Fever! Fever! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

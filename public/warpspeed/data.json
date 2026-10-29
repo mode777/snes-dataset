@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "6E7F189F",
+   "md5": "93BE3CEF1F6D157B0CB5453058B72177",
+   "sha1": "6A6C811CB8C44CAF1194155D257BFB53B7E26C04",
+   "region": "Europe",
+   "file": "WarpSpeed (Europe).sfc"
+  },
+  {
+   "crc32": "1E10A1D1",
+   "md5": "040E7265C0F6B33735BF63C315A15022",
+   "sha1": "0221D6A3F09C40124AE81EC03813E02AFF31C13C",
+   "region": "USA",
+   "file": "WarpSpeed (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

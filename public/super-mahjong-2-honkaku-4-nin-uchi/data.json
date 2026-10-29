@@ -25,6 +25,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1A2A8732",
+   "md5": "297F34B4CDC2CA9CECAE911155B90079",
+   "sha1": "87F848CDEF31555B12684F822AD251848D2EAF0D",
+   "region": "Japan",
+   "file": "Super Mahjong 2 - Honkaku 4-nin Uchi! (Japan).sfc"
+  },
+  {
+   "crc32": "6B23E2E4",
+   "md5": "535AD6F23B3BF34BA2053E35836DF46F",
+   "sha1": "684123A12CA1E31115BD6221D96F82461066877F",
+   "region": "Japan",
+   "file": "Super Mahjong 2 - Honkaku 4-nin Uchi! (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

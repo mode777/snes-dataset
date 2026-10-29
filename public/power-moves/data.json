@@ -26,6 +26,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C2E094B5",
+   "md5": "DC20901FCBBEACEB539208EBE7BBA48C",
+   "sha1": "93D8ECA8612ADAE232931D11C718CEA588EC3716",
+   "region": "USA",
+   "file": "Power Moves (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

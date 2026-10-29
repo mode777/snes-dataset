@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "66FBE563",
+   "md5": "A140273115C543C46E8E629E1BCA52AA",
+   "sha1": "EBAF486F64AF90EAB6F7735598E0D5F8DA7C5806",
+   "region": "Japan",
+   "file": "Mahjong Hishouden - Shin Naki no Ryuu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

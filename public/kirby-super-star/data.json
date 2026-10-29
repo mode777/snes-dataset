@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "89D0F7DC",
+   "md5": "CB76EA8AC989E71210C89102D91C6C57",
+   "sha1": "CCA1E67FA230BF4F60154F5EA55D06568229DC5D",
+   "region": "USA",
+   "file": "Kirby Super Star (USA).sfc"
+  }
+ ],
  "gf_score": 4.31,
  "metascore": null,
  "cover_urls": [

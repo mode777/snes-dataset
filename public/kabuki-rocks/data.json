@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AD324F9D",
+   "md5": "DAAE6C39F7D168954E2B568C47B3BDD1",
+   "sha1": "391D2144290F287FB5FBC872C14A6102D98FC7F5",
+   "region": "Japan",
+   "file": "Kabuki Rocks (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

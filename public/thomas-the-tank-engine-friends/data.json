@@ -35,6 +35,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "F597A111",
+   "md5": "78E167B92C8F5BC10E62ECBECCC1C0B1",
+   "sha1": "CFD0BB61F2D840CE405439040E4CE4C1A5F43038",
+   "region": "Europe",
+   "file": "Thomas the Tank Engine & Friends (Europe).sfc"
+  },
+  {
+   "crc32": "BB4CD5A4",
+   "md5": "923EC0C22B5083B6E3A32E54F822F4FB",
+   "sha1": "7B03D25216C4021FC5A1A3C1A04012D2C1E1638F",
+   "region": "USA",
+   "file": "Thomas the Tank Engine & Friends (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

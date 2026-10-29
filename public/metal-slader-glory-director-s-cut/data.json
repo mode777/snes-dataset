@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2CAB2502",
+   "md5": "1F353927E2990450E870BC3182DE84AD",
+   "sha1": "045E084C81BD84371E16EF770D29C1D11DF98BE2",
+   "region": "Japan",
+   "file": "Metal Slader Glory - Director's Cut (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": 4.06,
  "metascore": null,
  "cover_urls": [

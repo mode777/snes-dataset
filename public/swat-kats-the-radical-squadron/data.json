@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "EA2A23FB",
+   "md5": "8E9E2D07222DCEFA13ADF2BAB05B1776",
+   "sha1": "AA9EBE608E934607ADE003E0821C11E4C6EAE8DE",
+   "region": "USA",
+   "file": "SWAT Kats - The Radical Squadron (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

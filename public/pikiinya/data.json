@@ -24,6 +24,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9FE1B94A",
+   "md5": "C20EDB9790B46C91F089B8AD0AABF285",
+   "sha1": "BF4017C26BB4B33736D96B38D2CF334CFF68928D",
+   "region": "Japan",
+   "file": "Pikiinya! (Japan).sfc"
+  },
+  {
+   "crc32": "AF56D062",
+   "md5": "114E0418FFD05BA93B3AE4FF9A728B60",
+   "sha1": "E3738807276D9AEEE5BE558336F404FF0CB9106D",
+   "region": "Japan",
+   "file": "Pikiinya! (Japan) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

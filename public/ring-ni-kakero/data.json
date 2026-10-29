@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "503B5B86",
+   "md5": "20C1C46B6CACC7D77E41CDD46CC0BC5A",
+   "sha1": "39FD2E8A2D4A0666B73E03750020BE5DE65998A2",
+   "region": "Japan",
+   "file": "Ring ni Kakero (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

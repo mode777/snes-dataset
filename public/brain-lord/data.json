@@ -31,6 +31,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "AC443D87",
+   "md5": "BDA740A4574C4C0BDB955D5C57DDB3DF",
+   "sha1": "1398A08D66980F8A9F73E0AE20ED5C518B3859E8",
+   "region": "USA",
+   "file": "Brain Lord (USA).sfc"
+  },
+  {
+   "crc32": "9540E59D",
+   "md5": "C0487BB7762D9BBF7A4CFD3865CC8CA8",
+   "sha1": "FA656ABD8DE72E139D2634DFF5FB790949421B41",
+   "region": "Japan",
+   "file": "Brain Lord (Japan).sfc"
+  }
+ ],
  "gf_score": 3.56,
  "metascore": null,
  "cover_urls": [

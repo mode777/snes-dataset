@@ -33,6 +33,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "A905A565",
+   "md5": "87E2235173DDE35B21AE6816561E4E26",
+   "sha1": "D0F0778DC6F32A841E6F62B0DAA84FFE6F8415EB",
+   "region": "USA",
+   "file": "NBA All-Star Challenge (USA).sfc"
+  },
+  {
+   "crc32": "E5014292",
+   "md5": "067D9128BB7C3AC164CF184A880F6B12",
+   "sha1": "5A2AC60B132F103DBD43B3A8442A6DBDD12DF8CD",
+   "region": "Japan",
+   "file": "NBA All-Star Challenge (Japan).sfc"
+  },
+  {
+   "crc32": "B5693B18",
+   "md5": "B3695A686E32089D4555466A8C4BBB34",
+   "sha1": "9DBB08F640479762DDBD7D744695F8F43A9E6AE6",
+   "region": "Europe",
+   "file": "NBA All-Star Challenge (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

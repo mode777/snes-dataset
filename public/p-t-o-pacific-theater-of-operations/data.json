@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E51BBAC8",
+   "md5": "31C4A72FCF0D62BBF104F466308024EB",
+   "sha1": "DA4D2D18F27C1ECCE0269FCB1BF185D878A6714D",
+   "region": "USA",
+   "file": "P.T.O. - Pacific Theater of Operations (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

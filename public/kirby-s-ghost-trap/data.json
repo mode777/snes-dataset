@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "DD0D08BE",
+   "md5": "E872AAA6D946118A1A65AA7DF08DC3F6",
+   "sha1": "51118691A6E5761F9031D50D00EF7B8510A899EA",
+   "region": "Europe",
+   "file": "Kirby's Ghost Trap (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

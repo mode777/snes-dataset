@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E5A57B12",
+   "md5": "BFEBDB22FA71D87E81F41982E798530D",
+   "sha1": "7D95CB50C04B2322630D8D8361983DB1F2AA82DB",
+   "region": "Japan",
+   "file": "Top Racer (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

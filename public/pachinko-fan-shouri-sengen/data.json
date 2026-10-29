@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4F560DCA",
+   "md5": "CFE449F8D7DF1300D64C180C4BC51E58",
+   "sha1": "01FCE937722542D3062DD9201A3684C32B4CD155",
+   "region": "Japan",
+   "file": "Pachinko Fan - Shouri Sengen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

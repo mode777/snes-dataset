@@ -32,6 +32,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "AD3CD5E6",
+   "md5": "7EFF7DDDD0C944359B95C90F4C4A915D",
+   "sha1": "F55FBBABB16EBDB7CA06E91DA3B24023EA246CAC",
+   "region": "USA",
+   "file": "International Tennis Tour (USA).sfc"
+  },
+  {
+   "crc32": "45F2DAB9",
+   "md5": "08F5F1736968581949716E1D180BD132",
+   "sha1": "46D3FF5BE076E6F4738D732102173974B530FDFF",
+   "region": "Japan",
+   "file": "International Tennis Tour (Japan).sfc"
+  },
+  {
+   "crc32": "6BBCEA4F",
+   "md5": "55CCB28E6A7764D69D0500383E897002",
+   "sha1": "415C064930254F0047C8EE8136C9D0D2294D89FC",
+   "region": "Europe",
+   "file": "International Tennis Tour (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "17E2DE82",
+   "md5": "1DC3708E81B8438E04D8BCDE1070F26B",
+   "sha1": "F62E14986E71A81B36B63CBB4F070F55074AAAD9",
+   "region": "Japan",
+   "file": "Super Zugan - Hakotenjou kara no Shoutaijou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

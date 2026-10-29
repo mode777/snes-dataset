@@ -38,6 +38,22 @@
  "languages": [
   "English, German, French, Italian"
  ],
+ "roms": [
+  {
+   "crc32": "836EE990",
+   "md5": "64D367E1406FC39281443DA9CFD9F015",
+   "sha1": "23967B9DD586C01A8B6E89BB3774C3B3F7BDF3BA",
+   "region": "USA",
+   "file": "Jurassic Park Part 2 - The Chaos Continues (USA) (En,Fr,De,It).sfc"
+  },
+  {
+   "crc32": "8A926D1A",
+   "md5": "AEFB5332ACA8CBD4FDB3F96C848E2A65",
+   "sha1": "2BB5E4A9E965E88E374D71BB14BFF9A21453CD19",
+   "region": "Europe",
+   "file": "Jurassic Park Part 2 - The Chaos Continues (Europe) (En,Fr,De,It).sfc"
+  }
+ ],
  "gf_score": 3.6,
  "metascore": null,
  "cover_urls": [

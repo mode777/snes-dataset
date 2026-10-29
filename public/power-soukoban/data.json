@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "39FBAA1E",
+   "md5": "EB9174301C3D2FF6871CC5AEF8B9EB4A",
+   "sha1": "4B69363051DF75089169CB76E5ABC6364ECBABF5",
+   "region": "Japan",
+   "file": "Power Soukoban (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

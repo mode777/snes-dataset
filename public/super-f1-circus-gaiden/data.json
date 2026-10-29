@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6B8AC3B3",
+   "md5": "AAC1685A925CD0A5A6819C6FDE8E4531",
+   "sha1": "A4179B57CEC282CEE174432DAC651B1DF9B6EACC",
+   "region": "Japan",
+   "file": "Super F1 Circus Gaiden (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

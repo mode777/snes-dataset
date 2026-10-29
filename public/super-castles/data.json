@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FF1C41C1",
+   "md5": "84AAAAFFEB14ED94344B0495E8BEFFB1",
+   "sha1": "D85641645089E17EA4BB141BA02D52FA058971CE",
+   "region": "Japan",
+   "file": "Super Castles (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "BB2B8E2E",
+   "md5": "0AF38A3C56AC7B451F96E298BAFBB553",
+   "sha1": "70AA994C8ECB3A8C585A92D3B484B647E83D9651",
+   "region": "Europe",
+   "file": "Looney Tunes - Road Runner (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

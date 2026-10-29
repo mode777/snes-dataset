@@ -28,6 +28,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9DFC8897",
+   "md5": "FCC16838355A306851685E87EA5291E1",
+   "sha1": "384B54D4ECCB2BA8375C7C0058B8516EC6D487DE",
+   "region": "USA",
+   "file": "Ultimate Fighter (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

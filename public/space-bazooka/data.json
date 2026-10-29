@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F2DD3BE4",
+   "md5": "0E59675372CA0CA16C7A7158B5597F2C",
+   "sha1": "422DF5740FED48974BCA584C3CCED0B65C6EFFFE",
+   "region": "Japan",
+   "file": "Space Bazooka (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

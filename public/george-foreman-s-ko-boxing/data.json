@@ -30,6 +30,36 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "15194FC9",
+   "md5": "3730038022258338D4882F401AB328F9",
+   "sha1": "0FA4153A771D780E5CDCCF8CEF7D98C837171C6B",
+   "region": "USA",
+   "file": "George Foreman's KO Boxing (USA) (Rev 1).sfc"
+  },
+  {
+   "crc32": "71056BF3",
+   "md5": "5752112E36DF731779E7A79086ED2FB8",
+   "sha1": "EB4A5DC0ADA5C3495A47E1F18DBF3EC517F5A15E",
+   "region": "USA",
+   "file": "George Foreman's KO Boxing (USA) (Doritos Promo).sfc"
+  },
+  {
+   "crc32": "AF571267",
+   "md5": "644BDFDB98B06F274C2E733405D8C3B0",
+   "sha1": "A72847BD9D055FAFE92841CC1422D57B9EE7CD0F",
+   "region": "USA",
+   "file": "George Foreman's KO Boxing (USA).sfc"
+  },
+  {
+   "crc32": "09FE6EC1",
+   "md5": "B3DF09E19706763E5EAD764D384C891F",
+   "sha1": "F30C2AADC53889822CBBCE63A4363F08CAFF24DC",
+   "region": "Europe",
+   "file": "George Foreman's KO Boxing (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

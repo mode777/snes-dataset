@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F02DCB37",
+   "md5": "590DD09EC3DA21EE9B7417FF4D70FB76",
+   "sha1": "853A97E7F381D5347E4C0AA24DDDDB09A55FF29F",
+   "region": "Japan",
+   "file": "Bishin Densetsu Zoku (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -18,6 +18,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "36894CC3",
+   "md5": "CC0B93E2E08DDF3BD34A6504CE283041",
+   "sha1": "077F485295CDB91C4496D70F6AA2A478FE4D160F",
+   "region": "USA",
+   "file": "Shadow, The (USA) (Proto) (Alt 1).sfc"
+  },
+  {
+   "crc32": "13380511",
+   "md5": "BB103F88B7E4C432ACC337CBA93F2077",
+   "sha1": "130618B7EB2449F564152FF0583353612BABD483",
+   "region": "USA",
+   "file": "Shadow, The (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B4E8A680",
+   "md5": "EA107DD04DFB02B1197BFE53CD795F79",
+   "sha1": "D1443734A25E9C75D824B7515320B759B47B4178",
+   "region": "Japan",
+   "file": "Sword World SFC (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

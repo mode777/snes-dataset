@@ -20,6 +20,15 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "11202781",
+   "md5": "9725EC19683F2148C18081C433DF4AE7",
+   "sha1": "A5F8B381C3ABE29DDB6C5513FB14A905227A6984",
+   "region": "USA",
+   "file": "Space Megaforce (USA).sfc"
+  }
+ ],
  "gf_score": 3.78,
  "metascore": null,
  "cover_urls": [

@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "7ABDB576",
+   "md5": "112263A10A15AE69A6EA39EC33E66B67",
+   "sha1": "90541294C720B54B8FCC2CC2525CCA3AAD2E8173",
+   "region": "Japan",
+   "file": "Harapeko Bakka (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1B644433",
+   "md5": "B4377BCE46A521B566E2F0DF5AAA9009",
+   "sha1": "8754049AC9B5B883F09686EF1C32D49EF2D0F3F2",
+   "region": "Japan",
+   "file": "Dynamaite the Las Vegas (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

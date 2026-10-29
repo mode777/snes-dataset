@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "56EC4655",
+   "md5": "C9635C92B61ED95153F4088BBBC67DF6",
+   "sha1": "B774EF60F88820A719A0AF591EB4FF0FECCC57C3",
+   "region": "Japan",
+   "file": "Xandra no Daibouken - Valkyrie to no Deai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

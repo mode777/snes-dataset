@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EEC6A20F",
+   "md5": "BD9DBCD497764D2BD56992C698351D63",
+   "sha1": "D006FCA25506AF64DBCC601CE627D7D933684C21",
+   "region": "Japan",
+   "file": "Jungle no Ouja Tar-chan - Sekaimanyuu Daikakutou no Maki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

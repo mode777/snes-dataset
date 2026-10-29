@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "233FEC8C",
+   "md5": "9FAAB82508FC7D377882CDDEE785D422",
+   "sha1": "5D1F9010EB3E393AD57F31EC35EF75803A00E657",
+   "region": "USA",
+   "file": "Nickelodeon GUTS (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

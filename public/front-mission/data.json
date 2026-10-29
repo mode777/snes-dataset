@@ -30,6 +30,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FE27E061",
+   "md5": "8098A3D165FFF3E4D786E2902D21FD2C",
+   "sha1": "415A01C011A8294630315A2AF29F8DA5A4645EF4",
+   "region": "Japan",
+   "file": "Front Mission (Japan).sfc"
+  },
+  {
+   "crc32": "50278B21",
+   "md5": "7D557D4EE07B3CED3240D636A57B8BD0",
+   "sha1": "A1C2BA17E44B8E69B6118F1E12DCEFC32EB93387",
+   "region": "Japan",
+   "file": "Front Mission (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 4.18,
  "metascore": 72,
  "cover_urls": [

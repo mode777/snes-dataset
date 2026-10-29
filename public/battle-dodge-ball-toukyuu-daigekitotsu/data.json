@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "99A1F158",
+   "md5": "405D96A6A530484F70049400B78F5E6E",
+   "sha1": "A31FEC86AFCE976FF586FC066561329C416187DD",
+   "region": "Japan",
+   "file": "Battle Dodge Ball - Toukyuu Daigekitotsu! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

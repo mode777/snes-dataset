@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "DBB603D4",
+   "md5": "10774A72EBAD46BF9B2B531A210691D3",
+   "sha1": "BD26E09CFD2EFA05D7A2B99B376815D011F48930",
+   "region": "Japan",
+   "file": "Ski Paradise with Snowboard (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

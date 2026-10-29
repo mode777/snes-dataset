@@ -32,6 +32,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "ECB8A53A",
+   "md5": "A6F7D56D7855FD10A843FE72FE210F7A",
+   "sha1": "9347BDC49B2196BEBF01A695530CD0F1E79911D3",
+   "region": "Europe",
+   "file": "Virtual Soccer (Europe).sfc"
+  },
+  {
+   "crc32": "6383D9A5",
+   "md5": "A35C168E4A001C23D832D86FA66DDB74",
+   "sha1": "5693B01123EF7321F00902F39C7FD798BA1DE67E",
+   "region": "USA",
+   "file": "Virtual Soccer (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

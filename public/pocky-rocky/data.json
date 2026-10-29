@@ -30,6 +30,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2B0E7EA3",
+   "md5": "E74E067787723BC54093A9C03F290E5D",
+   "sha1": "DB9D670B6D1915C9F2B26D369B831B1023B33270",
+   "region": "USA",
+   "file": "Pocky & Rocky (USA).sfc"
+  },
+  {
+   "crc32": "99F8D70B",
+   "md5": "27C768FA67FC417847EC1AC591F7C909",
+   "sha1": "D1AFBCD9584614186556DC9C9349C8DB7B660005",
+   "region": "Europe",
+   "file": "Pocky & Rocky (Europe) (Sample).sfc"
+  },
+  {
+   "crc32": "B3F491C6",
+   "md5": "BE3E7907AEBC9DA95C061B9F45CFAB59",
+   "sha1": "1A1A3BAC44EBDAB7E227C3D790D0A581611B8B13",
+   "region": "Europe",
+   "file": "Pocky & Rocky (Europe).sfc"
+  }
+ ],
  "gf_score": 3.79,
  "metascore": null,
  "cover_urls": [

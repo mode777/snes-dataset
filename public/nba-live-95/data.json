@@ -35,6 +35,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1CD2393D",
+   "md5": "86021F9150C5A03E00D7F9E688A5A981",
+   "sha1": "071350136C1F50FC56322794288BB5EBFDA9E99D",
+   "region": "USA",
+   "file": "NBA Live 95 (USA).sfc"
+  },
+  {
+   "crc32": "500F57D3",
+   "md5": "50427975C0F5833F10A7FF02A5DE3C61",
+   "sha1": "5FD159391DA48C6EDE94A7CCD1A56041D35FD3F9",
+   "region": "Japan",
+   "file": "NBA Live 95 (Japan).sfc"
+  },
+  {
+   "crc32": "56FDBB8C",
+   "md5": "32FB4E765C4BFE354403154C92B70DB7",
+   "sha1": "04210F5B2B1AB4CC1EC00EACD60252132D9D42E1",
+   "region": "Europe",
+   "file": "NBA Live 95 (Europe).sfc"
+  }
+ ],
  "gf_score": 3.61,
  "metascore": null,
  "cover_urls": [

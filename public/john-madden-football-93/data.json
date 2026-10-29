@@ -30,6 +30,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B07B2A60",
+   "md5": "99D1D6AC2A18AD8C338A466AF339DE9D",
+   "sha1": "EA3BF28E2498745D7A040127B6FC578CB2E182F7",
+   "region": "Europe",
+   "file": "John Madden Football '93 (Europe).sfc"
+  },
+  {
+   "crc32": "60190859",
+   "md5": "F76242BD88A5E669E765308961791F70",
+   "sha1": "D20F815859B274BB2CE2F5E35853E1E0813CF67B",
+   "region": "USA",
+   "file": "John Madden Football '93 (USA).sfc"
+  },
+  {
+   "crc32": "DC5A250B",
+   "md5": "832D5BB25E75508A7A31AC9225443107",
+   "sha1": "EE75C2795558DDCC38BF5872A10ACDFE933003A0",
+   "region": "USA",
+   "file": "John Madden Football '93 (USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

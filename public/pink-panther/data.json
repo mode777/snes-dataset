@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0D1B3812",
+   "md5": "C0AC4877C838AB7904B7341FD9399BC1",
+   "sha1": "39436D24074F9CCC9874C25489AA93E36EFC1DE4",
+   "region": "Japan",
+   "file": "Pink Panther (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

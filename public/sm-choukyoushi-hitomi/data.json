@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D12D3529",
+   "md5": "24F820DFF56531A87DA4CA003CAEF6CA",
+   "sha1": "886CD6721DF35894D9933FE4D378383F2A18970B",
+   "region": "Japan",
+   "file": "SM Choukyoushi Hitomi (Japan) (Unl) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -32,6 +32,22 @@
  "languages": [
   "English, German, French, Italian"
  ],
+ "roms": [
+  {
+   "crc32": "4655C894",
+   "md5": "BD61F8F6B4A2DE2BE4A5F99121FB88D1",
+   "sha1": "BE56CBBE11BDCFB22DAD0B1BA05F949560DDC860",
+   "region": "Europe",
+   "file": "Sensible Soccer - European Champions (Europe) (En,Fr,De,It) (Beta).sfc"
+  },
+  {
+   "crc32": "DCC702D4",
+   "md5": "21DCAD7CBA71991E2A896AE7BB22809B",
+   "sha1": "99D9C978CC54817BB57BFB60D9B5493F6AF01750",
+   "region": "Europe",
+   "file": "Sensible Soccer - European Champions (Europe) (En,Fr,De,It).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

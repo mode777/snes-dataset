@@ -28,6 +28,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3D2352EA",
+   "md5": "8A0E00D2AC4F6AE8CC4DD17F46620304",
+   "sha1": "45A0E7811407848CE3C2B73544D89A0030FDA4CB",
+   "region": "USA",
+   "file": "Hammer Lock Wrestling (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

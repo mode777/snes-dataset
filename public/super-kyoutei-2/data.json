@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B269DEA3",
+   "md5": "A9219CDC73FFDD6E466FE74F274BD9E3",
+   "sha1": "6E3448062A83DFE004AC452781DEEEA1B072DF4C",
+   "region": "Japan",
+   "file": "Super Kyoutei 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

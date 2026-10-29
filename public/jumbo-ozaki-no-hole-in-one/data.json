@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0FD99721",
+   "md5": "BD29F4DB2C90EEE2FEF6F7156C876947",
+   "sha1": "64E653A0F35577BA66E365D0FB940ED4626DBE49",
+   "region": "Japan",
+   "file": "Jumbo Ozaki no Hole in One (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

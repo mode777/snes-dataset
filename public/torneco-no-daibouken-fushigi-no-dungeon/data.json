@@ -27,6 +27,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "654E1BE4",
+   "md5": "6C519CB2D7A0C7B197BB4D4377C82456",
+   "sha1": "7109D343435FFDDCBEFF5BD75CED52BB0FF71609",
+   "region": "Japan",
+   "file": "Torneco no Daibouken - Fushigi no Dungeon (Japan).sfc"
+  },
+  {
+   "crc32": "85A21253",
+   "md5": "6252AD4E4DA42425C0547310DF2CF095",
+   "sha1": "16F523896ABA59A8537E3E1D21767B3EE1A95BEA",
+   "region": "Japan",
+   "file": "Torneco no Daibouken - Fushigi no Dungeon (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

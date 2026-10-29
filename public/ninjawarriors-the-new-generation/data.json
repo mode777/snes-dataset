@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "733764D7",
+   "md5": "2F06312FB386FC34572DF8B73ABCD8AE",
+   "sha1": "F3C00B4A8F52160593FA296B3E4E21E20F53B8E3",
+   "region": "Europe",
+   "file": "Ninjawarriors - The New Generation (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

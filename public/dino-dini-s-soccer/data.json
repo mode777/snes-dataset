@@ -36,6 +36,15 @@
  "languages": [
   "English, German, French"
  ],
+ "roms": [
+  {
+   "crc32": "DBF4A8AB",
+   "md5": "EEF0F5D6606B40819A5623DF2CA4955A",
+   "sha1": "80C4F508801146CD5CC4848BD5D1ED54456B937E",
+   "region": "Europe",
+   "file": "Dino Dini's Soccer! (Europe) (En,Fr,De).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

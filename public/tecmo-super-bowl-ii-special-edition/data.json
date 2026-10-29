@@ -31,6 +31,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "D67D507B",
+   "md5": "2A97ADE8005ECD2EDD0C91439B3D4B94",
+   "sha1": "1DBA2FA606AA993A2B8CDBBD029A721882E8888E",
+   "region": "USA",
+   "file": "Tecmo Super Bowl II - Special Edition (USA).sfc"
+  },
+  {
+   "crc32": "5ACD46EC",
+   "md5": "1ADE0779EA025CD86BB0C3005A01E8F7",
+   "sha1": "1FA813A7A628D9C4AE4AA75374449928BA039A06",
+   "region": "Japan",
+   "file": "Tecmo Super Bowl II - Special Edition (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

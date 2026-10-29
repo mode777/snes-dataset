@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1A52FEE5",
+   "md5": "BB8E9E7429145404F0E4186AD0161FC8",
+   "sha1": "3CC5406045F28DC48163D360D30313D23C1EF9B8",
+   "region": "USA",
+   "file": "Lester the Unlikely (USA).sfc"
+  }
+ ],
  "gf_score": 2.16,
  "metascore": null,
  "cover_urls": [

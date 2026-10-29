@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4620C386",
+   "md5": "7173BBD34AC961CAB1901568F1AA8BC4",
+   "sha1": "F9E132C783BC6DF4B065739E4BB0BE11E4470CD2",
+   "region": "Japan",
+   "file": "Yam Yam (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

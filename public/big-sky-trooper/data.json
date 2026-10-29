@@ -30,6 +30,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "25C69316",
+   "md5": "DA63BB63008DFE25C3E387C25D217D36",
+   "sha1": "F6599996571F9D899CAF4E33E5E5CE820A47DC8E",
+   "region": "USA",
+   "file": "Big Sky Trooper (USA).sfc"
+  },
+  {
+   "crc32": "7955EBFE",
+   "md5": "408162D58F7C6086B1FF979BBA51121A",
+   "sha1": "4F78BCAEBDEF55328F663F9CB74683E44747E303",
+   "region": "USA",
+   "file": "Big Sky Trooper (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "1B565BE7",
+   "md5": "B771F65306B12EF1ACF830953B9424D6",
+   "sha1": "CE7CBDBC846C99CC2DE9A9412D60D5D028E85933",
+   "region": "Europe",
+   "file": "Big Sky Trooper (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

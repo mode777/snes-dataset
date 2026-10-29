@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "51BC2909",
+   "md5": "D55864CE134EC6A67A02805401765F61",
+   "sha1": "11CD5E49B6907B6FA6F524EC7B216805712EEAF6",
+   "region": "Japan",
+   "file": "Doraemon - Nobita to Yousei no Kuni (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

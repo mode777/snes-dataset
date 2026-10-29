@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0AA75FA8",
+   "md5": "8633F40194D4EF61458AB8C24C14DBB5",
+   "sha1": "28FCB0ACD1C02ADA4E81FC84552B8FF1EEA79420",
+   "region": "Japan",
+   "file": "Akumajou Dracula XX (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

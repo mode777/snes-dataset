@@ -34,6 +34,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "9F2BA6A9",
+   "md5": "1C170567B185D22C42638F15E503D7B6",
+   "sha1": "CFCC60D3987545429C2196ACECB1B3D1F7E56015",
+   "region": "USA",
+   "file": "Battle Blaze (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "B9CD2FF3",
+   "md5": "48F9FADE9361D8188AB27CAE6D14309F",
+   "sha1": "E486B107AFCC50D3C5B2C33FA5840BD16EF705C2",
+   "region": "Japan",
+   "file": "Battle Blaze (Japan).sfc"
+  },
+  {
+   "crc32": "D933BD8D",
+   "md5": "AFCBFAE9EADC31880B3216AC1519C7AF",
+   "sha1": "2A1C91B6A9FFD5B8D01E388C1322341216021A02",
+   "region": "USA",
+   "file": "Battle Blaze (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -29,6 +29,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "ECF79841",
+   "md5": "C0B915890406970A39CD2245CBB82633",
+   "sha1": "2C84FE80423798FB62A2D5335F53742580486DC1",
+   "region": "USA",
+   "file": "Super Strike Eagle (USA).sfc"
+  },
+  {
+   "crc32": "3ABAB85B",
+   "md5": "29E13CC64A8A5CE0306715FC13F06310",
+   "sha1": "C9EB8F4627B3B2A090FFB7DAFAF255536B52C6D1",
+   "region": "Europe",
+   "file": "Super Strike Eagle (Europe) (En,Fr,De,Es,It).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

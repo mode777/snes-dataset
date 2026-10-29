@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "26E0D862",
+   "md5": "4AF3A97B0E9742E7AAD202CD2E33BDAD",
+   "sha1": "D0B7A53A35B42172B6A2ECA09D56F82EEA75074B",
+   "region": "Japan",
+   "file": "Kid Klown no Crazy Chase (Japan).sfc"
+  },
+  {
+   "crc32": "1F9C5B54",
+   "md5": "8C9035477C9881EF939DD7F4BA0F810D",
+   "sha1": "0D717219510B2960E7488BADE44416E73E166BC6",
+   "region": "Japan",
+   "file": "Kid Klown no Crazy Chase (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

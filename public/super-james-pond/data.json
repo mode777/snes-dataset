@@ -33,6 +33,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "ED91C23F",
+   "md5": "926128C06EA4D42E529C49BE11E28C36",
+   "sha1": "869C0C0A0936A7100A22F11D9216750CC2DB6345",
+   "region": "USA",
+   "file": "Super James Pond (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "D7C34122",
+   "md5": "14DF5ECB8CC0B7CB11E3A0968DA3D2A0",
+   "sha1": "B8CBC41A93787A41F1EE253041FA8DDA14C51475",
+   "region": "USA",
+   "file": "Super James Pond (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

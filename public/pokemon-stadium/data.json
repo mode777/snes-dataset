@@ -23,6 +23,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "F863C642",
+   "md5": "BBE76BD2E6F7C8E80CCFE206B3754B69",
+   "sha1": "B4A015E2366BDD1BA62B33CF334383D54FB59CE7",
+   "region": "World",
+   "file": "Pokemon Stadium (World) (Unl).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D4EF91CE",
+   "md5": "1AC83132C98BA5E8FE1C94E5D3FEEA1D",
+   "sha1": "AAD89324A58FA0BBC9CC3D7CDEA5E84BDF63AC8A",
+   "region": "Japan",
+   "file": "Kabuki Chou Reach Mahjong Tonpuusen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

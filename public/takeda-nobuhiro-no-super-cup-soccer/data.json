@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1BB2A0A4",
+   "md5": "8EAC8FBAA1471A5E1A77E6A409E62CEF",
+   "sha1": "C598CA9E5C27B9CCEE2D04A6BAD3379BDFE47043",
+   "region": "Japan",
+   "file": "Takeda Nobuhiro no Super Cup Soccer (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

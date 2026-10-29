@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E0273E0E",
+   "md5": "6295925D91AB33FFA01DFEC220C1D3E6",
+   "sha1": "44C13E3147A107A8B3248F3A389144B29638B91A",
+   "region": "Japan",
+   "file": "Shin Shougi Club (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

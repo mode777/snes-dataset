@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1354E81E",
+   "md5": "11B40949B167EE0ED6D7ABB9EA32A81F",
+   "sha1": "164D51CE6CF2228A399BA11FC1F5803CACE53CB7",
+   "region": "Japan",
+   "file": "Madou Monogatari - Hanamaru Daiyouchienji (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

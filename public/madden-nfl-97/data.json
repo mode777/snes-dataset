@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "ABCF026E",
+   "md5": "84279A0957E800BBAA0C90E6A0B0BA88",
+   "sha1": "71A484A8117686DD9389CC2F153D9E5A0469B1E3",
+   "region": "USA",
+   "file": "Madden NFL 97 (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

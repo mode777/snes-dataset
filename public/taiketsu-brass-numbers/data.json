@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "27815B78",
+   "md5": "506D11CA9610D6AEB280D476699E3C07",
+   "sha1": "C68658E255797F8AEB674300BBC025E7CBE2DB1E",
+   "region": "Japan",
+   "file": "Taiketsu!! Brass Numbers (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "3E0038BF",
+   "md5": "6852754EBD4115E1DB335B6492586C8B",
+   "sha1": "AA2F3D719BDCD4F36DB05AC2651FB0A242D6E6FB",
+   "region": "USA",
+   "file": "WWF Raw (USA).sfc"
+  },
+  {
+   "crc32": "A5A3BFBC",
+   "md5": "C9621E6293AB2DE3FE03439BA09969A2",
+   "sha1": "87D4DADAD6CDAA3B6CF6B2C1118606BCB5EF74C4",
+   "region": "Europe",
+   "file": "WWF Raw (Europe).sfc"
+  }
+ ],
  "gf_score": 3.5,
  "metascore": null,
  "cover_urls": [

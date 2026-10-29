@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E9D6C61E",
+   "md5": "0F262EE486A2E481D426148E4F9E26C6",
+   "sha1": "FA57F07B7BD9A4C64C9E08BBC67DB8BAD32CB106",
+   "region": "USA",
+   "file": "True Golf Classics - Waialae Country Club (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

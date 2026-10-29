@@ -36,6 +36,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "263178B2",
+   "md5": "29D3A2A6B39C83E464B6E6450C1F70B9",
+   "sha1": "B0EBDEC85A3F72CB66C216BC3001CD2CE367ECB2",
+   "region": "Europe",
+   "file": "Lamborghini American Challenge (Europe).sfc"
+  },
+  {
+   "crc32": "D2FB701B",
+   "md5": "08D373C5A350EB7B7F593657E2A5F252",
+   "sha1": "62AFA5E2BD795C9B205421E9B50DB175BC04B527",
+   "region": "USA",
+   "file": "Lamborghini American Challenge (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

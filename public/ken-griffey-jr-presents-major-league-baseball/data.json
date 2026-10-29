@@ -31,6 +31,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "8BF2B589",
+   "md5": "0A4344F76D59E3FA5176224DFC5DCABD",
+   "sha1": "C33066642FCCFF2ECC042F00F27998FCDBB1F374",
+   "region": "USA",
+   "file": "Ken Griffey Jr. Presents Major League Baseball (USA).sfc"
+  },
+  {
+   "crc32": "12B592F2",
+   "md5": "2116A2B7CA5E7A8AE2E0C9A7BD77B518",
+   "sha1": "3BE613D0173682711E1DA59252CB91E839551633",
+   "region": "USA",
+   "file": "Ken Griffey Jr. Presents Major League Baseball (USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 3.78,
  "metascore": null,
  "cover_urls": [

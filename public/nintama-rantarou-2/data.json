@@ -29,6 +29,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "280E9777",
+   "md5": "CF178CFB9351BCF8DAFA94DF0D35D2E6",
+   "sha1": "AD0A6C4E1B731A6917F0F4BCB9ACA2DDD631D153",
+   "region": "Japan",
+   "file": "Nintama Rantarou 2 (Japan) (BS).sfc"
+  },
+  {
+   "crc32": "78A066F1",
+   "md5": "C20298ABCF7890DAC0399C88EECE767D",
+   "sha1": "AA693C6D70598656CAD82FCAC1C40CE7375D40CA",
+   "region": "Japan",
+   "file": "Nintama Rantarou 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

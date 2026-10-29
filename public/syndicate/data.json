@@ -37,6 +37,36 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FD851819",
+   "md5": "1F801D72860E3488AC3C314674C2E934",
+   "sha1": "98319448AEBE93872EB318D6844CAA0BFDF401E1",
+   "region": "Europe",
+   "file": "Syndicate (Europe) (En,Fr,De).sfc"
+  },
+  {
+   "crc32": "181CAE99",
+   "md5": "04A2B19D4C86CC02B5B3F6F270768E3B",
+   "sha1": "D0F4EB03ED823EC05E1DF6E0ED406E638F343B54",
+   "region": "Europe",
+   "file": "Syndicate (Europe) (En,Fr,De) (Beta).sfc"
+  },
+  {
+   "crc32": "63C52DC4",
+   "md5": "4B70A19D7ED67B9CAEEAB9C5A536D2ED",
+   "sha1": "226733C86D0BE70B5EF73C14EBE8C7C1761C89F9",
+   "region": "Japan",
+   "file": "Syndicate (Japan).sfc"
+  },
+  {
+   "crc32": "D74570D3",
+   "md5": "5699A71DA776E5FD8901582C61F3D3CF",
+   "sha1": "591527865E2B90521E36D460148F7482BC94B6A0",
+   "region": "USA",
+   "file": "Syndicate (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

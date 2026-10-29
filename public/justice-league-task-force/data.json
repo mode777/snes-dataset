@@ -34,6 +34,36 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "50224767",
+   "md5": "D8D76B588F5EBC5E83A8B8EE384FE868",
+   "sha1": "2893DD99DA821D391D5FB1A76630E92CD14952A4",
+   "region": "USA",
+   "file": "Justice League Task Force (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "BFA7F180",
+   "md5": "4B38181FA7BFEEA2EF8CB3180B8D26D5",
+   "sha1": "3FF24CABA446B75076D0B7C49BB3B998A0AF4D55",
+   "region": "Japan",
+   "file": "Justice League Task Force (Japan).sfc"
+  },
+  {
+   "crc32": "E81203E0",
+   "md5": "5582CA677F7CDA196BBA3533B416C121",
+   "sha1": "40FF04B44F49985BB69A67B40533E0764B4D018E",
+   "region": "Europe",
+   "file": "Justice League Task Force (Europe).sfc"
+  },
+  {
+   "crc32": "31CF46D1",
+   "md5": "2078B064BDF300EB656971946C26430F",
+   "sha1": "5F42F74A03E8A7C0145751A6563DEC707CBBE37C",
+   "region": "USA",
+   "file": "Justice League Task Force (USA).sfc"
+  }
+ ],
  "gf_score": 2.74,
  "metascore": null,
  "cover_urls": [

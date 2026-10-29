@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F0C936E5",
+   "md5": "BA7823365759286912B95CD4156445C8",
+   "sha1": "224AD27031F6B9D13898DF20E5E18F65AEB54C1A",
+   "region": "Japan",
+   "file": "Onizuka Katsuya Super Virtual Boxing - Shin Kentou Ou Densetsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

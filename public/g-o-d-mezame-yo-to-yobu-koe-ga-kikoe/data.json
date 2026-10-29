@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4D2CE16F",
+   "md5": "ED35A998C76D415C518CDEE1959D2AFA",
+   "sha1": "6110477B76CE2B352D9AB3D9559BE7A230C96C26",
+   "region": "Japan",
+   "file": "G.O.D - Mezame yo to Yobu Koe ga Kikoe (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

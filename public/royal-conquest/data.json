@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F60E933E",
+   "md5": "94DEDE46202711AEAF1408631193EE3D",
+   "sha1": "EADC7A5E84D57B3092814E339801BC086A63A976",
+   "region": "Japan",
+   "file": "Royal Conquest (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

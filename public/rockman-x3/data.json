@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E476912B",
+   "md5": "B1023717D7BEAE8CA83A390198FBCBFF",
+   "sha1": "8E0156FC7D6AF6F36B08A5E399C0284C6C5D81B8",
+   "region": "Japan",
+   "file": "Rockman X3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

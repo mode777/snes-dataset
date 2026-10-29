@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A2A0F40F",
+   "md5": "F7F884101B3AFB0BEB7905EF5B7BFFBD",
+   "sha1": "D9E5333F3D19AEC17D95301ED52C2400689B61A6",
+   "region": "Japan",
+   "file": "Taikou Risshiden (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

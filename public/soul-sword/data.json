@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F9792194",
+   "md5": "32F1BCA9AE10BED26C7FD4915BB5ABFE",
+   "sha1": "52902BC4AB3F3F1FE3AA123B79DAB624A46E8DD2",
+   "region": "Japan",
+   "file": "Soul & Sword (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

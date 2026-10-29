@@ -32,6 +32,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "2A5DDAC0",
+   "md5": "5010E81AED2A0D258D1DE11D0B16725B",
+   "sha1": "4DEFD682DC0A8E02CBE014A3A42CBE14DEDCD438",
+   "region": "USA",
+   "file": "Super Aquatic Games Starring the Aquabats, The (USA).sfc"
+  },
+  {
+   "crc32": "249DFFD6",
+   "md5": "10C3C6891BC8A2CC28D9CD048E793DC1",
+   "sha1": "8B8DA62F5D2DF47D1DC830E5EF7B572796082558",
+   "region": "USA",
+   "file": "Super Aquatic Games Starring the Aquabats, The (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

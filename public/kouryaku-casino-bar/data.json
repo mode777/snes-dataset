@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "13454204",
+   "md5": "9DBB8517F3E38A61AC540384D26989D4",
+   "sha1": "4717AB83C3EF0EE0D0B4F134CE69E301F3C0A122",
+   "region": "Japan",
+   "file": "Kouryaku Casino Bar (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

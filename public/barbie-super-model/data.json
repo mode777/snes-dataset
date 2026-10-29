@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "3B73610E",
+   "md5": "FDECC2C3CB3C351DAD5D54DA7999D3C0",
+   "sha1": "801776C4651DB49FC0CB1FDBAF0A2CA8741D87C2",
+   "region": "USA",
+   "file": "Barbie Super Model (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

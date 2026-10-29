@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9D9BBD09",
+   "md5": "612CAD0100B9A37693815542D501A193",
+   "sha1": "53FAF45FD03937F663DD2E8047BADB162922F896",
+   "region": "Japan",
+   "file": "Kirby no Omochabako - Pinball (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

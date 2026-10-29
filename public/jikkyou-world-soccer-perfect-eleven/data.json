@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "37C36FDC",
+   "md5": "88E7C70CD7846BDFE87C3AB9F51CB8D5",
+   "sha1": "FED2E45D5ECE469A3C789B959D65F069662D56E1",
+   "region": "Japan",
+   "file": "Jikkyou World Soccer - Perfect Eleven (Japan).sfc"
+  },
+  {
+   "crc32": "16D71685",
+   "md5": "B24EED23AFEDE94FC1ECACED9F5B9B36",
+   "sha1": "533FC018B897149F0B03D34646BFC9B9087380EB",
+   "region": "Japan",
+   "file": "Jikkyou World Soccer - Perfect Eleven (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "96BD588B",
+   "md5": "EB658023BF0146062ED1E157BD12F867",
+   "sha1": "918C7B5BF263001CC4BFC53B4A42DAC1FD4F897A",
+   "region": "Japan",
+   "file": "Puzzle Bobble (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

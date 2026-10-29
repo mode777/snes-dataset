@@ -29,6 +29,15 @@
  "languages": [
   "English, German, Spanish, French, Italian"
  ],
+ "roms": [
+  {
+   "crc32": "60DC3634",
+   "md5": "3595C2E9736C100E263B699ADA348B68",
+   "sha1": "7F8F4AF47B9B15966A6A4083A41BF3C68391A555",
+   "region": "USA",
+   "file": "Head-On Soccer (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

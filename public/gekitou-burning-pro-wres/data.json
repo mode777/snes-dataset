@@ -21,6 +21,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B2E7FC76",
+   "md5": "BD3C30130FF795A7BC826B84A1B23F34",
+   "sha1": "159BB39CCAA89BB29E124F10984F14F711D73B4F",
+   "region": "Japan",
+   "file": "Gekitou Burning Pro Wres (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

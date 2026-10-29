@@ -20,6 +20,15 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1E6ACEBA",
+   "md5": "1321B154C39E894FFB25ECBE13455544",
+   "sha1": "35228167B8BA0037D3584FC9986822EB6E1A2180",
+   "region": "USA",
+   "file": "Flashback - The Quest for Identity (USA) (En,Fr,De).sfc"
+  }
+ ],
  "gf_score": 3.8,
  "metascore": null,
  "cover_urls": [

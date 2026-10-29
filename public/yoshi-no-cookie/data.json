@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1E1AA75F",
+   "md5": "0E9793C6BE37B4762E9F91BDD9AD5271",
+   "sha1": "A7261FE214888346129B322012521D80A9D15319",
+   "region": "Japan",
+   "file": "Yoshi no Cookie (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

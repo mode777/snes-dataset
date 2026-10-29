@@ -32,6 +32,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "0DA18A10",
+   "md5": "445B931E1D09A24CDD467720A641B8E7",
+   "sha1": "9D48223F671C372BE0AED43C51EC65E9B3CF59DB",
+   "region": "Japan",
+   "file": "Acrobat Mission (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "11DD3DA9",
+   "md5": "E61C93A5D93DCD56F73986F8C32B7207",
+   "sha1": "3727710F65048757A56098F4C97CCD62EE0F6A2F",
+   "region": "Japan",
+   "file": "Famicom Bunko - Hajimari no Mori (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C9D97B3E",
+   "md5": "46B29735C680C494B21CAA7D8032AC36",
+   "sha1": "42CCC3F8DE882B238D6B3646FA3FEB200F2E45C2",
+   "region": "Japan",
+   "file": "Sengoku Denshou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

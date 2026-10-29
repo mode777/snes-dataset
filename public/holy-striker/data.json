@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "46ACFC84",
+   "md5": "68B340464B26AD36F5DB110918C1E06D",
+   "sha1": "22065B52CE8A6461DC5D4A32B4A6B41BC5CBD23F",
+   "region": "Japan",
+   "file": "Holy Striker (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

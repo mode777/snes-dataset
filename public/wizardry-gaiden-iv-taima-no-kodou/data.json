@@ -25,6 +25,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1703D522",
+   "md5": "7BA541A38E7C5E86FB0D4519B490EFE8",
+   "sha1": "F4B6B592442F395CE5284FFF02A9556F8B3D9FBF",
+   "region": "Japan",
+   "file": "Wizardry Gaiden IV - Taima no Kodou (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "85A217B5",
+   "md5": "2F03759A0691DEA9A5AA05B672EBF35E",
+   "sha1": "C525A67250CBF2E2B14A9C17046F041A1E0E2ED7",
+   "region": "Japan",
+   "file": "Wizardry Gaiden IV - Taima no Kodou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

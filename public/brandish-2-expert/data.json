@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AB43E910",
+   "md5": "3E649D0B0FA80578BC25F7D225556061",
+   "sha1": "F378C73E59EF54BBED156D5CBC8A506923C32BD0",
+   "region": "Japan",
+   "file": "Brandish 2 - Expert (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

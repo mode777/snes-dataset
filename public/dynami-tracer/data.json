@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F8C2024A",
+   "md5": "E80B44E6475F8EF37652CD46DD2D31EC",
+   "sha1": "092083F41848093134C87CFA757A26BC3D1D297B",
+   "region": "Japan",
+   "file": "Dynami Tracer (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

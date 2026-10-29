@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5EBF7246",
+   "md5": "92504988268C3888F0E7041A1F9567AE",
+   "sha1": "A9B124948A19BB5A295EC208FCA8180476BDFEBB",
+   "region": "Japan",
+   "file": "Sound Novel Tsukuru (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

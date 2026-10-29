@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E46C1112",
+   "md5": "578DC3B0205DEAB136AB5F57D4B4F6CA",
+   "sha1": "8C144C11BDD748BAB238EA4C667392EEB4D9FEF7",
+   "region": "Japan",
+   "file": "Super Valis - Akaki Tsuki no Otome (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

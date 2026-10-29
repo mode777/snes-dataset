@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "40B0C585",
+   "md5": "E36EB44CE2050B0015176F4372DB5553",
+   "sha1": "2C09CD8BC1F4F31BC962364EC9B217D61D9C9ACF",
+   "region": "Japan",
+   "file": "Nigel Mansell F-1 Challenge (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

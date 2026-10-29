@@ -33,6 +33,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "676CB638",
+   "md5": "EE3584FC51C6C1DE4E5CD796F0652645",
+   "sha1": "2562C4FBEACCE6F0CE0DC85F082F3AEF733A598A",
+   "region": "USA",
+   "file": "WWF Super WrestleMania (USA).sfc"
+  },
+  {
+   "crc32": "D35543C2",
+   "md5": "70EBA780BF858588F4D7B58D4F864480",
+   "sha1": "0F0FD38896FFCB9BDD4C150B7CE1E67631BB50C8",
+   "region": "Japan",
+   "file": "WWF Super WrestleMania (Japan).sfc"
+  },
+  {
+   "crc32": "17C027C4",
+   "md5": "6DF9AB011AF9A41AD526F04065C63C27",
+   "sha1": "75502B4DC282D1CA3DB8A51D8AA4A5603F06DB2F",
+   "region": "Europe",
+   "file": "WWF Super WrestleMania (Europe).sfc"
+  }
+ ],
  "gf_score": 2.9,
  "metascore": null,
  "cover_urls": [

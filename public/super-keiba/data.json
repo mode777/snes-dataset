@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "41F92E6F",
+   "md5": "B2DC09F68E49A67EA3BB315CF8F41F8B",
+   "sha1": "1993CF9D25569FDF6BDB4F1F8229DE09EADAEADA",
+   "region": "Japan",
+   "file": "Super Keiba (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

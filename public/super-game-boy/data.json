@@ -21,6 +21,29 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2E35EDBB",
+   "md5": "6A702A9C6C110863ACE946321B871632",
+   "sha1": "6ED55C4368333B57F6A2F8BBD70CCD87ED48058E",
+   "region": "Japan",
+   "file": "Super Game Boy (Japan).sfc"
+  },
+  {
+   "crc32": "8A4A174F",
+   "md5": "B15DDB15721C657D82C5BAB6DB982EE9",
+   "sha1": "973E10840DB683CF3FAF61BD443090786B3A9F04",
+   "region": "World",
+   "file": "Super Game Boy (World) (Rev 2).sfc"
+  },
+  {
+   "crc32": "27A03C98",
+   "md5": "A4D4D35C827AEDBDA3EECE1AF0B57902",
+   "sha1": "6380A5913ACE3041A305FBAF822B5A8847FEA7ED",
+   "region": "Japan, USA",
+   "file": "Super Game Boy (Japan, USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 4.17,
  "metascore": null,
  "cover_urls": [

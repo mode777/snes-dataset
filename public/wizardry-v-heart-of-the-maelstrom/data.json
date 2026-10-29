@@ -34,6 +34,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D8FDDD76",
+   "md5": "0FFB1C1611F9F23FD646788DB607FFCE",
+   "sha1": "7E07A2DE8874E807060A2D18429818386AC7DA8E",
+   "region": "USA",
+   "file": "Wizardry V - Heart of the Maelstrom (USA).sfc"
+  }
+ ],
  "gf_score": 3.55,
  "metascore": null,
  "cover_urls": [

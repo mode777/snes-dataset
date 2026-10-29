@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0318FD8C",
+   "md5": "5DDB69AABE87D5CC9E793222956D85A6",
+   "sha1": "BAFE9438730174A6D1C8C3078B22D1F852E22D2F",
+   "region": "Japan",
+   "file": "Hello! Pac-Man (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

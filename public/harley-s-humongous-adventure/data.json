@@ -30,6 +30,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "07715303",
+   "md5": "B770FC3185F98F411A3E6A36B0F00026",
+   "sha1": "008957315A3A814329F330FCA7AEF3FC09460ADF",
+   "region": "Europe",
+   "file": "Harley's Humongous Adventure (Europe).sfc"
+  },
+  {
+   "crc32": "91E0C960",
+   "md5": "C8EC889CC6BE02AAFE8CC15DBF3E84B3",
+   "sha1": "A9EA1251AD46990E62ABAF505CE2062E2D6ACB64",
+   "region": "USA",
+   "file": "Harley's Humongous Adventure (USA).sfc"
+  },
+  {
+   "crc32": "F52EACD1",
+   "md5": "41C930A9D508671DA52FEFE5D0BDE766",
+   "sha1": "B727253811785CDF2F9621A347F36757024C2AAB",
+   "region": "USA",
+   "file": "Harley's Humongous Adventure (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

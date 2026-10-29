@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "975766D5",
+   "md5": "EEED5161E984BFFA752EF981E1AC07ED",
+   "sha1": "E80A81CEC22542034D99FD3A60DE74569BE00AE8",
+   "region": "Japan",
+   "file": "Heiwa Pachinko World 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

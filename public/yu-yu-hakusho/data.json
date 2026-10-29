@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EC96D517",
+   "md5": "7C1B4A78DCA0A2CD3ACD23B419213601",
+   "sha1": "629090E5F085848548DD085DE79952249E1FCAEC",
+   "region": "Japan",
+   "file": "Yu Yu Hakusho (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

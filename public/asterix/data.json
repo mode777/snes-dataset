@@ -34,6 +34,15 @@
  "languages": [
   "English, German, Spanish, French"
  ],
+ "roms": [
+  {
+   "crc32": "5DDEDC28",
+   "md5": "B4FC60315646BFB9280D7EDC4E59B5CC",
+   "sha1": "D684958DA04B909661371D7D5B657A6BEB213629",
+   "region": "Europe",
+   "file": "Asterix (Europe) (En,Fr,De,Es).sfc"
+  }
+ ],
  "gf_score": 3.29,
  "metascore": null,
  "cover_urls": [

@@ -35,6 +35,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "798352BF",
+   "md5": "8DA4706F41ED35FCAB35072649F2AE19",
+   "sha1": "201F9351C1649C97FECFEA060C0A135B6C06810A",
+   "region": "Japan",
+   "file": "Super Formation Soccer 95 della Serie A (Japan).sfc"
+  },
+  {
+   "crc32": "1CF83BC2",
+   "md5": "292F727B0EB90783C0367CC5721939FC",
+   "sha1": "BDF693FA565249DDD14ADA74434A462431BAFEAE",
+   "region": "Japan",
+   "file": "Super Formation Soccer 95 della Serie A (Japan) (UCC Xaqua Version).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

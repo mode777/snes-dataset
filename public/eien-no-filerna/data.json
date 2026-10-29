@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "41E9CD70",
+   "md5": "50DE817422DEC36B9266CC6AACF9E44E",
+   "sha1": "A37D9BA5ACF84C732120C4CF2B3EDD4A59FB146B",
+   "region": "Japan",
+   "file": "Eien no Filerna (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

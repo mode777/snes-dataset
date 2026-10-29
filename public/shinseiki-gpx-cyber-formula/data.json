@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "403AC1C6",
+   "md5": "868B1DDAB8452143ED53B17271BE46D6",
+   "sha1": "52229D4CE3B028198A94F9F37FF78896449DA659",
+   "region": "Japan",
+   "file": "Shinseiki GPX Cyber Formula (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

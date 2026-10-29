@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "78BCD558",
+   "md5": "5CDC61E633335D5DBE3B45325CDC39C7",
+   "sha1": "C99E51C4D64A5F7EDAF1CBFE4146B8F6821F1F09",
+   "region": "USA",
+   "file": "Eurit (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

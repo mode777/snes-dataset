@@ -35,6 +35,36 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "5BED3661",
+   "md5": "672B5C06058EE8D1C28AE36B44EB1D12",
+   "sha1": "EA430D7190D3D40C220F0C972B013EC5E99AEDE1",
+   "region": "Japan",
+   "file": "Batman Returns (Japan).sfc"
+  },
+  {
+   "crc32": "9CE7D5BA",
+   "md5": "914E7C3C7B9637F25B7ECEC14EA226A9",
+   "sha1": "3BEA4BE499657ACC2AEB0090FA9A00E4B15A7430",
+   "region": "Japan",
+   "file": "Batman Returns (Japan) (Sample).sfc"
+  },
+  {
+   "crc32": "E87DFDF6",
+   "md5": "5EF8E1F3E88C86F149838C569A0C0328",
+   "sha1": "087F414D51C999E25CED561FE21503C559D8050F",
+   "region": "USA",
+   "file": "Batman Returns (USA).sfc"
+  },
+  {
+   "crc32": "42F98E71",
+   "md5": "9F1F54EE804644B2F9C979E5F7EE69E0",
+   "sha1": "79CB69F300C58B3EEC38E14A1F85CCBA38C8C781",
+   "region": "Europe",
+   "file": "Batman Returns (Europe).sfc"
+  }
+ ],
  "gf_score": 3.67,
  "metascore": null,
  "cover_urls": [

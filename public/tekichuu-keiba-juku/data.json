@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "47E09FEC",
+   "md5": "65560F43DC2AAFC6093C6E992409F75E",
+   "sha1": "6934FBF6FC8134DB346429FAAA8966AF32890680",
+   "region": "Japan",
+   "file": "Tekichuu Keiba Juku (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

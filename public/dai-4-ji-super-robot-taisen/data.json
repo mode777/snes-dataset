@@ -30,6 +30,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "63883E1E",
+   "md5": "2254B2224CE90CE08CF9F9863168865D",
+   "sha1": "C48B09D0ED6850896DB7D7B4E08CAFFC0376223A",
+   "region": "Japan",
+   "file": "Dai-4-ji Super Robot Taisen (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "BE764D4C",
+   "md5": "FBE42000FE3A8BD0CFAB52CBDACC691B",
+   "sha1": "3EC883D427724D6DC655F431F901CDE60D16AF3E",
+   "region": "Japan",
+   "file": "Dai-4-ji Super Robot Taisen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

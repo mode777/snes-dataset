@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A467C220",
+   "md5": "B72B4BC93893591C5EF38306119069B0",
+   "sha1": "9783E11FF83E4F929367212F7C994BEEA9CC11F6",
+   "region": "Japan",
+   "file": "Shin Nihon Pro Wrestling Kounin - '95 Tokyo Dome Battle 7 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

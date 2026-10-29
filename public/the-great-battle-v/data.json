@@ -36,6 +36,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BF3C9314",
+   "md5": "7DC0A87EC703EE7659AA04FB8F8D5058",
+   "sha1": "DFFE4C2BC644FD1047498439F4B7F2002BC2C2BF",
+   "region": "Japan",
+   "file": "Great Battle V, The (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

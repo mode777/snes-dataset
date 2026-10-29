@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7C4887E1",
+   "md5": "DC629BE2EE515461315CDE57210E36C0",
+   "sha1": "3BDAEAFA81AA17C91A8B42D0FA8C5B26E3FD6B80",
+   "region": "USA",
+   "file": "Castlevania - Dracula X (USA).sfc"
+  }
+ ],
  "gf_score": 3.6,
  "metascore": null,
  "cover_urls": [

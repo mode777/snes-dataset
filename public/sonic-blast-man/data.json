@@ -32,6 +32,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8886396E",
+   "md5": "10EEC032E7BEAAA85C3E5ACE9A323C53",
+   "sha1": "9E153EDA423295806B3B7384D0A73E2630D1C314",
+   "region": "USA",
+   "file": "Sonic Blast Man (USA).sfc"
+  },
+  {
+   "crc32": "5441F25B",
+   "md5": "5476FB3C748F659F168031E4B18F538E",
+   "sha1": "D72FFF74E8C779746B2FF37A1EC343EA19026B37",
+   "region": "Europe",
+   "file": "Sonic Blast Man (Europe).sfc"
+  },
+  {
+   "crc32": "BE523800",
+   "md5": "788AD386A0350C4D0D3FACEB0A677C23",
+   "sha1": "CED0EECF48675D3DB8FC1E5A7C3D4107F52CB0F9",
+   "region": "Japan",
+   "file": "Sonic Blast Man (Japan).sfc"
+  },
+  {
+   "crc32": "544DA35F",
+   "md5": "F5FD8E0A4AC5B615FA7EF728DA1F4044",
+   "sha1": "B556830D8668ACF89A73B4DAF257440C8455441F",
+   "region": "Japan",
+   "file": "Sonic Blast Man (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": 2.94,
  "metascore": null,
  "cover_urls": [

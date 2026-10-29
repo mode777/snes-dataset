@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8EDB44AD",
+   "md5": "56D7D2C251A076AF9E5117ECBB89BF93",
+   "sha1": "D6C2D84843FB34C034F3BE4FB9166405970387F6",
+   "region": "Europe",
+   "file": "Super James Pond II (Europe).sfc"
+  },
+  {
+   "crc32": "1B2C3A47",
+   "md5": "7F47EF0D68095D3A7A6BD84500CB2082",
+   "sha1": "1E475CDEED596B8DA42476B5B55DD4CF5D9DF2F3",
+   "region": "Japan",
+   "file": "Super James Pond II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

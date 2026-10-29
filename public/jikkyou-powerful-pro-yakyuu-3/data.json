@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F7C3A222",
+   "md5": "AEC592D80C6B11FC4852C3DFC919684F",
+   "sha1": "A3F0EEB11AC12C5FEBEB64C5183763EC4229A3BD",
+   "region": "Japan",
+   "file": "Jikkyou Powerful Pro Yakyuu 3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

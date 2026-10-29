@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5D8CB7AC",
+   "md5": "E5FFB8CA8331076037A32DB94627518C",
+   "sha1": "0DB32658302252BC18A8C3AD61DDBA6FFA115E7F",
+   "region": "Japan",
+   "file": "Rudra no Hihou (Japan).sfc"
+  }
+ ],
  "gf_score": 4.06,
  "metascore": null,
  "cover_urls": [

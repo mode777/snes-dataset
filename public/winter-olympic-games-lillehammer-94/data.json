@@ -31,6 +31,22 @@
  "languages": [
   "English, German, Spanish, French, Italian, Norwegian, Portuguese, Swedish"
  ],
+ "roms": [
+  {
+   "crc32": "FCB1C794",
+   "md5": "F99D2871EB40F06C6C62139BCC926775",
+   "sha1": "DDE7484AAC121C94FBE5E840077AA73B1CF7DF13",
+   "region": "Europe",
+   "file": "Winter Olympic Games - Lillehammer '94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No).sfc"
+  },
+  {
+   "crc32": "0704ABE4",
+   "md5": "C895FD98F59546C54C2A5C015A9DD2BC",
+   "sha1": "F95834FECDD4045324AE5BCF66A0591C2B01D4DA",
+   "region": "USA",
+   "file": "Winter Olympic Games - Lillehammer '94 (USA) (En,Fr,De,Es,It,Pt,Sv,No).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

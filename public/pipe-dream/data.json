@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AF2A3DFE",
+   "md5": "5348BBCD51477FC6DCF74334E8ED8190",
+   "sha1": "301A80FDE22914FDBF6A298F6050968AF9FDDF1B",
+   "region": "Japan",
+   "file": "Pipe Dream (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

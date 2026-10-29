@@ -29,6 +29,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "C1082880",
+   "md5": "C5556CF995097E3DBB6E7B11D6ADA61E",
+   "sha1": "5EB879199BBAAF68119E5AF08F865A15770210E2",
+   "region": "USA",
+   "file": "No Escape (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

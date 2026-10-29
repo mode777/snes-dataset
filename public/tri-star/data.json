@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8E647468",
+   "md5": "8DD51674665B61D82089606DB1D3DB71",
+   "sha1": "9C94252F2A14C2B74AA670D2B096C5BF9CA0AC67",
+   "region": "USA",
+   "file": "Tri-Star (USA) (Unl).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

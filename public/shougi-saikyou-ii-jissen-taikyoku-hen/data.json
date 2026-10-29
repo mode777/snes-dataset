@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E57505D8",
+   "md5": "D6C66DF0D4C11BCFD01CDDAFCA7C2C0F",
+   "sha1": "09AC9E227911C381562A3498114CAC850A421C19",
+   "region": "Japan",
+   "file": "Shougi Saikyou II - Jissen Taikyoku Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

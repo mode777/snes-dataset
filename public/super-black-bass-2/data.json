@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9572E3AD",
+   "md5": "4587317A6C91B4C62A2FB1DA67C65D36",
+   "sha1": "55C11E35B73993558429193CC40A1837D0DDDBE0",
+   "region": "Japan",
+   "file": "Super Black Bass 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

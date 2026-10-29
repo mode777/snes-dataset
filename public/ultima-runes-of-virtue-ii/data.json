@@ -29,6 +29,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CC4EEBF4",
+   "md5": "27968DFCA9CBCA44B2D233083EC765EA",
+   "sha1": "4927BA3FE34B891A93DBD9CF4290186062B22138",
+   "region": "USA",
+   "file": "Ultima - Runes of Virtue II (USA).sfc"
+  },
+  {
+   "crc32": "F6F5EEE2",
+   "md5": "B156F66D620E0CEDF49EEC64A6FCE005",
+   "sha1": "A00ED6C6D61EDA183CCD357A4CB98E1FF258F812",
+   "region": "USA",
+   "file": "Ultima - Runes of Virtue II (USA) (Beta) (1993-07-30).sfc"
+  },
+  {
+   "crc32": "F9FFCC46",
+   "md5": "0F11222CD384737E122776FFB6247175",
+   "sha1": "66FF5AD10840DEE683758630ACADAEC150D37B12",
+   "region": "USA",
+   "file": "Ultima - Runes of Virtue II (USA) (Beta) (1994-xx-xx).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

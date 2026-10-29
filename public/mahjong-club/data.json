@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1D8748FA",
+   "md5": "047CE8F19FB1ECB34AD35D94B35DFB9C",
+   "sha1": "CEBB6DEA616A0E2AF1BB937650F86170D37EFE08",
+   "region": "Japan",
+   "file": "Mahjong Club (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

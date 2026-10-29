@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "65BF3A7E",
+   "md5": "AF5AAF6FEC949AEAB8E2CA1A7DE96721",
+   "sha1": "FFD18E23D5F77E92146035F473FFD27A17C510E1",
+   "region": "USA",
+   "file": "Jeopardy! (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

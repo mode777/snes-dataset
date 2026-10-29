@@ -22,6 +22,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B267576D",
+   "md5": "75EFA03E7275357A0979C91AB2AAA4C0",
+   "sha1": "33258F1A9BA8E498DE99C4656EB49565621B3531",
+   "region": "Japan",
+   "file": "Kunio-kun no Dodge Ball Da yo Zenin Shuugou! - Tournament Special (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

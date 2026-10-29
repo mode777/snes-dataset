@@ -33,6 +33,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FB165A32",
+   "md5": "771F518A8035740CC017287D2E5A7889",
+   "sha1": "FC3EBA871192BF3A4C5CD61C38621842223CBED0",
+   "region": "Japan",
+   "file": "Great Battle IV, The (Japan).sfc"
+  },
+  {
+   "crc32": "615C4AA7",
+   "md5": "6066EBD56585026661CC86F220FD3F44",
+   "sha1": "F6AA3E11B271175B5403009E22B244C178EBB8A1",
+   "region": "Japan",
+   "file": "Great Battle IV, The (Japan) (Sample).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

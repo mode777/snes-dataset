@@ -35,6 +35,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EA16B5A2",
+   "md5": "657FA94CFF4464CBC58C476EA642299A",
+   "sha1": "BEA0A40772574AE5E3896699D94F161339329C59",
+   "region": "USA",
+   "file": "Ghoul Patrol (USA).sfc"
+  },
+  {
+   "crc32": "5519AF34",
+   "md5": "51FF5C42EAB1017872E451BF9369F08A",
+   "sha1": "300FBA4EF307A000D1866F8422D96B7C62E0A0D7",
+   "region": "Japan",
+   "file": "Ghoul Patrol (Japan).sfc"
+  },
+  {
+   "crc32": "2C6CEFE7",
+   "md5": "F1A8BD8DC3F5013D3AFAE9721277FD94",
+   "sha1": "AB45199EF043CA46F4CC053B5BA4477350A4BA1F",
+   "region": "Europe",
+   "file": "Ghoul Patrol (Europe).sfc"
+  }
+ ],
  "gf_score": 3.28,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B1A104E6",
+   "md5": "304B1CE0E8B693A225DD2522A1E1F49B",
+   "sha1": "AEFD1D1DE03B15CE0A91143EC72C1094C784D304",
+   "region": "Japan",
+   "file": "Zenkoku Juudan Ultra Shinri Game (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

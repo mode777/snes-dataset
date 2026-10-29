@@ -32,6 +32,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CA42E604",
+   "md5": "06ADE9AFEA07422B88D9D8C888C9A638",
+   "sha1": "C35AE7AD817C71EB2CAB783C2B6A215E6C0EC53C",
+   "region": "Japan",
+   "file": "Mazinger Z (Japan) (Putative Beta).sfc"
+  },
+  {
+   "crc32": "202B3738",
+   "md5": "F0924FAEFD554E42E9DA163FFADD0B07",
+   "sha1": "4E6BA15A1165D434E6D7DA5F59B3560E705C51EF",
+   "region": "Japan",
+   "file": "Mazinger Z (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

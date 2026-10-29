@@ -20,6 +20,15 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3266FD23",
+   "md5": "89D7890AC87493E63438D973E9280361",
+   "sha1": "43B8DA73EE83C82B3A70092503F26C73E2333EEE",
+   "region": "USA",
+   "file": "Bust-A-Move (USA).sfc"
+  }
+ ],
  "gf_score": 3.72,
  "metascore": null,
  "cover_urls": [

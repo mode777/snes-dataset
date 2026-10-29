@@ -37,6 +37,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "348BE5CA",
+   "md5": "78FA69FF44EE2F6AAF0808057ECF5B40",
+   "sha1": "7CC73D8A4778AE83787603E1C26C0ACBA2BC3393",
+   "region": "Europe",
+   "file": "Pac-In-Time (Europe).sfc"
+  },
+  {
+   "crc32": "44375368",
+   "md5": "1269EEADE22C26680798ED6A4262D73C",
+   "sha1": "ED8CEA2DCF6742CDB7C22C6440C74768D7040B3C",
+   "region": "USA",
+   "file": "Pac-In-Time (USA).sfc"
+  },
+  {
+   "crc32": "98AF5DE4",
+   "md5": "CA3AAD5E1E9FBD8FF2C477BD01E188E2",
+   "sha1": "95E54E912E6A9FB5220EFD258432A525DFFAB5F3",
+   "region": "Europe",
+   "file": "Pac-In-Time (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "BB6B3B1F",
+   "md5": "60455599FB4C31C28033D786BAD106C1",
+   "sha1": "2C7C5DE3352DD4C6221CEB19D146E8CE025CE691",
+   "region": "Japan",
+   "file": "Pac-In-Time (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

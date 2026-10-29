@@ -32,6 +32,36 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DEF665AF",
+   "md5": "AC995AB6F5667BE14EB6471458E491D3",
+   "sha1": "4B82C70824922380A3193E282D7674A442BD6DD4",
+   "region": "Europe",
+   "file": "Firemen, The (Europe) (En,Fr,De).sfc"
+  },
+  {
+   "crc32": "15F2271D",
+   "md5": "79C9FFE304FA775CE3EC15270058F41B",
+   "sha1": "B2BB5C41D5CEA5A9A130C3063857BA9EC000E166",
+   "region": "Japan",
+   "file": "Firemen, The (Japan).sfc"
+  },
+  {
+   "crc32": "927BA7C2",
+   "md5": "4CC03DFF063301F997A4C290A2280510",
+   "sha1": "90F419D52667201097EDC0928F0853F55ECF83CD",
+   "region": "Japan",
+   "file": "Firemen, The (Japan) (BS).sfc"
+  },
+  {
+   "crc32": "B9C82442",
+   "md5": "C5888542C2583D3F518E2C6DB2140AAD",
+   "sha1": "B1CCFB0B09C08EDF992D65B531E8BE9290194057",
+   "region": "USA",
+   "file": "Firemen, The (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": 3.78,
  "metascore": null,
  "cover_urls": [

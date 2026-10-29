@@ -34,6 +34,15 @@
  "languages": [
   "English, German, Spanish, French"
  ],
+ "roms": [
+  {
+   "crc32": "83AF6152",
+   "md5": "77BF37A9A6779A1D7E109BC1A707ECD1",
+   "sha1": "BFEA708EE5E733640D1AE1A5F72CA1F0BDA95DED",
+   "region": "Europe",
+   "file": "Asterix & Obelix (Europe) (En,Fr,De,Es).sfc"
+  }
+ ],
  "gf_score": 3.51,
  "metascore": null,
  "cover_urls": [

@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "689A7A79",
+   "md5": "E8AC9546C334F910B36AA1C202EDC86A",
+   "sha1": "9B44C78894DFF33915A76C71E6A6A8EC75807924",
+   "region": "Japan",
+   "file": "Puzzle'n Desu! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

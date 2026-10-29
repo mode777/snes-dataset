@@ -34,6 +34,29 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CD09A892",
+   "md5": "B41C0120BF96051D2A3CA3502A7D9823",
+   "sha1": "0B851FFD9F360ED8395799A2DC4A65A75DF2B9F3",
+   "region": "Japan",
+   "file": "Flashback (Japan).sfc"
+  },
+  {
+   "crc32": "5DAFAC3E",
+   "md5": "32CE7610B08259D637E9AA62A4858599",
+   "sha1": "CBDF1042062A3D4EAFCF3B8A56193EF72C1792DE",
+   "region": "Europe",
+   "file": "Flashback (Europe) (En,Fr).sfc"
+  },
+  {
+   "crc32": "A0525B9C",
+   "md5": "49930C477F99A4FE1E30151C9ABAD663",
+   "sha1": "7B989EE15428D6683D43F9AC12DE6F75B5B41FFC",
+   "region": "Europe",
+   "file": "Flashback (Europe) (En,Fr,De).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

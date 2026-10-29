@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "1A06DB31",
+   "md5": "125822F25AF8FA7CE219E9E6E503F144",
+   "sha1": "6C96E44379EE4CEF5556B52CB8205B4A8D50A09B",
+   "region": "Europe",
+   "file": "Biker Mice from Mars (Europe).sfc"
+  },
+  {
+   "crc32": "4E8B2ECB",
+   "md5": "A1F47D45A9E5F93B3F10057D1D0E1469",
+   "sha1": "3EA3D8B7CF36EBA21A9B180A80B645EE0E221BC0",
+   "region": "USA",
+   "file": "Biker Mice from Mars (USA).sfc"
+  }
+ ],
  "gf_score": 3.91,
  "metascore": null,
  "cover_urls": [

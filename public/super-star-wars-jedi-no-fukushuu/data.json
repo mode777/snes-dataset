@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D21C6E7E",
+   "md5": "65B9C64E817BB2E23A1E0B6B2CA5727E",
+   "sha1": "E631B99A87A88478B6BBEAE7394F7A358EF7CF08",
+   "region": "Japan",
+   "file": "Super Star Wars - Jedi no Fukushuu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

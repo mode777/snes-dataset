@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8D004DBB",
+   "md5": "E5780316D3969260A93668A267685547",
+   "sha1": "6DEA2ECAD28782748DAC38489A7AFA493FB93C77",
+   "region": "Japan",
+   "file": "Outer World (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

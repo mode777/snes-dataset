@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "879EDEE8",
+   "md5": "49B7A352F3CD309C0C79DF37AB1A890E",
+   "sha1": "CB0C5B6B4A4011520888BE6007816165F3A20E89",
+   "region": "Japan",
+   "file": "Inazuma Serve da! Super Beach Volley (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

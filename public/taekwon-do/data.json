@@ -35,6 +35,22 @@
  "languages": [
   "Japanese, ko"
  ],
+ "roms": [
+  {
+   "crc32": "93F29DDE",
+   "md5": "E9EB2C3D0B6E21BAAFBFC4B614E04A3F",
+   "sha1": "DC61CB9B82EB58A9B09CB93A10B6731EAA4CD053",
+   "region": "Japan",
+   "file": "Taekwon-Do (Japan) (Ja,Ko).sfc"
+  },
+  {
+   "crc32": "D20D7701",
+   "md5": "4C9DC70FD849A41644C81A0FFC8DEE11",
+   "sha1": "11826EDDDB9D8E2A0267BF8D5D96B343191C6511",
+   "region": "Korea",
+   "file": "Taekwon-Do (Korea).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

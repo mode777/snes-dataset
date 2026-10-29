@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AFE72FF0",
+   "md5": "3D946C89E1B62223A505F367BABAC5DA",
+   "sha1": "8443EB248F64511ADD665F200EA6FB802101039E",
+   "region": "USA",
+   "file": "Tiny Toon Adventures - Wacky Sports Challenge (USA).sfc"
+  }
+ ],
  "gf_score": 3.66,
  "metascore": null,
  "cover_urls": [

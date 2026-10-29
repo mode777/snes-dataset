@@ -35,6 +35,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CAAD18DC",
+   "md5": "8EFB09A5A3E58DA063572821F3FF9219",
+   "sha1": "243EDB6357D276ACED81ABAF9BCE7E9505F8D284",
+   "region": "USA",
+   "file": "David Crane's Amazing Tennis (USA).sfc"
+  },
+  {
+   "crc32": "72839930",
+   "md5": "4C642F44700DC03C80918342001A6816",
+   "sha1": "C8FF99628FEFE14AE2E9ADE3564A4D255A8F9B4C",
+   "region": "Japan",
+   "file": "David Crane's Amazing Tennis (Japan).sfc"
+  },
+  {
+   "crc32": "42C25AC1",
+   "md5": "CE45EFDC78995F4A2D2A440E1E4A0543",
+   "sha1": "96DFBFD46B722A0ACC88470FFC683A2FB1E72B1A",
+   "region": "Europe",
+   "file": "David Crane's Amazing Tennis (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

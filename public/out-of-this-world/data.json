@@ -35,6 +35,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5F40A869",
+   "md5": "8B8ACDEC1C2345477DDEC5516413C2A1",
+   "sha1": "FA8382794B19F8B36753F33091AD3E8B3BDA7018",
+   "region": "USA",
+   "file": "Out of this World (USA).sfc"
+  },
+  {
+   "crc32": "CC665B17",
+   "md5": "8AA1C998FA5BF6CEEA82174ED0D1A99C",
+   "sha1": "7F94B3DFA220B3DD4C372802FE4FA373BDE27752",
+   "region": "USA",
+   "file": "Out of this World (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.62,
  "metascore": null,
  "cover_urls": [

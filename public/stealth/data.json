@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E0B197EF",
+   "md5": "4CBF4ADBCDCA301152C8DFBD76F24C6D",
+   "sha1": "1DF3F18630FD810119F6B4E6FDF4A24AF3B75C98",
+   "region": "Japan",
+   "file": "Stealth (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

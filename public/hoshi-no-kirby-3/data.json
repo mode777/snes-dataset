@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "43373AEE",
+   "md5": "B2F2D004EA640C3DB66DF958FCE122B2",
+   "sha1": "5038596A1EC450D8F1D7CC07759737BFD996E87F",
+   "region": "Japan",
+   "file": "Hoshi no Kirby 3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

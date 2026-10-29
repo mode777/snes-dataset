@@ -36,6 +36,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7681EFC1",
+   "md5": "2656D9781A90440E2C5BE39F512A80C4",
+   "sha1": "54D06D143383DE0354788B07314C7DC238575DD0",
+   "region": "Japan",
+   "file": "F-Zero (Japan).sfc"
+  },
+  {
+   "crc32": "F1D8F5DA",
+   "md5": "13808B9B12B0627F7F1E29C6CB303911",
+   "sha1": "DE475924BAE6CBE7CABDC84AC4CB8AEEC58F076E",
+   "region": "Europe",
+   "file": "F-Zero (Europe).sfc"
+  },
+  {
+   "crc32": "689130B5",
+   "md5": "1632F488D5920D90ED8BF309CD83ECEC",
+   "sha1": "C438C2FC89FB869D4F738500F5125BDFB071B218",
+   "region": "Japan",
+   "file": "F-Zero (Japan) (BS).sfc"
+  },
+  {
+   "crc32": "AA0E31DE",
+   "md5": "6F334790120E1FE1A972FF184D2CFC50",
+   "sha1": "D3EFD32B68F1FE37A82DB9D9929B7CA7CC1A3AF4",
+   "region": "USA",
+   "file": "F-Zero (USA).sfc"
+  }
+ ],
  "gf_score": 3.85,
  "metascore": null,
  "cover_urls": [

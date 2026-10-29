@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "ACBEF43D",
+   "md5": "365C693CF235E0D195ED11A346CD7474",
+   "sha1": "EAEE7FEADBA8C14CBE5F7453300528F91472FC8C",
+   "region": "Japan",
+   "file": "Jissen Pachi-Slot Hisshouhou! Twin (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

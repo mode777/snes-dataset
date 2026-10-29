@@ -28,6 +28,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "41736E7E",
+   "md5": "818FE006F93E03EBBE27C8980A9DE6EF",
+   "sha1": "A563F34C80275D13C7DE5087ECA56F6DD32BC37B",
+   "region": "Japan",
+   "file": "Lord Monarch (Japan).sfc"
+  },
+  {
+   "crc32": "D3DEDFCC",
+   "md5": "FA5A79F145FE3253AEB5199CC5B5DE2A",
+   "sha1": "0DF17B3E6F0BDF5BB7CC81A379842711D8C2DD8A",
+   "region": "Japan",
+   "file": "Lord Monarch (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

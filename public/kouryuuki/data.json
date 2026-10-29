@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "23D61C64",
+   "md5": "558D7907B9A69F5151FC03BCDA5437BB",
+   "sha1": "1BDA0FF52B98E5A0AFEEAF40226FD358DCCA5BBC",
+   "region": "Japan",
+   "file": "Kouryuuki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

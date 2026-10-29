@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "554FC152",
+   "md5": "A80931F371743685664222A7A8C45AED",
+   "sha1": "EB10BF9EFD10A068FB5272C390177E23657B77FA",
+   "region": "Japan",
+   "file": "Fire Fighting (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

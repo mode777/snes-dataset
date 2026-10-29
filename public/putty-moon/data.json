@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "ADFC4165",
+   "md5": "9FCB6FD1AC113C5038626B0DD20BE0C6",
+   "sha1": "87AE4BD4E7C9322AEEDC77E3323283D2E6AD5BC2",
+   "region": "Japan",
+   "file": "Putty Moon (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

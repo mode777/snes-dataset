@@ -17,6 +17,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B24AF648",
+   "md5": "DAD067ECA05D2C0B104BF7E603EB3B07",
+   "sha1": "43B17582287D9302CA4F695A34DB2C9C0AE58F2B",
+   "region": "Japan",
+   "file": "Super Genjin (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

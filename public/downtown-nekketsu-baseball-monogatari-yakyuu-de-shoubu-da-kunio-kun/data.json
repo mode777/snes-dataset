@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E71B7C31",
+   "md5": "42E27DA8A2B91ECA749D9700EBCCD865",
+   "sha1": "F7B89946F22F1E8B6C4EE8094F0C212AB78ED22A",
+   "region": "Japan",
+   "file": "Downtown - Nekketsu Baseball Monogatari - Yakyuu de Shoubu da! Kunio-kun (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

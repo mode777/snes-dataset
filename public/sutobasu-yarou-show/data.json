@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A953A1DE",
+   "md5": "B3612A5C6E4C7798F45BBF5B37857F20",
+   "sha1": "0391ADEFFD8FB1B1C34621868195541391F81657",
+   "region": "Japan",
+   "file": "Sutobasu Yarou Show (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

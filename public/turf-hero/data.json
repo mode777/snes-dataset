@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0A5370DD",
+   "md5": "F215B8ECA62C7F8C48753A476419F82C",
+   "sha1": "5F729CE4C194DCE7165210C03B2E938740F29005",
+   "region": "Japan",
+   "file": "Turf Hero (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

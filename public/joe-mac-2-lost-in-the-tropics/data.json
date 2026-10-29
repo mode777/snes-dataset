@@ -29,6 +29,22 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EC7A2ED3",
+   "md5": "7F620BC16A2D0F56C5B126C9FBF516AE",
+   "sha1": "5CF89FAA7C5B5253A03AEBECA240417E98BB2AD5",
+   "region": "USA",
+   "file": "Joe & Mac 2 - Lost in the Tropics (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "0C3B4201",
+   "md5": "1E5FA71516AFA912E0DB1DD6FF07D2BC",
+   "sha1": "14D4911403854BF0BB59E3A6081181678A23D598",
+   "region": "USA",
+   "file": "Joe & Mac 2 - Lost in the Tropics (USA).sfc"
+  }
+ ],
  "gf_score": 3.6,
  "metascore": null,
  "cover_urls": [

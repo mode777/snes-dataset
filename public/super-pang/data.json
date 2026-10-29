@@ -33,6 +33,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3644CACC",
+   "md5": "8CAAB5B80C605461BB961EA508D6DA29",
+   "sha1": "A37D345C89BC368F9E439C65A6B4B5302E51E47D",
+   "region": "Europe",
+   "file": "Super Pang (Europe).sfc"
+  },
+  {
+   "crc32": "CA54F001",
+   "md5": "8A7177724F3E537F7ABAFEDF575776B9",
+   "sha1": "120064E018FC9EE47586CEA093E97F0ADF3C6025",
+   "region": "Japan",
+   "file": "Super Pang (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

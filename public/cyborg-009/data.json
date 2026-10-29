@@ -28,6 +28,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "48EECCB3",
+   "md5": "F4AA67D73199AF33A2B065826100134D",
+   "sha1": "98982CF52C5BE025545BCE9DD20B2E26162D4E89",
+   "region": "Japan",
+   "file": "Cyborg 009 (Japan) (Beta).sfc"
+  },
+  {
+   "crc32": "4A5263DB",
+   "md5": "0BE736BB76D0A5CCE320886570382362",
+   "sha1": "5AB41E2C6CCCE1F40FB9813E8E07A49C785D88C5",
+   "region": "Japan",
+   "file": "Cyborg 009 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

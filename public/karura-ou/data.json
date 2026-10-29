@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5CF9A482",
+   "md5": "991E0CE11A72FB64932A2F94BA2B8E09",
+   "sha1": "B040563783BD9CE68D4E7D1DB8F1FE3F06D2D615",
+   "region": "Japan",
+   "file": "Karura Ou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

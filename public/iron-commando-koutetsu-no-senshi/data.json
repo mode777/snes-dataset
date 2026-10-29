@@ -28,6 +28,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "828B5F07",
+   "md5": "C656E7408B5EF8A774EA8B354BF47779",
+   "sha1": "1C6127296BC8BF5AFCB67D6E7AA0CE7838BDC44A",
+   "region": "Japan",
+   "file": "Iron Commando - Koutetsu no Senshi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

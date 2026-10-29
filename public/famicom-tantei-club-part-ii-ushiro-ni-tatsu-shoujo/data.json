@@ -26,6 +26,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2CE70B92",
+   "md5": "786667F6F3AE979C70C9062446E94D71",
+   "sha1": "F788D51FC1199E6656DFCBD3D49DB9F21FBEB64D",
+   "region": "Japan",
+   "file": "Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (Rev 1) (NP).sfc"
+  },
+  {
+   "crc32": "28F450AC",
+   "md5": "065DFEB6DA891C18D86464C1ED398869",
+   "sha1": "4D4EEEE0E8ACFED5CF60A7324349DBB46AAA7369",
+   "region": "Japan",
+   "file": "Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "74D96359",
+   "md5": "63AD4799C98E542EF6F486624F018947",
+   "sha1": "299E4DDA0F73724B22AB09F53F3FF90A2094436D",
+   "region": "Japan",
+   "file": "Tactical Soccer (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

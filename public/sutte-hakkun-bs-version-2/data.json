@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "DA3C8618",
+   "md5": "1136D148D235662D4F5FE5169B2C6BDB",
+   "sha1": "A04E1FB9A98FA32147700A1D870C50394EE28D53",
+   "region": "Japan",
+   "file": "Sutte Hakkun - BS Version 2 (Japan) (xxxx-10-08) (BS).sfc"
+  },
+  {
+   "crc32": "086D1239",
+   "md5": "ECABE007D8B86A546E92B3A910D1C570",
+   "sha1": "883FC0AB790427B565AC5B735B278AF6DD12D12C",
+   "region": "Japan",
+   "file": "Sutte Hakkun - BS Version 2 (Japan) (xxxx-06-03) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

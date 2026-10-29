@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1A19FC3A",
+   "md5": "150F83E84F913230B8D1F2230E72B041",
+   "sha1": "89A10F5CB9B19DCAABB1C26E884C102A49105F0C",
+   "region": "Japan",
+   "file": "Flying Hero - Bugyuru no Daibouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

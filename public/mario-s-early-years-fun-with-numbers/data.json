@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "8C0C37F4",
+   "md5": "D097B8F2871522C7C1D2BBD18E7C9AD4",
+   "sha1": "012D92C1AFED571A2C4B79845E4B382ED1ECE429",
+   "region": "USA",
+   "file": "Mario's Early Years - Fun with Numbers (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

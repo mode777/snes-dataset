@@ -36,6 +36,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "BEEBEF08",
+   "md5": "2AD4D6968D6BE1727F198475497E8069",
+   "sha1": "9D8E99199D12CDD3951AE146756046AC7949CDD6",
+   "region": "Europe",
+   "file": "RoboCop versus The Terminator (Europe).sfc"
+  },
+  {
+   "crc32": "F5AB5D91",
+   "md5": "3683319BEEBA73AD6DEB851EF72BF3D3",
+   "sha1": "F6B6CD466D1A50A4F8608F4AF1B773F317AAF964",
+   "region": "USA",
+   "file": "RoboCop versus The Terminator (USA).sfc"
+  }
+ ],
  "gf_score": 3.29,
  "metascore": null,
  "cover_urls": [

@@ -27,6 +27,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "295E6A5F",
+   "md5": "17C1A13A18127E7EDE1451C473BB4EFB",
+   "sha1": "116262E008CE5416D48A6A9FFE6D353D3659E608",
+   "region": "Japan",
+   "file": "Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (BS).sfc"
+  },
+  {
+   "crc32": "D8C0E0BE",
+   "md5": "68A7F453DDEE511365CCBB62C25A125F",
+   "sha1": "DC3BDACE7F7587788CB72B9C3475B7C6335A5450",
+   "region": "Japan",
+   "file": "Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

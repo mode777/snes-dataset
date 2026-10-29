@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B1859CA4",
+   "md5": "6CD53158AC83005A5F7E09D1E78B87C9",
+   "sha1": "E5EFB589E2DD783EF2D99F01CAA866D8A3A04D16",
+   "region": "Europe",
+   "file": "Nintendo Scope 6 (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

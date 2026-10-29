@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1A6F48A5",
+   "md5": "3C7B0221C42FF4CFEF14EE12828715EB",
+   "sha1": "BEC43433EE8DE72ADC168A2169195A8BAE703740",
+   "region": "Japan",
+   "file": "Yogi Bear (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "74D210D3",
+   "md5": "F62625B0F5B12482D31F2FC5E7097410",
+   "sha1": "5CF53B3706560E9B3B3FFB2EA688B7FF95475969",
+   "region": "USA",
+   "file": "Ms. Pac-Man (USA).sfc"
+  },
+  {
+   "crc32": "37C89424",
+   "md5": "A9F9EB32292E38598C3E2068A304A482",
+   "sha1": "BB833F58ED18E929195BD870EE79F1B1E87AD7FC",
+   "region": "Europe",
+   "file": "Ms. Pac-Man (Europe).sfc"
+  }
+ ],
  "gf_score": 3.53,
  "metascore": null,
  "cover_urls": [

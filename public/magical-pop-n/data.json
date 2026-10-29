@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C49D28A4",
+   "md5": "E47F184FD5D2285BCC4EE07D990F5375",
+   "sha1": "50F70512C7E0972E9BBCDED52137DF8E8D21C937",
+   "region": "Japan",
+   "file": "Magical Pop'n (Japan).sfc"
+  }
+ ],
  "gf_score": 3.75,
  "metascore": null,
  "cover_urls": [

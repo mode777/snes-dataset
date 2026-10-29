@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "48E9887F",
+   "md5": "120F5E57ADFC69885CDEDAD4433D3EFE",
+   "sha1": "B4D2F8C26D8AAC46BB56FB318084B968BFC04241",
+   "region": "Japan",
+   "file": "Zero 4 Champ RR (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

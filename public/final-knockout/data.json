@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "CC1DBC9B",
+   "md5": "4A3F54A6C7DB5D2205D1F4818E1F2166",
+   "sha1": "09DE40BBF3ACE05465DA2B7ABB65E7433DEB5B8D",
+   "region": "Japan",
+   "file": "Final Knockout (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

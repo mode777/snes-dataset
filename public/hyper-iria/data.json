@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AE7F2B0D",
+   "md5": "32314AD978DEECD5FEF5AD5E55906D1E",
+   "sha1": "D725C456869198F95DC254D7377EBEA78DD4274E",
+   "region": "Japan",
+   "file": "Hyper Iria (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

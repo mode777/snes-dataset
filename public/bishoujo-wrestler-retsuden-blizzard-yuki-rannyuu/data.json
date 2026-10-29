@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F4D20413",
+   "md5": "992F432206BAE204A240F70E541BCB9F",
+   "sha1": "DE5FC2CAAE6803BFCB2EAF831A346B0E422A4E77",
+   "region": "Japan",
+   "file": "Bishoujo Wrestler Retsuden - Blizzard Yuki Rannyuu!! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

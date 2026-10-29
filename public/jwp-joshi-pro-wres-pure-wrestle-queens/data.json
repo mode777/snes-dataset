@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "69642B00",
+   "md5": "6179D87851ACD0E0FA24E5806DB04F22",
+   "sha1": "AFB0D219CF4324B75602B1AC287B2D9DC8B84B8D",
+   "region": "Japan",
+   "file": "JWP Joshi Pro Wres - Pure Wrestle Queens (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

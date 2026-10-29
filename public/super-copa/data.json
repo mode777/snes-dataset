@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "49E53877",
+   "md5": "44A9023E8BC4A1D73D6654AD79745707",
+   "sha1": "92A3CE60B79D4409AE51048CF3CE0E84828E178D",
+   "region": "Brazil",
+   "file": "Super Copa (Brazil) (Es,Pt).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

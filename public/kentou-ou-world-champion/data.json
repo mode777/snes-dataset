@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E8359CDB",
+   "md5": "D3598C2A13C17B9A376D2EA7918780AC",
+   "sha1": "E7D46120A5869955E5255C46FC34D379F1DA9C4A",
+   "region": "Japan",
+   "file": "Kentou Ou World Champion (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

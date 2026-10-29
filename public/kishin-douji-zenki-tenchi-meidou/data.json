@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D910990C",
+   "md5": "20D90752D699EFE4A8E5D53394BF0088",
+   "sha1": "F6C91CF1062150E4CA9E98E07FF9D09A9516C425",
+   "region": "Japan",
+   "file": "Kishin Douji Zenki - Tenchi Meidou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

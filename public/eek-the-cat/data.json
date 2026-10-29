@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "812555A3",
+   "md5": "AF7367F02A1AAFF00816B7A833E59624",
+   "sha1": "4EDEB0755F577474E96864ABD91E3042163F9674",
+   "region": "Europe",
+   "file": "Eek! The Cat (Europe).sfc"
+  },
+  {
+   "crc32": "216F2FC7",
+   "md5": "93051005958B352DD3EBD2D0545DF15E",
+   "sha1": "DB072BCB550A0704830A383F7C39FCBF71F5A11B",
+   "region": "USA",
+   "file": "Eek! The Cat (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

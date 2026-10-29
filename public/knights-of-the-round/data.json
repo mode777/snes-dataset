@@ -32,6 +32,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9B40082D",
+   "md5": "5927C98CDB4E31D580712223359BDC15",
+   "sha1": "A23B5D5E3F4EE5832FC5C3F35D3E5F4889D06237",
+   "region": "Europe",
+   "file": "Knights of the Round (Europe).sfc"
+  },
+  {
+   "crc32": "AAA82126",
+   "md5": "E2C47C0754F874B2B16D5F06BE3DBE34",
+   "sha1": "DD0B603B51E9B8D78AF67696E0E0EA8F0AB9CCF8",
+   "region": "USA",
+   "file": "Knights of the Round (USA).sfc"
+  },
+  {
+   "crc32": "F27C9C29",
+   "md5": "823F3EC75C327C8ADDB854FF7F646C22",
+   "sha1": "8761C32BAC934F8A2B2BF78AE98094B6BC418B32",
+   "region": "Japan",
+   "file": "Knights of the Round (Japan).sfc"
+  }
+ ],
  "gf_score": 3.66,
  "metascore": null,
  "cover_urls": [

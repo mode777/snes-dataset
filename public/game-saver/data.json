@@ -11,6 +11,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F2225203",
+   "md5": "78CA9AE5FCBBB83019B05E29D447C6F5",
+   "sha1": "EB4BDA191200E8BD4A1D6AA29D00B9AFB0C92C1D",
+   "region": "Europe",
+   "file": "Game Saver (Europe) (v1.7) (Unl).sfc"
+  },
+  {
+   "crc32": "9DA23B4A",
+   "md5": "F672008235E46D786C4683D3FA136210",
+   "sha1": "E9004AA7A4FC8913420D05ED3E671D5D0931B54A",
+   "region": "Europe",
+   "file": "Game Saver (Europe) (v1.6) (Unl).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

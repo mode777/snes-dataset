@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "72B4235F",
+   "md5": "16375432C8FFC540B459CFD31723572B",
+   "sha1": "6F5BE110A606F34BB797A30C1F07B84B2FF38425",
+   "region": "Japan",
+   "file": "SD Gundam Generation - Axis Senki (Japan) (ST).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

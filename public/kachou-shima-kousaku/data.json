@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B9DCA26D",
+   "md5": "6ABE2920BC017A66665AE114FFA2BF0F",
+   "sha1": "18F6451F3973F2C649726CB719B9E383FB13EAC6",
+   "region": "Japan",
+   "file": "Kachou Shima Kousaku (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

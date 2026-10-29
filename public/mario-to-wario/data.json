@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C6695E34",
+   "md5": "B1774F03700DFC311BFD86411DB629C3",
+   "sha1": "68B307FA7FDFD91A190FA0148178473AA2406B41",
+   "region": "Japan",
+   "file": "Mario to Wario (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -31,6 +31,36 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AA69EF05",
+   "md5": "3000077578BE5FD29B3903F00E83FB8E",
+   "sha1": "A13048050FCD51B07BA1A0ABE541FC416F3BF8E6",
+   "region": "Germany",
+   "file": "Goof Troop (Germany).sfc"
+  },
+  {
+   "crc32": "4AAFA462",
+   "md5": "BB6A1198E291C8AE58E9581A4296ED4D",
+   "sha1": "B38560D091801DB5E833D17393FE1DF1398909B6",
+   "region": "USA",
+   "file": "Goof Troop (USA).sfc"
+  },
+  {
+   "crc32": "4FE6077A",
+   "md5": "29E2EE08C6B7C1A89A720D7291F76E58",
+   "sha1": "B3FB29994BFB9ECED59B580A13AF89C9BA9DBF94",
+   "region": "France",
+   "file": "Goof Troop (France).sfc"
+  },
+  {
+   "crc32": "61E8F56A",
+   "md5": "66688D31555ECFEAB50D810BBDC85D0B",
+   "sha1": "1624D3415D3BF3DE7ACFAEA1BAA9D25B4CAF85FA",
+   "region": "Europe",
+   "file": "Goof Troop (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

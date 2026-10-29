@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "21D280F8",
+   "md5": "670B523FC13F30128FD27BB571FE5C77",
+   "sha1": "1003E952D151BDA8D69714DF51E2595EAB96F9DD",
+   "region": "Japan",
+   "file": "Solstice II (Japan).sfc"
+  },
+  {
+   "crc32": "37C2EC0C",
+   "md5": "4E307A48E81F791BB4ED7F9B8AFE52A9",
+   "sha1": "A20974AEB0B3D23E13313CECA0831B1E00D34CB1",
+   "region": "Japan",
+   "file": "Solstice II (Japan) (Beta) (1993-03-03).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "CD2A1A67",
+   "md5": "49E61BAACE9D0D2ABB71A21439A0A79C",
+   "sha1": "8DD393D4C36EDBEFE29DBBAC55F12D2BFEA65930",
+   "region": "Japan",
+   "file": "Oomono Black Bass Fishing - Jinzouko Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

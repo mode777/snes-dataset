@@ -21,6 +21,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3075CB04",
+   "md5": "1DE4A2641DCCD601C75EDD2858DB9D2E",
+   "sha1": "FE75B3082464A90A8FCC9EB0E224D1045B9E4314",
+   "region": "Europe",
+   "file": "Major Title (Europe).sfc"
+  },
+  {
+   "crc32": "0E98F71D",
+   "md5": "6634A5AEF26AFFBE074CFAC81DBD82C7",
+   "sha1": "2B4A6FE13AD464BE863E50C93E9DA75AB93BA1EE",
+   "region": "Japan",
+   "file": "Major Title (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

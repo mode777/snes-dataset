@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "17DB8D06",
+   "md5": "2FC4F57EE4938EBD90DB8E7E412924FB",
+   "sha1": "6BB3F570443D04257E3EB276E84CF8AB60E81D48",
+   "region": "Japan",
+   "file": "Shien - The Blade Chaser (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -33,6 +33,29 @@
  "languages": [
   "French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8C7780BD",
+   "md5": "A2543E309E1CFA7EDFDC13BB30F3D60C",
+   "sha1": "89BF91648A9FF8E2C07617B0801EDF2A97F2779E",
+   "region": "Japan",
+   "file": "Dragon Ball Z - Super Butouden (Japan).sfc"
+  },
+  {
+   "crc32": "D6E464B7",
+   "md5": "73DC69165D1679826D12DD67332BF79F",
+   "sha1": "A1315A8D697383A13F4E8A0232279EED82F67C4A",
+   "region": "Japan",
+   "file": "Dragon Ball Z - Super Butouden (Japan) (Sample).sfc"
+  },
+  {
+   "crc32": "EA7ABAD1",
+   "md5": "DD909B890FE4C2505D289361368EC22A",
+   "sha1": "BDA0ECD24CD529D178EBA14DB8A0453718262DF2",
+   "region": "France",
+   "file": "Dragon Ball Z - Super Butouden (France).sfc"
+  }
+ ],
  "gf_score": 3.18,
  "metascore": null,
  "cover_urls": [

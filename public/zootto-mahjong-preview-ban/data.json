@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5439AA16",
+   "md5": "0AD3A70713D97F018A979441E37126C1",
+   "sha1": "08B057BAEFEB73D60BED7CC2201DAE1AAD80D044",
+   "region": "Japan",
+   "file": "Zootto Mahjong! - Preview Ban (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

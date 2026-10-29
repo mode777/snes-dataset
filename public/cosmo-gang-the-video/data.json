@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A26DC1DE",
+   "md5": "23DBCD94FF68CEE59DA091F3EFD9BEB9",
+   "sha1": "53E13618BA3056B2762E0E5B387CD9583451389F",
+   "region": "Japan",
+   "file": "Cosmo Gang - The Video (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

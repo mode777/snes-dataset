@@ -34,6 +34,43 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AB124BE7",
+   "md5": "FD412F4C8AA847C61A8F0304F97881B6",
+   "sha1": "AE715A18088B13AE3F673A30725804D83100B50E",
+   "region": "Europe",
+   "file": "Bubsy in - Claws Encounters of the Furred Kind (Europe) (Accolade).sfc"
+  },
+  {
+   "crc32": "444A52C1",
+   "md5": "6AC508BDDBABC699F181D7858CCFCF0F",
+   "sha1": "9F6FF6264E0361E074F9CFEE2EC4976866A781C5",
+   "region": "USA",
+   "file": "Bubsy in - Claws Encounters of the Furred Kind (USA).sfc"
+  },
+  {
+   "crc32": "74A94D60",
+   "md5": "AEC52943F56F072E3816E3764920583C",
+   "sha1": "1E9C1591046D7F45EA0CB33A3994771A3DC56F25",
+   "region": "Europe",
+   "file": "Bubsy in - Claws Encounters of the Furred Kind (Europe).sfc"
+  },
+  {
+   "crc32": "3F3A7180",
+   "md5": "973C16E278B09BE01E65D4F87AFD130E",
+   "sha1": "6354CC73672D6C8ADA94218C873D10844F616465",
+   "region": "USA",
+   "file": "Bubsy in Claws Encounters of the Furred Kind (USA) (Beta) (Alt 1).sfc"
+  },
+  {
+   "crc32": "49DA572F",
+   "md5": "382EB66DBFD43154813F0FA9A7ACE54A",
+   "sha1": "FFD0D78CE7E7489CB8A3870D64662E8F51DEBABD",
+   "region": "USA",
+   "file": "Bubsy in Claws Encounters of the Furred Kind (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 2.93,
  "metascore": null,
  "cover_urls": [

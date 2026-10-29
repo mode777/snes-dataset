@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BF1F2E16",
+   "md5": "985535C613BCD504E18AB235BDC02C8C",
+   "sha1": "AA6CB7B374E0B8E462799EC609937B6A776034CE",
+   "region": "Japan",
+   "file": "Super Formation Soccer 94 - World Cup Final Data (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "7F0D601D",
+   "md5": "4919FD87326EAD4EA059A8323C17D26A",
+   "sha1": "9F7572DE6ABBF8348C5E2421EF79D9C8FE006683",
+   "region": "Japan",
+   "file": "Get in the Hole (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

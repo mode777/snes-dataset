@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "226998D6",
+   "md5": "0B79142DCF0B6DB08360A1FD7C6BA884",
+   "sha1": "D25DA3C3F7D43FCF0F986D26961EBC25D4A6B430",
+   "region": "Europe",
+   "file": "Home Alone 2 - Lost in New York (Europe).sfc"
+  },
+  {
+   "crc32": "D19165D9",
+   "md5": "B41839190D010FF407BFFCA3DCB3F716",
+   "sha1": "B4094E81E8B1FFD42EB7DD2FA3C56BFC116FCC86",
+   "region": "USA",
+   "file": "Home Alone 2 - Lost in New York (USA).sfc"
+  }
+ ],
  "gf_score": 2.51,
  "metascore": null,
  "cover_urls": [

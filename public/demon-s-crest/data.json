@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C8386172",
+   "md5": "D8470882550B0D229039A02F691949FB",
+   "sha1": "CEF1F33CA5A4768BAE08E473C63CD58C424C19A2",
+   "region": "Europe",
+   "file": "Demon's Crest (Europe).sfc"
+  },
+  {
+   "crc32": "E8236AD2",
+   "md5": "E990AE600A8326EDA25489BDDDFFCA55",
+   "sha1": "743D60EE1536B0C7C24DBB8BA39D14ED5937C0D5",
+   "region": "USA",
+   "file": "Demon's Crest (USA).sfc"
+  }
+ ],
  "gf_score": 4.03,
  "metascore": null,
  "cover_urls": [

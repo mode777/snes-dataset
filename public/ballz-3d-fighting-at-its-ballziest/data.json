@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "1C058B7D",
+   "md5": "B61EFD28676EA1F9CA650888753DF2DC",
+   "sha1": "236A466AF4E05061B06D48BAE637BB29F86672AD",
+   "region": "USA",
+   "file": "Ballz 3D - Fighting at Its Ballziest (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

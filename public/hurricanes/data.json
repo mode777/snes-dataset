@@ -34,6 +34,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "42FF4F08",
+   "md5": "3838BA14B7C686C9F4DA9A0DA6F48C11",
+   "sha1": "2A47CCDF945A0965915E3D6F9D638E820D367F11",
+   "region": "USA",
+   "file": "Hurricanes (USA).sfc"
+  },
+  {
+   "crc32": "E6767848",
+   "md5": "4F0D87EBF3585106C8FEBFA7D5F391AF",
+   "sha1": "6A8EB2D42E176DFD8F27E877FC4C5CD38207C0FF",
+   "region": "Europe",
+   "file": "Hurricanes (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "DE5F9D73",
+   "md5": "08A9AEAA3004F5D2BCBE9D2595433471",
+   "sha1": "0463C0EDA6A8FF5B9AEA919CA520979E99811AE0",
+   "region": "Europe",
+   "file": "Hurricanes (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

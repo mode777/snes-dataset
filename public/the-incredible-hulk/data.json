@@ -35,6 +35,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "9DF29605",
+   "md5": "37D27C5B88E4A25D079C0E02635BB438",
+   "sha1": "5243901E733BD56D51143CA1D33A3798BCC1E690",
+   "region": "Europe",
+   "file": "Incredible Hulk, The (Europe).sfc"
+  },
+  {
+   "crc32": "36B5A429",
+   "md5": "557A08391BCCDC111DDDA81D3F950CB7",
+   "sha1": "A93D160327B87E4BC48E093928851076533AA1EC",
+   "region": "USA",
+   "file": "Incredible Hulk, The (USA).sfc"
+  }
+ ],
  "gf_score": 2.61,
  "metascore": null,
  "cover_urls": [

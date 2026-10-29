@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "06388F71",
+   "md5": "9E6FF27AAE9AA5C21D9E7FA88338B2DE",
+   "sha1": "57C2C8458BC5C1BE40A4A6829FB3F4C70EE4CEC5",
+   "region": "Japan",
+   "file": "Area 88 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

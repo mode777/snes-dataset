@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C20419EC",
+   "md5": "8622B25466D1CF31E8A8771838B02CA7",
+   "sha1": "BA4866A599C9DC380C11F0CB3C1F8E0374D35DFF",
+   "region": "Japan",
+   "file": "Trinea (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

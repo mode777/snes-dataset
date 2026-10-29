@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3DDC7489",
+   "md5": "C94C07D84A0AB07152E90A6DC711F67B",
+   "sha1": "D6261D31A96BB1DD7469AECCF586EDEE37B6BBE8",
+   "region": "Japan",
+   "file": "SD Kidou Senshi Gundam 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

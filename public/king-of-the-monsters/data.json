@@ -35,6 +35,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C285C7FF",
+   "md5": "0114BCF4FACAA50808D665185F427D75",
+   "sha1": "02E05BB0D95573C75D5C860C251EF4E8582C1D9A",
+   "region": "USA",
+   "file": "King of the Monsters (USA).sfc"
+  },
+  {
+   "crc32": "799B1787",
+   "md5": "5CD22310C303A7440A3F456D91EE8FC2",
+   "sha1": "F97F5C663D5D593EB862BD5F6B7120EE9A4A515E",
+   "region": "Europe",
+   "file": "King of the Monsters (Europe).sfc"
+  },
+  {
+   "crc32": "825B9607",
+   "md5": "014DDD12B6BD169038CFEC3C81C4684C",
+   "sha1": "38FA840C1129293232E2857FD82CAB09956FC03C",
+   "region": "Japan",
+   "file": "King of the Monsters (Japan).sfc"
+  }
+ ],
  "gf_score": 2.95,
  "metascore": null,
  "cover_urls": [

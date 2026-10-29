@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D36AA90C",
+   "md5": "45148F31F84F22BA6AF5394ADCCADCF4",
+   "sha1": "27A59C94B24268A976A8AB090F625B4DCB48BDC3",
+   "region": "Japan",
+   "file": "Super Nichibutsu Mahjong (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

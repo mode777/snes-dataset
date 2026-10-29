@@ -38,6 +38,36 @@
  "languages": [
   "English, German, French"
  ],
+ "roms": [
+  {
+   "crc32": "F6F739A9",
+   "md5": "12A76FB31EFB2CD1A08ABD67B914A185",
+   "sha1": "FCD4A8C83EFE83E8E15B03D83EB8F3F04A7D532F",
+   "region": "Germany",
+   "file": "Mario Is Missing! (Germany).sfc"
+  },
+  {
+   "crc32": "E51A3FCD",
+   "md5": "2A2152976E503EAACD9815F44C262D73",
+   "sha1": "93FDFDBEF3F44C89881C64EB76146EE09328F245",
+   "region": "USA",
+   "file": "Mario Is Missing! (USA).sfc"
+  },
+  {
+   "crc32": "2EC7C6FE",
+   "md5": "3253FBF00A560ED8CAFB5D603B25E42E",
+   "sha1": "C7FAC77270ECC64CD1541BE9A86A007231B06CC6",
+   "region": "France",
+   "file": "Mario Is Missing! (France).sfc"
+  },
+  {
+   "crc32": "5E04EFB5",
+   "md5": "D5217F2137A4F4DF63D83264A9A92BCC",
+   "sha1": "6787B42040B2E6AC79246E6B439AF2281A396CD0",
+   "region": "Europe",
+   "file": "Mario Is Missing! (Europe).sfc"
+  }
+ ],
  "gf_score": 2.47,
  "metascore": null,
  "cover_urls": [

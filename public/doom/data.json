@@ -36,6 +36,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "360243E4",
+   "md5": "E5C40A329E355486B6971494687FE41D",
+   "sha1": "3FFB94CDD6A47683980999D723A93BEE9BA156F8",
+   "region": "Europe",
+   "file": "Doom (Europe).sfc"
+  },
+  {
+   "crc32": "E5D722B2",
+   "md5": "97503EA48F51D65399FE8235155ACD7F",
+   "sha1": "78D3F9346DC861F216063E2259ED17A9DBD85087",
+   "region": "Japan",
+   "file": "Doom (Japan).sfc"
+  },
+  {
+   "crc32": "09E85EA6",
+   "md5": "E218531FE541B05CF44C2667E101D117",
+   "sha1": "736B9B994F506DE0893CEB181F942739DA089B05",
+   "region": "USA",
+   "file": "Doom (USA).sfc"
+  }
+ ],
  "gf_score": 3.43,
  "metascore": 81,
  "cover_urls": [

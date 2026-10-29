@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1AC48969",
+   "md5": "57909EDDA5E16EE4C08DB3765F8149B7",
+   "sha1": "5A0A981E04EA5EB5F053129A368D1216FF4C90DD",
+   "region": "Japan",
+   "file": "Super Fishing Big Fight (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

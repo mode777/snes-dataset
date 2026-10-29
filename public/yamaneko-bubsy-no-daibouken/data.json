@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "90387380",
+   "md5": "8BF2DF33AE23BE071BDF429458AB6631",
+   "sha1": "AC97AF97CF69A1D958457D7D8248F663CB0D1D18",
+   "region": "Japan",
+   "file": "Yamaneko Bubsy no Daibouken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

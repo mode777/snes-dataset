@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1D151D45",
+   "md5": "12B23D1A9511218A6B16E9DDA5D33300",
+   "sha1": "FDEEFBA268481FFED929A4DF90D25C920ED20A3A",
+   "region": "Japan",
+   "file": "Jutei Senki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

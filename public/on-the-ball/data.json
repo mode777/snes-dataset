@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B577815D",
+   "md5": "27547BE412E441CFC7AC11BE3634805A",
+   "sha1": "A1C2D3EA6D3C67C186948AA09E26878BE129E2FD",
+   "region": "Europe",
+   "file": "On the Ball (Europe).sfc"
+  },
+  {
+   "crc32": "50AD3FE8",
+   "md5": "7A5C2C67BFE548289794EA05D05771FF",
+   "sha1": "0C54BD1D43CA3BD6A56F55FCF8F4D97466864D92",
+   "region": "USA",
+   "file": "On the Ball (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0D7F770A",
+   "md5": "E04AC2E71B840F0E1A35C9AFDE75E5CE",
+   "sha1": "896D1EDD00DEF92023D7F3A6C2E46AD737C44698",
+   "region": "Europe",
+   "file": "Pro Action Replay MK3 (Europe) (Unl).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

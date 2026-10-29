@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "323438EB",
+   "md5": "7EAAE4829E2D938D34F8C1032ED6BD4B",
+   "sha1": "164AEAABC62910736F58449B58FE1BA231B63CCF",
+   "region": "Japan",
+   "file": "SD Hiryuu no Ken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

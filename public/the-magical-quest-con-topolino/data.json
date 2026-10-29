@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3BC3D913",
+   "md5": "63F6150AB0DC8F4576280F280C9E252E",
+   "sha1": "057E6BEEDC34D851016A2CFFE539ABA899A4ACDD",
+   "region": "Italy",
+   "file": "Magical Quest con Topolino, The (Italy).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

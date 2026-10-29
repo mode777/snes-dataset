@@ -33,6 +33,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C65E0E5B",
+   "md5": "AF96904815CD2F8811BF25E7841B651A",
+   "sha1": "4CB9959FA54962B2EDC484AFD48B29FC4B606C6E",
+   "region": "Europe",
+   "file": "Nigel Mansell's World Championship Racing (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "83EB5296",
+   "md5": "E5AB2F72C3704132944F47FC427D222C",
+   "sha1": "5B922C3C0FD06E928E0E54E69C07499608CA2051",
+   "region": "Europe",
+   "file": "Nigel Mansell's World Championship Racing (Europe) (Gremlin Graphics).sfc"
+  },
+  {
+   "crc32": "162252E2",
+   "md5": "EAEADF3718805132AC2348C6BC093563",
+   "sha1": "03591006E7296AB3F0608FAA97E03CE725EB0F14",
+   "region": "USA",
+   "file": "Nigel Mansell's World Championship Racing (USA).sfc"
+  },
+  {
+   "crc32": "FC23E228",
+   "md5": "E3B0EFDE9DA342EA567A0647B162162F",
+   "sha1": "19A6E24DAB124523AE6242337D2470839A7713B8",
+   "region": "Europe",
+   "file": "Nigel Mansell's World Championship Racing (Europe).sfc"
+  }
+ ],
  "gf_score": 3.39,
  "metascore": null,
  "cover_urls": [

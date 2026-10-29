@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "366C84F3",
+   "md5": "76A89008043D1E160D9487A26F149B7E",
+   "sha1": "C60EFAAF506F8DE27DCE7AF312A022AD5DB19271",
+   "region": "Japan",
+   "file": "Sugoro Quest++ - Dicenics (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

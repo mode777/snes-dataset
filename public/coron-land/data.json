@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "236932E0",
+   "md5": "343C90719C67EB68863D9E6F8216B0B9",
+   "sha1": "C41026A4A6048DE1EE529501A85B1B9912195A82",
+   "region": "Japan",
+   "file": "Coron Land (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A5F59477",
+   "md5": "51CBB35D6C1D4AED81D895E578761710",
+   "sha1": "E33DD8B5D1BC99D8C1BEA57672B73A24FAABA5C0",
+   "region": "Japan",
+   "file": "Zen-Nihon Pro Wres' - Sekai Saikyou Tag (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

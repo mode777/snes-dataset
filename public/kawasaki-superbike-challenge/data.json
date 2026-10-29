@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "C736DFC0",
+   "md5": "969119DABA49BE0BEE6884600E185A36",
+   "sha1": "86955B8E5B579250489EEED189743E8AC9CE40CF",
+   "region": "Europe",
+   "file": "Kawasaki Superbike Challenge (Europe).sfc"
+  },
+  {
+   "crc32": "E8ED176E",
+   "md5": "6FAC830686F1D884B52E1273E0D1BB85",
+   "sha1": "843C025B26E1640C2BF080375ECD7ED79E97FE08",
+   "region": "USA",
+   "file": "Kawasaki Superbike Challenge (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

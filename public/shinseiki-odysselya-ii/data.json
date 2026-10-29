@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F253EC83",
+   "md5": "7E95C10B97926FF6632F6FFD43E38461",
+   "sha1": "DCBC42A7385D25A1B35791D2A1088A8D46F873BB",
+   "region": "Japan",
+   "file": "Shinseiki Odysselya II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

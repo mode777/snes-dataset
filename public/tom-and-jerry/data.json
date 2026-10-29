@@ -27,6 +27,22 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "72B57042",
+   "md5": "730EFF17E6DF2DDF4E2A8511F12F5B19",
+   "sha1": "44D11FEB60E11D401C79CC98C084150734E27538",
+   "region": "Europe",
+   "file": "Tom and Jerry (Europe).sfc"
+  },
+  {
+   "crc32": "8B1DAFBB",
+   "md5": "BC16BE2E9C7E170F7CD10DA919F3E099",
+   "sha1": "768B7B339804DDF13AACA59713A4E2C5E7EF9F3A",
+   "region": "USA",
+   "file": "Tom and Jerry (USA).sfc"
+  }
+ ],
  "gf_score": 2.75,
  "metascore": null,
  "cover_urls": [

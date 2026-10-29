@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EF77535E",
+   "md5": "C3A4C5F69C56D6E04C1D1148E87EEE1F",
+   "sha1": "1B88680F576CF5200650010FAB4DCA5A2CBBBD3F",
+   "region": "Japan",
+   "file": "Date Kimiko no Virtual Tennis (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

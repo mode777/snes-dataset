@@ -32,6 +32,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7F6CCF00",
+   "md5": "36B0EF888D3E7352EEEE792E173426DC",
+   "sha1": "1CB2695505B781EB5BFDC326C15D096B446B3AA7",
+   "region": "Europe",
+   "file": "Hagane - The Final Conflict (Europe).sfc"
+  },
+  {
+   "crc32": "8E0A7034",
+   "md5": "44CB6BBBB233BC5D602D54FD418232F1",
+   "sha1": "380046437930D0E39CEBD662AD1657E20AC4C9C8",
+   "region": "USA",
+   "file": "Hagane - The Final Conflict (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

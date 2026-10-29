@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "03FD7AD4",
+   "md5": "51E0FF237EC249972DFAE3A679D5FEE4",
+   "sha1": "D72C79911EB1ED54A22010ED29A37748BC3334CD",
+   "region": "Japan",
+   "file": "Touge Densetsu - Saisoku Battle (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DE346477",
+   "md5": "ABD1B7ABFDB05162688E5ABD2879A9F3",
+   "sha1": "F2BFED3A65C38319FB11DADA2EAB31D1D10D5466",
+   "region": "Japan",
+   "file": "Nontan to Issho - Kurukuru Puzzle (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

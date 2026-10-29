@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4A5B12CE",
+   "md5": "84D1AA50395425EBA74BAD12FDF6159A",
+   "sha1": "C213C35DD9C65DD3FA0B2E0510267820EF7E691A",
+   "region": "Japan",
+   "file": "Hissatsu Pachinko Collection 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

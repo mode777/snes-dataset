@@ -27,6 +27,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "61441201",
+   "md5": "DE0738CF93D84DA56719D7EA2165AE73",
+   "sha1": "8130449B2B9A9CCF01B9472E17F7ED01FBC49B76",
+   "region": "Japan",
+   "file": "Super Uno (Japan).sfc"
+  },
+  {
+   "crc32": "AA0A7C43",
+   "md5": "089292C3C040BE5C976A76F1159390C5",
+   "sha1": "00AE5D4667E179D9677611EDF6A05F50B2D3EE6F",
+   "region": "Japan",
+   "file": "Super Uno (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

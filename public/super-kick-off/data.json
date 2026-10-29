@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "70AFD634",
+   "md5": "E7D4EA57BAB4B5F2ECBCF7C9D9B89EB8",
+   "sha1": "14922B49DB01D1DEE24FB0194AC8CEA0D9EFE16B",
+   "region": "Japan",
+   "file": "Super Kick Off (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

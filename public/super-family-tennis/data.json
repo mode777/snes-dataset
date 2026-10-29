@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2BCBFF26",
+   "md5": "6980F890A84995D1A9FF8E135995E077",
+   "sha1": "AD0E94A522CC653EC4E166E40463E793787C61CA",
+   "region": "Japan",
+   "file": "Super Family Tennis (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

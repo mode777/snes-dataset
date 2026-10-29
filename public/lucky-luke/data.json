@@ -32,6 +32,15 @@
  "languages": [
   "English, German, Spanish, French"
  ],
+ "roms": [
+  {
+   "crc32": "7E2C7143",
+   "md5": "466940840196F36A855668FCF84FB94B",
+   "sha1": "82CEF93F124906E49C4E9EC6F58E23EF7E9F77F9",
+   "region": "Europe",
+   "file": "Lucky Luke (Europe) (En,Fr,De,Es).sfc"
+  }
+ ],
  "gf_score": 3.77,
  "metascore": null,
  "cover_urls": [

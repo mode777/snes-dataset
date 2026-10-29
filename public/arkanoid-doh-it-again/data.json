@@ -36,6 +36,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B50503A0",
+   "md5": "03D30CA9AAA89738640CF14532DDFE6C",
+   "sha1": "6B08E8FA5C17AA3B435BF611AAE7DB0ABB0A878E",
+   "region": "USA",
+   "file": "Arkanoid - Doh It Again (USA).sfc"
+  },
+  {
+   "crc32": "7E79C43E",
+   "md5": "4C85950F32176C1F9A56FA3FDCFB705B",
+   "sha1": "BA956799914C09D3B1DC8A839F0552F5D15534CF",
+   "region": "Japan",
+   "file": "Arkanoid - Doh It Again (Japan) (BS).sfc"
+  },
+  {
+   "crc32": "7A8BBAFA",
+   "md5": "2CDBA2EA2369BFE29E9B5C59A04C8F8E",
+   "sha1": "03F839819A253EED9A928D8D7CC80FCC245AB23D",
+   "region": "Japan",
+   "file": "Arkanoid - Doh It Again (Japan).sfc"
+  },
+  {
+   "crc32": "D436489B",
+   "md5": "06EFFCF7FD688F89E63E83AE2369D1C5",
+   "sha1": "621454564F7C494B6953BE2066D73641096C84F1",
+   "region": "Europe",
+   "file": "Arkanoid - Doh It Again (Europe).sfc"
+  }
+ ],
  "gf_score": 3.62,
  "metascore": null,
  "cover_urls": [

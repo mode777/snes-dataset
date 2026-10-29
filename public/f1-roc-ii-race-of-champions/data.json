@@ -32,6 +32,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3447609E",
+   "md5": "000BA16A5A4C08992EC93D0309D8ED6C",
+   "sha1": "FB81DD15B8A9DDF8F5564D3D2FB934C6F8BFB392",
+   "region": "USA",
+   "file": "F1-ROC II - Race of Champions (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

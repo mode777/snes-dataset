@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C2ACD40D",
+   "md5": "4B59DAABE19B0FDBA98B9683C7147ACB",
+   "sha1": "31F6EAC203C7E35FB973729C6B596D937F022829",
+   "region": "Japan",
+   "file": "Ruin Arm (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,29 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5FA9485C",
+   "md5": "525BC3122D7332370889F0ECAB46D2ED",
+   "sha1": "2037C554635F5E870D6BA564CF24124AED417F6B",
+   "region": "Japan",
+   "file": "California Games II (Japan) (En,Ja).sfc"
+  },
+  {
+   "crc32": "21392B00",
+   "md5": "7F3AEAC5B1EA378AF790DC1379861A53",
+   "sha1": "E564DC4EA326BBAECA281B7AA8015A21FCA3F81E",
+   "region": "USA",
+   "file": "California Games II (USA).sfc"
+  },
+  {
+   "crc32": "DB0814C5",
+   "md5": "8609BF5BEEE058D2B7C5C0C8A0E0C7D7",
+   "sha1": "EF5D5F99FB7BB180A283AAB9B5C584D2473426DC",
+   "region": "Europe",
+   "file": "California Games II (Europe) (En,Fr,De).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

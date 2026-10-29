@@ -20,6 +20,29 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "DE31D87A",
+   "md5": "71D70B2395F6200F08A4DBCC7FF1C73D",
+   "sha1": "3518BF0C7539F2441A8E73AD1C59A0E9971489B6",
+   "region": "Europe",
+   "file": "Val d'Isere Championship (Europe).sfc"
+  },
+  {
+   "crc32": "01B3114A",
+   "md5": "C9E6044768E8D0D903A621D71D6687F9",
+   "sha1": "9B41348B640F49CBF0E7AB7F553D36B6F00ABA95",
+   "region": "France",
+   "file": "Val d'Isere Championship (France).sfc"
+  },
+  {
+   "crc32": "66623EE2",
+   "md5": "13F182E32CE9D216883931E684518750",
+   "sha1": "610D31C0EEFF4161BB3385C28B0C66250B6D2B0D",
+   "region": "France",
+   "file": "Val d'Isere Championship (France) (Beta) (1993-10-27).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B9BA8544",
+   "md5": "B6AECD4135D37C402A9E4512615C6B6B",
+   "sha1": "357AC4826297A6496035E3951CACDA55DCAE4B1B",
+   "region": "Japan",
+   "file": "Itoi Shigesato no Bass Tsuri No. 1 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

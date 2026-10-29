@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3FAB702D",
+   "md5": "542D560B32B49DD9B040260E0113A976",
+   "sha1": "3A26E735CB9CE33D8F095335274A645074767F97",
+   "region": "Japan",
+   "file": "Picross NP Vol. 7 (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

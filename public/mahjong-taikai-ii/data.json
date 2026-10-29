@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "19F7288C",
+   "md5": "694500CCB326F59191ACCEF14D843A17",
+   "sha1": "E91BFDDE475F3693A2C0D6407D8FEC85BFDAF019",
+   "region": "Japan",
+   "file": "Mahjong Taikai II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

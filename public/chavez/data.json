@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A9D604EA",
+   "md5": "2114D08F617EAAD8C6E08E9E8EBAFCB1",
+   "sha1": "856C5C858B278E97DF7B41828FBD757D7E0C0321",
+   "region": "USA",
+   "file": "Chavez (USA).sfc"
+  },
+  {
+   "crc32": "1F74E668",
+   "md5": "E0BEA51A3114196ECE86332F697A4369",
+   "sha1": "4C69E6157AD928F6086BA3E10BA462B61A331BAF",
+   "region": "USA",
+   "file": "Chavez (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

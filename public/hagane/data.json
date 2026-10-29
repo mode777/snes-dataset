@@ -20,6 +20,22 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "63245CAC",
+   "md5": "E589BC57614B0F70E833A89C15C2BB09",
+   "sha1": "F353F9F39C29411B35D6CDAEF2C0E50033AF3059",
+   "region": "Japan",
+   "file": "Hagane (Japan).sfc"
+  },
+  {
+   "crc32": "F0BC3837",
+   "md5": "025890274F11742A8AC765D130739223",
+   "sha1": "312AEE048D7691EC4A596ADF7D9AC77A9F0E9B7F",
+   "region": "Japan",
+   "file": "Hagane (Japan) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.79,
  "metascore": null,
  "cover_urls": [

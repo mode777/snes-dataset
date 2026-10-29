@@ -27,6 +27,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "54302A46",
+   "md5": "B51BBAA7644DD8B432A66D11352E9C68",
+   "sha1": "1C472FF0F9BD4A50DC89C83D8FC91CDDE23A3957",
+   "region": "USA",
+   "file": "Aerobiz (USA).sfc"
+  }
+ ],
  "gf_score": 3.61,
  "metascore": null,
  "cover_urls": [

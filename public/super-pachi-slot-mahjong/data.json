@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2051315B",
+   "md5": "2DB30DEF54EF0089ECF753FFE2445445",
+   "sha1": "FCB3AD9D6A41DB54BDFE8806AB5B776CF098AB2D",
+   "region": "Japan",
+   "file": "Super Pachi-Slot Mahjong (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2796523E",
+   "md5": "8EEE9BAB94C00436D1E799FFCAC88B4C",
+   "sha1": "5F9FD724D1E29AF65BBD92D0BAE030364E5DBB03",
+   "region": "Japan",
+   "file": "Idea no Hi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

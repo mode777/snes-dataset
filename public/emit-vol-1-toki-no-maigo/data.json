@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D1AACC2D",
+   "md5": "768DED334F415D7F3CC83E39BE5A238D",
+   "sha1": "17C98203EFCB832B38F80891D3523014F3CCF76E",
+   "region": "Japan",
+   "file": "Emit Vol. 1 - Toki no Maigo (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

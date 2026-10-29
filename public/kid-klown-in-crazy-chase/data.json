@@ -34,6 +34,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "93AF89C6",
+   "md5": "5A89FB48E20603CA989A8B8BEE4C5299",
+   "sha1": "60C0A944A30AA7C601946B46C9C293DC15FF9F27",
+   "region": "Europe",
+   "file": "Kid Klown in Crazy Chase (Europe).sfc"
+  },
+  {
+   "crc32": "BD6C8AB1",
+   "md5": "572FD9201F8C000ABD16C4C84D9DDF98",
+   "sha1": "EEFEED2E27357EBD3D535194C16CD8045173B4EF",
+   "region": "USA",
+   "file": "Kid Klown in Crazy Chase (USA).sfc"
+  }
+ ],
  "gf_score": 3.34,
  "metascore": null,
  "cover_urls": [

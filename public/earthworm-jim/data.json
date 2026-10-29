@@ -36,6 +36,36 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B1EAAD9E",
+   "md5": "5C94254C9541E600C1C4CDF254E7CBAF",
+   "sha1": "681D17432E2D337AAEEAB4039117733C35575235",
+   "region": "USA",
+   "file": "Earthworm Jim (USA) (GamesMaster Special Edition).sfc"
+  },
+  {
+   "crc32": "3A4A47EB",
+   "md5": "25FDEBDEC0E83132D8F24E9AC5BFC45F",
+   "sha1": "3B666F44EA7574CAAFB9D64CD4D4C74DD3F81A61",
+   "region": "USA",
+   "file": "Earthworm Jim (USA).sfc"
+  },
+  {
+   "crc32": "6F8ED108",
+   "md5": "34A3D2A256C774A5F412CEF5AB4E6370",
+   "sha1": "B2D41AF059EC7A00090B4E895A3CE451A73D2179",
+   "region": "Japan",
+   "file": "Earthworm Jim (Japan).sfc"
+  },
+  {
+   "crc32": "84AB251B",
+   "md5": "92A672F453D6B2DE0A201FE612C73302",
+   "sha1": "56840E992021DDA27D230430DE39293C6660FF6C",
+   "region": "Europe",
+   "file": "Earthworm Jim (Europe).sfc"
+  }
+ ],
  "gf_score": 3.71,
  "metascore": 69,
  "cover_urls": [

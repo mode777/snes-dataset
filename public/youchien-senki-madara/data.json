@@ -17,6 +17,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C85236A4",
+   "md5": "973D847922D966B763907F27464839A4",
+   "sha1": "74701BF9F073D106C2805654EE1B1B294E00D162",
+   "region": "Japan",
+   "file": "Youchien Senki Madara (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

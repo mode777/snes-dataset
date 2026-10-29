@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "DEE4BCB3",
+   "md5": "596E4516A6D810F88C43DFBEBC5DC577",
+   "sha1": "F04315CECF1954072C5749342FA2D2DBE4416E75",
+   "region": "Japan",
+   "file": "Krusty World (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

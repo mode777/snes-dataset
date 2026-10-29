@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B95FE0A0",
+   "md5": "1C2AFDE14F4DD08CE2F4832BB5052E81",
+   "sha1": "F4D77083DC87467612EDA2AE251C6A9BB9500911",
+   "region": "USA",
+   "file": "Cannondale Cup (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "5D6DEAC7",
+   "md5": "1708F6DAD3795C560B989972E725BC0E",
+   "sha1": "1E2F440E204D6ED0A8C392AA8778DF579BA54BDA",
+   "region": "USA",
+   "file": "Fun 'n Games (USA).sfc"
+  },
+  {
+   "crc32": "09FF2DFE",
+   "md5": "AA3D03C80C3664EB9DB73F9CA6D7C3CF",
+   "sha1": "1C435248FDE70B2D8C028E4B4ACFB8EEC39B432A",
+   "region": "Europe",
+   "file": "Fun 'n Games (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

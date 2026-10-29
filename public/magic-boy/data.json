@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "AB57A2F9",
+   "md5": "FD2313F2B0AD28E8DE1C6523FA363BD0",
+   "sha1": "2F0B370DC8650F45938663F03A513F9E001391A5",
+   "region": "USA",
+   "file": "Magic Boy (USA).sfc"
+  },
+  {
+   "crc32": "7718C867",
+   "md5": "311448B02774F68D3E17B65C3DBA25D6",
+   "sha1": "1673C38CF9E37F11649AC6183F415815D0256904",
+   "region": "Europe",
+   "file": "Magic Boy (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

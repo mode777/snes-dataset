@@ -37,6 +37,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "C6373743",
+   "md5": "8FD2D0B42286B001E3EA5E779426CCCF",
+   "sha1": "51066BE2F620798EFDC96F937AA3407C51118904",
+   "region": "Europe",
+   "file": "Super Off Road (Europe).sfc"
+  },
+  {
+   "crc32": "3104478A",
+   "md5": "EDA0D8E860D9FD89744AA927C3F52ADF",
+   "sha1": "CE9C7BBBA7A7259C063CE921EE5F149D507F510B",
+   "region": "Japan",
+   "file": "Super Off Road (Japan).sfc"
+  },
+  {
+   "crc32": "FE263383",
+   "md5": "0C1CC5369A31C988858A087598BAB9C3",
+   "sha1": "1784C53C1B60047337109A5A9BF6A638D77B4219",
+   "region": "USA",
+   "file": "Super Off Road (USA).sfc"
+  }
+ ],
  "gf_score": 3.48,
  "metascore": null,
  "cover_urls": [

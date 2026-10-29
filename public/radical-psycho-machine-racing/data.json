@@ -23,6 +23,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F7933734",
+   "md5": "CB802F27CAB677A9B5C1C7FA4258E259",
+   "sha1": "0A8E35A4EBD4308FB37850F4D0CE64B60F639CFC",
+   "region": "USA",
+   "file": "Radical Psycho Machine Racing (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

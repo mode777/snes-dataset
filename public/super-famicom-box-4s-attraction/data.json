@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "AD3EC05C",
+   "md5": "3706348B2D9229DFFD31499B3921EFD3",
+   "sha1": "A3D336DB585FE02A37C323422D9DB6A33FD489A6",
+   "region": "Japan",
+   "file": "Super Famicom Box 4S Attraction (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

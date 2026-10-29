@@ -20,6 +20,29 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F997DEBC",
+   "md5": "A5356B9BAD50D4A9191BC1FE50316B5B",
+   "sha1": "6C2BCB3BE5AD46CC96FD35B50446931FC046A167",
+   "region": "France",
+   "file": "Mystic Quest Legend (France).sfc"
+  },
+  {
+   "crc32": "F21760DF",
+   "md5": "10CFE4F746A8BF3DD54C1E61C67F61D1",
+   "sha1": "BD190854C0F725160ED6F6B0669E3CDD2308CCCA",
+   "region": "Germany",
+   "file": "Mystic Quest Legend (Germany).sfc"
+  },
+  {
+   "crc32": "45A7328F",
+   "md5": "92461CD3F1A72B8BEB32EBAB98057B76",
+   "sha1": "3D3EC05A11D808600752C89895F04D5213E532B6",
+   "region": "Europe",
+   "file": "Mystic Quest Legend (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

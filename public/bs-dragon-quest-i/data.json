@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F48D1495",
+   "md5": "9399CB2B8EEFE131AC2CDCDEA4D13D86",
+   "sha1": "5651D55ED63CA7CBC96C3949C81F75E63960B898",
+   "region": "Japan",
+   "file": "BS Dragon Quest I (Japan) (BS) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

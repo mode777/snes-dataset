@@ -29,6 +29,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "4A0E225F",
+   "md5": "E8A2E6B3419FBC98D850DFC5E235EEB7",
+   "sha1": "CD3DB1766AFA5C0E5BD6685B5B25E56B85B495FE",
+   "region": "USA",
+   "file": "Mighty Max (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "6FC3C105",
+   "md5": "EF03535CE894AEDABE6C098F6B858D87",
+   "sha1": "0D31E2650B5E1F9331F36810F3AE5561B9581511",
+   "region": "USA",
+   "file": "Mighty Max (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

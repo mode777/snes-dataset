@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B52F5C4F",
+   "md5": "6E2E43B4077B5F2FD5DAB273EBD7F91E",
+   "sha1": "A13020AA17C1B4EDDA3446784D6DF04F8C05B078",
+   "region": "Japan",
+   "file": "Yung Hakase no Shinsatsushitsu - Dai-1-gou (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

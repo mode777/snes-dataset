@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "02A442B8",
+   "md5": "5F776488E366B6D6B44F6E8A01D9953D",
+   "sha1": "137F84BA5D0736B887213E0C0CABD0649BBBAFC7",
+   "region": "Japan",
+   "file": "Bishoujo Senshi Sailor Moon - Another Story (Japan).sfc"
+  }
+ ],
  "gf_score": 3.9,
  "metascore": null,
  "cover_urls": [

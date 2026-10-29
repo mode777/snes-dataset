@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "57B1C3ED",
+   "md5": "C1008DB81315057BE63C2901A39EB1FB",
+   "sha1": "CD7A87F884F436494B5C910581EED6086D041336",
+   "region": "Japan",
+   "file": "BS F-Zero Grand Prix 2 - Practice (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

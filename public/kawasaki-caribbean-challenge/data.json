@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "37D8AC57",
+   "md5": "EEDB93428203300CD85F6B7CF441BAFD",
+   "sha1": "5AD5B2703A375A4B65696C9800E2873A32D87592",
+   "region": "USA",
+   "file": "Kawasaki Caribbean Challenge (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

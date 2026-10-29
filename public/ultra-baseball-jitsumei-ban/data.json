@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "69AB65C5",
+   "md5": "F3E68216832BF359D57754169E2C8C5C",
+   "sha1": "640901B943A59873C3A675468AC27302D9C1A0C7",
+   "region": "Japan",
+   "file": "Ultra Baseball Jitsumei Ban (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

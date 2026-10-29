@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "892C6765",
+   "md5": "6A42E0C883F21D92B1CE9BFBC6A159CC",
+   "sha1": "BF4BA0EEA04C777C97A2D622D939597E7C0B340B",
+   "region": "World",
+   "file": "Picachu (World) (Unl).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

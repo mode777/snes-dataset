@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F9CF0C56",
+   "md5": "760385E7D35B10DC13920959D58F6DA8",
+   "sha1": "88691406E53298BA6421BBC2708BBD0AC2043C55",
+   "region": "Japan",
+   "file": "Saikyou - Takada Nobuhiko (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

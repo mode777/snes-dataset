@@ -23,6 +23,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C862200D",
+   "md5": "ECB391D0A1EC01FA0556DD95CC0DA669",
+   "sha1": "A929F918CE5A346C88054FB63940FFD91FBF9B32",
+   "region": "Japan",
+   "file": "Ultima VII - The Black Gate (Japan).sfc"
+  },
+  {
+   "crc32": "E2234EFB",
+   "md5": "45DA246070C7ABDB87216493AE6A9EF0",
+   "sha1": "C244E70BEFEFEB4F80A792E15F7AD90B6B7A50F6",
+   "region": "USA",
+   "file": "Ultima VII - The Black Gate (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

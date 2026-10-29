@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "ACCB5950",
+   "md5": "10561D1820EB4B294087D130D0783366",
+   "sha1": "E17AE0D4D58EE77EDD6741C3DE7DD29FDF521E51",
+   "region": "Europe",
+   "file": "Vegas Stakes (Europe).sfc"
+  },
+  {
+   "crc32": "03A0E935",
+   "md5": "6200C8CC3F28CF80A5181586EF92A7E1",
+   "sha1": "3E9B44B318DF40929911067FF510BAE02861E595",
+   "region": "USA",
+   "file": "Vegas Stakes (USA).sfc"
+  }
+ ],
  "gf_score": 3.38,
  "metascore": null,
  "cover_urls": [

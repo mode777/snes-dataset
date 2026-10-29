@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0E4C28FE",
+   "md5": "ECC020ECCBBFA20EA2CF362302ADD720",
+   "sha1": "B8DEDAE2BFC02F7A5CE79FE67ACDCB2484106743",
+   "region": "Japan",
+   "file": "Heisei Shin Onigashima - Kouhen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

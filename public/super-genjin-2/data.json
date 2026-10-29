@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C5D12427",
+   "md5": "3C0BC4CDBA0D5B45AF98A3EC1831E481",
+   "sha1": "08069ABEBD2B46838565A1B4A5B4E66089222861",
+   "region": "Japan",
+   "file": "Super Genjin 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

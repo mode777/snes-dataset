@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F3887022",
+   "md5": "6DFDB138ABEB84899C4143342E1901EA",
+   "sha1": "FF2E0C3E3B95699E1860A2B2D0EF88E8CB20FC57",
+   "region": "Japan",
+   "file": "Monstania (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

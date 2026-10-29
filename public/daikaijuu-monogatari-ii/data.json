@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A6C98FFE",
+   "md5": "A356461694F781EB64EE75A29AA984FF",
+   "sha1": "673C48A373B7DA7E0E934C55F7182587E07BB9AB",
+   "region": "Japan",
+   "file": "Daikaijuu Monogatari II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F3C44423",
+   "md5": "D5E83CE15BB7895376AE59EEDFA2455D",
+   "sha1": "70DB2D8E6E98C9436F7C24D9B1CD03082E7D9FAD",
+   "region": "Japan",
+   "file": "Kamen Rider (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

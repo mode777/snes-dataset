@@ -28,6 +28,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EDA70F8A",
+   "md5": "1BFBB1C174B6E7362AF678DD584BA324",
+   "sha1": "33ABD6C2EB5DBC55028A3C830CB51C5D4B1B9918",
+   "region": "Japan",
+   "file": "Feda - The Emblem of Justice (Japan).sfc"
+  },
+  {
+   "crc32": "086013CF",
+   "md5": "4F59DB389C185F1687784441609E3E5A",
+   "sha1": "F0FF66A81ECE9D57865D013B1349E16F1EDDD288",
+   "region": "Japan",
+   "file": "Feda - The Emblem of Justice (Japan) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

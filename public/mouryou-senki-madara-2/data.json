@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0DCBF723",
+   "md5": "F5E730174AA118C0519151AB1B38D7F2",
+   "sha1": "13F9BDD5488FB71F41A70E5BC4DD2D8BF37ED303",
+   "region": "Japan",
+   "file": "Mouryou Senki Madara 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

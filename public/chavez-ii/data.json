@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "86981887",
+   "md5": "7F20A2E7A299BE4C65A8B773C92F8B9E",
+   "sha1": "12B8E3A04CBAC7DE8181A5EBB8546489A5DF0937",
+   "region": "USA",
+   "file": "Chavez II (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

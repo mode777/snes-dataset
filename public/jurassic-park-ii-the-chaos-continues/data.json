@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "49A6A9F3",
+   "md5": "ACC83CA38D7D5F1CD27DCB5E22B91065",
+   "sha1": "4B9724736FE6401F5B03550389EAE7D9FAACBAA0",
+   "region": "USA",
+   "file": "Jurassic Park II - The Chaos Continues (USA) (En,Fr,De,It) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

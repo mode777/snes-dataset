@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3CE00F85",
+   "md5": "A5DCBCA27C97E87E1EEBEFA5DCE52FB4",
+   "sha1": "E4BB6214F740EFC3B5E2D0482CD8D4F10B205044",
+   "region": "Japan",
+   "file": "Tarot Mystery (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

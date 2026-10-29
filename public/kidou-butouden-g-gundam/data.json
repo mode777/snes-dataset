@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "723D7B46",
+   "md5": "B226578D92E09D16A08F49A8ADCB4953",
+   "sha1": "3E79D57A27E5333CD34CA74046E7F766938173EC",
+   "region": "Japan",
+   "file": "Kidou Butouden G Gundam (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

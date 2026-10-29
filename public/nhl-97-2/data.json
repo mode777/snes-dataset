@@ -36,6 +36,36 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "1A53B7A8",
+   "md5": "CB9B48905598A3D4EABD9A568D7186DB",
+   "sha1": "1FBCC5ACBF07206BF4C7EE67B8BD1CAAD0416501",
+   "region": "Europe",
+   "file": "NHL 97 (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "313B9622",
+   "md5": "D1E63437AF76C2A2ED5567B527C3AF05",
+   "sha1": "20D714DDAA4ED1A0BD92B30385BF06DF17BED777",
+   "region": "Europe",
+   "file": "NHL 97 (Europe).sfc"
+  },
+  {
+   "crc32": "06BADB74",
+   "md5": "4E93B6A3EA6BC0FD338A66565B5E4716",
+   "sha1": "7D38EB42B77D05DD46DDD8C4460BE6A87A3C6501",
+   "region": "USA",
+   "file": "NHL 97 (USA).sfc"
+  },
+  {
+   "crc32": "4F72AA8C",
+   "md5": "8D684564175BE2683EFBBB15E9BF0F4C",
+   "sha1": "370653385654F48AFCC0BF2C54729166932FD462",
+   "region": "USA",
+   "file": "NHL 97 (USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 3.78,
  "metascore": null,
  "cover_urls": [

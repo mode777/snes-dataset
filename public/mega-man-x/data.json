@@ -33,6 +33,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "41965122",
+   "md5": "F814205E841A8B865FDF8F2340BC8F0E",
+   "sha1": "8A32570FAD3BFC92C0508C88022FB20412DD7BED",
+   "region": "Europe",
+   "file": "Mega Man X (Europe).sfc"
+  },
+  {
+   "crc32": "1033EBA4",
+   "md5": "A10071FA78554B57538D0B459E00D224",
+   "sha1": "449A00631208FBCC8D58209E66D0D488674B7FB1",
+   "region": "USA",
+   "file": "Mega Man X (USA).sfc"
+  },
+  {
+   "crc32": "DED53C64",
+   "md5": "DF1CC0C8C8C4B61E3B834CC03366611C",
+   "sha1": "C65216760BA99178100A10D98457CF11496C2097",
+   "region": "USA",
+   "file": "Mega Man X (USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 4.37,
  "metascore": null,
  "cover_urls": [

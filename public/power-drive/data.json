@@ -32,6 +32,15 @@
  "languages": [
   "English, German, Spanish, French, Portuguese"
  ],
+ "roms": [
+  {
+   "crc32": "0BFDCA70",
+   "md5": "710893291C4848EACC054B020AADB8EF",
+   "sha1": "9EB647E4CBA65F9CEBF1188D0C4BCFC67CC698AA",
+   "region": "Europe",
+   "file": "Power Drive (Europe) (En,Fr,De,Es,Pt).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

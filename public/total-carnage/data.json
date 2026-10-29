@@ -36,6 +36,36 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "596122C4",
+   "md5": "9B7CAC35C8462C0405CD82AC4B9A023E",
+   "sha1": "AFB5B3CD82900972A86A36417CAE3922D56FFA38",
+   "region": "Europe",
+   "file": "Total Carnage (Europe).sfc"
+  },
+  {
+   "crc32": "E27FF2BC",
+   "md5": "4A781D38BCF6BDC21336B98D6FAEE664",
+   "sha1": "AE23D917D1F65AA92584FFF1AB9B4E9C78F18C7D",
+   "region": "USA",
+   "file": "Total Carnage (USA).sfc"
+  },
+  {
+   "crc32": "44A524DE",
+   "md5": "ADAC34DFDFA7924DC35732456F318703",
+   "sha1": "50A08BB959D310DBDBAF2B81B9ED831D66017353",
+   "region": "USA",
+   "file": "Total Carnage (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "82B17B1B",
+   "md5": "2D3F4631DE7FA65E8D79546BE615E286",
+   "sha1": "850C64DDC49A07F7F7A198A02DAB4AFED8ACF3C0",
+   "region": "USA",
+   "file": "Total Carnage (USA) (Beta) (Alt 1).sfc"
+  }
+ ],
  "gf_score": 3.17,
  "metascore": null,
  "cover_urls": [

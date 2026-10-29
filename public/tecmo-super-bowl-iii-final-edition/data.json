@@ -32,6 +32,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "8EF1411F",
+   "md5": "5EE901377B87E1C5C80C71B8AB6E2DD3",
+   "sha1": "9AF8FE77351B9D0C853D91B689AE8C41EFB618E3",
+   "region": "USA",
+   "file": "Tecmo Super Bowl III - Final Edition (USA).sfc"
+  },
+  {
+   "crc32": "F06C34E3",
+   "md5": "54A61236464BA8DEDCA795E641890637",
+   "sha1": "2438DD4C12A00A82C1C8DF3395432CAE19E72CC9",
+   "region": "Japan",
+   "file": "Tecmo Super Bowl III - Final Edition (Japan).sfc"
+  }
+ ],
  "gf_score": 3.76,
  "metascore": null,
  "cover_urls": [

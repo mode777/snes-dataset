@@ -30,6 +30,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CBCD0DAD",
+   "md5": "51F8A9E95EC58FA5B9C3EC2DA530D598",
+   "sha1": "FEB998D4E963A76A4DEE6351EDAB894AF431EEBA",
+   "region": "Japan",
+   "file": "Clock Tower (Japan).sfc"
+  },
+  {
+   "crc32": "F29F6651",
+   "md5": "80BA129660244189C00638587E41BE53",
+   "sha1": "0E0B9C18A27044E4265F9012ED2444044254776C",
+   "region": "Japan",
+   "file": "Clock Tower (Japan) (Beta).sfc"
+  }
+ ],
  "gf_score": 4.09,
  "metascore": null,
  "cover_urls": [

@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BA2A817C",
+   "md5": "FFEF33F8DBECDED3778982D7E8BD4133",
+   "sha1": "79D9DC9DB69F46FCDDBE9AFB42FC9B3CF69881B5",
+   "region": "Japan",
+   "file": "Umizuri Meijin - Suzuki Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

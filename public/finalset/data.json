@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E06FAE58",
+   "md5": "E7983CE819F5A5976B0BD6E9EC20B9BA",
+   "sha1": "06F411F3AA45A052BAC998BE421082E21FC6B389",
+   "region": "Japan",
+   "file": "Finalset (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

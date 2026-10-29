@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "38726EC1",
+   "md5": "D952A16DB6A4154F877A6713F9DA9172",
+   "sha1": "F6869F19A31BE80E42A4E241B719F9935AD8AFAF",
+   "region": "Japan",
+   "file": "SD The Great Battle - Aratanaru Chousen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

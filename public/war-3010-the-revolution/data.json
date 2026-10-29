@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "98C974BE",
+   "md5": "298DC54D7E9C0DBB338875F734CE4EDF",
+   "sha1": "13722922C00F8B3E0462D5C549732D86A258F2CC",
+   "region": "USA",
+   "file": "War 3010 - The Revolution (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

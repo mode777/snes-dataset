@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B742D8B0",
+   "md5": "3B5BFC070D13A998243BE9303EC48EA7",
+   "sha1": "1E0D13C77379ED0BD38CE34AA7B92D55F3FAF972",
+   "region": "Japan",
+   "file": "Spriggan Powered BS - Prelude (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

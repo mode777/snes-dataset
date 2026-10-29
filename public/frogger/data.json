@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "2488B8F2",
+   "md5": "B51604DEF7401AF4B71CBAA501B2F00E",
+   "sha1": "7E9E9128D1AD71ADBA61787BA6E088C3D8195DDD",
+   "region": "USA",
+   "file": "Frogger (USA).sfc"
+  }
+ ],
  "gf_score": 3.23,
  "metascore": null,
  "cover_urls": [

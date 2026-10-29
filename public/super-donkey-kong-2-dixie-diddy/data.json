@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A0BE8E71",
+   "md5": "F65BDE686BDA6226AEA555858A74BB7D",
+   "sha1": "5ED7ECD3AA25BB37B6605BACC6120F5EBCD9AA5F",
+   "region": "Japan",
+   "file": "Super Donkey Kong 2 - Dixie & Diddy (Japan).sfc"
+  },
+  {
+   "crc32": "46079C0F",
+   "md5": "B285148DF1712ACF50162BDBEFDCF1E0",
+   "sha1": "710903D52EC009BB7A54CD5CCDFDC93594E440E2",
+   "region": "Japan",
+   "file": "Super Donkey Kong 2 - Dixie & Diddy (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

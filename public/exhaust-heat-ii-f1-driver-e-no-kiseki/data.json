@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "E2C8E535",
+   "md5": "9B0DFFE0222A9B7B7C8DCB98CC8CA058",
+   "sha1": "3600F81D5A7E2EC41F362CC22A16A58CE2612048",
+   "region": "Japan",
+   "file": "Exhaust Heat II - F1 Driver e no Kiseki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

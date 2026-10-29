@@ -29,6 +29,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "7C495B36",
+   "md5": "A8D00FEECB22269F8330206D54B12603",
+   "sha1": "83FA98C639C9480836C8B3AE4A7020125F868D67",
+   "region": "USA",
+   "file": "Obitus (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

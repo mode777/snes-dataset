@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EC2CCAF6",
+   "md5": "CD8F25951075CC536275030B045A67FE",
+   "sha1": "E60C44E908F6F0955DD8777D50AE8DDD7698FAE9",
+   "region": "Japan",
+   "file": "Shin SD Sengokuden - Daishougun Retsuden (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

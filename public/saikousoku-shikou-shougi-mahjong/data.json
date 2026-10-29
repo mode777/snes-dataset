@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A16CC0A7",
+   "md5": "9C5753B2DBEA0A0B4AD5E5877296BC2C",
+   "sha1": "D6D22BFDBB821B18BB0859E545355D0919424496",
+   "region": "Japan",
+   "file": "Saikousoku Shikou Shougi Mahjong (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

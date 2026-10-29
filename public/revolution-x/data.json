@@ -39,6 +39,36 @@
  "languages": [
   "English, German, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F6B0EAA9",
+   "md5": "E16C95DAE29970E0BDB177FD1469139A",
+   "sha1": "BCDF3379025F2E5F031C9AEFBC3E8C4DE480693A",
+   "region": "Europe",
+   "file": "Revolution X (Europe).sfc"
+  },
+  {
+   "crc32": "59D0F587",
+   "md5": "B75DCA377CEBBAE23E39820952EF59E7",
+   "sha1": "CB1182799C76B7947F2415F1406BC13E0692CBA5",
+   "region": "Germany",
+   "file": "Revolution X (Germany).sfc"
+  },
+  {
+   "crc32": "0DC5E7BA",
+   "md5": "B4745109DFB032675C6A0CB83598607F",
+   "sha1": "33D19C77A494E9B30FA2BF7B674A1925181E347B",
+   "region": "USA",
+   "file": "Revolution X (USA).sfc"
+  },
+  {
+   "crc32": "B5939FDC",
+   "md5": "D5ACDAA3E261EFA816985A403D4EA533",
+   "sha1": "7310659D93D6F3E96F6465F47C72E4B11B11C13D",
+   "region": "Japan",
+   "file": "Revolution X (Japan).sfc"
+  }
+ ],
  "gf_score": 2.7,
  "metascore": null,
  "cover_urls": [

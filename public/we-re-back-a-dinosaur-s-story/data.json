@@ -39,6 +39,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "33FBCD2D",
+   "md5": "923E065EEE6BEC22F923F9D524FF9894",
+   "sha1": "C81DAD063C65CAEDF40DB1ADB2ED2D03CEC8CAA7",
+   "region": "Europe",
+   "file": "We're Back! - A Dinosaur's Story (Europe).sfc"
+  },
+  {
+   "crc32": "3F654414",
+   "md5": "8A693A871EB6034C00A4DBF752D55289",
+   "sha1": "5DFED05FFBDF6565CBFC56BECC0A2D432F1A027A",
+   "region": "USA",
+   "file": "We're Back! - A Dinosaur's Story (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

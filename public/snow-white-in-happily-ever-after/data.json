@@ -34,6 +34,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "D68D1AB3",
+   "md5": "E23297ADA3971709536596E4CA88EC3A",
+   "sha1": "FFB0BAAEC4318287359307932683721BB18FA568",
+   "region": "USA",
+   "file": "Snow White in Happily Ever After (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

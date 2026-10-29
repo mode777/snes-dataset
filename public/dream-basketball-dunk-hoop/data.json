@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CC24110A",
+   "md5": "BF0C7779579125FD2868F42669B6E67C",
+   "sha1": "4915D8030BB8A43AB719C93A5D93672DDA4C6230",
+   "region": "Japan",
+   "file": "Dream Basketball - Dunk & Hoop (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "01AFEC9C",
+   "md5": "1CFEA3CFF71F5AAAD50F2E5EE84AEA7D",
+   "sha1": "8F3641977E2CBC93F851E5931FC3E3C440DA109E",
+   "region": "Japan",
+   "file": "Taikyoku Igo - Goliath (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

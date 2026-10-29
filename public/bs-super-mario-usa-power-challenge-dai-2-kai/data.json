@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0C2DF427",
+   "md5": "7E397E09D62919BFC3008FC7D15C2A5F",
+   "sha1": "69A98B6243BD8F6145B89BD8295A2D17CC5605FF",
+   "region": "Japan",
+   "file": "BS Super Mario USA - Power Challenge - Dai-2-kai (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

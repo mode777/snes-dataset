@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "560C5EAB",
+   "md5": "649899053BDFFF915268BC78B532AF3F",
+   "sha1": "34680C83D64BBFF58AAAB4B6D7029AEF8A1CD558",
+   "region": "Japan",
+   "file": "Doraemon 3 - Nobita to Toki no Hougyoku (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B86E7AB1",
+   "md5": "7459537A7105D1830F604BB20FA38C2A",
+   "sha1": "3CFA8BC8D6EC36E46D7A434B5E5FA835C90BC4F0",
+   "region": "Japan",
+   "file": "Bakusho Mondai no Shirikon Chounaikai (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

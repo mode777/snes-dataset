@@ -20,6 +20,29 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B48CA238",
+   "md5": "F3DAA875B6E20B01690617C9B8F6E843",
+   "sha1": "7C365C325B3CE27A17FC88744B6928741FAB1996",
+   "region": "Germany",
+   "file": "Starwing (Germany).sfc"
+  },
+  {
+   "crc32": "BA64DA2B",
+   "md5": "E28E24F1D82D8E8392561571A000D2C2",
+   "sha1": "0510647F8CF9B87FAC1C08A7009932CEEAE1E0BD",
+   "region": "Europe",
+   "file": "Starwing (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "865F1A71",
+   "md5": "7FD753DB14083BBD07282B4779CF30AE",
+   "sha1": "7BA89019F33F690715BDBD52E13D888228EE4B9C",
+   "region": "Europe",
+   "file": "Starwing (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "557B8DB1",
+   "md5": "1E6D224DD2A2BC8678B7AA5817C7DB96",
+   "sha1": "FBEFE349D80654F55D976C7E8282EC3D958D142C",
+   "region": "Japan",
+   "file": "Xak - The Art of Visual Stage (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

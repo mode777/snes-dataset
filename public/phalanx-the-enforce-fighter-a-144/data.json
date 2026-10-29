@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "561AEB8F",
+   "md5": "DE72DA17081CAFE62A9F035F7E71C8E5",
+   "sha1": "EE2326DDB2AC8A87B7BFFF8B4CA7582687ADBEE8",
+   "region": "Japan",
+   "file": "Phalanx - The Enforce Fighter A-144 (Japan).sfc"
+  },
+  {
+   "crc32": "B1A32FE2",
+   "md5": "0ADD8EEFE5F4549E07FAA4546F87FA2D",
+   "sha1": "3E4B0D0D7543F485D1B9A98D21889049C0C0E9A0",
+   "region": "USA",
+   "file": "Phalanx - The Enforce Fighter A-144 (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

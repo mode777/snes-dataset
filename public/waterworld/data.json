@@ -35,6 +35,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "7ACF2AC6",
+   "md5": "4790B8E21522275C00B98EEC38335DB1",
+   "sha1": "817DF229074F4AEF05D16FA92C4438004468FBE1",
+   "region": "Europe",
+   "file": "Waterworld (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

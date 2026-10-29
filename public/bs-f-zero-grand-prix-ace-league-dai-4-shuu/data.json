@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A6B45D29",
+   "md5": "6EB833130AC9869A3E83157FD9A14FCB",
+   "sha1": "EB0C58132486625C42CAE9F083873C6F38E82D59",
+   "region": "Japan",
+   "file": "BS F-Zero Grand Prix - Ace League - Dai-4-shuu (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

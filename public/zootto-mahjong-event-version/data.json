@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5D2C918D",
+   "md5": "5BDCC9AB284F4F4998B4F577116AC4D5",
+   "sha1": "CCDEF08D2C8ECD500B86A26E75345CA9B3920BF1",
+   "region": "Japan",
+   "file": "Zootto Mahjong! - Event Version (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

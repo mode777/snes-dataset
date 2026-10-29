@@ -33,6 +33,50 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E9334B9E",
+   "md5": "5E1602019D4E337B9C6A714A6224BA1D",
+   "sha1": "C1FF73EA67833748DBD4ECD393D3565E3AE1925D",
+   "region": "France",
+   "file": "Secret of Mana (France) (Rev 1).sfc"
+  },
+  {
+   "crc32": "D0176B24",
+   "md5": "10A894199A9ADC50FF88815FD9853E19",
+   "sha1": "8133041A363E3CC68CEDEF40B49B6D20D03C505D",
+   "region": "USA",
+   "file": "Secret of Mana (USA).sfc"
+  },
+  {
+   "crc32": "B069BB3A",
+   "md5": "B57303407986C0D28F2D78F931EFC59C",
+   "sha1": "AB8A31BFB4CF0CE19B96893A31442FFBFD8D0BEB",
+   "region": "Germany",
+   "file": "Secret of Mana (Germany).sfc"
+  },
+  {
+   "crc32": "6BE4CA95",
+   "md5": "35AFB723A7A1166D894549519D78622C",
+   "sha1": "D5601BE19DE691E58EDD55194E10496C77E464E5",
+   "region": "France",
+   "file": "Secret of Mana (France).sfc"
+  },
+  {
+   "crc32": "DE112322",
+   "md5": "D273DD449B204A6EB90F611E5A72F80C",
+   "sha1": "CF57DC4183C6E5AADBA25019D82E61C44C0DE113",
+   "region": "Europe",
+   "file": "Secret of Mana (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "C5CB2F26",
+   "md5": "0194F74C93B0EDF3E4A7672A448572AD",
+   "sha1": "D9AAF3119784887475DA9548000738E1DA84BEE6",
+   "region": "Europe",
+   "file": "Secret of Mana (Europe).sfc"
+  }
+ ],
  "gf_score": 4.25,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "DAD59B9F",
+   "md5": "852ECF00F608C53DB8AD6D3208AC25B1",
+   "sha1": "22F864B4A8728F08513B979D2A960EB3083B2C83",
+   "region": "World",
+   "file": "Street Fighter EX (World) (Unl).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

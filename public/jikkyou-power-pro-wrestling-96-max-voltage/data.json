@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "94C1D85C",
+   "md5": "1EAB10A5CE91E2E27E407D949C28B032",
+   "sha1": "E24B1DCF8E60EBFDB5B0C1D4FE20756AD53F4D61",
+   "region": "Japan",
+   "file": "Jikkyou Power Pro Wrestling '96 - Max Voltage (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

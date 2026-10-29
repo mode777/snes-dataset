@@ -18,6 +18,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A6D82435",
+   "md5": "BE7435592C3B20DA2FF1F814616C3D19",
+   "sha1": "D00960176AA980DBD7BFF4062E52B7450B9986DD",
+   "region": "Japan",
+   "file": "Romancing Sa-Ga (Japan).sfc"
+  },
+  {
+   "crc32": "9684526D",
+   "md5": "91D84CBB88F28C50F14C8302CFA1DCD1",
+   "sha1": "6AB826E716869D4065307186A09925DDE7CD488D",
+   "region": "Japan",
+   "file": "Romancing Sa-Ga (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E17C5C97",
+   "md5": "5BDB362294085F3DC1CCDA98F78EDC37",
+   "sha1": "2752FF02CB7FF7213B28115AD7E42502ECD1BEB8",
+   "region": "Japan",
+   "file": "Jikkyou Powerful Pro Yakyuu - Basic Ban '98 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

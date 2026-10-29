@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7D149029",
+   "md5": "C6A96D2A0983B6911A6EC87F751F2370",
+   "sha1": "8A5EF1739570A8B6F2BF054FC7C9CAC704B9AFC8",
+   "region": "Japan",
+   "file": "Nishijin Pachinko 3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -31,6 +31,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4D014C20",
+   "md5": "9D56FB54AF198D43DCD62550767999DF",
+   "sha1": "A82F0FBA9BB111FFD0A878853A4563917D9B67BB",
+   "region": "Japan",
+   "file": "Chrono Trigger (Japan).sfc"
+  },
+  {
+   "crc32": "17C9F363",
+   "md5": "274FB504A107768206F4ACCEBA0C23FB",
+   "sha1": "6DEA64BCBBE2E6F396270A8C992850F82EC12E38",
+   "region": "Japan",
+   "file": "Chrono Trigger (Japan) (Sample).sfc"
+  },
+  {
+   "crc32": "2D206BF7",
+   "md5": "A2BC447961E52FD2227BAED164F729DC",
+   "sha1": "DE5822F4F2F7A55ACB8926D4C0EAA63D5D989312",
+   "region": "USA",
+   "file": "Chrono Trigger (USA).sfc"
+  }
+ ],
  "gf_score": 4.58,
  "metascore": 92,
  "cover_urls": [

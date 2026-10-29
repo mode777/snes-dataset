@@ -28,6 +28,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5F6E06EE",
+   "md5": "0C4869D042E621362B3B4C924009E8DF",
+   "sha1": "EE58E4C19B8C072374D304791E65FA3D1BAFCD19",
+   "region": "USA",
+   "file": "Power Instinct (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "CB8A4F8E",
+   "md5": "A56617FE8A2909D17A2989309C9BD51E",
+   "sha1": "88A421796BBB5EDC8000176D18B437899DA3E65F",
+   "region": "USA",
+   "file": "Power Instinct (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

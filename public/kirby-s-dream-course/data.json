@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DF8153D9",
+   "md5": "3F2EE922CD23C9C211777BE1D26EA2A8",
+   "sha1": "E1F29AD02981EC84156B68D4FB95B2182DC8CD82",
+   "region": "USA",
+   "file": "Kirby's Dream Course (USA).sfc"
+  },
+  {
+   "crc32": "995CC0A3",
+   "md5": "B757F3031FB7698925CF9EB8D3B343A1",
+   "sha1": "97630B34FCF9F20963CD18D144A3927092540BB8",
+   "region": "Europe",
+   "file": "Kirby's Dream Course (Europe).sfc"
+  }
+ ],
  "gf_score": 3.57,
  "metascore": null,
  "cover_urls": [

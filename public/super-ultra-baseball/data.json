@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "90A9EA48",
+   "md5": "F4F6166FEC263CF7562466FA9398FBAE",
+   "sha1": "028EA1CD171A29A7041F71E1B968225E3AEBEA87",
+   "region": "Japan",
+   "file": "Super Ultra Baseball (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

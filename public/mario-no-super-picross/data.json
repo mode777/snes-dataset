@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "F64C5AA0",
+   "md5": "34255C940FFDAFA25235A7B3C9093186",
+   "sha1": "C4200B9886B16C148B32D2C75D02F2A875D997CC",
+   "region": "Japan",
+   "file": "Mario no Super Picross (Japan).sfc"
+  }
+ ],
  "gf_score": 3.79,
  "metascore": null,
  "cover_urls": [

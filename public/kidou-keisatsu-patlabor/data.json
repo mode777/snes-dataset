@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0BAC88BB",
+   "md5": "EAE8B035E3494DCCC19A1F30C6463128",
+   "sha1": "A2BD5FDAD41F4687B882C52C040226DA0DFCF10E",
+   "region": "Japan",
+   "file": "Kidou Keisatsu Patlabor (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "954340F8",
+   "md5": "103A6AC107C8B9E5251E7E7DAFF3A568",
+   "sha1": "F2554EEEE0A5506B6752BFA13CC57EA3BC059544",
+   "region": "USA",
+   "file": "Dig & Spike Volleyball (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -20,6 +20,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "7BF62174",
+   "md5": "569936C3595514A594FE4F13D8BEF24A",
+   "sha1": "3474CA5CC8AF0F73FACA4FC8C83C5AB1EAF62031",
+   "region": "Japan",
+   "file": "Kunio-kun no Dodge Ball Da yo Zenin Shuugou! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

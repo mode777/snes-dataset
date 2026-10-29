@@ -32,6 +32,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B81828EC",
+   "md5": "2A88A6B95B1E44C4C14EBC87A525B14D",
+   "sha1": "A6E6BA3A2785F07C7C2C8076A8497C565570B272",
+   "region": "Japan",
+   "file": "J.League Soccer Prime Goal (Japan).sfc"
+  },
+  {
+   "crc32": "7538F598",
+   "md5": "0C44E5785D170144815EE3AE70AD09C0",
+   "sha1": "B08AEB7FA70A40484DA5683EF104264271964D58",
+   "region": "Japan",
+   "file": "J.League Soccer Prime Goal (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -19,6 +19,29 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0F3B758D",
+   "md5": "513443CBEB457A436350226D8E40FF08",
+   "sha1": "9ABC8F255BDB1870E91B4F74D6E5588412EFCFF9",
+   "region": "Europe",
+   "file": "Tiny Toon Adventures - Wild & Wacky Sports (Europe) (Rev 1).sfc"
+  },
+  {
+   "crc32": "F13002C7",
+   "md5": "047684CD1C2D6CB158BEF2E3176A048B",
+   "sha1": "55555C60137DADD498FD1435AD116125AB67666E",
+   "region": "Europe",
+   "file": "Tiny Toon Adventures - Wild & Wacky Sports (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "AE78B20E",
+   "md5": "B4C4D7760020444AE63DBE794E154AA1",
+   "sha1": "5ADC0E760353DB9AC4E060DEB8EB9755F94B461D",
+   "region": "Europe",
+   "file": "Tiny Toon Adventures - Wild & Wacky Sports (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

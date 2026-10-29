@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B344E9A0",
+   "md5": "8EAFD7D45DADBBBB95CBC95E8F35C59E",
+   "sha1": "01BD54E220D5208433ECFDF0B9FA1A08B2260A89",
+   "region": "Japan",
+   "file": "Gaia Gensouki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

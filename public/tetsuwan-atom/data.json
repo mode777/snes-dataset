@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2B79FAF0",
+   "md5": "053E92D49E0586F2768D6FB245A4AFC2",
+   "sha1": "682742315BDF95B344F0D70816AD80B43AB925A5",
+   "region": "Japan",
+   "file": "Tetsuwan Atom (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

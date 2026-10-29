@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3E14376B",
+   "md5": "82EAE959AE51B041489F7C1C2A1FEF11",
+   "sha1": "79AB6CB1A0CC37BA2BD1F5CF080B2E0489C8A05D",
+   "region": "Japan",
+   "file": "PowerMonger - Mashou no Bouryaku (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

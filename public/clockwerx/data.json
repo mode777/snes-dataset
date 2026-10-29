@@ -19,6 +19,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A62B84FF",
+   "md5": "CAAD6D8822F022660AC7FABF38CEA6C4",
+   "sha1": "652693214EBC0A1BBCAE15396CDE748A94324ACB",
+   "region": "Japan",
+   "file": "Clockwerx (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

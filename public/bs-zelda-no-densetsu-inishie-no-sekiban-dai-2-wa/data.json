@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C98756B3",
+   "md5": "3E5D278FB1FEF5A7D75F4FE093FD8AD2",
+   "sha1": "2807B1BC75807E92B95F141F0A5305D2E565320E",
+   "region": "Japan",
+   "file": "BS Zelda no Densetsu - Inishie no Sekiban - Dai-2-wa (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

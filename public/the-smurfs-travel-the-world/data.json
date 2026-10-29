@@ -32,6 +32,15 @@
  "languages": [
   "English, German, Spanish, French"
  ],
+ "roms": [
+  {
+   "crc32": "22947169",
+   "md5": "5E2C747B0B106DF325E3D5904DB66615",
+   "sha1": "6432F7E6F98417F78D30CF31252F4ACFF9089622",
+   "region": "Europe",
+   "file": "Smurfs Travel the World, The (Europe) (En,Fr,De,Es).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

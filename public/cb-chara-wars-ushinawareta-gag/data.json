@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "85AC87D5",
+   "md5": "7C8BC64800FEC80DC54375BAB4CFB9AF",
+   "sha1": "D25E9D47FC1E7E8E3471B594BE4DF26DDA6CC52E",
+   "region": "Japan",
+   "file": "CB Chara Wars - Ushinawareta Gag (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

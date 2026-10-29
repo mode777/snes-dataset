@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F5A2683E",
+   "md5": "893173A2BCF0BAB81D7A174F96260B2F",
+   "sha1": "4DC95D843CC086CF2A2BBE92C49289B14DD6D2B7",
+   "region": "Japan",
+   "file": "BS Zelda no Densetsu - Dai-3-wa (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

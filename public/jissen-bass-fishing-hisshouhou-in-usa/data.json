@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "82BA9020",
+   "md5": "97EFA9822CA3EBD28DFD77B8618C7D3F",
+   "sha1": "76648400A40D26DA22236EEF236D8DEB86708BF2",
+   "region": "Japan",
+   "file": "Jissen Bass Fishing Hisshouhou in USA (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

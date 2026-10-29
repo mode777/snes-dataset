@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3CFE77AB",
+   "md5": "E2B833084A3016313B61E113828F0B18",
+   "sha1": "14FC687B5A8437EC0B3515C4D46AED579A8EF58B",
+   "region": "USA",
+   "file": "Smart Ball (USA).sfc"
+  }
+ ],
  "gf_score": 3.26,
  "metascore": null,
  "cover_urls": [

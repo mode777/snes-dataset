@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8F44FFF9",
+   "md5": "0C7569C7858AB033A5120C47EA134DDB",
+   "sha1": "679AA3BDEEDB9F68ECB8AB944BDA817742D82688",
+   "region": "Japan",
+   "file": "Yumemaboroshi no Gotoku (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

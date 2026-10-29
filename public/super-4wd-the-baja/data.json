@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C6B67138",
+   "md5": "746DF6E617BC508C1709AD31F7F68313",
+   "sha1": "86605910B74E6F8CC7EF824795CF2657903568A9",
+   "region": "Japan",
+   "file": "Super 4WD - The Baja (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "56C05339",
+   "md5": "089A633C541CAF3FC7C48FAE9FBFC8FF",
+   "sha1": "A77A297FC858CD78B7219DBF83A9934FE3ECCC7F",
+   "region": "Japan",
+   "file": "Shodai Nekketsu Kouha Kunio-kun (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

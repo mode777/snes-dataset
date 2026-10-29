@@ -32,6 +32,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "283A57AA",
+   "md5": "D356548BA230A119ED41EA3A4272CDDC",
+   "sha1": "C2D44E901C8BA85A1433E4D423389565C8B73EF9",
+   "region": "USA",
+   "file": "Fighter's History (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "10751E4F",
+   "md5": "CC9BAB1CDBD27348CB591C3B88BAFCC6",
+   "sha1": "CED5125ED753D0729923AC2967F7FAF21F3E0032",
+   "region": "Japan",
+   "file": "Fighter's History (Japan).sfc"
+  },
+  {
+   "crc32": "3D17F6EA",
+   "md5": "4181E243AE146D471DC5C292DCE772AC",
+   "sha1": "10F7BB5592E128CC17C5C2A564F6C681785227ED",
+   "region": "USA",
+   "file": "Fighter's History (USA) (Rev 1).sfc"
+  }
+ ],
  "gf_score": 3.31,
  "metascore": null,
  "cover_urls": [

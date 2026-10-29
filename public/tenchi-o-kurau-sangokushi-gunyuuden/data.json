@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4740C9E4",
+   "md5": "81E3D2DBADBB7E886CEBB9FF2F8F8064",
+   "sha1": "5BDC878EC9346B285FE0707F85C9013D2AAC9B4A",
+   "region": "Japan",
+   "file": "Tenchi o Kurau - Sangokushi Gunyuuden (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "53B843F3",
+   "md5": "6FF4E2AA7182DFEA739681B7AE615CE7",
+   "sha1": "15CE8B3AA3ADA7BAF9576C7585B60EA5CFA536C5",
+   "region": "Japan",
+   "file": "Sousa Sentai Wappers - Soushuuhen (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

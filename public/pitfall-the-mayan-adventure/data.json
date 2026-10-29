@@ -33,6 +33,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "03E67D38",
+   "md5": "02CAE4C360567CD228E4DC951BE6CB85",
+   "sha1": "B8E36F4AFDFC0040DCDE346291E1CE46D8718667",
+   "region": "USA",
+   "file": "Pitfall - The Mayan Adventure (USA).sfc"
+  },
+  {
+   "crc32": "7E9BC944",
+   "md5": "6AFD4437A7B62528E0FFF7A5BDA5EF92",
+   "sha1": "634B545E4CCACCC454A2E9EB256A8E96B4E75BB7",
+   "region": "Europe",
+   "file": "Pitfall - The Mayan Adventure (Europe).sfc"
+  },
+  {
+   "crc32": "B10B8804",
+   "md5": "B73DAADFC30192A980817394831328C0",
+   "sha1": "85B4F1C3013C34E4127AD8054B58E706E890F3F4",
+   "region": "USA",
+   "file": "Pitfall - The Mayan Adventure (USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.4,
  "metascore": 58,
  "cover_urls": [

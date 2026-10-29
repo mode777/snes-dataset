@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "A6AD6B0F",
+   "md5": "83E721806DD5FFAE336E8CAF03C2FC11",
+   "sha1": "ACAEC55441B7D894D33540D905E47E5FB0DACBCC",
+   "region": "Japan",
+   "file": "Super Air Diver 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "5147B442",
+   "md5": "B34B11F1392EA668F56F8A58B8178AA3",
+   "sha1": "3D0FB2C04FDB8E50841A1CFC36C6E3752AF9620C",
+   "region": "Europe",
+   "file": "Troy Aikman NFL Football (Europe).sfc"
+  },
+  {
+   "crc32": "0B26446B",
+   "md5": "71985780A2BF4C752CE95C76708F73BA",
+   "sha1": "40A19E6CB47FCC3AFE5DBC2AFB5967CA99C6F1C9",
+   "region": "USA",
+   "file": "Troy Aikman NFL Football (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

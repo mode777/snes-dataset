@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3ADEF543",
+   "md5": "5D4890ACE4F1ACE435CBE9B74B0B16CD",
+   "sha1": "DF02860E691FBEE453E345DD343C08B6DA08D4EA",
+   "region": "Japan",
+   "file": "Super Donkey Kong (Japan) (Rev 1).sfc"
+  },
+  {
+   "crc32": "50F2D1BC",
+   "md5": "A9B65F074001E139D42E80FA8E8BB023",
+   "sha1": "6F02031B6B50D033958C4923AD05333ED78F22D8",
+   "region": "Japan",
+   "file": "Super Donkey Kong (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

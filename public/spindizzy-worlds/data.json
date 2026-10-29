@@ -32,6 +32,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "4FFDC221",
+   "md5": "038EF30004F4D6FC77576878B1743BF8",
+   "sha1": "38379958EA42E37D2859F006A50E90CE3CC190D4",
+   "region": "Europe",
+   "file": "Spindizzy Worlds (Europe).sfc"
+  },
+  {
+   "crc32": "52B68163",
+   "md5": "4C0FCE9368B807E09DF98F5BBBC047CE",
+   "sha1": "58B4DE4903156B24ABB253B166082DD0D7212E22",
+   "region": "USA",
+   "file": "Spindizzy Worlds (USA).sfc"
+  },
+  {
+   "crc32": "8F5B2404",
+   "md5": "21424083A20B1AE441EFC10E3F6BFB42",
+   "sha1": "0F638CB98399A456C826A66E59E9C3286AEBB644",
+   "region": "Japan",
+   "file": "Spindizzy Worlds (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C5829306",
+   "md5": "09D08C7F6252C64FDD3A39C82667F5F1",
+   "sha1": "85451595F125DCBE6009B9E83A150308ED9A0750",
+   "region": "USA",
+   "file": "Super Goal! 2 (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

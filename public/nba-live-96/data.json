@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "17689C62",
+   "md5": "6E0DC79E19307E6961390553A79AB4CF",
+   "sha1": "DC7EBB56279740557D59BB84C5E7D43A5F4C518D",
+   "region": "Europe",
+   "file": "NBA Live 96 (Europe).sfc"
+  },
+  {
+   "crc32": "042A6495",
+   "md5": "9299BD183EB84D5AE7A3661438002E31",
+   "sha1": "0420A84F44F58B303555BEC641D35AD82FB27840",
+   "region": "USA",
+   "file": "NBA Live 96 (USA).sfc"
+  }
+ ],
  "gf_score": 3.72,
  "metascore": null,
  "cover_urls": [

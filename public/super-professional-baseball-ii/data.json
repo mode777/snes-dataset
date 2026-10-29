@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "29B6A6F0",
+   "md5": "751556F9A4FE02132077E27ADE1D6CB2",
+   "sha1": "0842C859F635E7E30E0515EFCBE624E71CADCFD3",
+   "region": "Japan",
+   "file": "Super Professional Baseball II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "716D3EFF",
+   "md5": "120F97E5855BFE8E31961FBF387E4150",
+   "sha1": "C2103DD94E2A1A65A495FC02ADC2E7D040F31212",
+   "region": "Japan",
+   "file": "Kawa no Nushi Tsuri 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

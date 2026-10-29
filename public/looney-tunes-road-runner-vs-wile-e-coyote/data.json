@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "82399957",
+   "md5": "1F8BC03690AF2A69A618A305702554EA",
+   "sha1": "457B8FADDAED4E8733A067D9C1E33D4F6ABFEB0C",
+   "region": "Japan",
+   "file": "Looney Tunes - Road Runner vs Wile E. Coyote (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1BDEB829",
+   "md5": "960349F543175DF08DDA607101F2C46D",
+   "sha1": "0A5363FB99CA8BB8EFED0BEB8E1CE6577F2D8887",
+   "region": "Japan",
+   "file": "Tadaima Yuusha Boshuuchuu Okawari (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -26,6 +26,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "0E204FBD",
+   "md5": "45E938A3ADDE7DC91968793D115C8057",
+   "sha1": "05BCA9D1097A148D8808028B8D75553DD8B7B972",
+   "region": "USA",
+   "file": "Donkey Kong Country - Competition Cartridge (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

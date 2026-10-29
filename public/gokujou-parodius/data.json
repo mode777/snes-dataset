@@ -31,6 +31,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "04EE98ED",
+   "md5": "D9FA65C567AD9C0E6B8FEF6066E740D8",
+   "sha1": "B3ABA222D356BEFF1443A1B7B95CC90CFF1D60B2",
+   "region": "Japan",
+   "file": "Gokujou Parodius (Japan).sfc"
+  },
+  {
+   "crc32": "56FE0A74",
+   "md5": "5F81087E96854AB14C9B36480E99D200",
+   "sha1": "8A615B7ECDD53D83BE49DDCB8A176CB82E2F3714",
+   "region": "Japan",
+   "file": "Gokujou Parodius (Japan) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.8,
  "metascore": null,
  "cover_urls": [

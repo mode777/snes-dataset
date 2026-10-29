@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "54740B9B",
+   "md5": "9F749083058A08A63CC026542DC3A904",
+   "sha1": "90A418A1D0A65C32EA8945C6496602F0D11514A5",
+   "region": "USA",
+   "file": "Suzuka 8 Hours (USA).sfc"
+  },
+  {
+   "crc32": "B846B00D",
+   "md5": "81CEE1957FA875EFBEDAFF130848BA9E",
+   "sha1": "D110E337A49F6A635236C9BF485759E48411CB69",
+   "region": "Japan",
+   "file": "Suzuka 8 Hours (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

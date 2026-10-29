@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "ADE02A40",
+   "md5": "BDD633E89898384C840EFBB847AF63CD",
+   "sha1": "3C11D009A98F659241698E9B01D3B0429137F5E0",
+   "region": "Japan",
+   "file": "Otoboke Ninja Colosseum (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

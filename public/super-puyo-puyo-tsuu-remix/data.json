@@ -28,6 +28,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "61F903F8",
+   "md5": "0DC4EFAC96B9E965009E9C613913C6F8",
+   "sha1": "009E6EE7228015AE21482B13BD9A40CBB78251F8",
+   "region": "Japan",
+   "file": "Super Puyo Puyo Tsuu Remix (Japan).sfc"
+  },
+  {
+   "crc32": "5FC1FD18",
+   "md5": "169828D7D34BD46FC720D81B233DAE3F",
+   "sha1": "A33D7DD85C0B79865C6C77A6B49694B67614488E",
+   "region": "Japan",
+   "file": "Super Puyo Puyo Tsuu Remix (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

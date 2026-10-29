@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CA99DFCF",
+   "md5": "BBED957B8556B3963FBF06B6B1D7684B",
+   "sha1": "5B4B730288DB1BE39E2D164CC5865DAA56EF83BA",
+   "region": "Japan",
+   "file": "Super Family Gelaende (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

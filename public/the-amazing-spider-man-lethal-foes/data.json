@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "82F7F710",
+   "md5": "43D5D11A37C66A435FED06AA87DBBDFF",
+   "sha1": "94763D6FC3216082E33CAFBECB1E737EF3C5BDA9",
+   "region": "Japan",
+   "file": "Amazing Spider-Man, The - Lethal Foes (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

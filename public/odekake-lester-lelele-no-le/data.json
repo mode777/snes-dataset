@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "8D89A8E8",
+   "md5": "8B915A1115B4B1E0FC588173341EE83A",
+   "sha1": "0EC5E8C1B0FA17301A5B6B335F98552BB3A6D7D2",
+   "region": "Japan",
+   "file": "Odekake Lester - Lelele no Le (^^; (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

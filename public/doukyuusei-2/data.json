@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CA1EB161",
+   "md5": "F48D823CF1C1536910EFA30B5BF3BE0F",
+   "sha1": "F678235B611087A101C10CD6F70F7127F2293A6B",
+   "region": "Japan",
+   "file": "Doukyuusei 2 (Japan) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

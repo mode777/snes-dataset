@@ -18,6 +18,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "4FA380A4",
+   "md5": "8077BFAD626C2FA6C98DD7C5F9D63590",
+   "sha1": "210E88859FE969D0F3BB4264066604CAF9CA4908",
+   "region": "Japan",
+   "file": "King of Rally, The (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

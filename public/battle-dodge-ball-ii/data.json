@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "43D3F2B2",
+   "md5": "4A25E91B235CDC02059BDDD01062FEBA",
+   "sha1": "5F41251EC95D3551348598BD162FBFBEA0F10012",
+   "region": "Japan",
+   "file": "Battle Dodge Ball II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

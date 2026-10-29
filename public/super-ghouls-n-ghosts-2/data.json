@@ -20,6 +20,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A00BC05E",
+   "md5": "18D84019BF24EB0B33221A7236E10D09",
+   "sha1": "353B3651DB0447D5FCFA46D705EF61BBBD6AFAF8",
+   "region": "Europe",
+   "file": "Super Ghouls'n Ghosts (Europe).sfc"
+  },
+  {
+   "crc32": "6AABA901",
+   "md5": "19B2D7A555ECEF4C453A819E67E61574",
+   "sha1": "F12280B13EEA88CA03D700B75CF3C13A0E13F3BC",
+   "region": "USA",
+   "file": "Super Ghouls'n Ghosts (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

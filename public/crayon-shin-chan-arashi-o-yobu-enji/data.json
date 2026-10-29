@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "36C23F9A",
+   "md5": "678218D7E6E1F4721501362D0859A362",
+   "sha1": "CC744DF5F2E06C5CCAF0578033FC1810EE297CBD",
+   "region": "Japan",
+   "file": "Crayon Shin-chan - Arashi o Yobu Enji (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

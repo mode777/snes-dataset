@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "0ADAA9DA",
+   "md5": "C935C0D7AAFB53D86BC519A756695E6F",
+   "sha1": "51C3723214012451280B22CF3CC81B903F0F6BF4",
+   "region": "USA",
+   "file": "Metal Morph (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

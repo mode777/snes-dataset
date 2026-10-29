@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AAF45E59",
+   "md5": "90935F28DBB3056B277F531874658AC2",
+   "sha1": "1B8ECE1B76034AE72C96F06C703007F900509B77",
+   "region": "Japan",
+   "file": "Heiwa Parlor! Mini 8 - Pachinko Jikki Simulation Game (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

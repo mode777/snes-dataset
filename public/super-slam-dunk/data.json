@@ -31,6 +31,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3EFFC9E5",
+   "md5": "A2097E4262ED80FCF22DD99C25AC38BE",
+   "sha1": "40CF03449D3F50C2541A5BA8AEAA8205F553CC4C",
+   "region": "USA",
+   "file": "Super Slam Dunk (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

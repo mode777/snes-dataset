@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "89276C88",
+   "md5": "198A029EB746756A79951004E96C4C86",
+   "sha1": "31CFB40BE76291C33F124B2AC3C0F65F976C8BE7",
+   "region": "Japan",
+   "file": "Kouryuu no Mimi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

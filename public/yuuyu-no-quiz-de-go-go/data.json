@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D7E68D2E",
+   "md5": "A88B23FED024F6B7312B4E317B81D23F",
+   "sha1": "A9FD8DD63CA6488F24ACECEB482A13631122BD6D",
+   "region": "Japan",
+   "file": "Yuuyu no Quiz de Go! Go! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

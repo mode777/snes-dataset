@@ -31,6 +31,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A7E58592",
+   "md5": "E1440114F798FA93234ABD452F0E29B6",
+   "sha1": "28AEC5C8B6B53916BD33721E2B89E9FC054A47ED",
+   "region": "USA",
+   "file": "Stone Protectors (USA).sfc"
+  },
+  {
+   "crc32": "FF47C49E",
+   "md5": "E9353CFD3F7385A462D4FB0B9DE4D48E",
+   "sha1": "F408B6132E88BB9CDCB6FBB7DCB41723F88FE76D",
+   "region": "Japan",
+   "file": "Stone Protectors (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

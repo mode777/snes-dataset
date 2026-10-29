@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "F34B6AA2",
+   "md5": "D8D5E581A14D8E329F82A3A42C606501",
+   "sha1": "2CEDD514C34FB2A4B00C544A17C3137F2394C264",
+   "region": "Japan",
+   "file": "Kagakusha Harley no Haran Banjou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E006D06E",
+   "md5": "934F6DD3EF61D9582BAA3E2CB3F30142",
+   "sha1": "3125D5D0353AEC69C8F76D6AC60CFEDBC60B2C6F",
+   "region": "Japan",
+   "file": "Shuushoku Game (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

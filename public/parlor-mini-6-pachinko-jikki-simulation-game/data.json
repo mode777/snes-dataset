@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "18B6820B",
+   "md5": "44558A455B9B67DEF21556E2FF2B4412",
+   "sha1": "254D7AD50092B0A27386B2F91875B4C650500FBD",
+   "region": "Japan",
+   "file": "Parlor! Mini 6 - Pachinko Jikki Simulation Game (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

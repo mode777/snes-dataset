@@ -27,6 +27,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BB9D8E56",
+   "md5": "A53BEE4978D7C8E13CDEC5151207DE54",
+   "sha1": "EE71384E286F088508A736B7305AD5EFECFBCC1A",
+   "region": "Japan",
+   "file": "Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan).sfc"
+  },
+  {
+   "crc32": "C20720C2",
+   "md5": "19DA7F2058C6A96E3471CA8A65234095",
+   "sha1": "A12C8C8D9056D3096BBB82A0B9E6492EC453DA0A",
+   "region": "Japan",
+   "file": "Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (Rev 2) (NP).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

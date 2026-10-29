@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DFD6385D",
+   "md5": "EF77227B9630CABC3BE072CEB6D71312",
+   "sha1": "D2286C7AB3EB4D76FA50E1A0AF1B51FBC66C85E3",
+   "region": "Japan",
+   "file": "Ghost Chaser Densei (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

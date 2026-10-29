@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DEE271AF",
+   "md5": "0A0EEE2B9E096B8206783D27B93F4DA4",
+   "sha1": "B12ACF4078E2ADE9769B8FEAD71C17A313565D1F",
+   "region": "Japan",
+   "file": "Shanghai III (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

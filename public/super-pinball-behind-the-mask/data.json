@@ -31,6 +31,43 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "008463A0",
+   "md5": "D284DC925876C60491E769A0FFC40210",
+   "sha1": "AD9B9E8BF655CA24BC434080814E9F462D97C238",
+   "region": "USA",
+   "file": "Super Pinball - Behind the Mask (USA) (Rev 1).sfc"
+  },
+  {
+   "crc32": "3BCB5D70",
+   "md5": "7431452F094A12E6BA0AB97DEFF27FD9",
+   "sha1": "702C325E231240E1EDC72251777C64D96E28B185",
+   "region": "Europe",
+   "file": "Super Pinball - Behind the Mask (Europe).sfc"
+  },
+  {
+   "crc32": "4F92F83C",
+   "md5": "65D6D86E9723B71905E956641ABF86C8",
+   "sha1": "59A8052068C23346731BDE2EB160D31C77AC2B92",
+   "region": "Japan",
+   "file": "Super Pinball - Behind the Mask (Japan).sfc"
+  },
+  {
+   "crc32": "352EEB38",
+   "md5": "16CAF7CE5DD51601449E39B307F92008",
+   "sha1": "27EF418F842B086E57466D90D0A15381BB97DCE6",
+   "region": "Japan",
+   "file": "Super Pinball - Behind the Mask (Japan) (Beta).sfc"
+  },
+  {
+   "crc32": "A183192E",
+   "md5": "BBA4B5494FEE0BC353EA691804B4991F",
+   "sha1": "C40F6D44A897683B238F58C42759B822CB2DFE10",
+   "region": "USA",
+   "file": "Super Pinball - Behind the Mask (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

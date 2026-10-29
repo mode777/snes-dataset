@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6CBBD019",
+   "md5": "16177C7D92339627C8CB202425E8D269",
+   "sha1": "844AA24C53C23A4A1CAC94697A33BE06FEF210D4",
+   "region": "Japan",
+   "file": "Shin Nihon Pro Wrestling Kounin - '94 Battlefield in Tokyo Dome (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

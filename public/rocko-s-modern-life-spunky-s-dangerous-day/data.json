@@ -31,6 +31,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "197B4CBA",
+   "md5": "08DD2DF63A638D46AC30C83E1530AE7E",
+   "sha1": "C5051C6DFC40F5894D17E2B757261CD6D75C7DFE",
+   "region": "USA",
+   "file": "Rocko's Modern Life - Spunky's Dangerous Day (USA).sfc"
+  }
+ ],
  "gf_score": 2.54,
  "metascore": null,
  "cover_urls": [

@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "6CDA700C",
+   "md5": "87AD91E3000895BA53956B3BD021717D",
+   "sha1": "A2D04C5F3948CA930D2C0BC4E6F34D62F06A9FA5",
+   "region": "Japan",
+   "file": "Final Fantasy IV - Easy Type (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

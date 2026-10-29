@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0CD0E8D8",
+   "md5": "9ED7F3AFB1104882F36631FB2830C33A",
+   "sha1": "000E0846E4B5514138D435EBBE50B23294FDD921",
+   "region": "Japan",
+   "file": "Yakouchuu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

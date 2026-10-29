@@ -31,6 +31,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5D7CD9C8",
+   "md5": "4E5C42E249462BB673B7D90AC010D38E",
+   "sha1": "5C38F72885832803BA75E204DB56647D1514A959",
+   "region": "Japan",
+   "file": "Jikkyou Powerful Pro Yakyuu 2 (Japan).sfc"
+  },
+  {
+   "crc32": "EE0C54B5",
+   "md5": "763AA15211F03419942E7A230AE051B1",
+   "sha1": "51D854F885125E831399E6BDBC3FF6FC726A120F",
+   "region": "Japan",
+   "file": "Jikkyou Powerful Pro Yakyuu 2 (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

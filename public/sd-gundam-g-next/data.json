@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "845E420D",
+   "md5": "C87F0ED9F204464BB03200CEA5BD290F",
+   "sha1": "356A3D60E9FABFF4B4CEC66277C9A6B717C958CE",
+   "region": "Japan",
+   "file": "SD Gundam G Next (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

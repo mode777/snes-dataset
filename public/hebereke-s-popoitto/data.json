@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0CE626BA",
+   "md5": "DD4524635BE8AB4E73D74179DA5B8416",
+   "sha1": "D7CD0B4F25652664E3AA8389E09C58937E5012FB",
+   "region": "Europe",
+   "file": "Hebereke's Popoitto (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

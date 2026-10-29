@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AF8F4DB9",
+   "md5": "42E9BE5F98BB5ECE06DA79B3DBF26FA9",
+   "sha1": "7830EB36452BB193E1C00188DB8DACB17CB742FA",
+   "region": "Japan",
+   "file": "Wonder Project J - Kikai no Shounen Pino (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

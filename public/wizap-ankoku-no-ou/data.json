@@ -30,6 +30,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "630F8D0D",
+   "md5": "4545954576BA00A92DD8A21E95142B95",
+   "sha1": "B144609C720DF7303BF03D566D28A376DC59B559",
+   "region": "Japan",
+   "file": "Wizap! - Ankoku no Ou (Japan).sfc"
+  },
+  {
+   "crc32": "2CBC2F72",
+   "md5": "5B5559048923CD609E2EA96269B15C86",
+   "sha1": "D0450F09729844188A0A17A2FB9FC365DD0484CC",
+   "region": "Japan",
+   "file": "Wizap! - Ankoku no Ou (Japan) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -37,6 +37,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "8AFE2F91",
+   "md5": "53F35C2E352A75D1BC47339743895DA9",
+   "sha1": "B55FAC176B1DC86D7ACA2E080086184349960C16",
+   "region": "USA",
+   "file": "Demolition Man (USA).sfc"
+  },
+  {
+   "crc32": "31A1B85A",
+   "md5": "2774C68A9A30F491D932319D3A2490DB",
+   "sha1": "C9FAF420D93D4C7EC4872B26A31B15B9E182B330",
+   "region": "Europe",
+   "file": "Demolition Man (Europe).sfc"
+  }
+ ],
  "gf_score": 3.1,
  "metascore": null,
  "cover_urls": [

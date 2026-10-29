@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BBBFF8D8",
+   "md5": "427057A9F665735FD086EFD33A889158",
+   "sha1": "4CB107CBEF4FA5907ED0F2123DE7A475BAD7AA34",
+   "region": "Japan",
+   "file": "Tsuri Tarou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

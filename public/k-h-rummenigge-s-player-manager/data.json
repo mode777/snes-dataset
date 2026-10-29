@@ -31,6 +31,22 @@
  "languages": [
   "German"
  ],
+ "roms": [
+  {
+   "crc32": "17F946C5",
+   "md5": "88965D333F5A8F360E54AEC5CDB19CBC",
+   "sha1": "34127AFEC159AFD719887510E5DEEB753CDD5AF7",
+   "region": "Germany",
+   "file": "K.H. Rummenigge's Player Manager (Germany) (Sample).sfc"
+  },
+  {
+   "crc32": "5E66A52C",
+   "md5": "68C0C9314301B238B033F62D34E3B763",
+   "sha1": "5CB9CAF37BFEDD3FA9B946B0D5C58B49B96F698C",
+   "region": "Germany",
+   "file": "K.H. Rummenigge's Player Manager (Germany).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

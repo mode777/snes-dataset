@@ -21,6 +21,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AD99D806",
+   "md5": "F3865BFB66C7A89975C8390281C4ECF3",
+   "sha1": "4641621E848F02CC0FBF62CD0B387A3810176C35",
+   "region": "Japan",
+   "file": "Emit Vol. 2 - Inochigake no Tabi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

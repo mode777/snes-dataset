@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2839940E",
+   "md5": "47F344FE8BBA64D564F01E5180EA7B97",
+   "sha1": "D091FFCD6D7BD955C700B1B59CDBBC887968F807",
+   "region": "Japan",
+   "file": "Nichibutsu Arcade Classics (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -18,6 +18,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "6A53C658",
+   "md5": "D6338907994390837D6DBB8D3B99563F",
+   "sha1": "95640A8ECFF7A5380C71FD2A4915F22341870769",
+   "region": "Europe",
+   "file": "Apocalypse II (Europe) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

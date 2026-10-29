@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "26FB2D11",
+   "md5": "698EC39014F45D1ECEA6ECC7D5223664",
+   "sha1": "AD0C13270E27191AF69CB30F5710159422E8E836",
+   "region": "Japan",
+   "file": "Go Go Ackman (Japan).sfc"
+  }
+ ],
  "gf_score": 3.57,
  "metascore": null,
  "cover_urls": [

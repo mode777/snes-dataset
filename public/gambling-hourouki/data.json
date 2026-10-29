@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "43B2590D",
+   "md5": "ADBAEFD252475BEA6E3B58094F5A5347",
+   "sha1": "EC5D508FC120897DA8D704A3D617C59E94D3B78C",
+   "region": "Japan",
+   "file": "Gambling Hourouki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

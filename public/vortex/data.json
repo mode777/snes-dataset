@@ -36,6 +36,29 @@
  "languages": [
   "English, Spanish, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C6867604",
+   "md5": "142E09E60A279244E99FDEF1AE9E7DC4",
+   "sha1": "92DABA15D422654C29C01457B572C07F06A2C1BC",
+   "region": "Europe",
+   "file": "Vortex (Europe) (En,Es).sfc"
+  },
+  {
+   "crc32": "51E8A19C",
+   "md5": "D4D3D11D99169713B8E43E51F4A21D10",
+   "sha1": "1479432EA185DB8ECB109F6E5422E1464B5BDF3C",
+   "region": "Japan",
+   "file": "Vortex (Japan) (En,Ja).sfc"
+  },
+  {
+   "crc32": "31B1AD00",
+   "md5": "C4A6EB75ED7C81D92D298CA0FE591921",
+   "sha1": "3A71B63605DDECF827D60554C2DDACCDD85B9624",
+   "region": "USA",
+   "file": "Vortex (USA) (En,Es).sfc"
+  }
+ ],
  "gf_score": 2.94,
  "metascore": null,
  "cover_urls": [

@@ -34,6 +34,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BC671E15",
+   "md5": "3FD137462F559063672F66FCBDC38329",
+   "sha1": "549966C7960CEEAC332C7B4512761BB26483D29F",
+   "region": "USA",
+   "file": "Chessmaster, The (USA).sfc"
+  },
+  {
+   "crc32": "15C93942",
+   "md5": "A53044F9B786003813F175948EA7A69E",
+   "sha1": "0DD9487159B0DBE8D29EFB6D5EC218B90651E071",
+   "region": "Japan",
+   "file": "Chessmaster, The (Japan).sfc"
+  },
+  {
+   "crc32": "D84BDFD5",
+   "md5": "AC870A1817F2445522B224E3A591AB2D",
+   "sha1": "24AC8DAF2FAE3A61EA833252A1C9AD0C41B63B5A",
+   "region": "Europe",
+   "file": "Chessmaster, The (Europe).sfc"
+  }
+ ],
  "gf_score": 2.85,
  "metascore": null,
  "cover_urls": [

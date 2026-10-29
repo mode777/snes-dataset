@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "BB95BC9F",
+   "md5": "3622F0ADDEC34C601C18D9E65C422995",
+   "sha1": "EA0D895A6830DF5195F489BFDA0727C44FFC2C2C",
+   "region": "Japan",
+   "file": "Makeruna! Makendou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

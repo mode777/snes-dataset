@@ -34,6 +34,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "227FBE4D",
+   "md5": "08E70B3F81B56955744A2507822E5004",
+   "sha1": "518BCD8E3B2E7330D90810744CAF5F115CA83C55",
+   "region": "USA",
+   "file": "Primal Rage (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "3753E4B6",
+   "md5": "47F27BC77E03BC1CCBFAED4DD9C668B9",
+   "sha1": "F439B57C0B80A36EA1179A1FF5A997A2725B495D",
+   "region": "USA",
+   "file": "Primal Rage (USA).sfc"
+  },
+  {
+   "crc32": "75EEF329",
+   "md5": "113E1140E2A8AB346E481857D74ECBD8",
+   "sha1": "CA1779D7C1D2B6B36662D11EA54A60AFE25A27A9",
+   "region": "Europe",
+   "file": "Primal Rage (Europe).sfc"
+  }
+ ],
  "gf_score": 2.98,
  "metascore": null,
  "cover_urls": [

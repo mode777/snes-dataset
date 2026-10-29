@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "FB8ED6AA",
+   "md5": "06FE8E06962D2AF8999754E7DEB848D2",
+   "sha1": "20AAEC8AC9CB64B1C406CB2F7DE698BB2EC33611",
+   "region": "Japan",
+   "file": "Big Ichigeki! Pachi-Slot Daikouryaku (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -32,6 +32,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "D5CE2DB5",
+   "md5": "8368318EEAB856695F8C49B4C204C64E",
+   "sha1": "ECEEB210A3DF9B53697AD25332A72019E875698D",
+   "region": "USA",
+   "file": "Wizard of Oz, The (USA).sfc"
+  }
+ ],
  "gf_score": 1.61,
  "metascore": null,
  "cover_urls": [

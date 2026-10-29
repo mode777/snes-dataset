@@ -38,6 +38,43 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "51E3D566",
+   "md5": "ECF0DB12F88DB32C4A129FF11AF7F73D",
+   "sha1": "10FCF1268CF9BC53E7815C843EA506A77D5E1A9E",
+   "region": "USA",
+   "file": "Lemmings (USA) (Rev 1).sfc"
+  },
+  {
+   "crc32": "7F8B51A1",
+   "md5": "283C2E794C1EAE82A31DFAC608E76222",
+   "sha1": "385152EBA550E19A15F691F77F7880BF359EC209",
+   "region": "USA",
+   "file": "Lemmings (USA).sfc"
+  },
+  {
+   "crc32": "13027564",
+   "md5": "AFF500AE36D63BB253FD36E8300CC812",
+   "sha1": "0B281F6D4EB20B9D35958792968E1EBDB502477D",
+   "region": "Japan",
+   "file": "Lemmings (Japan).sfc"
+  },
+  {
+   "crc32": "AEBADCEF",
+   "md5": "A702074D3315BBC5081ECCBA932ECAD1",
+   "sha1": "781C944F1AD7624AF24AF24991D8FAF570C2F6CF",
+   "region": "Europe",
+   "file": "Lemmings (Europe).sfc"
+  },
+  {
+   "crc32": "25E19B04",
+   "md5": "644C8FD1471B348C05DEFF0DB4E0AA7E",
+   "sha1": "16D31B379D3AA212B9B0D2235B41E85C35AAD7BC",
+   "region": "Japan",
+   "file": "Lemmings (Japan) (En) (BS).sfc"
+  }
+ ],
  "gf_score": 3.52,
  "metascore": null,
  "cover_urls": [

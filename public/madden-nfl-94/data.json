@@ -33,6 +33,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8BED5914",
+   "md5": "DE29C57948C9E53B1B4E1CA9ABA5B3EB",
+   "sha1": "2958443668CF1B0EAA620A32889297C6CDB886E6",
+   "region": "USA",
+   "file": "Madden NFL '94 (USA).sfc"
+  },
+  {
+   "crc32": "A7D31544",
+   "md5": "C2FC84A296E192FF1C7119D0CD1A165A",
+   "sha1": "B5090344070E9E60BDD27CC928B5C6998735487E",
+   "region": "Europe",
+   "file": "Madden NFL '94 (Europe).sfc"
+  }
+ ],
  "gf_score": 3.18,
  "metascore": null,
  "cover_urls": [

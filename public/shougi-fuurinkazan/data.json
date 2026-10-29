@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3D456EED",
+   "md5": "04EED5A54F16A1E182D7D2E64735E18D",
+   "sha1": "BF3CBC5E9B9DE31E262EC7A3B889344EC0E329A8",
+   "region": "Japan",
+   "file": "Shougi Fuurinkazan (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

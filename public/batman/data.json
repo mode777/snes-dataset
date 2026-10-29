@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9BAE4220",
+   "md5": "70E013CDB4E0C2F39A7F1DF83A697DDF",
+   "sha1": "DB0191F23613E74B72FDC113B013501EDBBE6311",
+   "region": "USA",
+   "file": "Batman (USA) (Proto) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

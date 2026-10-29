@@ -19,6 +19,22 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "00F67BA2",
+   "md5": "6B06F156CA732B21FD8C7960E9634E90",
+   "sha1": "9A1B37955E5A8B01A40B0DC35454D4FB9F99F34F",
+   "region": "USA",
+   "file": "Fireteam Rogue (USA) (Proto).sfc"
+  },
+  {
+   "crc32": "4F659FD5",
+   "md5": "9A742DA05B50914F9F3C0AE64A877F28",
+   "sha1": "7692442F132A67E44B6842C0C97362A624453BF8",
+   "region": "USA",
+   "file": "Fireteam Rogue (USA) (Proto) (Alt 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "64034B07",
+   "md5": "DB9465E77AC9B8A496D0039031C9D446",
+   "sha1": "1F3EC78D4648EA535027CDEFDE63429A193D25FD",
+   "region": "Japan",
+   "file": "Cyber Knight (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

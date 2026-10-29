@@ -34,6 +34,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "87E4476D",
+   "md5": "C2259A02049FDC4EA05A0B8D98989DF6",
+   "sha1": "43BE07A1EDA1563E99343BB6B349E251B576B69D",
+   "region": "Japan",
+   "file": "SD Gundam - Power Formation Puzzle (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

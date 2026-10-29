@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "323C6265",
+   "md5": "24B91E03BFE2A296A603859FC416D979",
+   "sha1": "43745F23D0E8A42C68F36C318894CAB143BC3AAE",
+   "region": "Japan",
+   "file": "Super Shougi 3 - Kitaihei (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

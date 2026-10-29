@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A644416F",
+   "md5": "12A8B93C8E3BC5E62C63D6572E014F10",
+   "sha1": "92B62361D59AEF006859FA574F27C8F1DE523F1C",
+   "region": "Japan",
+   "file": "Super Nobunaga no Yabou - Zenkoku Ban (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

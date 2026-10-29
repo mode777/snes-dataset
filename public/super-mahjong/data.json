@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "3DF04E29",
+   "md5": "4A21F638FEB157CF2A0A31F2855D1763",
+   "sha1": "744AE1BBDE661C8F3F64C7AF5433FB2901B63499",
+   "region": "Japan",
+   "file": "Super Mahjong (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

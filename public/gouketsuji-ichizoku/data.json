@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "BAF084EE",
+   "md5": "3F5A432EF53DAF9DD40D9E4DF49BF2D2",
+   "sha1": "C5A147BB91A09A8F5273B7E5A1008888888782DE",
+   "region": "Japan",
+   "file": "Gouketsuji Ichizoku (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

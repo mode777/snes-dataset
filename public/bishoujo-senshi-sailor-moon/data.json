@@ -19,6 +19,15 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "A56323C1",
+   "md5": "6C6E750E419D6C3DB27A708D240D32B1",
+   "sha1": "330844563DB7D208D57BC2BB95C7FBC0A830EFF5",
+   "region": "Japan",
+   "file": "Bishoujo Senshi Sailor Moon (Japan).sfc"
+  }
+ ],
  "gf_score": 3.52,
  "metascore": null,
  "cover_urls": [

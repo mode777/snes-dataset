@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C1CBA41C",
+   "md5": "49B4C754CEC46429E225E31F196C4149",
+   "sha1": "A05B026F77FB88653440AF2D9EBA936B0F9910E1",
+   "region": "Japan",
+   "file": "Pro Yakyuu Star (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

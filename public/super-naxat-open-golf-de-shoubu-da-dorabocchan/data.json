@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "86AA8A10",
+   "md5": "9A111E14CC660863EF994FC5D01A803A",
+   "sha1": "B6CBED12C3CDEFF1E85023BF9CDEF47CD70D7195",
+   "region": "Japan",
+   "file": "Super Naxat Open - Golf de Shoubu da Dorabocchan (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

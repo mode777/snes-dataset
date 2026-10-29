@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0C552B1F",
+   "md5": "8C7DFC3DC5D13B145FC116DBCB84521B",
+   "sha1": "3754284F915C5E7281E1412B932B7BA876F05348",
+   "region": "Japan",
+   "file": "Ranma 1-2 - Chougi Ranbu Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

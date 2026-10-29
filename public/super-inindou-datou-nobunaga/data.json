@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "7BC8CD39",
+   "md5": "CDAD88EDAFA0B214766A8304C51E772C",
+   "sha1": "9720C92C6F7F3B73B2FF2A585015E03523938588",
+   "region": "Japan",
+   "file": "Super Inindou - Datou Nobunaga (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

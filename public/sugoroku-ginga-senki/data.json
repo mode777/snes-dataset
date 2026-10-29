@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EA0C55BC",
+   "md5": "17F613982CDD4E7DE67BB0D95AE4653D",
+   "sha1": "5B6D7D0847C93FD9A2FEE9759516C69269124319",
+   "region": "Japan",
+   "file": "Sugoroku Ginga Senki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

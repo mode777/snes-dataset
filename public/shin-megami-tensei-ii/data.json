@@ -30,6 +30,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E38228A7",
+   "md5": "CCA92F7CC9D7ABA76B457883553FF497",
+   "sha1": "84BB8A37B2575762D825D820D76175071BEE1CA2",
+   "region": "Japan",
+   "file": "Shin Megami Tensei II (Japan) (Rev 2).sfc"
+  },
+  {
+   "crc32": "20D31588",
+   "md5": "93AB63E78F764C5EBCA21CBF706857BA",
+   "sha1": "C87207BB39EDEE9009A97D6CB0A8026DF668D6B8",
+   "region": "Japan",
+   "file": "Shin Megami Tensei II (Japan).sfc"
+  }
+ ],
  "gf_score": 3.77,
  "metascore": null,
  "cover_urls": [

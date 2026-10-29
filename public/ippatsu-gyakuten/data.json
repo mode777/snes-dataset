@@ -19,6 +19,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "05A9FDE8",
+   "md5": "0A481DBDE3F3E633C30B77E4EF059EF4",
+   "sha1": "3DAA32C796106FFCF2A853314DA485A72A3812B7",
+   "region": "Japan",
+   "file": "Ippatsu Gyakuten (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

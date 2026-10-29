@@ -35,6 +35,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "D71E6C3B",
+   "md5": "44EA32A5A4E5600282A16B094641CE07",
+   "sha1": "402723FF8E42DFE3139ECB792BD53F225BEEB103",
+   "region": "USA",
+   "file": "Terminator, The (USA).sfc"
+  },
+  {
+   "crc32": "151109F6",
+   "md5": "B82A150B3DD309D694DB9E19F4C50D86",
+   "sha1": "EF023929960059C5C9E9B4D83A8F94F2EF38F331",
+   "region": "Europe",
+   "file": "Terminator, The (Europe).sfc"
+  },
+  {
+   "crc32": "6C853888",
+   "md5": "C8AD08A7E8127E5374C7A76215236777",
+   "sha1": "2D88C410FE09D0D7D06ADB64E58949B1F19BD165",
+   "region": "Europe",
+   "file": "Terminator, The (Europe) (Beta).sfc"
+  }
+ ],
  "gf_score": 2.59,
  "metascore": null,
  "cover_urls": [

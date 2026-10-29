@@ -21,6 +21,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "066687CA",
+   "md5": "A51048FF587FF8F58C9B25BCF5DE6D5E",
+   "sha1": "8AA2EE03FE40F289E30723A1C8CD4564481BDFDF",
+   "region": "World",
+   "file": "Tekken 2 (World) (Unl).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

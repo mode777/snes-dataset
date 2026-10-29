@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "205654DD",
+   "md5": "AC85C4F7A23EB02B87A9900E6538B84C",
+   "sha1": "2C22101DA2554753951EF5AB9EB258B9696691A5",
+   "region": "USA",
+   "file": "Batman - Revenge of the Joker (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

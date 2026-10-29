@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C0AECDCA",
+   "md5": "E2C3CC007C2C1C358BFE50EAD5C8B9AC",
+   "sha1": "6710686B5A3D6620DF9FD6A5820E1717AFFF2D95",
+   "region": "Japan",
+   "file": "Shin Kidou Senki Gundam W - Endless Duel (Japan).sfc"
+  }
+ ],
  "gf_score": 4.05,
  "metascore": null,
  "cover_urls": [

@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0E3EE9B3",
+   "md5": "3561D8252459E3296DE17E81F1C00D35",
+   "sha1": "6883FCB295C22D26AAFCD90F7EABF2C3F4162123",
+   "region": "Japan",
+   "file": "Final Fight Tough (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

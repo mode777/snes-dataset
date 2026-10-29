@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1608EA1A",
+   "md5": "A36BF7F4DAABCC33117652056E160777",
+   "sha1": "ECEF210E73553F314C30F8234D8EE1D9D72000C3",
+   "region": "Japan",
+   "file": "F-1 Grand Prix (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

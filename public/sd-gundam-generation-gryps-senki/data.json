@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "48ECAE44",
+   "md5": "3BF7FD80B609BEB19FD4C40B65F9224C",
+   "sha1": "F280004DD92B70B1BF4518E054B4181A9BBBA245",
+   "region": "Japan",
+   "file": "SD Gundam Generation - Gryps Senki (Japan) (ST).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

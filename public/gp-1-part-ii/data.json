@@ -31,6 +31,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A9014E12",
+   "md5": "F7C3B2A7B3B386AD908C2A3169176400",
+   "sha1": "A1D2008E1BA0126A7BD4330ADD368E2C8A552228",
+   "region": "USA",
+   "file": "GP-1 - Part II (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

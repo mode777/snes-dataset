@@ -21,6 +21,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B035EC54",
+   "md5": "9311670CA6BC4470D66DFDB1E60D0EBF",
+   "sha1": "63099652C7601ADDE3BFB3A700D7394ED40250C3",
+   "region": "Japan",
+   "file": "Hiryuu no Ken S - Hyper Version (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

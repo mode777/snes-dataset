@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CC306F93",
+   "md5": "BC10993BE1A9AEA75D6ED60A974AF5F2",
+   "sha1": "7A5148CC2029CE786D9D4AE62BE3A1F2784E6A46",
+   "region": "Japan",
+   "file": "Super Casino 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

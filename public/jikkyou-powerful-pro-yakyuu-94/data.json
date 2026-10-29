@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A4374771",
+   "md5": "899897245590A8F4EC212ECB7D3D6D91",
+   "sha1": "955B28BDE4A64916CF0499A994098D08BCBDD3DE",
+   "region": "Japan",
+   "file": "Jikkyou Powerful Pro Yakyuu '94 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

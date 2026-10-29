@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E949D47F",
+   "md5": "0F3C8410C9852EDA44301B98B750C4F0",
+   "sha1": "5CE834EACA982791916C10DF4F40E3214A0D976C",
+   "region": "Japan",
+   "file": "Uchuu Race - Astro Go! Go! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

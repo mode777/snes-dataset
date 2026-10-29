@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "6D8D580D",
+   "md5": "8390060497FA77EFFF7C1B2FB2AC1CA4",
+   "sha1": "C44DA4F2051A08E735F2265D495AFE90E8859348",
+   "region": "Japan",
+   "file": "Septentrion (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

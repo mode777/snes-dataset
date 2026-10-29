@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AD4AD163",
+   "md5": "7E55EE60AA3F1E37F7A7A006201EC035",
+   "sha1": "B6214C20D83D70F6F83A79F4496486E30F424E17",
+   "region": "Japan",
+   "file": "3x3 Eyes - Juuma Houkan (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B3BE5F84",
+   "md5": "D3EF866911B940592BE828BCEC5B7321",
+   "sha1": "A0AD63AB4A262B728E0FAA0E5749423CD6AA3D9C",
+   "region": "Japan",
+   "file": "SM Choukyoushi Hitomi Vol. 3 - Test Version (Japan) (Unl) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -17,6 +17,22 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "7FC1AA92",
+   "md5": "25A90E6090DE6309BEB46C330A1CE8D4",
+   "sha1": "A91B3E5342D29EC124ABCA0CBD53719D764218B4",
+   "region": "Japan",
+   "file": "JRA PAT (Japan) (TJBJ).sfc"
+  },
+  {
+   "crc32": "355147C2",
+   "md5": "597A48AA0A7B0A27E8DA856DC4C4E772",
+   "sha1": "14180468CD13176D24FC3596505CDD8FA5DAEBBB",
+   "region": "Japan",
+   "file": "JRA PAT (Japan) (TJAJ).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

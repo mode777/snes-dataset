@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2D0F0F92",
+   "md5": "7DF91FAD1D3FFC4C2E828EE03BA30A40",
+   "sha1": "2996C6BAF96A0DFE33CD3BD8442993C1FF95AD25",
+   "region": "Japan",
+   "file": "Matsukata Hiroki no Super Trawling (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

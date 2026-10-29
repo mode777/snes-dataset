@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "67405D44",
+   "md5": "C03DDB0627A5D9AE94FD579B40295BEA",
+   "sha1": "97B7A5CC6C7745D938E8DE6BB1D5AC89E8EB87CF",
+   "region": "USA",
+   "file": "RHI Roller Hockey '95 (USA) (Proto).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

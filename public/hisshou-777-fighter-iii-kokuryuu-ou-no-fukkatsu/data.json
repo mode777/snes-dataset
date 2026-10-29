@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C386FC22",
+   "md5": "E4274B2260BD806865BAAB57648841C4",
+   "sha1": "82AC09B5407142CF8CC1EAE22B8A10FD01C00A96",
+   "region": "Japan",
+   "file": "Hisshou 777 Fighter III - Kokuryuu Ou no Fukkatsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

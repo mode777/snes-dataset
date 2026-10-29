@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BA2DD0BC",
+   "md5": "C5C42BD54048EB34DBF9838542F429BA",
+   "sha1": "D4EFFE660F342DD4B449041C54BED6C0FA467337",
+   "region": "Japan",
+   "file": "Pachi-Slot Land - Pachipachi Coin no Densetsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

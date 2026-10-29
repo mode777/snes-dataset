@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "94EAE7E4",
+   "md5": "88B5F1A795FCBD1BD5E7EEA8F795BF9D",
+   "sha1": "A41F878DFB852724E0CABE6ED4CFF73CB81AABB9",
+   "region": "Europe",
+   "file": "Wayne's World (Europe).sfc"
+  },
+  {
+   "crc32": "0D426A15",
+   "md5": "45A4BCA91F659B9020D9F69FAF53AE23",
+   "sha1": "0681D155D6BA4C315AFBB52FBB3B7C053A0935FF",
+   "region": "USA",
+   "file": "Wayne's World (USA).sfc"
+  }
+ ],
  "gf_score": 1.32,
  "metascore": null,
  "cover_urls": [

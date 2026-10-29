@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "41DFFE15",
+   "md5": "27FC4CF85DE77300AFEDD1DE0921D911",
+   "sha1": "E8B09C0B20734C95D843BBD1E8A41B3400FB26C5",
+   "region": "Japan",
+   "file": "Nomark Baku Haitou - Shijou Saikyou no Janshi-tachi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

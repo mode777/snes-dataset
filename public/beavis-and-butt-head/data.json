@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "F77F160B",
+   "md5": "1B1775B0C5EF12D213253D5A8641D141",
+   "sha1": "E026A63EE8D32A90D723A8DF8A2D8FEBFDF1381E",
+   "region": "Europe",
+   "file": "Beavis and Butt-Head (Europe).sfc"
+  },
+  {
+   "crc32": "15CF4BD5",
+   "md5": "4F5421F540A109EA5D818C0AF87F2EA8",
+   "sha1": "00F649F44816FF432EE2B29D7290F2E9544857B5",
+   "region": "USA",
+   "file": "Beavis and Butt-Head (USA).sfc"
+  }
+ ],
  "gf_score": 2.8,
  "metascore": null,
  "cover_urls": [

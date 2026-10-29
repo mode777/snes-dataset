@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9932FA99",
+   "md5": "E96DDC274B009E061CD0D579EB7BE987",
+   "sha1": "0BDDC92C8AC5028D732C2104D67AFE587D9E4908",
+   "region": "Japan",
+   "file": "Yokoyama Mitsuteru Sangokushi 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

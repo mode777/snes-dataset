@@ -30,6 +30,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "266B220E",
+   "md5": "E892B0B0E2D58BD74ABB1A730F7552F6",
+   "sha1": "6D93DA7773B2C121BC4E7A3EDC38F29F546455E2",
+   "region": "Europe",
+   "file": "Mario Paint (Europe).sfc"
+  },
+  {
+   "crc32": "38C9626C",
+   "md5": "881D3772A3EB37A8A0FB254E940C6767",
+   "sha1": "D027C03EB2FAEFA07640EC828B2A46F601F7B15F",
+   "region": "Japan, USA",
+   "file": "Mario Paint (Japan, USA).sfc"
+  },
+  {
+   "crc32": "8B6BEDAD",
+   "md5": "85B259000A1DBE674AF2F5459F13E4B8",
+   "sha1": "2FC04EA945DC574520ADB9C2D62B0E5A6AC9201B",
+   "region": "Japan, USA",
+   "file": "Mario Paint (Japan, USA) (Beta).sfc"
+  }
+ ],
  "gf_score": 3.65,
  "metascore": null,
  "cover_urls": [

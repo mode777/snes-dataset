@@ -34,6 +34,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "64EDFC5D",
+   "md5": "04694122095A5BF98965C57DE25C1FA3",
+   "sha1": "2AE53E498FF0B66C49CFEDEBDBBCD679E804058C",
+   "region": "Europe",
+   "file": "Sunset Riders (Europe).sfc"
+  },
+  {
+   "crc32": "52ADA404",
+   "md5": "1E1B47D5E5B0D9FAA5447273A52FC6EA",
+   "sha1": "50F0D77323A5967AA329C72E7A2D926ED158F667",
+   "region": "USA",
+   "file": "Sunset Riders (USA).sfc"
+  }
+ ],
  "gf_score": 4.0,
  "metascore": null,
  "cover_urls": [

@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "96717F64",
+   "md5": "71CB6C17808D9F8BABBBFAA37DC6F1DC",
+   "sha1": "5E8579A473865A8047A84E92035276CD709F638F",
+   "region": "Japan",
+   "file": "Militia (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

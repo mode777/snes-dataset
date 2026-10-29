@@ -35,6 +35,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "26664BB4",
+   "md5": "869BB5B70154ACE0F8C3A3C763CE5B18",
+   "sha1": "7D017B19FEF59E6D583C8DE95314C5495D36DEFC",
+   "region": "Japan",
+   "file": "J.League Super Soccer '95 - Jikkyou Stadium (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

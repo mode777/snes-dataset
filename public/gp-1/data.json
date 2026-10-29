@@ -34,6 +34,29 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "14BBC357",
+   "md5": "757036FAF4F3403A88C7AC1191AD5E47",
+   "sha1": "19B58FC1B180D31ACD90A72DD4486DDD4DDD6135",
+   "region": "USA",
+   "file": "GP-1 (USA).sfc"
+  },
+  {
+   "crc32": "1895299C",
+   "md5": "3F110D28949C912994CF925A3F5EA327",
+   "sha1": "F52F4A8831F78F9E1ABD4157BFE49B1A2D4BE8EE",
+   "region": "Japan",
+   "file": "GP-1 (Japan).sfc"
+  },
+  {
+   "crc32": "D013316B",
+   "md5": "A9EB00D00A4E94D79BAF284C780241BB",
+   "sha1": "243E6989E86048BCD2675434B9B7E36433B39BF5",
+   "region": "Europe",
+   "file": "GP-1 (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

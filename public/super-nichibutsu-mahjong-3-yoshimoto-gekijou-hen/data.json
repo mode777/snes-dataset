@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0C8779B3",
+   "md5": "1BE18EF6D5E5F32CD9994C99C65D7B0A",
+   "sha1": "B3CFEE0771061CA5DD1124F66CFEC9A196CD0BE9",
+   "region": "Japan",
+   "file": "Super Nichibutsu Mahjong 3 - Yoshimoto Gekijou Hen (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E20870EE",
+   "md5": "7C5346FDE52D1524DF151CED0A7A9B44",
+   "sha1": "2B91726AD2A25147A0E9B8FBACC6EBB670B2648D",
+   "region": "Japan",
+   "file": "RPG Tsukuru - Super Dante (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

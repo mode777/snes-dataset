@@ -39,6 +39,22 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "63A8E2C6",
+   "md5": "D83699A009A62480A7E7E9F1BB5BFF6E",
+   "sha1": "5B99127CB3C60C5EBCE11D9B91BD09914EBC53F2",
+   "region": "USA",
+   "file": "Super Bomberman (USA).sfc"
+  },
+  {
+   "crc32": "678501F2",
+   "md5": "DDEE4DDFF2F3B6E31B8F73D0CB597EF1",
+   "sha1": "82EA3A8A5A049E5B3813B884F2E8B8DBB585F065",
+   "region": "Europe",
+   "file": "Super Bomberman (Europe).sfc"
+  }
+ ],
  "gf_score": 3.74,
  "metascore": null,
  "cover_urls": [

@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DDA56921",
+   "md5": "D036603E5F9696BC4970E3BCB15C8B74",
+   "sha1": "8F746B8ACDA8FA29D85C7B90A4E64B58552176A9",
+   "region": "Japan",
+   "file": "Yokozuna Monogatari (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

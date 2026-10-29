@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1919BAFF",
+   "md5": "4810FBCDE1039C3F3DC674C08DC8017E",
+   "sha1": "E52E1D8C8825D52C9FA65A39C3B28F83D1DF59AE",
+   "region": "USA",
+   "file": "Nolan Ryan's Baseball (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

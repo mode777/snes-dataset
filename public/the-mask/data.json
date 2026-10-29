@@ -35,6 +35,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "CF727F64",
+   "md5": "C1072B89906E18E04AAC219A83724140",
+   "sha1": "6332FD5519F07AEB88F2442BF61C55CA9D1AB948",
+   "region": "USA",
+   "file": "Mask, The (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "E17626E2",
+   "md5": "C918A40BB2B3F44F3468D6A1BA0A5F88",
+   "sha1": "6831F93EAA478EB87A51E0CAE10F6935730575BB",
+   "region": "USA",
+   "file": "Mask, The (USA).sfc"
+  },
+  {
+   "crc32": "A5F6839A",
+   "md5": "B76D8CC24A6965823B42D546F528730F",
+   "sha1": "3CAC518F5666AB1A2389133CF95B92F78CA22D69",
+   "region": "Europe",
+   "file": "Mask, The (Europe).sfc"
+  }
+ ],
  "gf_score": 3.39,
  "metascore": null,
  "cover_urls": [

@@ -23,6 +23,22 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "BEEBAFA2",
+   "md5": "4ADFA292778A82285D80554EA6ED3497",
+   "sha1": "915550964AC5988D9BCB88DC9F74F8FC5C522903",
+   "region": "USA",
+   "file": "Beethoven - The Ultimate Canine Caper! (USA).sfc"
+  },
+  {
+   "crc32": "4D1352AD",
+   "md5": "76FA6FDC5D0E0A52839D8548301644F1",
+   "sha1": "3B33DFE11D5F964340A278D3E857127F773D2EB9",
+   "region": "Europe",
+   "file": "Beethoven - The Ultimate Canine Caper! (Europe).sfc"
+  }
+ ],
  "gf_score": 2.33,
  "metascore": null,
  "cover_urls": [

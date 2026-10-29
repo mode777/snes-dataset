@@ -31,6 +31,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E2FE5DBF",
+   "md5": "878E95BCA6B94B3FA0E72FEF1867434C",
+   "sha1": "C2460CE4AEDA68F6170BDF9CFA52467B56E15EBF",
+   "region": "USA",
+   "file": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA).sfc"
+  },
+  {
+   "crc32": "63E37D86",
+   "md5": "9E0AB707D7133D78219B75426F3ABC5B",
+   "sha1": "473D222BE60C16287B7585D3D6781717FCDF7B46",
+   "region": "USA",
+   "file": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "580026D9",
+   "md5": "2534450C6CC3BF67B964A28C0502E932",
+   "sha1": "76E9D9827CB8E5C4AFF80C1D01A5E2ACAD33C5B4",
+   "region": "Australia",
+   "file": "Teenage Mutant Ninja Turtles - Tournament Fighters (Australia).sfc"
+  }
+ ],
  "gf_score": 3.56,
  "metascore": null,
  "cover_urls": [

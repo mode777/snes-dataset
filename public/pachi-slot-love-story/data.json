@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8AED15DD",
+   "md5": "A45498E3E5447A4552B574DE99B8D015",
+   "sha1": "95119068CFE5AA37D9607D61692BE9902A9D7FBA",
+   "region": "Japan",
+   "file": "Pachi-Slot Love Story (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

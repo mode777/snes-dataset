@@ -18,6 +18,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D08C05DF",
+   "md5": "330F18B975341A10EE1D36F7A626330C",
+   "sha1": "B0F4468C99A010AFF44AE165893CCA5E4C242771",
+   "region": "USA",
+   "file": "SimAnt - The Electronic Ant Colony (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

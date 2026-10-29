@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EDE4B627",
+   "md5": "C8FD6FB87F202DB2B3DBBCCFE1FDAA24",
+   "sha1": "B0BD7E46C98C1CCF042BE0EA3401445C461B76BD",
+   "region": "Japan",
+   "file": "Magic Knight Rayearth (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

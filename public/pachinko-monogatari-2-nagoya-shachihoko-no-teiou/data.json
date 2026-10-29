@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B8B25F4A",
+   "md5": "9A59B1234E9544D785344C6C140CB261",
+   "sha1": "F3B618EB4AD06A7785345B9203EF79B1A36668D8",
+   "region": "Japan",
+   "file": "Pachinko Monogatari 2 - Nagoya Shachihoko no Teiou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

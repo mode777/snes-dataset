@@ -29,6 +29,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "39CA5291",
+   "md5": "A3D2F5CB1F2D47D6ED7B0DD822E3D13B",
+   "sha1": "C8965FD570D8986C43496A85697A6BEA652A4655",
+   "region": "Japan",
+   "file": "Daikaijuu Monogatari (Japan).sfc"
+  },
+  {
+   "crc32": "5B09F3AD",
+   "md5": "F60D3EDE1E4BF7F9DF1FA8F375317F54",
+   "sha1": "0951FCA33F4ACDD59B10EED285B9D45D3D0E8C34",
+   "region": "Japan",
+   "file": "Daikaijuu Monogatari (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

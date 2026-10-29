@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3B018618",
+   "md5": "511BE47F77EFC062F61256FEC8CF62EA",
+   "sha1": "5AF8FFFBD98F016797B6792CE7833334B156E052",
+   "region": "Japan",
+   "file": "Super Stadium (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

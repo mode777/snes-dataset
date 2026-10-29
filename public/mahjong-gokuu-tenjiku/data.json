@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "EE50159A",
+   "md5": "B38E5AB7C9684958B3CCD115A1ECE374",
+   "sha1": "ED0E19B84632FC07432084BA2DE7EB9E8E12F32A",
+   "region": "Japan",
+   "file": "Mahjong Gokuu Tenjiku (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

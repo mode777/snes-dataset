@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5FC89932",
+   "md5": "026314480D07C1670197D34FCCA725B1",
+   "sha1": "A40F2CA85F532F74E769FA3D3265121D3A98666D",
+   "region": "Japan",
+   "file": "Wedding Peach (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

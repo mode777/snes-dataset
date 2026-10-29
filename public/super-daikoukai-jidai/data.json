@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "641CB02B",
+   "md5": "AA4317705E8FD0B958378C9B8FAA9893",
+   "sha1": "E2AEAAF753D9FEF3E05329AAF26A5074C1F08FA8",
+   "region": "Japan",
+   "file": "Super Daikoukai Jidai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

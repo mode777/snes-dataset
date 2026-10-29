@@ -33,6 +33,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "CF10CC01",
+   "md5": "3A361826AD0EB7C4AB3E295AECDD3F64",
+   "sha1": "A7F0EA92EBF11E3726E3CCC494A9DF0EF9EDBED5",
+   "region": "USA",
+   "file": "Madden NFL 98 (USA).sfc"
+  }
+ ],
  "gf_score": 4.04,
  "metascore": null,
  "cover_urls": [

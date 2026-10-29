@@ -24,6 +24,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "58DA330C",
+   "md5": "3481B8E87A19EF4D9341590EAF0D5165",
+   "sha1": "F1D2F781B4682A7E322EF6C249EEDDAED7DF5D3C",
+   "region": "Japan",
+   "file": "Shin Nihon Pro Wrestling - Chou Senshi in Tokyo Dome - Fantastic Story (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

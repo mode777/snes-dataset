@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "74C75074",
+   "md5": "F53BAA0C5ECD0B3942C22260A569562E",
+   "sha1": "775FD8AB6F66EDF42F8F9E706EB5AD5AE704907B",
+   "region": "Japan",
+   "file": "Super Formation Soccer II (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

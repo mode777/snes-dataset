@@ -27,6 +27,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "0689EE4A",
+   "md5": "89026369015DAFBF8CCE6A1D9453274B",
+   "sha1": "F703DCDEB633F32557F4EA5D78111F24CF66E8FF",
+   "region": "Japan",
+   "file": "Umi no Nushi Tsuri (Japan).sfc"
+  },
+  {
+   "crc32": "C985F568",
+   "md5": "7936E3B3A6B3FD79F66304082B2155CF",
+   "sha1": "6F01BEE87737DE87E756F75B7B05E9CEDB63FAF6",
+   "region": "Japan",
+   "file": "Umi no Nushi Tsuri (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -37,6 +37,57 @@
  "languages": [
   "English, German, Spanish, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "52FDFAB4",
+   "md5": "2CC20404E20FAB848612FFF369E5C3C7",
+   "sha1": "48DDA773437CD755C31D2422F1DFD3A3FD6EE76B",
+   "region": "USA",
+   "file": "Aladdin (USA) (Beta).sfc"
+  },
+  {
+   "crc32": "124D8E4D",
+   "md5": "8E00910312B30663768D907114D301C2",
+   "sha1": "BD5FEA18CE7456CC0231A39473927D8EA9C6589B",
+   "region": "USA",
+   "file": "Aladdin (USA).sfc"
+  },
+  {
+   "crc32": "90EE8C61",
+   "md5": "6B09F8C51E5C989D950F9510F1F73224",
+   "sha1": "DB4C5AE21420AA79F4519B542B03962A9293464D",
+   "region": "Spain",
+   "file": "Aladdin (Spain).sfc"
+  },
+  {
+   "crc32": "1AEB696B",
+   "md5": "12DA508B745C4402641DDC95028FD677",
+   "sha1": "A9FC2E46A38FD51EBDC25F6F261925F7CB6754F7",
+   "region": "Japan",
+   "file": "Aladdin (Japan).sfc"
+  },
+  {
+   "crc32": "A7AD3E5D",
+   "md5": "01AA89137B747DC68E108234B4973AFA",
+   "sha1": "A06AA6F4BB62951884ADB3C7813FD93337D4750B",
+   "region": "Germany",
+   "file": "Aladdin (Germany).sfc"
+  },
+  {
+   "crc32": "63069939",
+   "md5": "61A86AEE5792EAF64A04BCB30257D985",
+   "sha1": "D0FC2D457DDE02CB28B4D1C7248C97D1711E2FE2",
+   "region": "France",
+   "file": "Aladdin (France).sfc"
+  },
+  {
+   "crc32": "44FF6E78",
+   "md5": "4D426A7ED36CD7EF896E31CDD48ED24E",
+   "sha1": "FD155AFD8FFA81B0DC6E7990A18212538882E626",
+   "region": "Europe",
+   "file": "Aladdin (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

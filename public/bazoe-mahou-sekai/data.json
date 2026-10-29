@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "D5B09EEF",
+   "md5": "DECBC035448E68DC899A1DB456E77AFD",
+   "sha1": "5E4AF718AE159244102A3AFC53456F6C34CAFF91",
+   "region": "Japan",
+   "file": "Bazoe! Mahou Sekai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

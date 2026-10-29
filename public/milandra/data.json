@@ -28,6 +28,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "67B5FB22",
+   "md5": "920B35893BE78E327BC8CE57B98836D5",
+   "sha1": "3E383E4D0B1F998900BF9829BC518BA6ABFE5297",
+   "region": "Japan",
+   "file": "Milandra (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

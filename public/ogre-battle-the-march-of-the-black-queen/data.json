@@ -20,6 +20,15 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "ACFDB7B8",
+   "md5": "64A824BE35BFBB7797E8CFE6CCCC5DEC",
+   "sha1": "CFC45162B91791A61D4260E348AD43CB3B2ECA0F",
+   "region": "USA",
+   "file": "Ogre Battle - The March of the Black Queen (USA).sfc"
+  }
+ ],
  "gf_score": 4.08,
  "metascore": null,
  "cover_urls": [

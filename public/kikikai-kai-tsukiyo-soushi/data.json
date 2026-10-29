@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5C971BED",
+   "md5": "B31405C70BD5113368076FADFA2872B8",
+   "sha1": "EF721D912E8C56FC5F180CB996004AD8574A0F68",
+   "region": "Japan",
+   "file": "Kikikai-kai - Tsukiyo Soushi (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

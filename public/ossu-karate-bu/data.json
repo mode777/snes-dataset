@@ -22,6 +22,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B4ECD206",
+   "md5": "083AE1571A3A660E8FE630D8E614BBE4",
+   "sha1": "9A99D4CCC6AF89744563F4CF429C3EC0B3FBDD62",
+   "region": "Japan",
+   "file": "Ossu!! Karate-bu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -26,6 +26,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "D7452215",
+   "md5": "6E808945B6B6DED16D59EA7FF2296AF2",
+   "sha1": "CCE66CEC0250573613C7A81A2465B0BC96E7F99E",
+   "region": "Japan",
+   "file": "Chinhai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

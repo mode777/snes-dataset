@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9B040C00",
+   "md5": "78B0BAEB0C63CD5447BBC6F1FCA90805",
+   "sha1": "9BF4E716113F6919927152CD1ED6510CB84554A8",
+   "region": "Japan",
+   "file": "Zen-Nihon Pro Wres 2 - 3-4 Budoukan (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

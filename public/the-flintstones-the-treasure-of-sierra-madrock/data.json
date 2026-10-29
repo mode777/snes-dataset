@@ -36,6 +36,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "53D29A71",
+   "md5": "1F4035249A43573F3B65A6FD0D047C35",
+   "sha1": "F0045A384ACAC58215849CFEB95DA92C09187830",
+   "region": "Japan",
+   "file": "Flintstones, The - The Treasure of Sierra Madrock (Japan).sfc"
+  },
+  {
+   "crc32": "594F5CC6",
+   "md5": "C7DB2A255421554BA940099CAAD060EE",
+   "sha1": "1083161AD7474B9BE1152240247D569B405BEA25",
+   "region": "USA",
+   "file": "Flintstones, The - The Treasure of Sierra Madrock (USA).sfc"
+  },
+  {
+   "crc32": "CC846DC4",
+   "md5": "4AF381C7FC97FE63FEB5B005EFB53B76",
+   "sha1": "FF91A8E70F0BDC4E3696634D6FEBD5A40663BA72",
+   "region": "Europe",
+   "file": "Flintstones, The - The Treasure of Sierra Madrock (Europe).sfc"
+  }
+ ],
  "gf_score": 3.4,
  "metascore": null,
  "cover_urls": [

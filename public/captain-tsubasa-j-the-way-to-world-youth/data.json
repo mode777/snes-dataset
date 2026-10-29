@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "16C63D9C",
+   "md5": "8A8CD394DF74196B66224EA0C209C1C3",
+   "sha1": "313B298248BA90C29BBF8C5E4A1BBE4F11D42048",
+   "region": "Japan",
+   "file": "Captain Tsubasa J - The Way to World Youth (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

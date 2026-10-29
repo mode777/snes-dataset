@@ -34,6 +34,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "32EEA1E9",
+   "md5": "4B87392AAF03517D3F45EBF06EB2D4BC",
+   "sha1": "8A153F92AD2498FBF66E4CB100F6E5B950098044",
+   "region": "Japan",
+   "file": "Mickey to Donald - Magical Adventure 3 (Japan).sfc"
+  }
+ ],
  "gf_score": 3.7,
  "metascore": null,
  "cover_urls": [

@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8CAC063C",
+   "md5": "D3CDDDC43E37BAB6C458DA3E4A6A8D92",
+   "sha1": "FA4BCB5526EE40E3FFC37A28B8BE0D51B7C387A5",
+   "region": "Japan",
+   "file": "Battle Zeque Den (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

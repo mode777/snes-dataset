@@ -20,6 +20,15 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3A2B6167",
+   "md5": "CC902DE2EFA54DF4D2C27ACD7F4A6BF4",
+   "sha1": "BE48F2193AD088B6EA395CAEB2D03FA190480418",
+   "region": "USA",
+   "file": "Joe & Mac (USA).sfc"
+  }
+ ],
  "gf_score": 3.53,
  "metascore": null,
  "cover_urls": [

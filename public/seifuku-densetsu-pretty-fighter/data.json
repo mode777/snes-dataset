@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A638BEF1",
+   "md5": "52F1F31CF0C542995EAA96F3B675C408",
+   "sha1": "DBF74B042A7BAECCA73FF9956625DFFC818B9BE9",
+   "region": "Japan",
+   "file": "Seifuku Densetsu Pretty Fighter (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

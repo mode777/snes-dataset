@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B933D0EE",
+   "md5": "BF7171051605D97D8CACBB72C14C93F6",
+   "sha1": "D4898C3CD9E74B3196D86AE6E7992CBDE1107F52",
+   "region": "Japan",
+   "file": "Super Famista 3 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

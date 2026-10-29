@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "12340705",
+   "md5": "F267D397A11C9291AC538BEBC4665096",
+   "sha1": "5E9FCA2225D8C827FBEDE9AFBA51E56832F472C2",
+   "region": "Japan",
+   "file": "Super Royal Blood (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

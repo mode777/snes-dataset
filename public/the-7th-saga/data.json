@@ -28,6 +28,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B3ABDDE6",
+   "md5": "A42772A0BEAF71F9256A8E1998BFE6E3",
+   "sha1": "8D2B8AEA636A2239805C99744BF48C0B4DF8D96E",
+   "region": "USA",
+   "file": "7th Saga, The (USA).sfc"
+  }
+ ],
  "gf_score": 3.38,
  "metascore": null,
  "cover_urls": [

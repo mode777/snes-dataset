@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5047E0D4",
+   "md5": "55D9CDB05F53A3F7A5E3EACB81B28F09",
+   "sha1": "BCD2FC38B4E4BF6B811B00301F349E85CA48FE1A",
+   "region": "Japan",
+   "file": "Rockman & Forte (Japan).sfc"
+  }
+ ],
  "gf_score": 4.07,
  "metascore": null,
  "cover_urls": [

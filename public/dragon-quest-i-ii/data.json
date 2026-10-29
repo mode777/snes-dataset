@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "98BB6853",
+   "md5": "1DEF71B5557CC6BB7402281D888CAE80",
+   "sha1": "1C0C6D78BF2BC29160ADF48B17EBF5A5BC46230E",
+   "region": "Japan",
+   "file": "Dragon Quest I & II (Japan).sfc"
+  }
+ ],
  "gf_score": 3.72,
  "metascore": null,
  "cover_urls": [

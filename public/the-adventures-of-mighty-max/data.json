@@ -24,6 +24,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "62A7C74B",
+   "md5": "DCA672428CF983FA0A79AB9EC3B04285",
+   "sha1": "FB1B7715B23005FE49DF0D2A619ABA9F55054258",
+   "region": "Europe",
+   "file": "Adventures of Mighty Max, The (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -31,6 +31,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6E030B96",
+   "md5": "D00240E123029FFD4F5E8C3288E655A6",
+   "sha1": "6EEC1415C46FAF2BFD22DBA9FDC53BE11B60C3CC",
+   "region": "Japan",
+   "file": "Tenshi no Uta - Shiroki Tsubasa no Inori (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

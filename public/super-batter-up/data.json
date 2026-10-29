@@ -29,6 +29,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "5896C854",
+   "md5": "B4EE9A13670738F25F588CDBC8B65930",
+   "sha1": "4B7CD1B4612C533A30C4EEDAF5F33103CADF56C2",
+   "region": "USA",
+   "file": "Super Batter Up (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

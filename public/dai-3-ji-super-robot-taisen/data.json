@@ -29,6 +29,29 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "DFE9CC90",
+   "md5": "B5974F5306E8DAEE96D5FC625E960F0A",
+   "sha1": "B16375F0C1CC6E5960CBCD2F9D24D97CB824C5D4",
+   "region": "Japan",
+   "file": "Dai-3-ji Super Robot Taisen (Japan).sfc"
+  },
+  {
+   "crc32": "C577D666",
+   "md5": "E207D0F97C8D8476BD7B58D81F78864D",
+   "sha1": "5E59151E364D73DB030744D2A8B2355BB6FE1E7F",
+   "region": "Japan",
+   "file": "Dai-3-ji Super Robot Taisen (Japan) (Rev 2).sfc"
+  },
+  {
+   "crc32": "8813029C",
+   "md5": "A39EA26F27DF58AC1C8B507B425C9878",
+   "sha1": "91D04068593DAED8BDC6992E7582851499DE7E74",
+   "region": "Japan",
+   "file": "Dai-3-ji Super Robot Taisen (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

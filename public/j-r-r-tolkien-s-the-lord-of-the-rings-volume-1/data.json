@@ -26,6 +26,15 @@
  "description_source": "opengamedb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "CD2150C8",
+   "md5": "D44A415B0FA893B73648452D97DADAD2",
+   "sha1": "030E314CBA8FAAE4081F8056521126916E5E0ADA",
+   "region": "USA",
+   "file": "J.R.R. Tolkien's The Lord of the Rings - Volume 1 (USA).sfc"
+  }
+ ],
  "gf_score": 2.38,
  "metascore": null,
  "cover_urls": [

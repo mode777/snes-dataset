@@ -32,6 +32,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "262CE76B",
+   "md5": "E9A46430216CA4CBCC3D58DADB4E3FF1",
+   "sha1": "6D9E3A5BC20AB1EAF728DD87D77CEE855E3EEC45",
+   "region": "USA",
+   "file": "NBA Hang Time (USA).sfc"
+  },
+  {
+   "crc32": "F1FE37A4",
+   "md5": "D78F763D120D1F4FCCF40273222EF6A4",
+   "sha1": "FBC484AB942D6DDC91FB68606DC95D2BF7D0F7EA",
+   "region": "Europe",
+   "file": "NBA Hang Time (Europe).sfc"
+  }
+ ],
  "gf_score": 4.01,
  "metascore": null,
  "cover_urls": [

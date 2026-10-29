@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "8B8AFD6F",
+   "md5": "45CE349BD342D6131CD6CCD36BA996B9",
+   "sha1": "2DBA76455C864273FAC853C1592AF9132685A753",
+   "region": "Japan",
+   "file": "Battle Grand Prix (Japan).sfc"
+  },
+  {
+   "crc32": "190FF436",
+   "md5": "28EAB2C90F15F362F3840BC62E21ABCF",
+   "sha1": "F321C4D625DB984DF46C15E1DAC0B247D594D62D",
+   "region": "USA",
+   "file": "Battle Grand Prix (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

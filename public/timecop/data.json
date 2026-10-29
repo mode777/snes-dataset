@@ -34,6 +34,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "BC0C9B71",
+   "md5": "A516B85A0889D6C54F2C51BCD9D2BC4C",
+   "sha1": "355D9B2C747B56C62DA95DC1AE0B3C8144699785",
+   "region": "Europe",
+   "file": "Timecop (Europe).sfc"
+  },
+  {
+   "crc32": "4D56B5C3",
+   "md5": "57E9F0654B636C6C6B158EAD518D54C4",
+   "sha1": "E45F163286908AD809D7B7C060388E72485485D9",
+   "region": "Japan",
+   "file": "Timecop (Japan).sfc"
+  },
+  {
+   "crc32": "130B0933",
+   "md5": "3C5CD507217A032BBE99EB01A2AEE824",
+   "sha1": "CBD4CEE815CB2659F661EF8FAF2CE2394E68C8DF",
+   "region": "USA",
+   "file": "Timecop (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

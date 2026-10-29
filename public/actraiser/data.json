@@ -38,6 +38,50 @@
  "languages": [
   "English, German, French, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "09097B2B",
+   "md5": "9B36075B53DEC1A506B1F9334E670C63",
+   "sha1": "B76621E0B9D882C8B8463203F5423CA7D45CC5BF",
+   "region": "Europe",
+   "file": "ActRaiser (Europe).sfc"
+  },
+  {
+   "crc32": "A27E2664",
+   "md5": "4D7084EFDAAC42131BF9C68FAD358EBD",
+   "sha1": "2F913B33F8C2B4EA2CA18AC91F3ED08F02285227",
+   "region": "France",
+   "file": "ActRaiser (France).sfc"
+  },
+  {
+   "crc32": "29A78AF9",
+   "md5": "FD56459ABA757C35B9892AEDE9D24304",
+   "sha1": "2BE890711DEC987CA1375C0B5D0844997DE96566",
+   "region": "Germany",
+   "file": "ActRaiser (Germany).sfc"
+  },
+  {
+   "crc32": "BEE9B30C",
+   "md5": "3CB1A7AE9FD34A56015F752FD138070E",
+   "sha1": "F031FC983A2EED4D69E223B256ECE5F037FB5D5D",
+   "region": "Japan",
+   "file": "Actraiser (Japan).sfc"
+  },
+  {
+   "crc32": "EAC3358D",
+   "md5": "635D5D7DD2AAD4768412FBAE4A32FD6E",
+   "sha1": "E8365852CC20178D42C93CD188A7AE9AF45369D7",
+   "region": "USA",
+   "file": "ActRaiser (USA).sfc"
+  },
+  {
+   "crc32": "6B5F9845",
+   "md5": "8D6DAD2B4EBBA021366C6BC7637E4D19",
+   "sha1": "918F93B8B385D5DF28EB731A36A684AD86E050B6",
+   "region": "Japan",
+   "file": "Actraiser (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": 3.96,
  "metascore": null,
  "cover_urls": [

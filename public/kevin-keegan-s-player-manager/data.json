@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "FCE7BADE",
+   "md5": "1C0D34FBC486FC9B9248B2BCFA02E962",
+   "sha1": "E5C17AFE16FF7571B2576BCCE044362AB559ADA7",
+   "region": "Europe",
+   "file": "Kevin Keegan's Player Manager (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

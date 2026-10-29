@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "522FE837",
+   "md5": "B8249A26BFEDEB4C723CC021C23F2652",
+   "sha1": "B0519F373BDE918D5D03D13D6E1B0E82599F9102",
+   "region": "USA",
+   "file": "Thunder Spirits (USA).sfc"
+  },
+  {
+   "crc32": "41A933A6",
+   "md5": "4DCB347551A5D8A232E972F3ADBE9C23",
+   "sha1": "EC812F490A1453B94C04DE52B0A73BB2E2FD8820",
+   "region": "Japan",
+   "file": "Thunder Spirits (Japan).sfc"
+  }
+ ],
  "gf_score": 3.62,
  "metascore": null,
  "cover_urls": [

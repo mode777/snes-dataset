@@ -34,6 +34,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "59909EB5",
+   "md5": "E1E3CE8A9D1B9CCAF059101ADD37314F",
+   "sha1": "5E63CC5C05ADD8F1493485B5CE488F91E43A2553",
+   "region": "Europe",
+   "file": "Daze Before Christmas (Europe).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

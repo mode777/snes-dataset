@@ -23,6 +23,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4B280DFA",
+   "md5": "5BC7B0AD93A84C1F9539D87EF49E4838",
+   "sha1": "7B5534582954A94DD8D1D66E0BA382288AA48430",
+   "region": "Japan",
+   "file": "SM Choukyoushi Hitomi Vol. 2 Remix (Japan) (Unl) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

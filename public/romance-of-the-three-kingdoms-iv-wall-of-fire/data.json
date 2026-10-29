@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "82AF5B69",
+   "md5": "369162BF31DC37AC4D014E275CE2E3F5",
+   "sha1": "9A42DB6CDE28A35419F0E2464090D6E96A47054A",
+   "region": "USA",
+   "file": "Romance of the Three Kingdoms IV - Wall of Fire (USA).sfc"
+  }
+ ],
  "gf_score": 3.94,
  "metascore": null,
  "cover_urls": [

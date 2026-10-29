@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4737370B",
+   "md5": "C48199B6996211AC200B8B2DAAFC18EF",
+   "sha1": "54048324BF80BD36E372F58A68F1D3F2B5FFE498",
+   "region": "Japan",
+   "file": "Majuu Ou (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

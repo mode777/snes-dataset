@@ -30,6 +30,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "D679058D",
+   "md5": "251873D26FEDA1E9B99C61271CD79D64",
+   "sha1": "6431B655516C1BFA3AE167A4BDDB4C635EEFEEC4",
+   "region": "Europe",
+   "file": "Spider-Man-X-Men - Arcade's Revenge (Europe).sfc"
+  },
+  {
+   "crc32": "AE878CCB",
+   "md5": "9D59F3DEF2B1A8D87F7E97CEF41A04C0",
+   "sha1": "1365A9DC47E8150F171098691478D557BE740C1A",
+   "region": "USA",
+   "file": "Spider-Man-X-Men - Arcade's Revenge (USA).sfc"
+  }
+ ],
  "gf_score": 2.69,
  "metascore": null,
  "cover_urls": [

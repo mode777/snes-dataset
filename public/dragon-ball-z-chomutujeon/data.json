@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2BF7CD65",
+   "md5": "4D0DF715906919AB864427884D043D35",
+   "sha1": "F13E1E4CB439F03D76590628A6590D705C709C4E",
+   "region": "Korea",
+   "file": "Dragon Ball Z - Chomutujeon (Korea).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

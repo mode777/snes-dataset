@@ -33,6 +33,29 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "4C922F36",
+   "md5": "528ED4C8885EF13284F45467A8DC2A43",
+   "sha1": "07865DFC41F41B20D16ECDD8D08828254643A8CA",
+   "region": "Europe",
+   "file": "Pinball Dreams (Europe).sfc"
+  },
+  {
+   "crc32": "C8CCA577",
+   "md5": "D0F79962DE55BEE00DEDAE8E6F4E68E4",
+   "sha1": "75F42482803CA47A720F9DE30956BD0E624AEB72",
+   "region": "Europe",
+   "file": "Pinball Dreams (Europe) (Beta).sfc"
+  },
+  {
+   "crc32": "81107CE2",
+   "md5": "1C00CCF183AD8A02C1A3223D649B4099",
+   "sha1": "E82131879EA1F5A0D0F75D940626A93FB33A0583",
+   "region": "USA",
+   "file": "Pinball Dreams (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

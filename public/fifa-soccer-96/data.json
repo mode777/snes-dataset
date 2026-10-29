@@ -36,6 +36,22 @@
  "languages": [
   "English, German, Spanish, French, Italian, Swedish"
  ],
+ "roms": [
+  {
+   "crc32": "7566347D",
+   "md5": "8B3448CCE7440268D34FA7B4C46C5966",
+   "sha1": "07E91BDE033B5A53A5723C9DB5F3649A99ACDB08",
+   "region": "USA",
+   "file": "FIFA Soccer 96 (USA) (En,Fr,De,Es,It,Sv).sfc"
+  },
+  {
+   "crc32": "8FAF17E5",
+   "md5": "EE9652BEF0F7930BA02EC06028DD5BD2",
+   "sha1": "B184C03AC65B21EA99D72933383D7A87F2F10C1F",
+   "region": "Europe",
+   "file": "FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

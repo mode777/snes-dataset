@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "60305047",
+   "md5": "A734DC909FABD211CCD2E140E6D361DD",
+   "sha1": "64CE8441690A2E4DE6805C055D3B0DD980B29022",
+   "region": "Japan",
+   "file": "Super Kyousouba - Kaze no Sylphid (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

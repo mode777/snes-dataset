@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "97357A1B",
+   "md5": "87E5821483C8A58EEF1BF5B84BCCE7A6",
+   "sha1": "311494439A9775DE4697A7137AECDA198215D2C6",
+   "region": "USA",
+   "file": "Street Sports - Street Hockey '95 (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

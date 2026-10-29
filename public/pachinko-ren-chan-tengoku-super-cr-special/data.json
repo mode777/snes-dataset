@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "012C80BD",
+   "md5": "2888844833675473D01A70AD186EBF0A",
+   "sha1": "E4C003F19792FDAEE3A14FC3F543C4F41879EC98",
+   "region": "Japan",
+   "file": "Pachinko Ren-chan Tengoku - Super CR Special (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

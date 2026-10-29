@@ -25,6 +25,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A24944E4",
+   "md5": "A859F13ED1A497E34F94D80E49861FA4",
+   "sha1": "8417556B5CE22FB9BC4026FE28F7AEE348A76FD9",
+   "region": "Japan",
+   "file": "Joushou Mahjong Tenpai (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

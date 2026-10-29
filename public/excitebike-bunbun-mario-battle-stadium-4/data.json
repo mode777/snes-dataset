@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "15B10C81",
+   "md5": "CF2EECF5039E3EA130322BD495E531C2",
+   "sha1": "4E33AF4DE805E1D25AAFBA3AAD90CF85C3885913",
+   "region": "Japan",
+   "file": "Excitebike - Bunbun Mario Battle - Stadium 4 (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

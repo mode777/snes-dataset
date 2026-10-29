@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2CF5094C",
+   "md5": "2D24CCEFE12FEC5E175B6764513CBD1D",
+   "sha1": "33C8B174EAEC2095EBA54BD4F8E3751CB638F8FF",
+   "region": "Japan",
+   "file": "Magical Drop 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

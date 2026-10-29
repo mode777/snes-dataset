@@ -33,6 +33,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AC212C51",
+   "md5": "B64318F7F3DAD7A72B6B0191A2CB03AF",
+   "sha1": "FA8159946410AC0890E0D99F35FBAEA78BDA4CBF",
+   "region": "Japan",
+   "file": "Sougou Kakutougi - Astral Bout 2 - The Total Fighters (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

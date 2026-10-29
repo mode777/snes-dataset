@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3D005F22",
+   "md5": "3D37DCACE45DF8926E61E98ACA5EECEC",
+   "sha1": "1135E1BE00D8AD5D99A78862FC48BCB9FC58057B",
+   "region": "USA",
+   "file": "Tommy Moe's Winter Extreme - Skiing and Snowboarding (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

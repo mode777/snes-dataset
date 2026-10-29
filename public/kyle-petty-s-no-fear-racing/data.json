@@ -30,6 +30,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "AEE90A85",
+   "md5": "ABA471475BFCE2021E948A7D4950B744",
+   "sha1": "458337DC717DF640FF5D8AA377C8E12C73F9A02E",
+   "region": "USA",
+   "file": "Kyle Petty's No Fear Racing (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

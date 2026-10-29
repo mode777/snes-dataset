@@ -26,6 +26,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B4FCB68C",
+   "md5": "9E04628F95062D5434F644F30C79E404",
+   "sha1": "C0EA1C199CBA274EBA5D52A1AC8C1A7ECCFE75DB",
+   "region": "USA",
+   "file": "Zool (USA) (Sample).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

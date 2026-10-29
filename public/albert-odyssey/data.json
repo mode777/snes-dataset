@@ -29,6 +29,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "46CA01A9",
+   "md5": "8822EB60EC69EDE557C3294BAE005B32",
+   "sha1": "525AC489230002E2E9294846154D962EF9A2B941",
+   "region": "Japan",
+   "file": "Albert Odyssey (Japan).sfc"
+  },
+  {
+   "crc32": "0E89FA41",
+   "md5": "B37F1C65206FC9FE876478D6C7D97395",
+   "sha1": "1B1439F9F7EAEB9D1E8EE815889844E711DDF0C9",
+   "region": "Japan",
+   "file": "Albert Odyssey (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -33,6 +33,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "EB0039C4",
+   "md5": "44A7735D6DCEED9FB4EAB61113DAA410",
+   "sha1": "1D92EC65457C4E1BB984162412F2530CBAF13156",
+   "region": "Europe",
+   "file": "Metal Combat - Falcon's Revenge (Europe).sfc"
+  },
+  {
+   "crc32": "C3131B49",
+   "md5": "D4BC4F3CB46CC09D8DB58F0CE0142646",
+   "sha1": "DA88FC5830DDB0CDF8FFC2E8340A607D0AD8EAA1",
+   "region": "USA",
+   "file": "Metal Combat - Falcon's Revenge (USA).sfc"
+  }
+ ],
  "gf_score": 3.62,
  "metascore": null,
  "cover_urls": [

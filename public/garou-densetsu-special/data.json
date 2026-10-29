@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "C1F68C7A",
+   "md5": "906A3DA585415529B20BD0708FD91486",
+   "sha1": "ACD38FADC1B1919AC33D04FA0077AE0BD11F8562",
+   "region": "Japan",
+   "file": "Garou Densetsu Special (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

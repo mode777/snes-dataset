@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "1E23F3D6",
+   "md5": "2FA9CBC875138EEBEC96880E7964742B",
+   "sha1": "3C9CAC3B14945D92DDD3524F056719023737EA13",
+   "region": "Japan",
+   "file": "Igo Club (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

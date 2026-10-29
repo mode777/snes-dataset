@@ -30,6 +30,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E044E0F1",
+   "md5": "CFD8D8340BC2B384B5081272EA081E2E",
+   "sha1": "EF52E8FD29BD4A6F0A80BDA8203E5256188DA8BD",
+   "region": "Japan",
+   "file": "J.League Excite Stage '96 (Japan).sfc"
+  },
+  {
+   "crc32": "857BBFAB",
+   "md5": "67671C905AB72B72359D395FE207E8B8",
+   "sha1": "4FB6391AD152A79557043E5B4D1A8C33BC19C061",
+   "region": "Japan",
+   "file": "J.League Excite Stage '96 (Japan) (Rev 1).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

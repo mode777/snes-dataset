@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "20670C86",
+   "md5": "4BDB57833B26A5B246B7C6C7164A408F",
+   "sha1": "73E1C4B5272C5901D1657865BFD02E3C943FFF71",
+   "region": "Japan",
+   "file": "Winning Post 2 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

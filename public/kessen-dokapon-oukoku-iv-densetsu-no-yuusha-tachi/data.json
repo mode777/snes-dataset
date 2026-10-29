@@ -28,6 +28,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9BA1F895",
+   "md5": "B802169E9DBD17C9E04B5872135D56EB",
+   "sha1": "45C4DE22174F01135628D8B61EFF0DE672BC7D30",
+   "region": "Japan",
+   "file": "Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan).sfc"
+  },
+  {
+   "crc32": "E6A2E0D8",
+   "md5": "9CB2FB499D440CB687A02D9C94B7621E",
+   "sha1": "A40D9DEDEFF858FCA2A549FADB2CBE7F0A84FC44",
+   "region": "Japan",
+   "file": "Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

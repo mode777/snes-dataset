@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5BDF5A87",
+   "md5": "258EA18705CE692E28289346F4993598",
+   "sha1": "9CE69802BCAF3D1E85F2AF77395FB6BBF262FD43",
+   "region": "Japan",
+   "file": "Jungle Strike - Uketsugareta Kyouki (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

@@ -37,6 +37,15 @@
  "languages": [
   "English, German, Spanish, French, Italian, Swedish"
  ],
+ "roms": [
+  {
+   "crc32": "5E4F4856",
+   "md5": "CA3D4C3E4C3D4716B82B3B91AEFD16B0",
+   "sha1": "A9287C363595E81A7FB83E667651B0FB70F4E607",
+   "region": "Europe",
+   "file": "FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Sv).sfc"
+  }
+ ],
  "gf_score": 4.05,
  "metascore": null,
  "cover_urls": [

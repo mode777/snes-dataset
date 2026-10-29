@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "9C270687",
+   "md5": "D214BBD54B0704C021A2B89A00F12FB6",
+   "sha1": "3C45B3629DF775A5BA6B8889F2DFCD77C5E58C16",
+   "region": "Japan",
+   "file": "Cheap de Gorgeous Vol. 1 (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

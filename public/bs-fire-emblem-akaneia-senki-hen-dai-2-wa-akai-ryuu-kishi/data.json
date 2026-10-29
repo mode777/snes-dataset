@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "2E5C0EFD",
+   "md5": "86F378C616535DBAF6FCB543C95D8174",
+   "sha1": "8B051099E11A9B9D854DFF920DBBE309D84AC672",
+   "region": "Japan",
+   "file": "BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

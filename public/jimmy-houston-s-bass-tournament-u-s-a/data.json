@@ -27,6 +27,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "E7E488D5",
+   "md5": "F90375B1E3054EEAF217921162F34EA6",
+   "sha1": "CEA2667429D2650C06C6C2491438DD12A9A6D4BA",
+   "region": "USA",
+   "file": "Jimmy Houston's Bass Tournament U.S.A. (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

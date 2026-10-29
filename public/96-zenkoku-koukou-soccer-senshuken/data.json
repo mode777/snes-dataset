@@ -34,6 +34,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "05FBB855",
+   "md5": "3369347F7663B133CE445C15200A5AFA",
+   "sha1": "005CCD8362DC41491F89F31FC9326A6688300E0C",
+   "region": "Japan",
+   "file": "'96 Zenkoku Koukou Soccer Senshuken (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

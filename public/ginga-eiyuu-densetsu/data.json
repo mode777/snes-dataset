@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "2E480EEF",
+   "md5": "67479D8591D05C9C5C9EC52A8F58987F",
+   "sha1": "B90CC0F0CD63859BEA96F0C3EB109E3A9DB88E5D",
+   "region": "Japan",
+   "file": "Ginga Eiyuu Densetsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

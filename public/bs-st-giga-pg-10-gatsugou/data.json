@@ -11,6 +11,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "3D059CA1",
+   "md5": "A91CC973D177D07D6D20459782D42CDB",
+   "sha1": "96A033DA8058D8B768366EC270F0466F47925E13",
+   "region": "Japan",
+   "file": "BS St. Giga PG - 10 Gatsugou (Japan) (BS).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

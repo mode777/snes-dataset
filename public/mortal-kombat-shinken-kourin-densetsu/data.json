@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "0BD8EC55",
+   "md5": "D0527E4391603A2A90713CDF23BD8FBB",
+   "sha1": "3EEF203A3F878473C528ED3F3D2194DA27243907",
+   "region": "Japan",
+   "file": "Mortal Kombat - Shinken Kourin Densetsu (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

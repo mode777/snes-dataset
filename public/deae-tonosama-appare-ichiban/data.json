@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6E42D71B",
+   "md5": "A0833F14B86BDE6201DD845FB5BC208F",
+   "sha1": "723681D54DB693BB6DF9E578A7637F819B710CE3",
+   "region": "Japan",
+   "file": "Deae Tonosama - Appare Ichiban (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

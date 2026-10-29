@@ -30,6 +30,15 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "E6EDE101",
+   "md5": "3D5A692EA10331173F55D68E029AA5B2",
+   "sha1": "ADFCC5ACE741575C757A57073A536A82F8E273DF",
+   "region": "USA",
+   "file": "Exertainment Mountain Bike Rally (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

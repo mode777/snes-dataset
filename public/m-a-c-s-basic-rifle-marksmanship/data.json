@@ -15,6 +15,15 @@
  "description_source": null,
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "B8491C98",
+   "md5": "EECCC95C602695265BFF04D461B0AEDC",
+   "sha1": "81CA8F020755490FC98DBC283CEA54CB91D3CBB6",
+   "region": "USA",
+   "file": "M.A.C.S. Basic Rifle Marksmanship (USA) [b].sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [],

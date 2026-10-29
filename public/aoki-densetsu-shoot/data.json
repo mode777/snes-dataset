@@ -30,6 +30,22 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "9EA4AD6F",
+   "md5": "41668CD2BFD33FAB8B7168FECFF2AE4B",
+   "sha1": "C63CA9AD073BC2B8AE079AA19CF026791D0FD2DB",
+   "region": "Japan",
+   "file": "Aoki Densetsu Shoot! (Japan).sfc"
+  },
+  {
+   "crc32": "95487DCE",
+   "md5": "75153872F28230159187DFED142A969B",
+   "sha1": "2CBD38D21C26823F0150C341D74941801C15BEE1",
+   "region": "Japan",
+   "file": "Aoki Densetsu Shoot! (Japan) (Beta).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

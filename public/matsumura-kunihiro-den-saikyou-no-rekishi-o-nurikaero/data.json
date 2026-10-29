@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "8F3DA172",
+   "md5": "4E42DD304C9D364729A15381B30A6C12",
+   "sha1": "E8EBC058A74AC7E5F88376DBBEBADCD9FC43D7FB",
+   "region": "Japan",
+   "file": "Matsumura Kunihiro Den - Saikyou no Rekishi o Nurikaero! (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

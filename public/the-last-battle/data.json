@@ -32,6 +32,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "200EC9C8",
+   "md5": "3C9F29D6E1C457156005F90BD9EA2B10",
+   "sha1": "2474C7AA8451D51784A3B852B9806495B4147CFB",
+   "region": "Japan",
+   "file": "Last Battle, The (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

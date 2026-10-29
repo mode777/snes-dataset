@@ -30,6 +30,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C07F099D",
+   "md5": "FEBCA3A92D34FFA119891247D9B27D09",
+   "sha1": "632061AE4892EC6CD75616DA66F7BE5C75E8D7AF",
+   "region": "Japan",
+   "file": "Super Power League 4 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

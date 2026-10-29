@@ -19,6 +19,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "5A13366C",
+   "md5": "8DE0DAFB21A7B1B92D13E956BFCAB124",
+   "sha1": "AF6FA1E5EE95DF9353ECE8C5A90735785DE88B99",
+   "region": "Japan",
+   "file": "Circuit USA (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -27,6 +27,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "6797D8DC",
+   "md5": "3CF2A89B3E3CEE65F9A0ADC3AA827819",
+   "sha1": "ABBAA40E16AA5BF0850B9A0502D57B3B44E8FE80",
+   "region": "Japan",
+   "file": "Kidou Senshi V Gundam (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

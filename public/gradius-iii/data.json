@@ -32,6 +32,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "CD973979",
+   "md5": "EA30C4F341F6B7A6E290699460BA6C51",
+   "sha1": "7E62203A4198E9404EB7B076802C09786E5A63F4",
+   "region": "USA",
+   "file": "Gradius III (USA).sfc"
+  },
+  {
+   "crc32": "BCA9AB02",
+   "md5": "059C8D6B72D95EDB9FC619BEE864EF3E",
+   "sha1": "E5119C731C9DE5F942565AB0D752CB50ABF4F32C",
+   "region": "Japan",
+   "file": "Gradius III (Japan).sfc"
+  }
+ ],
  "gf_score": 3.81,
  "metascore": null,
  "cover_urls": [

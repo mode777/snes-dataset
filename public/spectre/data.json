@@ -32,6 +32,22 @@
  "languages": [
   "English"
  ],
+ "roms": [
+  {
+   "crc32": "00C029C0",
+   "md5": "A1FCC7C9ED8005B901DAE1772944BF9C",
+   "sha1": "6F365405361072BCF5DC1DCAD02DCA96A25023A8",
+   "region": "Europe",
+   "file": "Spectre (Europe).sfc"
+  },
+  {
+   "crc32": "25DC31B1",
+   "md5": "6944AB9626F962B1541DF378DE4C7759",
+   "sha1": "B5B33B5A7BE927B14085DBEDE839234FE63974DE",
+   "region": "USA",
+   "file": "Spectre (USA).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

@@ -20,6 +20,15 @@
  "description_source": "openvgdb",
  "players": null,
  "languages": [],
+ "roms": [
+  {
+   "crc32": "BC37D603",
+   "md5": "21EA8A54B6439E80D99C51C4917FD651",
+   "sha1": "42C2056C0304BE4AE54385993AD80FA8F639117D",
+   "region": "Japan",
+   "file": "NHL Pro Hockey '94 (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

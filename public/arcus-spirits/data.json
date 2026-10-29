@@ -27,6 +27,15 @@
  "languages": [
   "English, Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "C9067671",
+   "md5": "1A4017D552B041F254E2E15BB6156450",
+   "sha1": "D9B029A4D22C75113A051C7EB7BF6EA0ECDCBA8D",
+   "region": "Japan",
+   "file": "Arcus Spirits (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

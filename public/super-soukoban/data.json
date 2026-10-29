@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "A9F78E92",
+   "md5": "51C520D15881538D67398BA63F56E0BA",
+   "sha1": "4AC5AE614A32829CF323F02B3B43F837A982A1DE",
+   "region": "Japan",
+   "file": "Super Soukoban (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [

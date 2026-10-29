@@ -29,6 +29,15 @@
  "languages": [
   "Japanese"
  ],
+ "roms": [
+  {
+   "crc32": "B574C939",
+   "md5": "1A0BEF681793F1F9A57E3935C64C36DF",
+   "sha1": "1BEE4FFD169648CE693A127F06AD6E8F7C2FA2C6",
+   "region": "Japan",
+   "file": "Undercover Cops (Japan).sfc"
+  }
+ ],
  "gf_score": null,
  "metascore": null,
  "cover_urls": [
