@@ -3,10 +3,13 @@
 
 Reads data/snes_merged.json and produces:
   public/index.json                  { "<slug>": "<Original Title>", ... }
+  public/catalog.json                [{slug,title,year,developer,...}] for the UI grid
   public/<slug>/data.json            full metadata; images referenced by filename
   public/<slug>/thumb.<ext>          box art thumbnail (Kaggle "small" set) if available
   public/<slug>/box.<ext>            full box image (Kaggle "large" set) if available
   public/.nojekyll                   keep GH Pages from Jekyll-processing 3k files
+
+public/index.html (the committed browser shell) is preserved, not regenerated.
 
 Usage:
     uv run python scripts/build_public.py
@@ -46,12 +49,17 @@ def unique_slug(slug: str, used: set[str]) -> str:
 def main() -> None:
     games = json.loads((DATA / "snes_merged.json").read_text())
 
-    if PUBLIC.exists():
-        shutil.rmtree(PUBLIC)
-    PUBLIC.mkdir()
+    # regenerate everything except committed static shell files (index.html)
+    for entry in PUBLIC.iterdir():
+        if entry.is_dir():
+            shutil.rmtree(entry)
+        elif entry.name in ("index.json", "catalog.json"):
+            entry.unlink()
+    PUBLIC.mkdir(exist_ok=True)
     (PUBLIC / ".nojekyll").touch()
 
     index: dict[str, str] = {}
+    catalog: list[dict] = []
     used: set[str] = set()
     with_thumb = with_box = 0
 
@@ -87,9 +95,21 @@ def main() -> None:
         (game_dir / "data.json").write_text(
             json.dumps(data, indent=1, ensure_ascii=False), encoding="utf-8"
         )
+        catalog.append({
+            "slug": slug,
+            "title": title,
+            "year": data.get("year"),
+            "developer": next(iter(data.get("developer") or []), None),
+            "publisher": next(iter(data.get("publisher") or []), None),
+            "genre": ", ".join(data.get("genre") or []),
+            "thumb": "thumb" in images,
+        })
 
     (PUBLIC / "index.json").write_text(
         json.dumps(index, indent=1, ensure_ascii=False), encoding="utf-8"
+    )
+    (PUBLIC / "catalog.json").write_text(
+        json.dumps(catalog, ensure_ascii=False), encoding="utf-8"
     )
 
     size = sum(f.stat().st_size for f in PUBLIC.rglob("*") if f.is_file())
