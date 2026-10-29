@@ -1,0 +1,27 @@
+# --- Data outputs (never commit crawled content) ---
+data/
+out/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.scrapy/
+
+# --- Node ---
+node_modules/
+package-lock.json
+
+# --- Env / secrets ---
+.env
+.env.*
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
