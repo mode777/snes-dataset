@@ -52,12 +52,33 @@ crawler UA does not whitelist you from those ranges. Ways forward:
 4. Not recommended: challenge-solving proxies (FlareSolverr etc.) — this is a
    deliberate block, and circumventing it risks the IP (yours) being banned.
 
+## Build the dataset
+
+Merge all sources into one dataset (no crawling needed):
+
+```sh
+uv run python scripts/download_sources.py          # metadata (~15 MB)
+uv run python scripts/download_sources.py --images # + 232 MB box art zip
+uv run python scripts/merge_sources.py             # -> data/snes_merged.json
+```
+
+Output (gitignored): `data/snes_merged.json` — one record per game (~3.0k),
+`data/merge_report.json` — row counts, field coverage, fuzzy-merge audit list.
+
+Box art sets (Kaggle/sergenkaraoglan, CC0): **small** = 1,772 PNGs, ~72 MB total
+(~41 KB, 140×186 thumbnails) vs **large** = 1,772 JPEGs, ~158 MB, inconsistent
+dimensions (mostly ~700×512 landscape scans, some portrait). The small set is
+the tidy one; both are joined by normalized title.
+
 ## Layout
 
 - `scrapy.cfg` — Scrapy project config
 - `snes_dataset/` — the Scrapy project (settings, items, pipelines)
 - `snes_dataset/spiders/` — one module per target site
-- `data/` — crawled output (gitignored)
+- `scripts/download_sources.py` — fetch all dataset sources into `data/`
+- `scripts/merge_sources.py` — merge sources by (fuzzy) title into one dataset
+- `docs/data-sources.md` — source comparison + licenses
+- `data/` — crawled/merged output (gitignored)
 - `.scrapy/` — HTTP cache for re-running parses offline (gitignored)
 
 ## Usage
@@ -85,5 +106,7 @@ See [docs/data-sources.md](docs/data-sources.md) — research on datasets/APIs (
 
 ## Status
 
-`gamefaqs_list` validated against the archived copy of page 1 (100/100 games
-parsed). Full 26-page live crawl pending a non-datacenter IP.
+Dataset pipeline working: 6 sources merged into ~3.0k SNES records
+(year 89%, developer 87%, publisher 78%, description 70%, box art 53%).
+GameFAQs spider validated but parked (IP block — see above). IGDB enrichment
+(screenshots, remaining gaps) planned next — needs a Twitch API key.
