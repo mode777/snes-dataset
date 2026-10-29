@@ -16,6 +16,23 @@ uv sync                 # creates .venv from uv.lock (Python 3.13, pinned)
 > musl build has a broken SOABI tag that breaks binary wheels (lxml etc.) on
 > Alpine. See [uv#16349](https://github.com/astral-sh/uv/issues/16349).
 
+## Public static dataset
+
+The merged dataset is published as a browsable static tree on GitHub Pages:
+
+**https://mode777.github.io/snes-dataset/**
+
+- `index.json` — `{ "<kebab-slug>": "<Original Title>" }` for all ~3.0k games
+- `<slug>/data.json` — full metadata for one game; images referenced by filename
+- `<slug>/thumb.png` / `<slug>/box.jpeg` — box art (small/large Kaggle sets), when available
+
+Rebuild with `uv run python scripts/build_public.py` (requires the merge step first).
+Deployed automatically by `.github/workflows/pages.yml` on every push to `main`.
+
+> Attribution: data compiled from Kaggle (sergenkaraoglan, thedevastator — CC0),
+> OpenVGDB, opengamedb and Wikipedia-derived sources. Box art remains the
+> copyright of its respective publishers; provided here for research/reference.
+
 ## GameFAQs list crawler
 
 `snes_dataset/spiders/gamefaqs_list.py` crawls the SNES "all games" overview
