@@ -17,7 +17,8 @@ GameFAQs direct crawling is effectively dead from any datacenter IP (see README)
 
 | Source | Type | Title | Box Art | Description | Year | Publisher/Dev | Genre | Screenshots | License / access | Freshness |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Kaggle sergenkaraoglan ×2 | dataset | ✅ | ✅ 3,544 files | ✅ | ✅ | ✅ both | ⚠️ tags | ❌ | **CC0** | 2023 (static) |
+| Kaggle sergenkaraoglan ×2 | dataset | ✅ | ✅ 3,544 files | ✅ | ✅ | ✅ both (100% fill) | ⚠️ tags | ❌ | **CC0** | 2023 (static) |
+| Kaggle thedevastator | dataset | ✅ 1,757 | ❌ | ❌ | ✅ **per-region (JP/NA/PAL)** | ✅ both (87%) | ❌ | ❌ | unverified — check page | 2022 (Wikipedia scrape) |
 | IGDB (Twitch) | API | ✅ | ✅ | ✅ | ✅ | ✅ both | ✅ | ✅ | free non-commercial, 4 req/s | live |
 | OpenVGDB v29 | SQLite | ✅ 3,554 SNES | ✅ 75% (GameFAQs CDN URLs) | ✅ 81% | ✅ 81% | ⚠️ dev 81%, **publisher 0%** (embedded in desc text) | ✅ 81% | ❌ | unclear (open issue #43) | 2021 (retro data barely rots) |
 | Nostalgia Lab / NostalgiaDB | SQLite + API | ✅ | via presigned API URLs | ✅ + long desc | ✅ (per-region) | ✅ both | ✅ | ✅ video | free, login for downloads | active (2025+) |
@@ -34,12 +35,29 @@ GameFAQs direct crawling is effectively dead from any datacenter IP (see README)
 
 ### Kaggle pair (sergenkaraoglan) — best ready-made base
 - `super-nintendo-entertainment-system-games`: `snes.csv` (2 MB) — columns:
-  `Title, Publisher, Year, Languages, Developer, Players, Tags, Description, About`. ~1.7k+ rows.
+  `Title, Publisher, Year, Languages, Developer, Players, Tags, Description, About`. 1,773 rows,
+  **Developer + Publisher filled on 100% of rows** (verified).
 - `super-nintendo-entertainment-system-box-art`: 232 MB, 3,544 images,
   `game_covers_SNES-small/` ("Cover for <Title>.png") and `game_covers_SNES_large/`
   ("<Title>.jpeg"). Join to CSV by normalized title (strip trailing spaces, case-fold —
   e.g. "seaQuest DSV .jpeg" has a stray space). CC0.
 - Anonymous download works: `https://www.kaggle.com/api/v1/datasets/download/<owner>/<slug>`
+
+### Kaggle thedevastator/snes-games-a-comprehensive-list-of-games — regional dates
+A bundle, not one file (verified by download):
+- `df_1.csv` (1,757 rows): scrape of **Wikipedia's "List of SNES games"** —
+  `Title, Developer(s), Publisher(s)` + three `Release date` columns (Japan / North
+  America / PAL — ⚠️ duplicate headers; access by column index, `csv.DictReader`
+  silently keeps only the last). 87% have both dev+pub; the rest are mostly
+  unreleased-JP rows with publisher only. Multi-value cells use odd separators.
+- `df_2.csv` (4 rows): competition/special releases. `df_3.csv` (46 rows):
+  unlicensed/aftermarket with regions. `df_4`/`df_5`: junk fragments.
+- Also bundles the same `snes.csv` as sergenkaraoglan.
+- **Value-add:** per-region release dates + Wikipedia-canonical titles + citations.
+- **Caveat:** exact-title overlap with sergenkaraoglan is only ~49% (different naming
+  conventions, e.g. JP romanizations) — treat as an enrichment source joined by
+  fuzzy title+year, not a drop-in merge. License not verified (Kaggle page is
+  JS-rendered) — check before redistribution.
 
 ### IGDB — best API (recommended for screenshots + completeness)
 - Auth: Twitch developer app (client credentials), token lives ~60 days.
@@ -81,11 +99,12 @@ GameFAQs direct crawling is effectively dead from any datacenter IP (see README)
 
 ## Suggested pipeline
 
-1. Ingest Kaggle snes.csv + box art (CC0 base).
-2. IGDB pull for SNES (platform 19) → screenshots + missing publishers/genres.
-3. OpenVGDB for cover fallback + ROM-hash joins.
-4. (Optional) SNES Central for serials/box scans; opengamedb for scores.
-5. Join keys: normalized title + year; keep per-source IDs for re-runs.
+1. Ingest Kaggle snes.csv + box art (CC0 base; already has dev+pub on every row).
+2. Add thedevastator df_1 for per-region (JP/NA/PAL) release dates.
+3. IGDB pull for SNES (platform 19) → screenshots + missing publishers/genres.
+4. OpenVGDB for cover fallback + ROM-hash joins.
+5. (Optional) SNES Central for serials/box scans; opengamedb for scores.
+6. Join keys: normalized title + year; keep per-source IDs for re-runs.
 
 **License caveat:** CC0 covers the *dataset packaging*, not the underlying box art
 (copyrighted by publishers). Fine for personal/research use; be careful
