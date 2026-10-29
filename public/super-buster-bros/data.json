@@ -52,5 +52,8 @@
  "sources": [
   "opengamedb",
   "openvgdb"
- ]
+ ],
+ "images": {
+  "snap": "snap.png"
+ }
 }

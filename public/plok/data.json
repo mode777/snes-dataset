@@ -94,6 +94,7 @@
  ],
  "images": {
   "thumb": "thumb.png",
-  "box": "box.jpeg"
+  "box": "box.jpeg",
+  "snap": "snap.png"
  }
 }

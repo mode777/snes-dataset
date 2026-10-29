@@ -17,6 +17,7 @@ served as a simple JSON "API" on GitHub Pages.
 | `/by-crc.json` | `{ "<CRC32>": "<slug>" }` — exact ROM identity (uppercase hex) |
 | `/<slug>/data.json` | full metadata incl. `roms[]` checksums |
 | `/<slug>/thumb.png`, `/<slug>/box.jpeg` | box art, when available (1,645 games) |
+| `/<slug>/snap.png` | in-game screenshot (libretro), when available (2,133 games) |
 
 `index.html` is a dependency-free browser over this API: search, cover grid,
 filters, detail views with `#slug` deep links. Full schema, usage examples and
@@ -29,7 +30,9 @@ uv sync                                             # Python 3.13, pinned (.pyth
 uv run python scripts/download_sources.py           # metadata (~15 MB)
 uv run python scripts/download_sources.py --images  # + 232 MB box art zip
 uv run python scripts/merge_sources.py              # -> data/snes_merged.json
-uv run python scripts/build_public.py               # -> public/ (gitignored? no — committed)
+uv run python scripts/build_public.py               # -> public/ (indexes, data.json, images)
+uv run python scripts/download_snaps.py             # -> data/snaps/ (libretro screenshots)
+uv run python scripts/build_public.py               # again: copies snaps into public/
 ```
 
 Outputs (all in gitignored `data/`): `snes_merged.json` (one record per game),
@@ -46,6 +49,7 @@ dimensions. Both are kept and joined by normalized title.
 - `scripts/download_sources.py` — fetch all dataset sources into `data/`
 - `scripts/merge_sources.py` — merge sources by (fuzzy) title into one dataset
 - `scripts/build_public.py` — build the `public/` static tree + indexes
+- `scripts/download_snaps.py` — fetch libretro screenshots into `data/snaps/`
 - `public/index.html` — the committed browser UI shell
 - `docs/API.md` — API usage + data schema (served as `/README.md`)
 - `docs/data-sources.md` — source comparison + licenses

@@ -68,7 +68,7 @@ def main() -> None:
     by_crc: dict[str, str] = {}         # CRC32 (8-char uppercase hex) -> slug
     crc_collisions = 0
     used: set[str] = set()
-    with_thumb = with_box = 0
+    with_thumb = with_box = with_snap = 0
 
     for game in sorted(games, key=lambda g: (g["title"] or "").casefold()):
         title = game["title"]
@@ -100,6 +100,11 @@ def main() -> None:
                 shutil.copy2(src, game_dir / dest)
                 images["box"] = dest
                 with_box += 1
+        snap = DATA / "snaps" / f"{slug}.png"
+        if snap.exists():
+            shutil.copy2(snap, game_dir / "snap.png")
+            images["snap"] = "snap.png"
+            with_snap += 1
         if images:
             data["images"] = images
 
@@ -141,7 +146,7 @@ def main() -> None:
         print(f"  by-crc collisions (first slug wins): {crc_collisions}")
 
     size = sum(f.stat().st_size for f in PUBLIC.rglob("*") if f.is_file())
-    print(f"games: {len(index)}  (thumb: {with_thumb}, box: {with_box})")
+    print(f"games: {len(index)}  (thumb: {with_thumb}, box: {with_box}, snap: {with_snap})")
     print(f"public/ size: {size / 1024 / 1024:.1f} MB")
 
 

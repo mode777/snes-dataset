@@ -56,5 +56,8 @@
   "wikipedia",
   "opengamedb",
   "openvgdb"
- ]
+ ],
+ "images": {
+  "snap": "snap.png"
+ }
 }

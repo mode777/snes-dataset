@@ -34,5 +34,8 @@
  ],
  "sources": [
   "openvgdb"
- ]
+ ],
+ "images": {
+  "snap": "snap.png"
+ }
 }

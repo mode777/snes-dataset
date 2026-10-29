@@ -56,5 +56,8 @@
  "sources": [
   "wikipedia_unlicensed",
   "openvgdb"
- ]
+ ],
+ "images": {
+  "snap": "snap.png"
+ }
 }

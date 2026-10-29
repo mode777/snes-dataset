@@ -50,5 +50,8 @@
  "sources": [
   "wikipedia",
   "openvgdb"
- ]
+ ],
+ "images": {
+  "snap": "snap.png"
+ }
 }

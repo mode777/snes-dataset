@@ -58,5 +58,8 @@
   "snes_csv",
   "opengamedb",
   "openvgdb"
- ]
+ ],
+ "images": {
+  "snap": "snap.png"
+ }
 }

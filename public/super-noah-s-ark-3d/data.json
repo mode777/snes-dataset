@@ -53,5 +53,8 @@
   "opengamedb",
   "openvgdb",
   "wikipedia_unlicensed"
- ]
+ ],
+ "images": {
+  "snap": "snap.png"
+ }
 }

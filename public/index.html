@@ -229,10 +229,15 @@ async function route() {
 
 function renderDetail(slug, d) {
   const img = d.images || {};
-  const art = (img.thumb || img.box)
-    ? `<img src="${esc(slug)}/${esc(img.thumb || img.box)}" alt="${esc(d.title)} box art"
-           onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'cover ph',dataset:{initials:'?'}}))">`
-    : "";
+  const artParts = [];
+  if (img.box || img.thumb) {
+    artParts.push(`<img src="${esc(slug)}/${esc(img.box || img.thumb)}" alt="${esc(d.title)} box art">`);
+  }
+  if (img.snap) {
+    artParts.push(`<img src="${esc(slug)}/snap.png" alt="${esc(d.title)} screenshot"
+      style="margin-top:10px">`);
+  }
+  const art = artParts.join("");
   const pills = [
     ...[...new Set([...(d.genre || []), ...(d.tags || [])])].map((g) => `<span class="pill">${esc(g)}</span>`),
   ].join("");

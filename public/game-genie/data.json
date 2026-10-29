@@ -39,5 +39,8 @@
  "cover_urls": [],
  "sources": [
   "openvgdb"
- ]
+ ],
+ "images": {
+  "snap": "snap.png"
+ }
 }

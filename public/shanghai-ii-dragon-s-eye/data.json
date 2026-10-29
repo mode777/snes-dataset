@@ -57,5 +57,8 @@
  "sources": [
   "snes_csv",
   "openvgdb"
- ]
+ ],
+ "images": {
+  "snap": "snap.png"
+ }
 }
