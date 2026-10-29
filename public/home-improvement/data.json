@@ -1,0 +1,43 @@
+{
+ "title": "Home Improvement",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-11"
+ },
+ "developer": [
+  "Absolute Entertainment"
+ ],
+ "publisher": [
+  "Absolute Entertainment"
+ ],
+ "genre": [
+  "Action"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "platform",
+  "sideways",
+  "tv"
+ ],
+ "description": "Tim \"The Tool Man\" Taylor hammers his way into the Super Nintendo.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.35,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/dd4f3e93-0a3b-4d79-ac6b-6c4486c126f3.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

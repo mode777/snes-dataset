@@ -1,0 +1,45 @@
+{
+ "title": "P.T.O.: Pacific Theater of Operations",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "September 1993"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Historic"
+ ],
+ "tags": [
+  "historical",
+  "strategy",
+  "tactic",
+  "wargame",
+  "ww2"
+ ],
+ "description": "The first game in KOEI's World at War strategy series on the SNES and Genesis. The game is set during WWII and allows players to assume either the Imperial Japanese Navy or the US Navy.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/6/8/47868_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

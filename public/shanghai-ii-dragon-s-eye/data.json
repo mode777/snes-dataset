@@ -1,0 +1,45 @@
+{
+ "title": "Shanghai II: Dragon's Eye",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "usa": "February 1993",
+  "europe": "February 1993"
+ },
+ "developer": [
+  "Activision",
+  "Genki"
+ ],
+ "publisher": [
+  "Activision"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "boardgame",
+  "shangai",
+  "strategy",
+  "tactic",
+  "tileremoval"
+ ],
+ "description": "A Mahjong Solitaire game released on multiple platforms. It is the sequel to Shanghai, which was also published for many consoles and home computers.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/5/9/48059_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/0/48060_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/0/48060_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

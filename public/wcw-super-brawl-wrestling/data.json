@@ -1,0 +1,43 @@
+{
+ "title": "WCW Super Brawl Wrestling",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Beam Software"
+ ],
+ "publisher": [
+  "FCI"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "Wrestling"
+ ],
+ "tags": [
+  "isometric",
+  "sports",
+  "wrestling"
+ ],
+ "description": "A WCW-affiliated professional wrestling game for the Super Nintendo released in late 1994. The third World Championship Wrestling game, it is named after the yearly SuperBrawl pay-per-view.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/7/4/51474_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

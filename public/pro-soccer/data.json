@@ -1,0 +1,32 @@
+{
+ "title": "Pro Soccer",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "April 1992"
+ },
+ "developer": [
+  "C-Lab"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Arcade"
+ ],
+ "tags": [],
+ "description": "World League Soccer is a Sports game, developed by C-Lab and published by Imagineer,which was released in Japan in 1991.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/0/6/51506_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/6/51506_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

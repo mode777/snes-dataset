@@ -1,0 +1,33 @@
+{
+ "title": "Super Suzume Gou",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "Office Koukan"
+ ],
+ "publisher": [
+  "Victor"
+ ],
+ "genre": [],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A mahjong game for the Super Famicom from Victor Entertainment.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

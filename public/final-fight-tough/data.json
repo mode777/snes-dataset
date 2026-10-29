@@ -1,0 +1,30 @@
+{
+ "title": "Final Fight Tough",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "January 1996"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [],
+ "description": "Final Fight 3 is an Action game, developed and published by Capcom,which was released in Japan in 1995.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/9/6/50696_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/9/6/50696_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

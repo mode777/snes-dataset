@@ -1,0 +1,60 @@
+{
+ "title": "Animaniacs",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "November 1994",
+  "north_america": "June 1, 1994",
+  "pal": "August 1, 1994",
+  "first_release": "1994-11",
+  "usa": "November 1994",
+  "europe": "November 1994"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "cartoon",
+  "collect",
+  "horizontal",
+  "platform",
+  "puzzle",
+  "sideways"
+ ],
+ "description": "A licensed platformer game released for both the SNES and the Genesis systems. Both games, although fairly different, allows the player to switch between the Warner Brothers (and Warner Sister) at will in order to overcome obstacles.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.1,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/8bd40b26-2f22-4659-bc76-9b4152a000fb.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/3/22493_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/3/22493_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/2/22492_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/2/22492_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/4/22494_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/4/22494_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

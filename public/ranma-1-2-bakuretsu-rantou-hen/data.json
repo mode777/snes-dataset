@@ -1,0 +1,31 @@
+{
+ "title": "Ranma 1-2: Bakuretsu Rantou Hen",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "November 1993"
+ },
+ "developer": [
+  "Atelier Double"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Ranma 1/2: Hard Battle is an Action game, developed by Atelier Double and published by NCS,which was released in Japan in 1992.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/4/9/51049_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/4/9/51049_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "title": "Bishoujo Senshi Sailor Moon S: Jougai Rantou! Shuyaku Soudatsusen",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Angel"
+ ],
+ "publisher": [
+  "Angel"
+ ],
+ "genre": [],
+ "tags": [
+  "anime",
+  "cute",
+  "fighting",
+  "horizontal",
+  "manga",
+  "sideways"
+ ],
+ "description": "A fighting game featuring the Sailor Soldiers from the early Sailor Moon S story arc. All the Sailor Senshi (including Chibi Moon) are playable besides Sailor Saturn. The Senshi fight between themselves to determine their new leader.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

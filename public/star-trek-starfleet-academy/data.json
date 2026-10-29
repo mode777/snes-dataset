@@ -1,0 +1,36 @@
+{
+ "title": "Star Trek: Starfleet Academy",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "Interplay"
+ ],
+ "publisher": [
+  "Interplay"
+ ],
+ "genre": [],
+ "tags": [
+  "flightsimulator",
+  "scifi",
+  "simulation",
+  "spaceship",
+  "tv"
+ ],
+ "description": "A Star Trek game for the SNES and Sega 32X released in 1995 that focuses on organizing a bridge crew in starship battles. The player must graduate Starfleet Academy via a series of virtual missions.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "title": "Williams Arcade's Greatest Hits",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "October 1996",
+  "pal": "January 8, 1996",
+  "usa": "October 1996",
+  "europe": "October 1996"
+ },
+ "developer": [
+  "Digital Eclipse Software",
+  "Digital Eclipse"
+ ],
+ "publisher": [
+  "Midway",
+  "Williams Entertainment"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Compilation"
+ ],
+ "tags": [
+  "arcade",
+  "compilation",
+  "horizontal",
+  "shooter",
+  "sideways"
+ ],
+ "description": "A compilation of six popular titles (four in some versions) from the early era of arcade gaming, all of which from Williams.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/1/6/50516_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/6/50516_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/7/50517_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

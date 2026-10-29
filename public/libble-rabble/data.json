@@ -1,0 +1,43 @@
+{
+ "title": "Libble Rabble",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Sep 22, 1994"
+ },
+ "developer": [
+  "Namco"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "arcade",
+  "puzzle"
+ ],
+ "description": "An early Arcade game of Namco's that was originally released in 1983. The two woodsmen Libble and Rabble set out to capture delicious Mushlins, but must contend with the Hoodlins and other creatures in the forest.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/9/2/296192_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/9/2/296192_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

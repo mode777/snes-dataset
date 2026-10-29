@@ -1,0 +1,51 @@
+{
+ "title": "The Lawnmower Man",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-11",
+  "usa": "November 1993",
+  "europe": "November 1993"
+ },
+ "developer": [
+  "Sales Curve",
+  "The Sales Curve"
+ ],
+ "publisher": [
+  "THQ"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "firstperson",
+  "horizontal",
+  "intoscreen",
+  "movie",
+  "sideways"
+ ],
+ "description": "A multi-platform console game based on the movie of the same name. It mixed a variety of different gametypes into one game.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 2.79,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/ec2faf29-9819-4945-99b3-f3a047fd3289.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/9/1/47691_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/9/1/47691_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

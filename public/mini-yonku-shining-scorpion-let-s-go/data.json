@@ -1,0 +1,43 @@
+{
+ "title": "Mini Yonku Shining Scorpion - Let's & Go!!",
+ "aliases": [
+  "Mini Yonku Shining Scorpion: Let's & Go!!"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Dec 20, 1996"
+ },
+ "developer": [
+  "KID Corp.",
+  "KID"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Kart"
+ ],
+ "tags": [
+  "racing",
+  "topdown"
+ ],
+ "description": "Top-down isometric driving game based on manga which is in turn based on the Mini 4WD miniature car toyline in Japan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/7/0/31970_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/7/0/31970_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

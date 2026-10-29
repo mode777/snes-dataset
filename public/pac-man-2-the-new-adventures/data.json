@@ -1,0 +1,52 @@
+{
+ "title": "Pac-Man 2: The New Adventures",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-09",
+  "france": "September 1994",
+  "germany": "September 1994",
+  "usa": "September 1994",
+  "europe": "September 1994"
+ },
+ "developer": [
+  "Namco"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "adventure",
+  "puzzlesolving",
+  "sideways"
+ ],
+ "description": "A side-scrolling adventure game starring the eponymous arcade hero as he sets out to fetch things for his family. Instead of controlling him directly, players help guide the autonomous hero using a slingshot.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": 3.23,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/126c8a78-43e5-48e8-95df-751062a87472.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/7/2/47872_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/7/2/47872_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/7/3/47873_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/7/3/47873_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

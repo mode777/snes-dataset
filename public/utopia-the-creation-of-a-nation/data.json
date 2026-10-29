@@ -1,0 +1,53 @@
+{
+ "title": "Utopia: The Creation of a Nation",
+ "aliases": [
+  "Utopia: The Creation of a Nation †"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "October 29, 1993",
+  "north_america": "September 1993",
+  "pal": "August 1994",
+  "usa": "September 1993",
+  "europe": "September 1993"
+ },
+ "developer": [
+  "Gremlin",
+  "Jaleco",
+  "Gremlin Interactive"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [
+  "Strategy",
+  "General"
+ ],
+ "tags": [
+  "isometric",
+  "management",
+  "multidirectional",
+  "simulation",
+  "strategy"
+ ],
+ "description": "A sci-fi themed god-sim/creation game in which the player must build colonies on distant planets.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/6/4/51464_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

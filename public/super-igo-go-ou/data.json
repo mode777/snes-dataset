@@ -1,0 +1,46 @@
+{
+ "title": "Super Igo - Go Ou",
+ "aliases": [
+  "Super Igo Go Ou",
+  "Super Igo: Go Ou"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Apr8, 1994"
+ },
+ "developer": [
+  "Naxat Soft"
+ ],
+ "publisher": [
+  "Naxat Soft"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "go"
+ ],
+ "description": "A Go game for the Super Famicom by Naxat Soft.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/2/3/306923_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/3/306923_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

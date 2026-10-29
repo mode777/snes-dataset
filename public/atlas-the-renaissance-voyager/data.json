@@ -1,0 +1,45 @@
+{
+ "title": "Atlas, The - Renaissance Voyager",
+ "aliases": [
+  "The Atlas: Renaissance Voyager"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 24, 1995"
+ },
+ "developer": [
+  "Artdink"
+ ],
+ "publisher": [
+  "Pack-In-Video"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "historical",
+  "manager",
+  "simulation"
+ ],
+ "description": "The Atlas is a multiplatform strategy/simulation video game. Originally released in 1991 for the NEC PC-98, it was later ported to other console systems.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/9/1/296291_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/9/1/296291_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

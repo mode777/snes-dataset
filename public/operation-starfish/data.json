@@ -1,0 +1,35 @@
+{
+ "title": "Operation Starfish",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Millennium"
+ ],
+ "publisher": [
+  "U.S. Gold"
+ ],
+ "genre": [],
+ "tags": [
+  "animalprotagonist",
+  "platform",
+  "sideways",
+  "stomp"
+ ],
+ "description": "Sequel to Codename RoboCod with a bigger emphasis on speed and inertia, Operation Starfish has many routes to go through the game taking many cues from Super Mario World.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

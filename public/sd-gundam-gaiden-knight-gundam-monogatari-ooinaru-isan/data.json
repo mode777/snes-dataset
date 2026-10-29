@@ -1,0 +1,49 @@
+{
+ "title": "SD Gundam Gaiden - Knight Gundam Monogatari - Ooinaru Isan",
+ "aliases": [
+  "SD Gundam Gaiden: Knight Gundam Monogatari: Ooinaru Isan"
+ ],
+ "year": 1991,
+ "release_dates": {
+  "japan": "Dec 21, 1991"
+ },
+ "developer": [
+  "TOSE"
+ ],
+ "publisher": [
+  "Angel"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "mech",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "Role-Playing video game released by Angel in 1991 for the Super Famicom. It is based in the SD Gundam universe, a spin-off of the popular mecha anime franchise.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/7/0/303870_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/7/0/303870_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

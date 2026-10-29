@@ -1,0 +1,42 @@
+{
+ "title": "Nobunaga no Yabou - Tenshouki",
+ "aliases": [
+  "Nobunaga no Yabou: Tenshouki"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "January 26, 1996"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [],
+ "tags": [
+  "historical",
+  "strategy",
+  "tactic",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "Sengoku-era strategy simulation game developed by Koei in 1994 and part of their \"Nobunaga's Ambition\" series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

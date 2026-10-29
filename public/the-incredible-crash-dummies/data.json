@@ -1,0 +1,49 @@
+{
+ "title": "The Incredible Crash Dummies",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-10",
+  "europe": "October 1993",
+  "usa": "October 1993"
+ },
+ "developer": [
+  "Gray Matter"
+ ],
+ "publisher": [
+  "LJN"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "collector",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "The Incredible Crash Dummies capitalizes on the early '90s popularity of the Crash Dummy characters. Players are able to smash and trash the Dummies, running them through test tracks and stunts.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 2.71,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/2cd4e344-f8f2-4bf1-8572-9782841c46c9.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/5/9/30959_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

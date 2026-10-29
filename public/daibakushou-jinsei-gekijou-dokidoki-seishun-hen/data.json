@@ -1,0 +1,45 @@
+{
+ "title": "Daibakushou Jinsei Gekijou: Dokidoki Seishun Hen",
+ "aliases": [
+  "Daibakushou Jinsei Gekijou: Dokidoki Seishun"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "July 30, 1993"
+ },
+ "developer": [
+  "TAITO",
+  "Act Japan"
+ ],
+ "publisher": [
+  "TAITO"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame"
+ ],
+ "description": "A Super Famicom virtual board game that plays like the Game of Life. The second game in the Daibakushou Jinsei Gekijou series, it focuses on the trials and tribulations of being a teenager.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/9/5/312495_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/5/312495_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "title": "The Addams Family",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "March 1992",
+  "north_america": "March 10, 1992",
+  "pal": "1992",
+  "first_release": "1992-03",
+  "europe": "March 1992",
+  "usa": "March 1992"
+ },
+ "developer": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "publisher": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "fun",
+  "humour",
+  "movie",
+  "multidirectional",
+  "platform",
+  "scrolling"
+ ],
+ "description": "A 2D platformer loosely based on the film of the same name. The player controls Gomez Addams as he attempts to save his family from their no-good lawyer Tully Alford.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": 3.23,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/9b1982cc-4922-4698-878c-06d923efaf57.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/6/22416_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/6/22416_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/4/22414_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/5/22415_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

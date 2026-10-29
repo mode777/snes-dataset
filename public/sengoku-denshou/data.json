@@ -1,0 +1,46 @@
+{
+ "title": "Sengoku Denshou",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Canceled"
+ },
+ "developer": [
+  "SNK",
+  "Data East"
+ ],
+ "publisher": [
+  "Data East"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "arcade",
+  "beatemup",
+  "fighter",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "Two chosen fighters are sent to destroy an evil empire from the spirit world that is trying to conquer modern-day Earth in SNK's first beat 'em up for the Neo Geo.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/1/8/48818_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/1/8/48818_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

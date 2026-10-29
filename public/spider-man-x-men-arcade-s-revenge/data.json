@@ -1,0 +1,43 @@
+{
+ "title": "Spider-Man & X-Men: Arcade's Revenge",
+ "aliases": [
+  "Spider-Man / X-Men: Arcade's Revenge",
+  "Spider-Man-X-Men: Arcade's Revenge"
+ ],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1992-11"
+ },
+ "developer": [
+  "Software Creations"
+ ],
+ "publisher": [
+  "LJN"
+ ],
+ "genre": [
+  "Action"
+ ],
+ "tags": [
+  "action",
+  "comic",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "Spider-Man and the X-Men: Arcade's Revenge is an early 90s action game where a group of the strongest superheroes attempt to escape one of comicdom's weakest supervillains.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.69,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/7/3/1/46731_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Shin Megami Tensei if...",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Oct 28, 1994",
+  "first_release": "1994-10-28"
+ },
+ "developer": [
+  "ATLUS"
+ ],
+ "publisher": [
+  "ATLUS"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "adventure",
+  "dungeoncrawler",
+  "fantasy",
+  "firstperson",
+  "magic",
+  "rpg"
+ ],
+ "description": "Shin Megami Tensei: if... is a Super Famicom main series Shin Megami Tensei series in which students become trapped in their high school after a power-hungry student connects the campus to five demonic realms.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.02,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/0a71b74e-aa97-4683-a113-05ec0bea51c1.png",
+  "https://gamefaqs.gamespot.com/a/box/5/2/0/20520_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/0/20520_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "title": "F-1 Grand Prix - Part II",
+ "aliases": [
+  "F-1 Grand Prix Part II",
+  "F-1 Grand Prix: Part II"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Feb 26, 1993"
+ },
+ "developer": [
+  "Video System"
+ ],
+ "publisher": [
+  "Video System"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Formula One"
+ ],
+ "tags": [
+  "arcade",
+  "formulaone",
+  "racing",
+  "topdown",
+  "vertical"
+ ],
+ "description": "Formula One video game produced by Video System, released in 1992 for the Arcade and in 1993 for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/7/0/296170_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/0/296170_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

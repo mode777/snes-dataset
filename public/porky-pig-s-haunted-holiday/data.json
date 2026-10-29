@@ -1,0 +1,53 @@
+{
+ "title": "Porky Pig's Haunted Holiday",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "October 1995",
+  "pal": "November 1995",
+  "first_release": "1995-10",
+  "usa": "October 1995",
+  "europe": "October 1995"
+ },
+ "developer": [
+  "Phoenix Interactive Entertainment"
+ ],
+ "publisher": [
+  "Sunsoft",
+  "Acclaim Entertainment / Sunsoft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cartoon",
+  "horizontal",
+  "jumper",
+  "loonytunes",
+  "platform",
+  "sideways"
+ ],
+ "description": "Guide Porky Pig through his nightmares in this SNES side-scrolling game.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.11,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/1b65805c-e158-4c92-8206-c2fa3bdd5a33.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/4/51034_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/4/51034_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/5/51035_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/5/51035_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Dragon Quest VI: Maboroshi no Daichi",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec9, 1995",
+  "first_release": "1995-12-09"
+ },
+ "developer": [
+  "Heart Beat",
+  "Heartbeat"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "Dragon Quest VI: Realms of Revelation is the last in the Zenithia Trilogy of Dragon Quest remakes for the Nintendo DS. This was the first time in little over 15 years that Dragon Quest VI has made it to the United States in any form from the original Japanese SC.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.08,
+ "metascore": 78,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d9109a08-87ac-409e-b714-559ab162d923.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/0/50650_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/0/50650_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

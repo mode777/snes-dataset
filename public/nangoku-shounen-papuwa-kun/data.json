@@ -1,0 +1,50 @@
+{
+ "title": "Nangoku Shounen Papuwa-kun",
+ "aliases": [
+  "Nankoku Shōnen Papuwa-kun"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "March 25, 1994"
+ },
+ "developer": [
+  "Daft"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "brawler",
+  "horizontal",
+  "jumper",
+  "manga",
+  "platform",
+  "sideways"
+ ],
+ "description": "Brawler platformer game developed by Daft and published by Enix Corporation in 1994 for both the Game Boy and Super Famicom. It is based on the first arc of the Nangoku Shounen Papuwa-kun manga and anime.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/3/2/306332_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/3/2/306332_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Eek! The Cat",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "August 1, 1994",
+  "europe": "August 1994",
+  "usa": "August 1994"
+ },
+ "developer": [
+  "CTA Developments",
+  "CTA"
+ ],
+ "publisher": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "animalprotagonist",
+  "cartoon",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "A 1994 SNES action-platformer based on Savage Steve Holland's animated series about a selfless and luckless purple cat. Eek must protect his human owners from harm, usually putting himself in danger in the process.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/7/2/50672_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

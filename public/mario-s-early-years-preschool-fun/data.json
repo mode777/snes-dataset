@@ -1,0 +1,43 @@
+{
+ "title": "Mario's Early Years: Preschool Fun",
+ "aliases": [
+  "Mario's Early Years! Preschool Fun"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Software Toolworks",
+  "The Software Toolworks"
+ ],
+ "publisher": [
+  "Nintendo",
+  "Mindscape"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Edutainment"
+ ],
+ "tags": [
+  "educational",
+  "multitype"
+ ],
+ "description": "An educational game starring Mario that takes place across several worlds, each for a specific area of learning.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/0/0/50900_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

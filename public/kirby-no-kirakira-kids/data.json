@@ -1,0 +1,47 @@
+{
+ "title": "Kirby no Kirakira Kids",
+ "aliases": [],
+ "year": 1998,
+ "release_dates": {
+  "japan": "Jun 25, 1999"
+ },
+ "developer": [
+  "HAL Laboratory",
+  "HAL Labs"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "fallingblocks",
+  "puzzle",
+  "singlescreen",
+  "tilearrangement",
+  "tileremoval"
+ ],
+ "description": "Collect stars by placing them between two matching friends in this Tetris-like block puzzler.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/1/0/30510_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/0/30510_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "title": "Soul & Sword",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Nov 30, 1993"
+ },
+ "developer": [
+  "Pandora Box"
+ ],
+ "publisher": [
+  "Zamuse"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A Japanese RPG for the Super Famicom developed by Pandora's Box. The player-named hero is free to explore the world of Vulcannon and take on quests in any order.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/4/1/31741_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/1/31741_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

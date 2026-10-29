@@ -1,0 +1,52 @@
+{
+ "title": "Troy Aikman NFL Football",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "August 1994",
+  "europe": "August 1994",
+  "usa": "August 1994"
+ },
+ "developer": [
+  "Tradewest",
+  "Leland Interactive Media"
+ ],
+ "publisher": [
+  "Williams",
+  "Tradewest"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [
+  "americanfootball",
+  "angle",
+  "behind",
+  "sports",
+  "vertical"
+ ],
+ "description": "An (American) football game released in August 1994 for the Atari Jaguar, SNES and Genesis. Part of the short-lived Tradewest Sports brand.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/2/2/48322_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/2/2/48322_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

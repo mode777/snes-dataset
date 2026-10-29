@@ -1,0 +1,50 @@
+{
+ "title": "Mighty Morphin Power Rangers: The Fighting Edition",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "September 1995",
+  "pal": "1995",
+  "first_release": "1995-09",
+  "usa": "September 1995",
+  "europe": "September 1995"
+ },
+ "developer": [
+  "Natsume"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "fighting",
+  "sideways",
+  "tv"
+ ],
+ "description": "A fighting game adaptation of the live-action superhero television series, focused solely on the show's giant mecha/monster fights.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.54,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/61ff0cbf-28fe-44cd-8cfb-2f227869dfc1.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/3/7/50937_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

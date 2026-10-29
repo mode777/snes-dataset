@@ -1,0 +1,46 @@
+{
+ "title": "War 2410",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "December 1995",
+  "usa": "December 1995"
+ },
+ "developer": [
+  "Advanced Productions"
+ ],
+ "publisher": [
+  "Advanced Productions"
+ ],
+ "genre": [
+  "Strategy",
+  "General"
+ ],
+ "tags": [
+  "mech",
+  "strategy",
+  "tactic",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A turn-based strategy game released for the SNES. Genetically enhanced soldiers have turned against humanity, creating a four-way struggle for the planet.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/6/6/51466_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

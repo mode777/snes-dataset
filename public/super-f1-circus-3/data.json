@@ -1,0 +1,48 @@
+{
+ "title": "Super F1 Circus 3",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jul 15, 1994"
+ },
+ "developer": [
+  "Cream"
+ ],
+ "publisher": [
+  "Nichibutsu"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Formula One"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "formulaone",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "The third official game in Nichibutsu/Nihan Bussan's series of Super Famicom Formula One racing games.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/4/5/306945_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/5/306945_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "title": "F-Zero",
+ "aliases": [
+  "F-Zero †"
+ ],
+ "year": 1990,
+ "release_dates": {
+  "japan": "Aug 13, 1991",
+  "north_america": "August 23, 1991",
+  "pal": "April 11, 1992",
+  "first_release": "1991-08-13",
+  "europe": "Aug 13, 1991",
+  "usa": "Aug 13, 1991"
+ },
+ "developer": [
+  "Nintendo"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Racing",
+  "Driving",
+  "Futuristic"
+ ],
+ "tags": [
+  "behind",
+  "futuristic",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "Nintendo's flagship futuristic racing game featuring the raw new power of \"Mode 7\" technology, which gives players the illusion of dangerous high-speed racing at over 200 mph!",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.85,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/1f2b2e67-742d-464e-8f3f-f6b255916a3f.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/3/0/50730_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/3/0/50730_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/3/3/50733_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/3/3/50733_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/3/2/50732_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/3/2/50732_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

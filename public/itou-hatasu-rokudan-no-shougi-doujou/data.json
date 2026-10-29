@@ -1,0 +1,39 @@
+{
+ "title": "Itou Hatasu Rokudan no Shougi Doujou",
+ "aliases": [
+  "Itou Haka Rokudan no Shougi Doujou"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "February 4, 1994"
+ },
+ "developer": [
+  "ASK"
+ ],
+ "publisher": [
+  "ASK"
+ ],
+ "genre": [],
+ "tags": [
+  "boardgame",
+  "shogi"
+ ],
+ "description": "A 1994 Super Famicom Shogi game. It features the likeness of Itou Haka, a Rokudan (sixth-tier expert) shogi player.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

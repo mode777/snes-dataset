@@ -1,0 +1,44 @@
+{
+ "title": "Ultra Baseball Jitsumei Ban 2",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 22, 1994"
+ },
+ "developer": [
+  "Culture Brain"
+ ],
+ "publisher": [
+  "Culture Brain"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "baseball",
+  "behind",
+  "sports"
+ ],
+ "description": "A baseball game for the Super Famicom and a sequel to the Baseball Simulator 1.000 games.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/2/6/307026_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

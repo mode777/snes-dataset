@@ -1,0 +1,39 @@
+{
+ "title": "Jutei Senki",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "August 27, 1993"
+ },
+ "developer": [
+  "TamTam",
+  "Tam Tam"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [],
+ "tags": [
+  "isometric",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "A fantasy-themed strategy game developed by TamTam in 1993.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

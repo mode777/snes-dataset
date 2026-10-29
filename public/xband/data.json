@@ -1,0 +1,31 @@
+{
+ "title": "XBAND",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Catapult Entertainment"
+ ],
+ "publisher": [],
+ "genre": [
+  "Hardware",
+  "General"
+ ],
+ "tags": [],
+ "description": "X-Band is a Hardware game, developed and published by Catapult Entertainment,which was released in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/0/9/51509_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/8/51508_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

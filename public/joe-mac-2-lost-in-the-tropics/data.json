@@ -1,0 +1,48 @@
+{
+ "title": "Joe & Mac 2: Lost in the Tropics",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-04",
+  "usa": "April 1994"
+ },
+ "developer": [
+  "Data East"
+ ],
+ "publisher": [
+  "Data East"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "platform",
+  "prehistoric",
+  "sideways"
+ ],
+ "description": "The follow-up to Joe & Mac: Caveman Ninjas, Lost in the Tropics sends Joe & Mac on a quest to recover a stolen crown and six gems.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": 3.6,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/03cce9db-a0ae-45db-aa78-c5d073e2deb3.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/0/9/50809_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/0/9/50809_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

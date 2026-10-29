@@ -1,0 +1,44 @@
+{
+ "title": "DinoCity",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1992-08"
+ },
+ "developer": [
+  "Irem"
+ ],
+ "publisher": [
+  "Irem"
+ ],
+ "genre": [
+  "Action"
+ ],
+ "tags": [
+  "animalprotagonist",
+  "dinosaur",
+  "horizontal",
+  "platform",
+  "sideways",
+  "tv"
+ ],
+ "description": "A platformer game loosely based on the 1992 direct-to-video American film, Adventures in Dinosaur City.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.31,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/c978cf9a-2b9e-4cdf-9822-60dc5b86ed4b.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

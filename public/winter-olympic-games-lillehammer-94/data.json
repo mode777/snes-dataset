@@ -1,0 +1,44 @@
+{
+ "title": "Winter Olympic Games: Lillehammer '94",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "February 1994",
+  "pal": "February 24, 1994",
+  "europe": "February 1994",
+  "usa": "February 1994"
+ },
+ "developer": [
+  "Tiertex",
+  "U.S. Gold",
+  "Tiertex Design Studios"
+ ],
+ "publisher": [
+  "U.S. Gold"
+ ],
+ "genre": [
+  "Sports",
+  "Olympic Sports"
+ ],
+ "tags": [
+  "multievent",
+  "olympics",
+  "sports"
+ ],
+ "description": "An Olympics sports game developed to coincide with the 1994 Winter Olympics in Lillehammer, featuring ten different Olympic events.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "English, German, Spanish, French, Italian, Norwegian, Portuguese, Swedish"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/6/4/46964_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

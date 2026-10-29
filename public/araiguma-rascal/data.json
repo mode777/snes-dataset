@@ -1,0 +1,42 @@
+{
+ "title": "Araiguma Rascal",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "March 25, 1994"
+ },
+ "developer": [
+  "J-Force"
+ ],
+ "publisher": [
+  "Masaya / NCS",
+  "Masaya"
+ ],
+ "genre": [],
+ "tags": [
+  "fallingtiles",
+  "reaction",
+  "realtime",
+  "sideways",
+  "singlescreen",
+  "tilearrangement"
+ ],
+ "description": "Anime-based puzzle game released in 1994 for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1-2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

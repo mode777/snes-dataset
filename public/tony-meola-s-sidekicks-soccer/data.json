@@ -1,0 +1,42 @@
+{
+ "title": "Tony Meola's Sidekicks Soccer",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "November 1993"
+ },
+ "developer": [
+  "Sculptured Software"
+ ],
+ "publisher": [
+  "Electro Brain"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "behind",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "Tony Meola's Sidekicks Soccer is a soccer game exclusively for the Super Nintendo. The game features many international and national teams from across the globe, and uses the Super Nintendo's distinctive Mode 7 graphics to depict the field from the soccer player's perspective, turning the camera whenever possession of the ball switches teams.  The game was named for and licensed by Tony Meola, the national US team's goalkeeper at the time. It is known as Ramos Ruy no World Wide Soccer in Japan, after the Brazilian-born soccer player Ruy Ramos who had just recently become a naturalized Japanese citizen and played for their national team in the 1994 World Cup. In Brazil and other South American countries, the game is known as Super Copa, after the Copa América football association of South America.  Despite being a soccer game released in various territories, it remains one of the few to never see a European release.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Spanish, Japanese, Portuguese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/2/4/51424_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

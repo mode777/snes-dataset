@@ -1,0 +1,50 @@
+{
+ "title": "Jungle no Ouja Tar-chan - Sekaimanyuu Daikakutou no Maki",
+ "aliases": [
+  "Jungle no Ouja Tar-chan: Sekaimanyuu Daikakutou no Maki"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Sep 18, 1994"
+ },
+ "developer": [
+  "Kuusoukagaku",
+  "Kuusou Kagaku"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "basher",
+  "horizontal",
+  "jumper",
+  "manga",
+  "platform",
+  "sideways"
+ ],
+ "description": "Licensed platformer based on a Tarzan-inspired anime that was developed by Kuusou Kagaku and published by Bandai in 1994.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/9/4/31794_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/9/4/31794_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

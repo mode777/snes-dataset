@@ -1,0 +1,57 @@
+{
+ "title": "NHL 95",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 1994",
+  "pal": "December 8, 1994",
+  "first_release": "1994-11",
+  "europe": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "High Score Productions / Visual Concepts Entertainment",
+  "Visual Concepts / High Score Productions",
+  "Visual Concepts"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "EA Sports"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Ice Hockey",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "icehockey",
+  "sports",
+  "vertical"
+ ],
+ "description": "The 4th game in the NHL hockey franchise from EA Sports. It was released for the 1994-1995 NHL season.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.53,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/9/6/4/50964_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/5/50965_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/5/50965_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/4/50964_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

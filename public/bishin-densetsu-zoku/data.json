@@ -1,0 +1,40 @@
+{
+ "title": "Bishin Densetsu Zoku",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {},
+ "developer": [
+  "Magifact"
+ ],
+ "publisher": [
+  "Magifact"
+ ],
+ "genre": [],
+ "tags": [
+  "beatemup",
+  "behind",
+  "car",
+  "fighter",
+  "horizontal",
+  "intoscreen",
+  "racing",
+  "sideways"
+ ],
+ "description": "A strange combination of brawler and racing game set in a dystopian future Japan. The antagonists are all female. It was only released in Japan, in 1993. Katsuya Terada created the cover art.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

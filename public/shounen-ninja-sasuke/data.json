@@ -1,0 +1,47 @@
+{
+ "title": "Shounen Ninja Sasuke",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Oct 28, 1994"
+ },
+ "developer": [
+  "?",
+  "SunSoft"
+ ],
+ "publisher": [
+  "SUNSOFT"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "action",
+  "brawler",
+  "fighter",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "A fast-paced side-scrolling brawler set in Ancient Japan. A clumsy ninja is hired to rescue the daughter of a local lord from skull-masked bandits.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/0/4/31804_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/0/4/31804_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

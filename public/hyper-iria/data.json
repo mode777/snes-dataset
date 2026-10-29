@@ -1,0 +1,45 @@
+{
+ "title": "Hyper Iria",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Oct 13, 1995"
+ },
+ "developer": [
+  "TamTam"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "anime",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Run-and-gun platformer based loosely on the anime Iria: Zeiram the Animation. Released in 1995 for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/4/2/307142_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/4/2/307142_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

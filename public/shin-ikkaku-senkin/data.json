@@ -1,0 +1,44 @@
+{
+ "title": "Shin Ikkaku Senkin",
+ "aliases": [
+  "Shin Ikkakusenkin"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jul7, 1995"
+ },
+ "developer": [
+  "Jorudan"
+ ],
+ "publisher": [
+  "Vap"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "gambling"
+ ],
+ "description": "A gambling game for the Super Famicom. Up to five players can compete to earn the biggest payout gambling on various activities like horseracing, poker or chou-han.",
+ "description_source": "snes_csv",
+ "players": "1 - 5 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/1/5/311315_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/1/5/311315_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

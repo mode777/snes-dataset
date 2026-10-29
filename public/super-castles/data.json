@@ -1,0 +1,44 @@
+{
+ "title": "Super Castles",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 22, 1994"
+ },
+ "developer": [
+  "Victor / Interplay",
+  "Victor Interactive Software"
+ ],
+ "publisher": [
+  "Victor",
+  "Victor Interactive Software"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "strategy",
+  "turnbased"
+ ],
+ "description": "A sequel/remake of Interplay's 1992 PC strategy game Castles developed exclusively for the Japanese Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/3/0/307030_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

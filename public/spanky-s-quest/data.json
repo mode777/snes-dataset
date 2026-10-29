@@ -1,0 +1,44 @@
+{
+ "title": "Spanky's Quest",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1992-07",
+  "europe": "July 1992",
+  "usa": "July 1992"
+ },
+ "developer": [
+  "Natsume"
+ ],
+ "publisher": [
+  "Natsume"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "platform",
+  "puzzlesolve",
+  "sideways"
+ ],
+ "description": "In this cute and bizarre puzzle platformer, players take control of Spanky the monkey as he must find keys for magic doors while bouncing bubbles on his head, popping them into sports balls, and using the balls to knock out healthy snacks. It'll make sense, trust us.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.52,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/bd81abbf-e1c2-4ffd-a27d-4b937c0c4e54.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/6/46726_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

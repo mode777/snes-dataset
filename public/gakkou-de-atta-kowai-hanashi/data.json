@@ -1,0 +1,44 @@
+{
+ "title": "Gakkou de Atta Kowai Hanashi",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Aug4, 1995"
+ },
+ "developer": [
+  "Pandora Box"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Adventure",
+  "General"
+ ],
+ "tags": [
+  "adventure",
+  "firstperson",
+  "visualnovel"
+ ],
+ "description": "A text-based visual novel with a horror theme that was released for the Super Famicom and later rereleased for Sony PlayStation.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/1/6/307116_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/6/307116_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

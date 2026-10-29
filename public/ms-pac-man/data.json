@@ -1,0 +1,56 @@
+{
+ "title": "Ms. Pac-Man",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "September 1, 1996",
+  "pal": "1996",
+  "first_release": "1996-09",
+  "usa": "September 1996",
+  "europe": "September 1996"
+ },
+ "developer": [
+  "General Computer Corporation / Midway",
+  "Digital Eclipse Software",
+  "Digital Eclipse"
+ ],
+ "publisher": [
+  "Williams Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "arcade",
+  "maze",
+  "pacman",
+  "singlescreen",
+  "topdown"
+ ],
+ "description": "A sequel to the arcade classic featuring Pac-Man's feminine counterpart. The game is notable for having a variety of mazes as opposed to the single maze design in the original game, as well as bonus items that wandered through the mazes rather than appearing just in the center.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.53,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/7/3/1/44731_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/3/1/44731_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/3/1/44731_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/3/2/44732_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/3/2/44732_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

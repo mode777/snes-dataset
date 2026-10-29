@@ -1,0 +1,54 @@
+{
+ "title": "Mighty Morphin Power Rangers",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "September 1994",
+  "north_america": "November 23, 1994",
+  "pal": "November 1994",
+  "first_release": "1994-09",
+  "usa": "September 1994"
+ },
+ "developer": [
+  "Natsume"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "action",
+  "beatemup",
+  "brawler",
+  "horizontal",
+  "sideways",
+  "tv"
+ ],
+ "description": "A Super Nintendo side-scrolling brawler in which one of five teenagers must fight the forces of Rita Repulsa by morphing into a Power Ranger. The game was developed by Natsume and published by Bandai.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.4,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/a40aef1f-161e-4254-ac7a-987d4d492909.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/9/9/11099_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/9/9/11099_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/9/8/11098_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

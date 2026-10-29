@@ -1,0 +1,44 @@
+{
+ "title": "ClayFighter: Tournament Edition",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "May 14, 1994",
+  "first_release": "1994-05"
+ },
+ "developer": [
+  "Visual Concepts Entertainment",
+  "Visual Concepts"
+ ],
+ "publisher": [
+  "Interplay",
+  "Interplay Entertainment"
+ ],
+ "genre": [
+  "Action"
+ ],
+ "tags": [
+  "fighting",
+  "sideways"
+ ],
+ "description": "ClayFighter: Tournament Edition was a special release of ClayFighter, available only as a rental at Blockbuster retail stores.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.16,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/b461d2ca-78f2-4a9d-aaa9-928e5129b1e3.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Umihara Kawase",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 23, 1994",
+  "first_release": "1994-12-23"
+ },
+ "developer": [
+  "TNN",
+  "Atelier Double"
+ ],
+ "publisher": [
+  "TNN"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "femaleprotagonist",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A SNES game in which a schoolgirl heroine must navigate the levels using only a fishing rod. The game is notable for the properties of its rope physics.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.81,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/91e384a2-8e42-45cb-8e2f-685da4ce28e3.png",
+  "https://gamefaqs.gamespot.com/a/box/2/9/3/304293_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/9/3/304293_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "title": "E. V. O.: Search for Eden",
+ "aliases": [
+  "E.V.O.: Search for Eden"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-07",
+  "usa": "July 1993"
+ },
+ "developer": [
+  "Almanic",
+  "Almanic Corp."
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "evolution",
+  "rpg",
+  "sideways"
+ ],
+ "description": "A platformer with RPG elements for the SNES, developed by Almanic and published by Enix. The player controls an ever-evolving lifeform struggling to survive.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.8,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/361dc8ec-d3a7-46a3-bb95-76c53caa8f21.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/8/5/50685_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/8/5/50685_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

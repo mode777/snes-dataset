@@ -1,0 +1,39 @@
+{
+ "title": "Puzzle Bobble: Bust-A-Move",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "Taito"
+ ],
+ "publisher": [
+  "Taito"
+ ],
+ "genre": [],
+ "tags": [
+  "arcade",
+  "cartoonish",
+  "competitive",
+  "cute",
+  "puzzle",
+  "reaction",
+  "singlescreen"
+ ],
+ "description": "Also known as Puzzle Bobble, Bust-A-Move is a puzzle spinoff of Bubble Bobble where players try to clear a board of colored bubbles by firing other bubbles at an angle.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

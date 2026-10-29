@@ -1,0 +1,38 @@
+{
+ "title": "Shougi Club",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "February 24, 1995"
+ },
+ "developer": [
+  "Natsu System"
+ ],
+ "publisher": [
+  "Hector",
+  "Hect"
+ ],
+ "genre": [],
+ "tags": [
+  "boardgame",
+  "shogi"
+ ],
+ "description": "A barebones shogi game for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

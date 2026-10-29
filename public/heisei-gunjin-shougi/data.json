@@ -1,0 +1,44 @@
+{
+ "title": "Heisei Gunjin Shougi",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Jan 26, 1996"
+ },
+ "developer": [
+  "Triad",
+  "Carrozzeria"
+ ],
+ "publisher": [
+  "Carrozzeria"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Party"
+ ],
+ "tags": [
+  "boardgame",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "A shogi game that uses an uncommon set of rules.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/8/5/307185_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

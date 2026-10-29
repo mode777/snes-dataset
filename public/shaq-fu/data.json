@@ -1,0 +1,54 @@
+{
+ "title": "Shaq Fu",
+ "aliases": [
+  "Shaq-Fu"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "October 28, 1994",
+  "pal": "1994",
+  "first_release": "1994-10",
+  "usa": "October 1994",
+  "europe": "October 1994"
+ },
+ "developer": [
+  "Delphine Software International"
+ ],
+ "publisher": [
+  "Electronic Arts"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "competitive",
+  "fighting",
+  "sideways"
+ ],
+ "description": "When a powerful, banished mummy is about to break through to this dimension and take over the world, the only hope for humanity is none other than... Shaquille O'Neal?",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 1.89,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/2/6/1/19261_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/6/1/19261_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/6/1/19261_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/6/2/19262_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Stone Protectors",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "November 1994",
+  "north_america": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Eurocom",
+  "Eurocom Entertainment Software"
+ ],
+ "publisher": [
+  "Kemco"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "beatemup",
+  "brawler",
+  "fighter",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "The sacred Crystal Palace of Mythrandir is under siege by Zok, Zink and their Saurian army. It's up to the Stone Protectors to help Princess Opal in this licensed brawler from Eurocom.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/8/5/51185_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/6/51186_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/6/51186_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

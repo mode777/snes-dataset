@@ -1,0 +1,33 @@
+{
+ "title": "Ippatsu Gyakuten",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {},
+ "developer": [
+  "Eleca"
+ ],
+ "publisher": [
+  "PÖW"
+ ],
+ "genre": [],
+ "tags": [
+  "gambling"
+ ],
+ "description": "Horse racing game developed by Eleca in 1996.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "title": "Pachinko Ren-chan Tengoku - Super CR Special",
+ "aliases": [
+  "Pachinko Ren-chan Tengoku: Super CR Special"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "May 26, 1995"
+ },
+ "developer": [
+  "Jorudan"
+ ],
+ "publisher": [
+  "Vap"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "Pachinko game created by Jorudan/Vap in 1995. Features a two-player versus mode - a rarity in pachinko games.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/8/5/307085_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

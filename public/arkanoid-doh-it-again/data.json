@@ -1,0 +1,57 @@
+{
+ "title": "Arkanoid: Doh It Again",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "japan": "November 1997",
+  "north_america": "November 3, 1997",
+  "pal": "1997",
+  "first_release": "1997-11",
+  "usa": "November 1997",
+  "europe": "November 1997"
+ },
+ "developer": [
+  "Taito",
+  "Taito Corporation"
+ ],
+ "publisher": [
+  "Nintendo",
+  "Taito (JP)Nintendo (NA/EU)"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "batandball",
+  "breakout",
+  "navigation",
+  "reaction",
+  "singlescreen",
+  "topdown"
+ ],
+ "description": "A SNES exclusive entry for Taito's sci-fi Breakout-inspired series. The enigmatic DOH once again makes trouble for the crew of the Arkanoid.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.62,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/41961b3f-9da2-4a2e-b796-b0ac83c4c473.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/8/23988_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/7/23987_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/7/23987_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

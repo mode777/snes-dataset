@@ -1,0 +1,43 @@
+{
+ "title": "American Battle Dome",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec8, 1995"
+ },
+ "developer": [
+  "Betop"
+ ],
+ "publisher": [
+  "Tsukuda Original"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "competitive",
+  "pinball"
+ ],
+ "description": "A four-player competitive pinball game that is similar to Atari's Warlords.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/1/8/31918_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/8/31918_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

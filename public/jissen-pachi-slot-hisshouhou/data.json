@@ -1,0 +1,48 @@
+{
+ "title": "Jissen! Pachi-Slot Hisshouhou!",
+ "aliases": [
+  "Jissen Pachi-Slot Hisshouhou"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Nov 26, 1993"
+ },
+ "developer": [
+  "?",
+  "Sammy Studios"
+ ],
+ "publisher": [
+  "Sammy",
+  "Sammy Corporation"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "slotmachine"
+ ],
+ "description": "Slots game developed by Sammy Studios in 1993. It is the first game of a long-running franchise that lets players practice for real-life slot machines.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/7/7/306877_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/7/7/306877_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

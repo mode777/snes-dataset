@@ -1,0 +1,29 @@
+{
+ "title": "Aqutallion",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "July 1995"
+ },
+ "developer": [
+  "Tecmo"
+ ],
+ "publisher": [],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [],
+ "description": "Tecmo Secret of the Stars is a Role-Playing game, developed and published by Tecmo,which was released in Japan in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/1/7/51117_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

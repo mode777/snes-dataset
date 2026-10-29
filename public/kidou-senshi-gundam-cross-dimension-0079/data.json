@@ -1,0 +1,48 @@
+{
+ "title": "Kidou Senshi Gundam - Cross Dimension 0079",
+ "aliases": [
+  "Kidou Senshi Gundam: Cross Dimension 0079"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Feb 10, 1995"
+ },
+ "developer": [
+  "?",
+  "Bandai"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "anime",
+  "isometric",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "An isometric strategy game published by Bandai in 1995, it depicts events from the early Mobile Suit Gundam fiction from the perspective of Amuro Ray before switching to a secondary set of characters midway through.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/9/8/312398_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/8/312398_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

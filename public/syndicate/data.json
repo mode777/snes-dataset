@@ -1,0 +1,58 @@
+{
+ "title": "Syndicate",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "December 1995",
+  "north_america": "December 1995",
+  "pal": "January 1995",
+  "europe": "December 1995",
+  "usa": "December 1995"
+ },
+ "developer": [
+  "Bullfrog",
+  "Bullfrog Productions"
+ ],
+ "publisher": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "genre": [
+  "Strategy",
+  "Real-Time",
+  "Sci-Fi"
+ ],
+ "tags": [
+  "futuristic",
+  "powerup",
+  "scifi",
+  "shooter",
+  "shop",
+  "squad",
+  "stategy"
+ ],
+ "description": "An action strategy game set in a dystopian future where megacorporations control the world and wage war on each other with cybernetically-enhanced \"Agents\".",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/4/9/23949_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/9/23949_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/7/23947_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/7/23947_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/8/23948_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "title": "Top Management II",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Feb 11, 1994"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "management",
+  "simulation",
+  "strategy"
+ ],
+ "description": "A business tycoon simulator sequel for Windows, PC-9801 and the Super Famicom. It was never released outside of Japan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/8/7/296487_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/7/296487_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

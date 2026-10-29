@@ -1,0 +1,54 @@
+{
+ "title": "The Great Circus Mystery Starring Mickey & Minnie",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-10",
+  "europe": "October 1994",
+  "usa": "October 1994"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cartoon",
+  "disney",
+  "horizontal",
+  "jumper",
+  "platform",
+  "puzzlesolving",
+  "sideways"
+ ],
+ "description": "When their fun-filled day at the circus turns into chaos, Mickey and Minnie Mouse must find out who is causing it in the second game of Disney's \"Magical Quest\" series.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.68,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/e1d9bf3d-fc51-49fd-b2f8-069bef4f8275.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/6/50756_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/6/50756_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/7/50757_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/7/50757_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

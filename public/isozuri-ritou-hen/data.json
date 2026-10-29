@@ -1,0 +1,45 @@
+{
+ "title": "Isozuri - Ritou Hen",
+ "aliases": [
+  "Isozuri: Ritou Hen"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Jan 19, 1996"
+ },
+ "developer": [
+  "Pack-In-Video"
+ ],
+ "publisher": [
+  "Pack-In-Video"
+ ],
+ "genre": [
+  "Sports",
+  "Nature",
+  "Fishing"
+ ],
+ "tags": [
+  "firstperson",
+  "fishing"
+ ],
+ "description": "Fishing game created by Pack-In-Video in 1996.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/5/1/312451_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

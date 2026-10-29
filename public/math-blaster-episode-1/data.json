@@ -1,0 +1,34 @@
+{
+ "title": "Math Blaster: Episode 1",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "October 1994",
+  "usa": "October 1994"
+ },
+ "developer": [
+  "Western Technologies",
+  "Spidersoft"
+ ],
+ "publisher": [
+  "Davidson & Associates"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Edutainment"
+ ],
+ "tags": [],
+ "description": "Oh no! The dreaded Trash Alien has captured Spot and littered the universe with garbage! Join our hero Blasternaut on a daring mission to rescue his robot pal. Blast your way through space junk, chase through dark and dangerous caverns, and fend off nasty alien creatures. Spot's fate is in your hands - good luck!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/8/9/44189_front.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "openvgdb"
+ ]
+}

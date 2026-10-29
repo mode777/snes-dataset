@@ -1,0 +1,30 @@
+{
+ "title": "Harapeko Bakka",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jan3, 1995"
+ },
+ "developer": [
+  "Magical Company (Mahou)"
+ ],
+ "publisher": [],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [],
+ "description": "Harapeko Bakka is a Miscellaneous game, developed and published by Magical Company (Mahou),which was released in Japan in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/8/3/306983_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

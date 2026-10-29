@@ -1,0 +1,49 @@
+{
+ "title": "The Smurfs Travel the World",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "pal": "December 31, 1994",
+  "europe": "1994"
+ },
+ "developer": [
+  "Virtual Studio",
+  "Infogrames"
+ ],
+ "publisher": [
+  "Infogrames"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cartoon",
+  "comic",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A Smurfs sequel for 16-bit consoles. Inquisitive Smurf and Smurfette accidentally break a crystal that can teleport Smurfs across the world, and must collect the shards to return home.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/6/4/31064_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

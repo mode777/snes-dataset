@@ -1,0 +1,32 @@
+{
+ "title": "Newman-Haas IndyCar featuring Nigel Mansell",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "November 1994",
+  "usa": "November 1994",
+  "europe": "November 1994"
+ },
+ "developer": [
+  "Gremlin Interactive"
+ ],
+ "publisher": [],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Stock Car"
+ ],
+ "tags": [],
+ "description": "Newman/Haas Indy Car featuring Nigel Mansell is a Driving game, developed by Gremlin Interactive and published by Acclaim,which was released in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/8/9/58189_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

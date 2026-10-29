@@ -1,0 +1,46 @@
+{
+ "title": "Itoi Shigesato no Bass Tsuri No. 1",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "japan": "Feb 21, 1997"
+ },
+ "developer": [
+  "HAL Laboratory, Dice",
+  "HAL Laboratory",
+  "Dice"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Sports",
+  "Nature",
+  "Fishing"
+ ],
+ "tags": [
+  "firstperson",
+  "fishing"
+ ],
+ "description": "A bass fishing game from the creator of Mother and EarthBound. It was released on various Nintendo consoles and was the only non-Mother game Shigesato directed.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/0/7/310407_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/7/310407_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

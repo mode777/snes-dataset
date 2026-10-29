@@ -1,0 +1,43 @@
+{
+ "title": "The Ren & Stimpy Show: Buckeroo",
+ "aliases": [
+  "The Ren & Stimpy Show: Buckeroo$!"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "April 1995"
+ },
+ "developer": [
+  "Imagineering"
+ ],
+ "publisher": [
+  "THQ"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "cartoon",
+  "horizontal",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "In their third video game outing, Ren & Stimpy decide to strike it rich with a special invention that lets them earn real money from playing video games.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

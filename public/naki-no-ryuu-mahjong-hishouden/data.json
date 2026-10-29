@@ -1,0 +1,47 @@
+{
+ "title": "Naki no Ryuu - Mahjong Hishouden",
+ "aliases": [
+  "Naki no Ryuu: Mahjong Hishouden"
+ ],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Dec 25, 1992"
+ },
+ "developer": [
+  "?",
+  "IGS"
+ ],
+ "publisher": [
+  "IGS"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "anime",
+  "boardgame",
+  "mahjong",
+  "manga"
+ ],
+ "description": "Mahjong game published by IGS in 1992. It is based on a Mahjong-themed manga with the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/1/5/312615_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/1/5/312615_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

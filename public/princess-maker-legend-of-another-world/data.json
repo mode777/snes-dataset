@@ -1,0 +1,45 @@
+{
+ "title": "Princess Maker - Legend of Another World",
+ "aliases": [
+  "Princess Maker: Legend of Another World"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec 15, 1995"
+ },
+ "developer": [
+  "Gainax"
+ ],
+ "publisher": [
+  "TAKARA"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "management",
+  "rpg",
+  "simulation"
+ ],
+ "description": "One of many games in the popular Princess Maker franchise. The player gets to \"create\" a princess, by choosing her schedule, feeding her, etc.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/4/8/42748_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

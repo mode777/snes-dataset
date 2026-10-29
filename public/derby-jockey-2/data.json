@@ -1,0 +1,45 @@
+{
+ "title": "Derby Jockey 2",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep 29, 1995"
+ },
+ "developer": [
+  "Graphic Research"
+ ],
+ "publisher": [
+  "Asmik",
+  "Asmik Ace Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Horse Racing"
+ ],
+ "tags": [
+  "horseracing",
+  "management",
+  "sports"
+ ],
+ "description": "A horse racing simulation game for the Super Famicom. Offers random races to watch and racehorse stable management.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/3/6/307136_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

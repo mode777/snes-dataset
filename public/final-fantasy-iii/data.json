@@ -1,0 +1,49 @@
+{
+ "title": "Final Fantasy III",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-10-20",
+  "usa": "Oct 20, 1994"
+ },
+ "developer": [
+  "Square",
+  "SquareSoft"
+ ],
+ "publisher": [
+  "Square"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "Formerly known as Final Fantasy III in North America, Final Fantasy VI follows a diverse group of heroes as they fight to defeat Kefka, a megalomaniac intent on using a combination of long-lost magic and technology to take over the world.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.55,
+ "metascore": 92,
+ "cover_urls": [
+  "https://i.postimg.cc/cLzvr414/6504fd85-ab13-47f1-b600-1954a91c7696.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/1/6/16616_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/1/6/16616_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

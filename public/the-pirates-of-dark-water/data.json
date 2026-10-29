@@ -1,0 +1,52 @@
+{
+ "title": "The Pirates of Dark Water",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-05",
+  "usa": "May 1994",
+  "europe": "May 1994"
+ },
+ "developer": [
+  "Sunsoft"
+ ],
+ "publisher": [
+  "Sunsoft"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "action",
+  "beatemup",
+  "cartoon",
+  "fighter",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "Based on a cartoon series by the same name, The Pirates of Dark Water is a side scrolling fighting game similar to Final Fight or Streets of Rage.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.32,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/432e4da9-a309-4193-8de4-280334b681df.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/7/47927_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/8/47928_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/8/47928_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

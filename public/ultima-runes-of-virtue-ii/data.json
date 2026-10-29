@@ -1,0 +1,46 @@
+{
+ "title": "Ultima: Runes of Virtue II",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "November 1994"
+ },
+ "developer": [
+  "ORIGIN Systems",
+  "Origin"
+ ],
+ "publisher": [
+  "FCI / Pony Canyon"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "ultima",
+  "wanderer"
+ ],
+ "description": "This Game Boy and SNES spinoff of the Ultima series features action-adventure gameplay.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/1/5/46915_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/5/46915_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

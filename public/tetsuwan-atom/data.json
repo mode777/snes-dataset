@@ -1,0 +1,50 @@
+{
+ "title": "Tetsuwan Atom",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Feb 18, 1994"
+ },
+ "developer": [
+  "Zamuse",
+  "Minato Giken"
+ ],
+ "publisher": [
+  "Zamuse"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "anime",
+  "basher",
+  "horizontal",
+  "jumper",
+  "manga",
+  "platform",
+  "sideways"
+ ],
+ "description": "Tetsuwan Atom marks the second video game appearance of Astro Boy and was released on the Super Famicom in Japan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/9/3/309493_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/3/309493_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

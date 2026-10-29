@@ -1,0 +1,30 @@
+{
+ "title": "Circuit USA",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "April 1995"
+ },
+ "developer": [
+  "Leland Interactive Media"
+ ],
+ "publisher": [],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [],
+ "description": "Kyle Petty's No Fear Racing is a Driving game, developed by Leland Interactive Media and published by Williams,which was released in 1995.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/7/9/319079_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

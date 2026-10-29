@@ -1,0 +1,50 @@
+{
+ "title": "Dino Dini's Soccer",
+ "aliases": [
+  "Dino Dini's Soccer!"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "pal": "November 10, 1994",
+  "europe": "Jun 29, 1995"
+ },
+ "developer": [
+  "Dini & Dini Productions",
+  "Eurocom",
+  "Eurocom Entertainment Software"
+ ],
+ "publisher": [
+  "Virgin",
+  "Virgin Interactive"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Arcade"
+ ],
+ "tags": [
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports",
+  "topdown"
+ ],
+ "description": "A fast playing soccer game by Dino Dini, published by Virgin in 1994.",
+ "description_source": "snes_csv",
+ "players": "1 - 16 (2 simultaneous)",
+ "languages": [
+  "English, German, French"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/5/6/65656_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/6/65656_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

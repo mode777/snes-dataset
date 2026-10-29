@@ -1,0 +1,39 @@
+{
+ "title": "Choplifter III",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "September 9, 1994",
+  "north_america": "January 1, 1994",
+  "pal": "1994",
+  "first_release": "1994-01",
+  "europe": "January 1994"
+ },
+ "developer": [
+  "Beam Software"
+ ],
+ "publisher": [
+  "Extreme Entertainment Group"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [],
+ "description": "Choplifter III is a shoot 'em up video game released for the Super Nintendo Entertainment System in 1994.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 3.78,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/9ef460b1-7b73-47fc-a4c6-fe06335b8d8d.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/6/22596_front.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

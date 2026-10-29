@@ -1,0 +1,49 @@
+{
+ "title": "Tintin in Tibet",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "pal": "December 14, 1995",
+  "europe": "Dec 14, 1995"
+ },
+ "developer": [
+  "Infogrames"
+ ],
+ "publisher": [
+  "Infogrames"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "cartoon",
+  "comic",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "Tintin au Tibet is a platformer based on the comic of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French, Dutch, Swedish"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/3/9/37739_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/3/9/37739_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

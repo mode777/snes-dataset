@@ -1,0 +1,55 @@
+{
+ "title": "Super Troll Islands",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "March 25, 1994",
+  "north_america": "February 1994",
+  "pal": "1994",
+  "usa": "February 1994",
+  "europe": "February 1994"
+ },
+ "developer": [
+  "Millennium",
+  "Kemco",
+  "Millenium Interactive"
+ ],
+ "publisher": [
+  "American Softworks Corporation",
+  "American Softworks"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "colorize",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A platformer in which players take control of troll characters.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/8/0/51380_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/1/51381_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/1/51381_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

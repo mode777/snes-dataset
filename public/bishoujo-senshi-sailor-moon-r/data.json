@@ -1,0 +1,52 @@
+{
+ "title": "Bishoujo Senshi Sailor Moon R",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Dec 29, 1993",
+  "first_release": "1993-12-29"
+ },
+ "developer": [
+  "Bandai",
+  "Arc System Works"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "anime",
+  "beatemup",
+  "cute",
+  "fighter",
+  "horizontal",
+  "manga",
+  "sideways"
+ ],
+ "description": "A side-scrolling brawler that centers around the Sailor Moon R story arc. Select Sailor Moon, Sailor Mercury, Sailor Mars, Sailor Jupiter, Sailor Venus or Chibiusa to battle against the Black Moon Clan. The game also has a fighting mode.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.55,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/de110910-1c43-40cd-8fd0-fa3b9a6595b6.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/6/23756_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/6/23756_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

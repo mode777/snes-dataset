@@ -1,0 +1,49 @@
+{
+ "title": "Hat Trick Hero 2",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Canceled",
+  "north_america": "Cancelled"
+ },
+ "developer": [
+  "Neverland"
+ ],
+ "publisher": [
+  "Taito"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "A 1994 Japan-exclusive soccer video game for the Super Famicom that is based on the 1994 World Cup. It is the sequel to Super Soccer Champ, but plans to localize this game were canceled.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/5/1/306951_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/5/1/306951_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "title": "Mo Hawk & Headphone Jack",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "Black Pearl"
+ ],
+ "publisher": [
+  "THQ"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "A rock n' roll-themed action game for the SNES.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

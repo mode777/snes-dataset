@@ -1,0 +1,49 @@
+{
+ "title": "Brunswick World Tournament of Champions",
+ "aliases": [
+  "Brunswick World: Tournament of Champions"
+ ],
+ "year": 1997,
+ "release_dates": {
+  "north_america": "August 12, 1997",
+  "usa": "August 1997"
+ },
+ "developer": [
+  "Tiertex",
+  "Tiertex Design Studios"
+ ],
+ "publisher": [
+  "THQ"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Bowling"
+ ],
+ "tags": [
+  "behind",
+  "bowling",
+  "sports"
+ ],
+ "description": "A realistic ten-pin bowling game for the SNES endorsed by the former bowling kingpin Brunswick.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/5/9/57059_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/5/9/57059_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

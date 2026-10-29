@@ -1,0 +1,39 @@
+{
+ "title": "Tokoro's Mahjong",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Sep 23, 1994"
+ },
+ "developer": [
+  "Syscom Entertainment",
+  "Syscom"
+ ],
+ "publisher": [
+  "Vic Tokai"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "George Tokoro hosts a mahjong game.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/7/6/306976_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

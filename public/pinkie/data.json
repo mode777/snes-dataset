@@ -1,0 +1,40 @@
+{
+ "title": "Pinkie",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "May 2018",
+  "pal": "May 2018"
+ },
+ "developer": [
+  "Data Design InterActive"
+ ],
+ "publisher": [
+  "?",
+  "Piko Interactive"
+ ],
+ "genre": [],
+ "tags": [
+  "multidirectional",
+  "platform",
+  "prototype",
+  "sideways"
+ ],
+ "description": "Pinkie is a 2D platform game developed by Data Design Systems and published for Amiga in 1995. It seems that a port of this game was in development for the Super Nintendo but never completed for various reasons.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia_unlicensed"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

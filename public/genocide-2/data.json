@@ -1,0 +1,49 @@
+{
+ "title": "Genocide 2",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Aug5, 1994",
+  "north_america": "Cancelled"
+ },
+ "developer": [
+  "Bits Corporation",
+  "Bits Studios"
+ ],
+ "publisher": [
+  "Kemco"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "beatemup",
+  "fighter",
+  "horizontal",
+  "mech",
+  "robot",
+  "sideways"
+ ],
+ "description": "A futuristic action-platformer where the player pilots a nimble ninja robot.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/2/0/312620_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/2/0/312620_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

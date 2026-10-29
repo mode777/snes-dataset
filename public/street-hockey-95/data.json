@@ -1,0 +1,45 @@
+{
+ "title": "Street Hockey '95",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "GTE Vantage",
+  "GTE Interactive Media",
+  "GTE Entertainment"
+ ],
+ "publisher": [
+  "GTE Entertainment",
+  "GTE Interactive Media"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Other"
+ ],
+ "tags": [
+  "horizontal",
+  "rollerhockey",
+  "sideways",
+  "sports"
+ ],
+ "description": "A roller hockey game for the SNES, developed and published by GTE Entertainment.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/8/7/51187_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

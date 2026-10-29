@@ -1,0 +1,34 @@
+{
+ "title": "Street Fighter EX + Alpha",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {},
+ "developer": [
+  "?"
+ ],
+ "publisher": [
+  "DVS Electronic"
+ ],
+ "genre": [],
+ "tags": [
+  "fighting",
+  "sideways",
+  "unlicensed"
+ ],
+ "description": "Street Fighter EX + Alpha is an unlicensed fighter released for the SNES by an unknown developer in the South American market.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

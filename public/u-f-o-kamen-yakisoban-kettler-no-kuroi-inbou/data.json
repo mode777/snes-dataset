@@ -1,0 +1,38 @@
+{
+ "title": "U.F.O. Kamen Yakisoban - Kettler no Kuroi Inbou",
+ "aliases": [
+  "U.F.O. Kamen Yakisoban: Kettler no Kuroi Inbou"
+ ],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "KID"
+ ],
+ "publisher": [
+  "Den'Z"
+ ],
+ "genre": [],
+ "tags": [
+  "beatemup",
+  "fighter",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "A Super Famicom brawler featuring Nissin food product tie-ins. It was released only in Japan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "title": "Lagoon",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "December 1991",
+  "north_america": "December 1991",
+  "pal": "May 27, 1993",
+  "first_release": "1991-12",
+  "usa": "December 1991",
+  "germany": "December 1991",
+  "europe": "December 1991"
+ },
+ "developer": [
+  "Zoom",
+  "Kemco"
+ ],
+ "publisher": [
+  "Kemco / Seika",
+  "Kemco (JP/EU)Seika Corporation (NA)"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "action",
+  "fantasy",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "A top-down, action RPG developed by Zoom. In it, players guide the hero, Nasir, on his quest to restore the purity of Lakeland's water.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Japanese"
+ ],
+ "gf_score": 3.11,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/4a941112-e88b-491d-b1bf-2e3456522da8.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/6/0/50860_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/6/0/50860_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/9/50859_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/9/50859_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/6/1/50861_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

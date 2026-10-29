@@ -1,0 +1,30 @@
+{
+ "title": "Utopia",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "germany": "September 1993",
+  "japan": "September 1993"
+ },
+ "developer": [
+  "Gremlin Interactive"
+ ],
+ "publisher": [],
+ "genre": [
+  "Strategy",
+  "General"
+ ],
+ "tags": [],
+ "description": "Utopia: The Creation of a Nation is a Strategy game, developed by Gremlin Interactive and published by Jaleco Entertainment,which was released in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/6/3/51463_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

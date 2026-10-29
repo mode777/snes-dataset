@@ -1,0 +1,50 @@
+{
+ "title": "Tecmo Super Bowl II: Special Edition",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "January 1995",
+  "north_america": "January 1995",
+  "usa": "January 1995"
+ },
+ "developer": [
+  "Tecmo"
+ ],
+ "publisher": [
+  "Tecmo"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [
+  "americanfootball",
+  "horizontal",
+  "sideways",
+  "sports"
+ ],
+ "description": "A football game in Tecmo's Tecmo Bowl series released on both SNES and Genesis in 1994. It has additional features over the original Super Tecmo Bowl as well as updated rosters for the new season.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/4/48234_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/4/48234_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/3/48233_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

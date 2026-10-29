@@ -1,0 +1,45 @@
+{
+ "title": "Super Shougi 3 - Kitaihei",
+ "aliases": [
+  "Super Shougi 3: Kitaihei"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec 29, 1995"
+ },
+ "developer": [
+  "Gaibrain"
+ ],
+ "publisher": [
+  "I'MAX"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Party"
+ ],
+ "tags": [
+  "boardgame",
+  "shogi"
+ ],
+ "description": "A shogi game for the Super Famicom with a few alternate modes.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/8/2/307182_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/2/307182_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "title": "Little Magic",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Dec 24, 1993",
+  "pal": "Cancelled",
+  "europe": "Dec 24, 1993"
+ },
+ "developer": [
+  "Altron Corporation",
+  "Altron"
+ ],
+ "publisher": [
+  "Altron Corporation",
+  "Altron"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "puzzle",
+  "tilemove"
+ ],
+ "description": "In this Japan-only puzzle game, May must move a stone through a variety of levels, always directing it to a specific spot.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/4/8/31748_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/8/31748_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "title": "Sonic the Hedgehog 4",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {},
+ "developer": [
+  "Twin Eagles Group"
+ ],
+ "publisher": [
+  "?"
+ ],
+ "genre": [],
+ "tags": [
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways",
+  "unlicensed"
+ ],
+ "description": "Sonic the Hedgehog 4 is an unlicensed game for the SNES by Peruvian scene organization Twin Eagles Group. In actuality, it is a hack of Speedy Gonzales: Los Gatos Bandidos.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

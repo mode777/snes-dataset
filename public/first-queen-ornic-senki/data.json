@@ -1,0 +1,46 @@
+{
+ "title": "First Queen: Ornic Senki",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Mar 11, 1994"
+ },
+ "developer": [
+  "Culture Brain",
+  "Kure"
+ ],
+ "publisher": [
+  "Culture Brain"
+ ],
+ "genre": [
+  "Strategy",
+  "Real-Time",
+  "Fantasy"
+ ],
+ "tags": [
+  "action",
+  "fantasy",
+  "rpg",
+  "topdown"
+ ],
+ "description": "First Queen (PC, Super Famicom, etc) was a unique hybrid RTS/RPG/action game first released in 1988. It was one of the first games by Kure Software Koubou and helped establish their eventually popular Multiple Character gameplay system that they went on to use in many later games.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/9/7/296197_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/9/7/296197_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

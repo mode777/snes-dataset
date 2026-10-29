@@ -1,0 +1,50 @@
+{
+ "title": "Seiken Densetsu 3",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-09-30",
+  "japan": "Sep 30, 1995"
+ },
+ "developer": [
+  "Square",
+  "SquareSoft"
+ ],
+ "publisher": [
+  "Square"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "action",
+  "fantasy",
+  "realtime",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "The third entry in the World of Mana franchise. First released on Super Famicom, it remained a Japan-exclusive for almost 25 years until its appearance in the Collection of Mana compilation for Nintendo Switch.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French, Japanese"
+ ],
+ "gf_score": 4.33,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/94c61b0b-bc09-48a7-9594-3dd43dd5089b.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/8/51128_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/8/51128_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

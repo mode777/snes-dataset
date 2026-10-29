@@ -1,0 +1,46 @@
+{
+ "title": "Crayon Shin-chan: Arashi o Yobu Enji",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Jul 30, 1993"
+ },
+ "developer": [
+  "Sun L"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "adventure",
+  "anime",
+  "manga",
+  "sideways"
+ ],
+ "description": "An action game featuring Crayon Shin-Chan that was released for the Super Famicom and Mega Drive.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/5/4/311854_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/4/311854_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

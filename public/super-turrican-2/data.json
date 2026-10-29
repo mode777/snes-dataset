@@ -1,0 +1,55 @@
+{
+ "title": "Super Turrican 2",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "November 1995",
+  "pal": "1995",
+  "first_release": "1995-11",
+  "usa": "November 1995",
+  "europe": "November 1995"
+ },
+ "developer": [
+  "Factor 5"
+ ],
+ "publisher": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "One of the most technically advanced games to be released on the SNES; this shooter featured liberal use of voice samples, Mode 7 and even Dolby Surround.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.99,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/13861d6f-6772-4fa7-b292-476291277520.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/7/6/51376_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/7/6/51376_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/7/8/51378_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/7/8/51378_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

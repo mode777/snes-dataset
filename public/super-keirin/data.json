@@ -1,0 +1,45 @@
+{
+ "title": "Super Keirin",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jul 14, 1995"
+ },
+ "developer": [
+  "Betop"
+ ],
+ "publisher": [
+  "I'MAX"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Biking"
+ ],
+ "tags": [
+  "cycling",
+  "gambling",
+  "sports"
+ ],
+ "description": "A Japan-exclusive Super Famicom video game that allows players to become cyclists.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/0/7/307107_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/0/7/307107_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

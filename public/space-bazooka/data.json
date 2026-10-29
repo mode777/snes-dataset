@@ -1,0 +1,31 @@
+{
+ "title": "Space Bazooka",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "October 1992"
+ },
+ "developer": [
+  "Nintendo"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Light Gun"
+ ],
+ "tags": [],
+ "description": "The time is the 21st century. In the wake of natural disasters and social unrest, human society has collapsed. The only amusement left for the inhabitants of this grim Earth of the future is the Battle Game. This contest of advanced arena combat pits giant, armored riot suits known as Standing Tanks (ST's) against each other in a fight to the finish. The winner gains power and prestige, while the lower faces humiliation, dishonor and low class citizenship.You are the gunner of the ST Falcon. You friend's father experience defeat in the Battle Game and now you must help him get revenge. Your Super NES Super Scope&trade; gives you complete control of all the Falcon's weapons systems.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/1/9/22519_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/9/22519_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

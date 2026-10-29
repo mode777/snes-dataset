@@ -1,0 +1,53 @@
+{
+ "title": "U.N. Squadron",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "first_release": "1991-09",
+  "europe": "September 1991",
+  "usa": "September 1991"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "horizontal",
+  "manga",
+  "powerup",
+  "shootemup",
+  "shooter",
+  "sideways"
+ ],
+ "description": "A side-scrolling shoot 'em up made by Capcom in 1989. It is based on the Area 88 manga.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.0,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/fb5f6e44-8739-4a65-b9ad-1310720d2aa0.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/6/44596_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/6/44596_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/5/44595_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/5/44595_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

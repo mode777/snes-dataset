@@ -1,0 +1,46 @@
+{
+ "title": "Doraemon 3: Nobita to Toki no Hougyoku",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 16, 1994"
+ },
+ "developer": [
+  "AIM"
+ ],
+ "publisher": [
+  "Epoch",
+  "Epoch Co."
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "manga",
+  "platform",
+  "sideways"
+ ],
+ "description": "The third game in Epoch's trilogy of Super Famicom licensed platformers based on the eponymous robotic cat. Doraemon and Nobita travel back in time to replace a priceless dinosaur bone, but change the future in the process.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/5/8/303758_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/8/303758_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "title": "Mighty Morphin Power Rangers: The Movie",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "July 1995",
+  "pal": "1995",
+  "first_release": "1995-06",
+  "usa": "June 1995",
+  "europe": "June 1995"
+ },
+ "developer": [
+  "Natsume"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "action",
+  "beatemup",
+  "fighter",
+  "horizontal",
+  "movie",
+  "sideways",
+  "tv"
+ ],
+ "description": "A 1995 video game based on a movie license that was released on the SNES, Sega Genesis, Game Boy, and Sega Game Gear by Bandai and three different developers. The game follows the plot of the movie.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.43,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d81306b3-a79f-4418-ac5b-3576de6a962e.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/8/46468_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/8/46468_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

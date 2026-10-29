@@ -1,0 +1,54 @@
+{
+ "title": "Street Fighter II Turbo",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-08-01",
+  "europe": "August 1993",
+  "japan": "August 1993",
+  "usa": "August 1993"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "fighting",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "The second update to Capcom's signature fighting game, making the gameplay significantly faster while adding new special moves for most characters.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.0,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/4838ac6d-dfc0-4903-8402-205ed74988d1.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/9/6/51196_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/9/6/51196_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/9/51189_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/9/51189_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/9/0/51190_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/9/0/51190_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

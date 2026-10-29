@@ -1,0 +1,45 @@
+{
+ "title": "NBA Give 'n Go",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "europe": "November 1995",
+  "usa": "November 1995"
+ },
+ "developer": [
+  "Konami",
+  "KCEO"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Arcade"
+ ],
+ "tags": [
+  "basketball",
+  "behind",
+  "sports",
+  "vertical"
+ ],
+ "description": "A basketball ball game published by Konami for the SNES.",
+ "description_source": "snes_csv",
+ "players": "1 - 5 (5 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/5/1/50951_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/5/1/50951_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/9/50949_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

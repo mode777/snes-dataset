@@ -1,0 +1,44 @@
+{
+ "title": "Honkakuha Igo - Gosei",
+ "aliases": [
+  "Honkakuha Igo: Gosei"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Oct 28, 1994"
+ },
+ "developer": [
+  "Aisystem Tokyo"
+ ],
+ "publisher": [
+  "TAITO"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "go"
+ ],
+ "description": "An adaptation of the board game Go for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/1/3/311313_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "title": "Aaahh!!! Real Monsters",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "August 15, 1995",
+  "pal": "1995",
+  "first_release": "1995-11",
+  "usa": "November 1995",
+  "europe": "November 1995"
+ },
+ "developer": [
+  "Realtime Associates"
+ ],
+ "publisher": [
+  "Viacom New Media"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "cartoon",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "Based on the '90s Nickelodeon cartoon of the same name, players control a trio of young monsters-in-training as they venture out to the human world to evaluate their ability to terrify the population.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.66,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/860f0e71-71a7-4477-9e3d-e8d91cb7b20e.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/9/9/46999_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/9/9/46999_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/9/8/46998_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

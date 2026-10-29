@@ -1,0 +1,33 @@
+{
+ "title": "Gerry Anderson's Thunderbirds - Kokusai Kyuujotai Shutsudou Seyo!!",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {},
+ "developer": [
+  "Nova"
+ ],
+ "publisher": [
+  "Cobra Team"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "scrolling",
+  "shootemup",
+  "shooter",
+  "sideways",
+  "tv"
+ ],
+ "description": "A Japan-exclusive action shooter game released in 1993 for the Super Famicom. It is based on the UK marionette TV show Thunderbirds.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ]
+}

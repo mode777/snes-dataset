@@ -1,0 +1,39 @@
+{
+ "title": "Dorke & Ymp",
+ "aliases": [],
+ "year": 2015,
+ "release_dates": {},
+ "developer": [
+  "Norsehelm Production/ Piko Interactive"
+ ],
+ "publisher": [
+  "Piko Interactive"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "collect",
+  "horizontal",
+  "jumper",
+  "platform",
+  "puzzle",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Dorke and Ymp (or Dorke and Imp) is a previously unreleased SNES platformer that finally released in cartridge format in 2015.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

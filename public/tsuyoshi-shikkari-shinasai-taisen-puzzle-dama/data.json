@@ -1,0 +1,52 @@
+{
+ "title": "Tsuyoshi Shikkari Shinasai - Taisen Puzzle Dama",
+ "aliases": [
+  "Tsuyoshi Shikkari Shinasai: Taisen Puzzle-dama",
+  "Tsuyoshi Shikkari Shinasai: Taisen Puzzle Dama"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Nov 18, 1994"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "fallingblocks",
+  "manga",
+  "puzzle",
+  "realtime",
+  "singlescreen",
+  "tilearrangement"
+ ],
+ "description": "A Super Famicom \"Taisen Puzzle-Dama\" (Battle Puzzle Ball) game featuring characters from the slice of life manga/anime Tsuyoshi Shikkari Shinasai.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/0/7/31807_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/0/7/31807_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

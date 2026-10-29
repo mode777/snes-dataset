@@ -1,0 +1,37 @@
+{
+ "title": "Undake 30: Same Game Daisakusen - Mario Version",
+ "aliases": [
+  "Undake 30 Same Game Daisakusen: Mario Version"
+ ],
+ "year": 1996,
+ "release_dates": {},
+ "developer": [
+  "Hudson Soft"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [],
+ "tags": [
+  "puzzle",
+  "singlescreen",
+  "tileremove"
+ ],
+ "description": "Japan-only Mario puzzle game. Players can remove icons from a grid whenever two or more are adjacent to one another. By removing all icons, they win the game.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

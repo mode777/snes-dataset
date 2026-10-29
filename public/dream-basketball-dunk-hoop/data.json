@@ -1,0 +1,49 @@
+{
+ "title": "Dream Basketball: Dunk & Hoop",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Nov 18, 1994"
+ },
+ "developer": [
+  "Human",
+  "Human Entertainment"
+ ],
+ "publisher": [
+  "Human",
+  "Human Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Sim"
+ ],
+ "tags": [
+  "basketball",
+  "behind",
+  "intoscreen",
+  "sports"
+ ],
+ "description": "A basketball game for the Super Famicom that allows for full five-person team matches or a 3-on-3 mode.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/0/3/307003_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/0/3/307003_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "title": "Super Mahjong 3 - Karakuchi",
+ "aliases": [
+  "Super Mahjong 3: Karakuchi"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Nov 25, 1994"
+ },
+ "developer": [
+  "?",
+  "I'Max"
+ ],
+ "publisher": [
+  "I'MAX"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A mahjong game for the Super Famicom and the third in the Super Mahjong series from I'Max.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/1/0/307010_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

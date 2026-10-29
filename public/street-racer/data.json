@@ -1,0 +1,60 @@
+{
+ "title": "Street Racer",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "December 1994",
+  "north_america": "December 1994",
+  "pal": "December 8, 1994",
+  "first_release": "1994-12",
+  "europe": "December 1994",
+  "usa": "December 1994"
+ },
+ "developer": [
+  "Vivid Image"
+ ],
+ "publisher": [
+  "Ubi Soft",
+  "Ubisoft"
+ ],
+ "genre": [
+  "Racing",
+  "Driving",
+  "Arcade"
+ ],
+ "tags": [
+  "3d",
+  "behind",
+  "competitive",
+  "intoscreen",
+  "karts",
+  "mariokart",
+  "racing"
+ ],
+ "description": "Up to eight players can race over twenty-seven courses, rumble in a battle arena or play car soccer in this multiplatform cart racer.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.81,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/7/2/7/7727_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/6/7726_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/6/7726_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/5/7725_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/7/7727_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/7/7727_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

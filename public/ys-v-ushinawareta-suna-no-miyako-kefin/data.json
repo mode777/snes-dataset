@@ -1,0 +1,51 @@
+{
+ "title": "Ys V - Ushinawareta Suna no Miyako Kefin",
+ "aliases": [
+  "Ys V: Ushinawareta Suna no Miyako Kefin"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-12-29",
+  "japan": "Dec 29, 1995"
+ },
+ "developer": [
+  "Nihon Falcom",
+  "Falcom"
+ ],
+ "publisher": [
+  "Nihon Falcom"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "action",
+  "fantasy",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "The Red haired hero Adol sets out on a new adventure, looking for Kefin, an ancient desert city which mysteriously disappeared.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.45,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/4cc0b1c0-9059-4645-a6fb-e011d2560e14.png",
+  "https://gamefaqs.gamespot.com/a/box/1/8/1/307181_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/1/307181_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

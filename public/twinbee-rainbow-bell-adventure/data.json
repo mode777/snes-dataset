@@ -1,0 +1,31 @@
+{
+ "title": "TwinBee: Rainbow Bell Adventure",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "1994"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Pop'n TwinBee: Rainbow Bell Adventures is an Action game, developed and published by Konami,which was released in Japan in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/5/7/20557_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/7/20557_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

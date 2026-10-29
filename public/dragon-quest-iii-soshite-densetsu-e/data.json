@@ -1,0 +1,51 @@
+{
+ "title": "Dragon Quest III: Soshite Densetsu e...",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Dec6, 1996",
+  "first_release": "1996-12-06"
+ },
+ "developer": [
+  "Chunsoft",
+  "Heartbeat",
+  "Heart Beat"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "The third release of the Dragon Warrior franchise saw the story take a trip back in time before one and two, taking up the sword of the warrior of legend, Loto. In this game the hero sets out to destroy Baramos after his/her late father Ortega fails.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.27,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/bd3e9657-c332-4921-aa11-568abda39ea7.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/1/8/24218_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/1/8/24218_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

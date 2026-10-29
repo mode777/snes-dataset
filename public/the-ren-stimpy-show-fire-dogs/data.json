@@ -1,0 +1,47 @@
+{
+ "title": "The Ren & Stimpy Show: Fire Dogs",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "June 1994",
+  "pal": "February 1995",
+  "usa": "June 1994"
+ },
+ "developer": [
+  "Argonaut Games"
+ ],
+ "publisher": [
+  "THQ"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "cartoon",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "A platformer based on the Nickelodeon cartoon where Stimpy must find items in a multi-level Firehouse.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/5/7/51057_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/5/7/51057_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

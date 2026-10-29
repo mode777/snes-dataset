@@ -1,0 +1,50 @@
+{
+ "title": "Mario's Time Machine",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "December 1993",
+  "pal": "1993",
+  "first_release": "1993-12",
+  "europe": "December 1993",
+  "germany": "December 1993",
+  "usa": "December 1993"
+ },
+ "developer": [
+  "Software Toolworks",
+  "The Software Toolworks"
+ ],
+ "publisher": [
+  "Nintendo",
+  "The Software Toolworks"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Edutainment"
+ ],
+ "tags": [
+  "adventure",
+  "educational",
+  "history",
+  "quiz"
+ ],
+ "description": "An educational adventure game in which Mario must travel through time to restore historically significant objects that Bowser has stolen to their correct eras.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German"
+ ],
+ "gf_score": 2.34,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/74f5a3ab-5caf-4973-aa8f-52a8a6874fb0.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/7/49417_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/7/49417_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

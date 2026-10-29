@@ -1,0 +1,43 @@
+{
+ "title": "Super Solitaire",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "January 1994",
+  "europe": "January 1994"
+ },
+ "developer": [
+  "Beam Software"
+ ],
+ "publisher": [
+  "Extreme Entertainment Group"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "cards",
+  "solitaire"
+ ],
+ "description": "A Super Nintendo card game compilation that features many modes of Solitaire and other single-player card games, like Freecell. In Japan, the game is known as Trump Island and has an entirely different anime art style.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French, Italian, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/6/2/51362_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/6/2/51362_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

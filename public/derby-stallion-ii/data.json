@@ -1,0 +1,45 @@
+{
+ "title": "Derby Stallion II",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Feb 18, 1994"
+ },
+ "developer": [
+  "ASCII",
+  "ASCII Entertainment"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Horse Racing"
+ ],
+ "tags": [
+  "horseracing",
+  "management",
+  "sports"
+ ],
+ "description": "A horse-raising and -racing simulator for the Super Famicom and the first full sequel in ASCII's Derby Stallion series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/0/2/306902_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

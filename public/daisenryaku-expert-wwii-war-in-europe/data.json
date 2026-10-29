@@ -1,0 +1,48 @@
+{
+ "title": "Daisenryaku Expert WWII: War in Europe",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Aug 30, 1996"
+ },
+ "developer": [
+  "SystemSoft Alpha",
+  "SystemSoft"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [
+  "Strategy",
+  "Wargame",
+  "Turn-Based"
+ ],
+ "tags": [
+  "historical",
+  "mapconquer",
+  "strategy",
+  "turnbased",
+  "ww2"
+ ],
+ "description": "The follow up to the original Daisenryaku sees the realistic military strategy sim focus on the European front of the second World War.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/9/9/312499_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/9/312499_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

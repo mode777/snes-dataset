@@ -1,0 +1,35 @@
+{
+ "title": "Honke Hanafuda",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Aisystem Tokyo"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [],
+ "tags": [
+  "boardgame",
+  "cards",
+  "hanafuda"
+ ],
+ "description": "A video hanafuda game for the Super Famicom. It was the second hanafuda SFC game produced in as many months.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

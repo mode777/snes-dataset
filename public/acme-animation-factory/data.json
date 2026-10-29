@@ -1,0 +1,52 @@
+{
+ "title": "ACME Animation Factory",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 5, 1994",
+  "pal": "March 1, 1995",
+  "europe": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Probe Software"
+ ],
+ "publisher": [
+  "Sun Corporation",
+  "Sunsoft"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "animate",
+  "creativity",
+  "design",
+  "paint",
+  "utility"
+ ],
+ "description": "An art tool and video game for the Super Nintendo which contains a number of different utilities for creating animations, music and artwork featuring the Looney Tunes.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/8/5/50485_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/6/50486_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/6/50486_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "title": "Dolucky no A.League Soccer",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Zoom"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [],
+ "tags": [
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports",
+  "topdown"
+ ],
+ "description": "Soccer video game released in 1994 for the Super Famicom. Developed by Zoom and published by Imagineer.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

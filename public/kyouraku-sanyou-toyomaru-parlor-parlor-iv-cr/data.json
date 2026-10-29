@@ -1,0 +1,33 @@
+{
+ "title": "Kyouraku Sanyou Toyomaru Parlor! Parlor! IV CR",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "Telenet Japan"
+ ],
+ "publisher": [
+  "Telenet Japan"
+ ],
+ "genre": [],
+ "tags": [
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "Pachinko game developed by Nippon Telenet in 1995.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "title": "Addams Family Values",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "February 14, 1995",
+  "pal": "March 28, 1996",
+  "first_release": "1995-02",
+  "europe": "February 1995",
+  "usa": "February 1995"
+ },
+ "developer": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "publisher": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "genre": [
+  "Action Adventure",
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "movie",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "A top-down action-adventure game based loosely on the events of the movie of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French"
+ ],
+ "gf_score": 2.81,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/88ab2dfc-cf67-447e-a575-b775db95dd43.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/0/46980_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/0/46980_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/1/46981_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

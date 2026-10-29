@@ -1,0 +1,53 @@
+{
+ "title": "MechWarrior",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-05",
+  "germany": "May 1993",
+  "spain": "May 1993",
+  "france": "May 1993",
+  "europe": "May 1993",
+  "usa": "May 1993",
+  "italy": "May 1993"
+ },
+ "developer": [
+  "Beam Software"
+ ],
+ "publisher": [
+  "Activision"
+ ],
+ "genre": [
+  "Simulation",
+  "Sci-Fi",
+  "Mech"
+ ],
+ "tags": [
+  "action",
+  "firstperson",
+  "mech",
+  "scifi"
+ ],
+ "description": "A mech real-time combat game that allowed the player, as an eponymous MechWarrior, to fight other mechs from a first-person perspective. It is based on the Battletech wargaming franchise and was followed by many sequels.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French, Italian, Japanese"
+ ],
+ "gf_score": 3.01,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/355c7b6a-5f8d-4c39-aa38-6910d56dc647.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/2/24722_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/1/24721_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

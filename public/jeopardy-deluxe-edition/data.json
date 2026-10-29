@@ -1,0 +1,49 @@
+{
+ "title": "Jeopardy: Deluxe Edition",
+ "aliases": [
+  "Jeopardy! Deluxe Edition",
+  "Jeopardy!: Deluxe Edition"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "June 1994",
+  "usa": "June 1994"
+ },
+ "developer": [
+  "Imagineering",
+  "Imagineering Inc"
+ ],
+ "publisher": [
+  "GameTek"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Trivia / Game Show"
+ ],
+ "tags": [
+  "gameshow",
+  "quiz",
+  "trivia",
+  "tv"
+ ],
+ "description": "The third version of Jeopardy! games made for the SNES and Genesis. It featured more categories and more trivia questions.",
+ "description_source": "snes_csv",
+ "players": "1 -  3 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/1/9/47619_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "title": "Top Gear 3000",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1995-02",
+  "europe": "February 1995",
+  "usa": "February 1995"
+ },
+ "developer": [
+  "Gremlin",
+  "Gremlin Interactive"
+ ],
+ "publisher": [
+  "Kemco"
+ ],
+ "genre": [
+  "Racing",
+  "Driving",
+  "Arcade"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "Set in the year 3000, this futuristic racer adds weapons and tracks from different planets to the Top Gear formula.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.99,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/f8fb1d36-ea8b-436b-b05d-bf1217aa7bff.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/2/9/51429_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/2/9/51429_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/2/8/51428_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

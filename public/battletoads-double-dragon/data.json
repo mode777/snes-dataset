@@ -1,0 +1,60 @@
+{
+ "title": "Battletoads & Double Dragon",
+ "aliases": [
+  "Battletoads-Double Dragon"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "December 1, 1993",
+  "pal": "July 10, 1994",
+  "first_release": "1993-10",
+  "usa": "October 1993",
+  "europe": "October 1993"
+ },
+ "developer": [
+  "Rare",
+  "Rare Ltd."
+ ],
+ "publisher": [
+  "Sony Imagesoft",
+  "Tradewest"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "action",
+  "animalprotagonist",
+  "beatemup",
+  "cooperative",
+  "fantasy",
+  "horizontal",
+  "scifi",
+  "scrolling",
+  "sideways"
+ ],
+ "description": "A crossover beat-em-up game featuring characters from the Double Dragon and Battletoads franchises.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.57,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/326ddaf6-0841-4ef6-a5ec-52621fb2c703.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/2/22522_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/2/22522_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

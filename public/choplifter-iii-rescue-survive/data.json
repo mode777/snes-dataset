@@ -1,0 +1,49 @@
+{
+ "title": "Choplifter III: Rescue Survive",
+ "aliases": [
+  "Choplifter III: Rescue-Survive"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "usa": "January 1994",
+  "japan": "January 1994"
+ },
+ "developer": [
+  "Beam Software Pty",
+  "Beam Software"
+ ],
+ "publisher": [
+  "Ocean"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Save the POWs while avoiding the bad guys in this SNES sequel to the venerable Choplifter shoot 'em up/rescue game.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/9/5/22595_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/4/22594_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

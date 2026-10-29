@@ -1,0 +1,53 @@
+{
+ "title": "World Heroes 2",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "September 1994",
+  "north_america": "September 1994",
+  "first_release": "1994-09",
+  "usa": "September 1994"
+ },
+ "developer": [
+  "ADK",
+  "Saurus Co., Ltd",
+  "Saurus"
+ ],
+ "publisher": [
+  "TAKARA"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "fighting",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "ADK's signature fighting game series returns with new historical warriors, new gameplay techniques, and a revamped Death Match mode.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.42,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/82333c04-b492-401e-bf95-414b6d9fe576.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/4/26844_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/5/26845_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

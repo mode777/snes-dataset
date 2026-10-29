@@ -1,0 +1,33 @@
+{
+ "title": "Michael Andretti's IndyCar Challenge",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "September 1994",
+  "usa": "September 1994"
+ },
+ "developer": [
+  "Genki"
+ ],
+ "publisher": [],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [],
+ "description": "Michael Andretti's Indy Car Challenge is a Driving game, developed by Genki and published by Bullet Proof Software,which was released in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/3/3/50933_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/3/3/50933_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/3/2/50932_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

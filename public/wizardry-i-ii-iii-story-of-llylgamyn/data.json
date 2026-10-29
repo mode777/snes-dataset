@@ -1,0 +1,44 @@
+{
+ "title": "Wizardry I-II-III - Story of Llylgamyn",
+ "aliases": [
+  "Wizardry I-II-III: Story of Llylgamyn"
+ ],
+ "year": 1999,
+ "release_dates": {
+  "japan": "June 1, 1999"
+ },
+ "developer": [
+  "Sir-tech Software",
+  "Gung-Ho!"
+ ],
+ "publisher": [
+  "Media Factory"
+ ],
+ "genre": [],
+ "tags": [
+  "dungeoncrawler",
+  "fantasy",
+  "firstperson",
+  "intoscreen",
+  "rpg",
+  "swordsandsorcery"
+ ],
+ "description": "A 16-bit graphically remastered compilation of the first three Wizardry games that was made available via the Super Famicom's Nintendo Power service.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

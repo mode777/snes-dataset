@@ -1,0 +1,51 @@
+{
+ "title": "Time Slip",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "November 1993",
+  "pal": "1993",
+  "europe": "November 1993",
+  "usa": "November 1993"
+ },
+ "developer": [
+  "Sales Curve",
+  "Sales Curve Interactive",
+  "The Sales Curve"
+ ],
+ "publisher": [
+  "Vic Tokai"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "horizontal",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Take on the role of Dr. Vincent Gilgamesh as he uses space and time to prevent the Tiamatians from taking over Earth.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/1/1/51411_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/1/51411_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/0/51410_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

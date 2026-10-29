@@ -1,0 +1,52 @@
+{
+ "title": "King of the Monsters 2",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "December 22, 1993",
+  "north_america": "June 1, 1994",
+  "first_release": "1994-06",
+  "usa": "June 1994"
+ },
+ "developer": [
+  "SNK",
+  "Now Production/Winds",
+  "Now Production"
+ ],
+ "publisher": [
+  "TAKARA"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "arcade",
+  "fighting",
+  "horizontal",
+  "sideways",
+  "wrestling"
+ ],
+ "description": "The sequel to SNK's original kaiju-themed fighting game brings a new beat-'em-up campaign as three large monsters must defend their dominance of Earth from an alien invasion.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.49,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/32f754ff-0c17-4c19-97ee-4df46d6859e3.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/3/21463_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

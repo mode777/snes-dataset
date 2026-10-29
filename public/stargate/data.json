@@ -1,0 +1,64 @@
+{
+ "title": "Stargate",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "April 1995",
+  "north_america": "April 1995",
+  "pal": "June 29, 1995",
+  "first_release": "1995-04",
+  "europe": "April 1995",
+  "usa": "April 1995"
+ },
+ "developer": [
+  "Probe / Tantalus Interactive",
+  "Probe Entertainment",
+  "Probe Entertainment Limited"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "movie",
+  "platform",
+  "scifi",
+  "shooter",
+  "sideways",
+  "tv"
+ ],
+ "description": "Stargate is loosely based on the movie of the same name. A military team with a civilian archeologist traverse across space with an ancient portal and come to blows with an alien posing as a god.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": 2.96,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/5813f58f-6b45-407a-ad71-5f99669d115f.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/6/46766_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/6/46766_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/5/46765_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/5/46765_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/7/46767_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/7/46767_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

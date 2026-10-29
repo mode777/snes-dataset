@@ -1,0 +1,55 @@
+{
+ "title": "The Mask",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "December 27, 1996",
+  "north_america": "October 1995",
+  "pal": "October 26, 1995",
+  "first_release": "1995-10",
+  "usa": "October 1995",
+  "europe": "October 1995"
+ },
+ "developer": [
+  "Black Pearl",
+  "Black Pearl Software"
+ ],
+ "publisher": [
+  "THQ",
+  "Black Pearl Software"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "jumper",
+  "movie",
+  "plarform"
+ ],
+ "description": "The Mask is based on the movie with the same name. The story follows poor guy Stanley Ipkiss who finds a mysterious mask and is given mysterious powers from it..",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.39,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/815e963b-f765-40f9-9f5e-6cbd2742b6a7.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/0/9/50909_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/0/50910_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

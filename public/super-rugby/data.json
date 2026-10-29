@@ -1,0 +1,45 @@
+{
+ "title": "Super Rugby",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Oct 21, 1994"
+ },
+ "developer": [
+  "TOSE"
+ ],
+ "publisher": [
+  "Tonkin House / TSS",
+  "Tonkin House"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Rugby"
+ ],
+ "tags": [
+  "rugby",
+  "sports",
+  "topdown"
+ ],
+ "description": "A rugby game based on the Super Rugby league that features various teams from the Southern Hemisphere (Australia, New Zealand and South Africa).",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/9/1/306991_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "title": "Wing Commander",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "November 1992",
+  "north_america": "November 1992",
+  "pal": "1993",
+  "first_release": "1992-11",
+  "usa": "November 1992",
+  "germany": "November 1992",
+  "europe": "November 1992"
+ },
+ "developer": [
+  "ORIGIN Systems",
+  "Mindscape Inc."
+ ],
+ "publisher": [
+  "Mindscape"
+ ],
+ "genre": [
+  "Simulation",
+  "Sci-Fi",
+  "Small Spaceship"
+ ],
+ "tags": [
+  "3d",
+  "cockpit",
+  "firstperson",
+  "scifi",
+  "shooter",
+  "simulation"
+ ],
+ "description": "Wing Commander is one of the most famous early forays into the space simulation genre. Originally released as a PC game, it spawned three full sequels and was emulated heavily during much of the 1990s.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Japanese"
+ ],
+ "gf_score": 3.32,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/a15fda6d-1992-472f-8e72-33af52cb051b.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/2/51492_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/2/51492_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/1/51491_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/1/51491_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/3/51493_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/3/51493_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

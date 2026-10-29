@@ -1,0 +1,44 @@
+{
+ "title": "Mary Shelley's Frankenstein",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Bits Corporation",
+  "Bits Studios",
+  "Bits Corporation Limited"
+ ],
+ "publisher": [
+  "Sony Imagesoft"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "book",
+  "horizontal",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "A 1994 action game capitalizing on the recent movie of the same name. The game was initially released for the SNES and Genesis with a Sega CD version releasing later as a bundle with Bram Stoker's Dracula.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/4/4/47444_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

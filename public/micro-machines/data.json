@@ -1,0 +1,61 @@
+{
+ "title": "Micro Machines",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "December 1994",
+  "pal": "1994",
+  "first_release": "1994-12",
+  "usa": "December 1994",
+  "europe": "December 1994"
+ },
+ "developer": [
+  "Merit Studios",
+  "Codemasters"
+ ],
+ "publisher": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "genre": [
+  "Racing",
+  "Driving",
+  "Arcade"
+ ],
+ "tags": [
+  "boats",
+  "car",
+  "competitive",
+  "cute",
+  "helicopters",
+  "multidirectional",
+  "plane",
+  "racing",
+  "scrolling",
+  "topdown"
+ ],
+ "description": "A top-down circuit style racing game based on the popular toy cars, featuring selectable characters and macro-sized courses based on areas of a suburban home.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.4,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/86ba1051-61f9-4eac-85c0-f9083b7140db.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/2/18762_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/3/18763_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/3/18763_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

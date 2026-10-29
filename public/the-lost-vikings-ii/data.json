@@ -1,0 +1,36 @@
+{
+ "title": "The Lost Vikings II",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {},
+ "developer": [
+  "Blizzard Entertainment"
+ ],
+ "publisher": [
+  "Interplay"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "horizontal",
+  "platform",
+  "puzzlesolving",
+  "sideways"
+ ],
+ "description": "A team-based puzzle-platformer and sequel to Blizzard's \"The Lost Vikings\". The Vikings upgrade themselves with robotic parts for even more abilities, and are joined by two new characters.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "English, German, French"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "title": "Seiken Densetsu 2",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "October 1993"
+ },
+ "developer": [
+  "SquareSoft"
+ ],
+ "publisher": [],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [],
+ "description": "There is one force in the universe that keeps good and evil in perfect balance. It is called the tree of Mana. But a magic sword has tricked a young warrior into upsetting the balance, spreading evil throughout the land. Thus the warrior must undertake a dangerous journey to find the seeds of the Mana tree which has been hidden for centuries. Only then can perfect harmony be restored. In this incredible adventure, things are not as they seem. It's a world turned upside down that you must help the warrior make right. And the only way to succeed is to solve the Secret of Mana.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/1/9/51119_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/9/51119_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "title": "Fune Tarou",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "japan": "Aug1, 1997"
+ },
+ "developer": [
+  "Pack-In-Video"
+ ],
+ "publisher": [
+  "Pack-In-Video",
+  "Victor Interactive Software"
+ ],
+ "genre": [
+  "Sports",
+  "Nature",
+  "Fishing"
+ ],
+ "tags": [
+  "behind",
+  "fishing"
+ ],
+ "description": "An ocean-fishing game from Pack-In-Video and the follow up to Tsuri Tarou.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/6/9/307269_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/6/9/307269_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

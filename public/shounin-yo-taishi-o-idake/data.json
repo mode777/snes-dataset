@@ -1,0 +1,34 @@
+{
+ "title": "Shounin yo, Taishi o Idake!!",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "Fortyfive"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [],
+ "tags": [
+  "boardgame",
+  "trivia"
+ ],
+ "description": "A nautical trading board game for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

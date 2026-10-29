@@ -1,0 +1,49 @@
+{
+ "title": "Bill Walsh College Football",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "February 1994",
+  "usa": "February 1994"
+ },
+ "developer": [
+  "High Score Productions",
+  "Visual Concepts"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "EA Sports"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Arcade"
+ ],
+ "tags": [
+  "americanfootball",
+  "behind",
+  "sports",
+  "vertical"
+ ],
+ "description": "American college football game featuring legendary coach Bill Walsh, who led the San Francisco 49ers in their glory days in the mid '80s, before moving on to coach Stanford.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/3/0/50530_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "title": "Picachu: Pocket Monsters",
+ "aliases": [],
+ "year": 1998,
+ "release_dates": {},
+ "developer": [
+  "DVS Electronic"
+ ],
+ "publisher": [
+  "DVS Electronic"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "horizontal",
+  "platform",
+  "sideways",
+  "unlicensed"
+ ],
+ "description": "Pocket Monster is an unlicensed platformer based off the Pokémon series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

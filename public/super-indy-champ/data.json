@@ -1,0 +1,48 @@
+{
+ "title": "Super Indy Champ",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Apr1, 1994"
+ },
+ "developer": [
+  "Open System",
+  "Opensystem"
+ ],
+ "publisher": [
+  "Forum"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [
+  "behind",
+  "indycar",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "Japan-exclusive racing game released in 1994 for the Super Famicom. Developed by Open System and published by Forum.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/9/8/311998_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/9/8/311998_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

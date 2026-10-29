@@ -1,0 +1,49 @@
+{
+ "title": "Super Mario World 2: Yoshi's Island",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-10-04",
+  "europe": "Oct4, 1995",
+  "usa": "Oct4, 1995"
+ },
+ "developer": [
+  "Nintendo"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cute",
+  "fantasy",
+  "horizontal",
+  "jumponthings",
+  "powerup",
+  "scrolling"
+ ],
+ "description": "A spin-off of the Super Mario platforming series, Yoshi's Island puts players in control of a tribe of Yoshies as they guide the infant Mario past the forces of the evil Kamek.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": 4.34,
+ "metascore": 91,
+ "cover_urls": [
+  "https://images.launchbox-app.com/r2_0efbf9e8-d096-4b21-bce5-2f2752a383e6.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/1/8/51318_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/1/8/51318_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/1/7/51317_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/1/7/51317_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

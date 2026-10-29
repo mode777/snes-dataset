@@ -1,0 +1,30 @@
+{
+ "title": "James Pond's Crazy Sports",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "europe": "October 1993"
+ },
+ "developer": [
+  "Millenium Interactive"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Other"
+ ],
+ "tags": [],
+ "description": "The Super Aquatic Games Starring the Aquabats is a Sports game, developed by Millenium Interactive and published by Seika Corp.,which was released in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/2/1/51221_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

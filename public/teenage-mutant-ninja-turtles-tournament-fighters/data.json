@@ -1,0 +1,52 @@
+{
+ "title": "Teenage Mutant Ninja Turtles: Tournament Fighters",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-12",
+  "usa": "December 1993",
+  "australia": "December 1993"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "cartoon",
+  "comic",
+  "fighting",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "One-on-one combat with the titular Turtles in this trio of TMNT-licensed fighting games developed by Konami for the NES, SNES, and Genesis. The last TMNT game released in the 1990s.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.56,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/594e7c0e-4e19-4ac8-94fd-e3e5b280b688.png",
+  "https://gamefaqs.gamespot.com/a/box/2/4/8/48248_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/4/8/48248_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/5/0/48250_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/5/0/48250_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

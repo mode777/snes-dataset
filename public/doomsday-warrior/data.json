@@ -1,0 +1,45 @@
+{
+ "title": "Doomsday Warrior",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "usa": "March 1993"
+ },
+ "developer": [
+  "Shin-Nihon Laser Soft",
+  "Laser Soft"
+ ],
+ "publisher": [
+  "Renovation Products"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "apocalyptic",
+  "fighting",
+  "sideways"
+ ],
+ "description": "A standard SNES fighting game from the developers of numerous PC-Engine CD games.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/3/2/50632_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

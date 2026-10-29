@@ -1,0 +1,47 @@
+{
+ "title": "Pink Goes to Hollywood",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "November 1993",
+  "europe": "November 1993"
+ },
+ "developer": [
+  "Manley & Associates",
+  "Manley and Associates Inc."
+ ],
+ "publisher": [
+  "TecMagik Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "cartoon",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "A Pink Panther side scrolling action platforming game released in 1993. The Pink Panther heads to Hollywood for his big break but is terrorized by Inspector Clouseau.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/9/3/21493_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Clock Tower",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep 14, 1995",
+  "first_release": "1995-09-14"
+ },
+ "developer": [
+  "HUMAN",
+  "Human Entertainment"
+ ],
+ "publisher": [
+  "HUMAN",
+  "Human Entertainment"
+ ],
+ "genre": [
+  "Adventure",
+  "Action Adventure",
+  "Horror"
+ ],
+ "tags": [
+  "pointandclick",
+  "puzzle",
+  "survivalhorror"
+ ],
+ "description": "Jennifer Simpson and her friends Laura, Ann and Lotte are orphans and have just been adopted by a man named Mr. Barrows. The girls begin the move into Mr. Barrows' Mansion when something horrible happens.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.09,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/147d90b3-1d7e-44e8-8c92-788746d62b85.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/3/1/20531_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/3/1/20531_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

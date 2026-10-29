@@ -1,0 +1,41 @@
+{
+ "title": "Res Arcana - Diana Ray - Uranai no Meikyuu",
+ "aliases": [
+  "Res Arcana: Diana Ray: Uranai no Meikyuu"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "April 14, 1995"
+ },
+ "developer": [
+  "Marionette"
+ ],
+ "publisher": [
+  "Coconuts Japan"
+ ],
+ "genre": [],
+ "tags": [
+  "cards",
+  "fortunetelling",
+  "occult",
+  "simulation"
+ ],
+ "description": "A fortune-telling tool for superstitious Super Famicom owners.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

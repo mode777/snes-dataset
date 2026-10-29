@@ -1,0 +1,47 @@
+{
+ "title": "Power of the Hired",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 22, 1994"
+ },
+ "developer": [
+  "Masaya",
+  "NCS"
+ ],
+ "publisher": [
+  "Masaya",
+  "NCS"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "rpg",
+  "strategy",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A strategy RPG for the Super Famicom. A group of heroes, including a creature summoner, fights off hordes of monsters and brigands.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/2/8/307028_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/2/8/307028_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

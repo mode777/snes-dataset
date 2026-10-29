@@ -1,0 +1,51 @@
+{
+ "title": "Cal Ripken Jr. Baseball",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "north_america": "December 1, 1992",
+  "pal": "1993",
+  "usa": "December 1992",
+  "europe": "December 1992"
+ },
+ "developer": [
+  "Beam Software Pty.",
+  "Mindscape",
+  "Beam Software"
+ ],
+ "publisher": [
+  "Mindscape"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "baseball",
+  "behind",
+  "sports"
+ ],
+ "description": "Released during the 16-bit console era, Cal Ripken Jr. Baseball featured 18 generic (non-licensed) ball clubs and was most known for its detailed cinematics serving as a sort of instant replay for close or decisive plays.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/6/4/47164_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "title": "Yu Yu Hakusho",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Dec 22, 1993"
+ },
+ "developer": [
+  "Namco"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "fighter",
+  "manga",
+  "tactic"
+ ],
+ "description": "A tactical fighter game based on the manga and anime of the same name about a juvenile delinquent turned ghost detective. This particular YuYu Hakusho game was released on the Super Famicom by Namco in 1993.",
+ "description_source": "snes_csv",
+ "players": "?",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/7/5/19975_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/7/5/19975_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

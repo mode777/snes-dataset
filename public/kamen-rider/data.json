@@ -1,0 +1,48 @@
+{
+ "title": "Kamen Rider",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Nov 12, 1993"
+ },
+ "developer": [
+  "Sun L"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "anime",
+  "beatemup",
+  "fighter",
+  "horizontal",
+  "sideways",
+  "tv"
+ ],
+ "description": "A licensed brawler game published by Bandai in 1993. It is based on the original Kamen Rider tokusatsu TV show.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/3/3/31733_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/3/3/31733_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

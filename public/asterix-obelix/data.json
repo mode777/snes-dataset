@@ -1,0 +1,50 @@
+{
+ "title": "Astérix & Obélix",
+ "aliases": [
+  "Asterix & Obelix"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "pal": "May 1, 1996",
+  "first_release": "1995-09-28",
+  "europe": "Sep 28, 1995"
+ },
+ "developer": [
+  "Infogrames",
+  "Bit Managers"
+ ],
+ "publisher": [
+  "Infogrames"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "comic",
+  "multidirectional",
+  "platform",
+  "sideways"
+ ],
+ "description": "A side-scrolling platformer for the SNES based on the series of French comics about an indomitable Gaul village and the antagonistic Roman Empire.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, Spanish, French"
+ ],
+ "gf_score": 3.51,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/8/6/3/28863_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/6/3/28863_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/6/3/28863_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "title": "Sword World SFC 2 - Inishie no Kyojin Densetsu",
+ "aliases": [
+  "Sword World SFC 2: Inishie no Kyojin Densetsu"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jul 15, 1994"
+ },
+ "developer": [
+  "T&E Soft"
+ ],
+ "publisher": [
+  "T&E Soft"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A Super Famicom RPG based on a Japanese table-top game. It is the sequel to the original SFC Sword World and offers more questing for the player's customizable adventurers.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/4/1/306941_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/1/306941_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

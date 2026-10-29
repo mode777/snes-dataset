@@ -1,0 +1,42 @@
+{
+ "title": "Emit Vol. 3: Watashi ni Sayonara o",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 25, 1995"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Adventure",
+  "General"
+ ],
+ "tags": [
+  "adventure",
+  "fisrtperson",
+  "visualnovel"
+ ],
+ "description": "The third part in a series of adventure games developed under Koei's \"English Dream\" label. Yuri continues to dig deeper into where the mysterious old man and the \"other her\" come from.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/1/1/312611_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

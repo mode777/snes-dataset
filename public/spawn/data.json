@@ -1,0 +1,37 @@
+{
+ "title": "Spawn",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "Ukiyotei Company"
+ ],
+ "publisher": [
+  "Acclaim"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "comic",
+  "fighter",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "Spawn's first adventure into the video game world. Spawn: The Video Game is a side-scrolling brawler.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

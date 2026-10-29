@@ -1,0 +1,46 @@
+{
+ "title": "Super Puyo Puyo Tsuu Remix",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Mar8, 1996"
+ },
+ "developer": [
+  "Compile"
+ ],
+ "publisher": [
+  "Compile"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "Matching"
+ ],
+ "tags": [
+  "fallingblocks",
+  "puzzle",
+  "singlescreen",
+  "tilearrangement"
+ ],
+ "description": "A special version of the Super Puyo Puyo Tsu that allowed up to 4 players to play without the need of the multitap, by replacing the human players with computer ones. He also included two new Extended Training and Special Modes.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/0/9/43409_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/9/43409_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "title": "Funaki Masakatsu Hybrid Wrestler: Tougi Denshou",
+ "aliases": [
+  "Funaki Masakatsu no Hybrid Wrestler: Tōgi Denshō"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "October 21, 1994"
+ },
+ "developer": [
+  "Technos",
+  "Technos Japan"
+ ],
+ "publisher": [
+  "Technos",
+  "Technōs Japan"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "Wrestling"
+ ],
+ "tags": [
+  "sideways",
+  "sports",
+  "wrestling"
+ ],
+ "description": "A Pancrase-themed MMA/wrestling game, published by Technos Japan, which was released in Japan in 1994.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/8/5/306985_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/5/306985_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

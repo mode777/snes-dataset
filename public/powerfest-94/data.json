@@ -1,0 +1,33 @@
+{
+ "title": "PowerFest 94",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Nintendo"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [],
+ "tags": [
+  "competition",
+  "event"
+ ],
+ "description": "Nintendo Powerfest '94 (also known as Nintendo World Championships II, 1994 Nintendo Powerfest or just simply Nintendo Powerfest), is a cartridge of a video game for the SNES, and was a video-game competition in 1994 promoted by Nintendo. Many of the competitions were in towns held in a customized trailer outside of stores.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

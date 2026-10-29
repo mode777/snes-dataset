@@ -1,0 +1,46 @@
+{
+ "title": "Wakataka Oozumou - Yume no Kyoudai Taiketsu",
+ "aliases": [
+  "Wakataka Oozumou: Yume no Kyoudai Taiketsu"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Nov 12, 1993"
+ },
+ "developer": [
+  "Tomcat System"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "Wrestling"
+ ],
+ "tags": [
+  "fighting",
+  "sideways",
+  "sumotori"
+ ],
+ "description": "A sumo wrestling game for the Super Famicom. Players choose their next move in a turn-based system.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/7/2/306872_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/7/2/306872_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "title": "Ghost Chaser Densei",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Sep 23, 1994"
+ },
+ "developer": [
+  "Winky Soft",
+  "Winkysoft"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "arcade",
+  "beatemup",
+  "fighter",
+  "horizontal",
+  "progressive",
+  "sideways"
+ ],
+ "description": "A side-scrolling brawler where six ghost hunters join forces to take down the ghosts and evil spirits that have joined a criminal syndicate.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/0/5/28305_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/5/28305_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

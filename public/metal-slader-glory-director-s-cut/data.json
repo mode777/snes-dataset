@@ -1,0 +1,46 @@
+{
+ "title": "Metal Slader Glory - Director's Cut",
+ "aliases": [
+  "Metal Slader Glory: Director's Cut"
+ ],
+ "year": 2000,
+ "release_dates": {
+  "japan": "Nov 29, 2000",
+  "first_release": "2000-11-29"
+ },
+ "developer": [
+  "HAL Laboratory",
+  "Hal"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Adventure",
+  "General"
+ ],
+ "tags": [
+  "adventure",
+  "firstperson",
+  "visualnovel"
+ ],
+ "description": "A Super Famicom remake of a 1991 Famicom adventure game developed by HAL in 2000 and the last game to be released for the system.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.06,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/b6215aa9-b0d5-4814-be25-7a295a06043e.png",
+  "https://gamefaqs.gamespot.com/a/box/9/6/0/309960_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/0/309960_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

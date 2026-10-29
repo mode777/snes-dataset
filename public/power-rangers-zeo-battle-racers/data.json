@@ -1,0 +1,41 @@
+{
+ "title": "Power Rangers Zeo: Battle Racers",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "September 17, 1996"
+ },
+ "developer": [
+  "Natsume"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [],
+ "tags": [
+  "behind",
+  "intoscreen",
+  "multivehicle",
+  "racing",
+  "sports",
+  "tv"
+ ],
+ "description": "Power Rangers Zeo: Battle Racers is a vehicular racing game based on the television show Power Rangers Zeo.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

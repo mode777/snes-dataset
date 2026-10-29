@@ -1,0 +1,50 @@
+{
+ "title": "AIII S.V. - A Ressha de Ikou 3 - Super Version",
+ "aliases": [
+  "AIII S.V.: A Ressha de Ikou 3: Super Version"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep 29, 1995"
+ },
+ "developer": [
+  "ArtDink"
+ ],
+ "publisher": [
+  "Pack-In-Video"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "isometric",
+  "managment",
+  "multidirectional",
+  "realistic",
+  "scrolling",
+  "simluation",
+  "strategy",
+  "train"
+ ],
+ "description": "Actually the third in Artdink's series of train and railroad simulators, A-Train saw multiple releases outside of Japan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/4/4/312544_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/4/312544_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

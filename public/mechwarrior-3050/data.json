@@ -1,0 +1,50 @@
+{
+ "title": "MechWarrior 3050",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-10",
+  "europe": "October 1995",
+  "usa": "October 1995"
+ },
+ "developer": [
+  "Malibu Interactive",
+  "EA Tiburon"
+ ],
+ "publisher": [
+  "Activision"
+ ],
+ "genre": [
+  "Simulation",
+  "Sci-Fi",
+  "Mech"
+ ],
+ "tags": [
+  "action",
+  "angle",
+  "mech",
+  "scifi",
+  "shooter"
+ ],
+ "description": "The second SNES game in the MechWarrior franchise, also released for the Genesis as Battletech. It traded the series' trademark cockpit view for an isometric perspective and more emphasis on shooting than simulation.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.43,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/88130cfc-8428-41fd-99dd-786ecbe0bb30.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/2/50912_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

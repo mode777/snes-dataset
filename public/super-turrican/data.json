@@ -1,0 +1,58 @@
+{
+ "title": "Super Turrican",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "May 1993",
+  "north_america": "May 1993",
+  "pal": "1993",
+  "first_release": "1993-05",
+  "europe": "May 1993",
+  "usa": "May 1993"
+ },
+ "developer": [
+  "Factor 5"
+ ],
+ "publisher": [
+  "Seika",
+  "Seika Corporation"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "A sci-fi side-scrolling shooter for the SNES, which is an updated version of the Amiga/Atari ST game Turrican. It is one of few SNES games to feature Dolby Surround.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.73,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/b197b3e6-a857-4938-9d34-8745bb892961.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/4/28594_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/4/28594_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/7/28597_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/7/28597_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/5/28595_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/5/28595_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

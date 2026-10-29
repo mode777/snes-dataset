@@ -1,0 +1,45 @@
+{
+ "title": "Zan III Spirits",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "May 29, 1992"
+ },
+ "developer": [
+  "Wolf Team"
+ ],
+ "publisher": [
+  "Wolf Team"
+ ],
+ "genre": [
+  "Strategy",
+  "General"
+ ],
+ "tags": [
+  "strategy",
+  "tactic",
+  "turnbased",
+  "wargame"
+ ],
+ "description": "A strategy sim from Wolf Team based on Japan's Sengoku era and the third in their Zan Spirits series.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/9/0/306790_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/9/0/306790_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

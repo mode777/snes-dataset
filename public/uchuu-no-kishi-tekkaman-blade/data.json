@@ -1,0 +1,53 @@
+{
+ "title": "Uchuu no Kishi Tekkaman Blade",
+ "aliases": [
+  "Uchū no Kishi: Tekkaman Blade"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "July 30, 1993"
+ },
+ "developer": [
+  "BEC",
+  "AI",
+  "A.I."
+ ],
+ "publisher": [
+  "Intersec",
+  "BEC"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "anime",
+  "fighting",
+  "horizontal",
+  "mech",
+  "shootemup",
+  "sideways"
+ ],
+ "description": "A shoot 'em up/fighting game based on the Tekkaman Blade anime.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/4/2/26742_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/2/26742_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

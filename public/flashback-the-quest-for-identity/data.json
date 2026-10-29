@@ -1,0 +1,33 @@
+{
+ "title": "Flashback: The Quest for Identity",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-02",
+  "usa": "February 1994"
+ },
+ "developer": [
+  "Delphine Software International"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Flashback, released as Flashback: The Quest for Identity in the United States, is a 1992 science fictioncinematic platform gamedeveloped by Delphine Software of France and published by U.S. Gold in United States and Europe, and Sunsoft in Japan.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 3.8,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/65281f65-aef5-48ad-b799-e196aabaf98f.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/4/25914_front.jpg"
+ ],
+ "sources": [
+  "opengamedb",
+  "openvgdb"
+ ]
+}

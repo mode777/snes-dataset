@@ -1,0 +1,48 @@
+{
+ "title": "Super F1 Circus Gaiden",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jul7, 1995"
+ },
+ "developer": [
+  "Cream"
+ ],
+ "publisher": [
+  "Nichibutsu"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "formulaone",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "A spin-off of Nichibutsu's series of F1 racing games for the Super Famicom that also features Group C and GT races.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/0/2/307102_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/0/2/307102_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

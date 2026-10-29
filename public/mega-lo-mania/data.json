@@ -1,0 +1,50 @@
+{
+ "title": "Mega lo Mania",
+ "aliases": [
+  "Mega-Lo-Mania"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "europe": "1994"
+ },
+ "developer": [
+  "Sensible Software",
+  "SPS"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "caveman",
+  "cute",
+  "futuristic",
+  "medieval",
+  "mouseonly",
+  "prehistoric",
+  "strategy"
+ ],
+ "description": "Mega-lo-Mania is a god simulator from Sensible Software in which the player brings the force of their civilization to bear against their rivals in a struggle for dominance.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/1/5/31715_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/5/31715_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

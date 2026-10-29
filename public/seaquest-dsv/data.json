@@ -1,0 +1,51 @@
+{
+ "title": "seaQuest DSV",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "January 1995",
+  "pal": "July 27, 1995",
+  "europe": "January 1995",
+  "usa": "January 1995"
+ },
+ "developer": [
+  "Sculptured Software"
+ ],
+ "publisher": [
+  "Malibu Games"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "angle",
+  "multidirectional",
+  "naval",
+  "submarine",
+  "tv"
+ ],
+ "description": "A real-time simulator/strategy game based on the SeaQuest DSV TV show.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/8/4/46684_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/8/4/46684_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/8/3/46683_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

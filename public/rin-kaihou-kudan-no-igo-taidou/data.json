@@ -1,0 +1,34 @@
+{
+ "title": "Rin Kaihou Kudan no Igo Taidou",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {},
+ "developer": [
+  "?"
+ ],
+ "publisher": [
+  "Ask Kodansha"
+ ],
+ "genre": [],
+ "tags": [
+  "boardgame",
+  "go"
+ ],
+ "description": "A Go game for the Super Famicom endorsed by professional player Rin Kaiho.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

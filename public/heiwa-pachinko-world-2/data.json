@@ -1,0 +1,45 @@
+{
+ "title": "Heiwa Pachinko World 2",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep 29, 1995"
+ },
+ "developer": [
+  "Office Koukan",
+  "Shouei"
+ ],
+ "publisher": [
+  "Shouei System",
+  "Shouei"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "pachinko"
+ ],
+ "description": "A pachinko game for Super Famicom. Features virtual approximations of pachinko machines made by Heiwa Corporation.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/7/2/306072_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

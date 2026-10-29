@@ -1,0 +1,50 @@
+{
+ "title": "King of Dragons",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-04",
+  "usa": "April 1994",
+  "europe": "April 1994"
+ },
+ "developer": [
+  "Capcom",
+  "Prism Kikaku"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "arcade",
+  "beatemup",
+  "fantasy",
+  "fighter",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "A 1991 side-scrolling fantasy hack-and-slash brawler made by Capcom for Arcades. It contains a few RPG elements which would be better realized in Capcom's later Mystara games.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.77,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/dc7cbaa3-fb54-4d0c-9d40-e506f7b4a7c0.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/2/2/50822_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "title": "Kishin Douji Zenki - Tenchi Meidou",
+ "aliases": [
+  "Kishin Douji Zenki: Tenchi Meidou"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Feb 23, 1996"
+ },
+ "developer": [
+  "?",
+  "Hudson"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "cards",
+  "turnbased"
+ ],
+ "description": "Card battle board game published by Hudson in 1996. It is the third and final Super Famicom game based on the Kishin Douji Zenki anime.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/9/4/307194_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/9/4/307194_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

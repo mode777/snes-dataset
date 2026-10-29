@@ -1,0 +1,52 @@
+{
+ "title": "Michael Jordan: Chaos in the Windy City",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 21, 1994",
+  "pal": "March 11, 1995",
+  "first_release": "1994-11",
+  "usa": "November 1994",
+  "europe": "November 1994"
+ },
+ "developer": [
+  "Electronic Arts"
+ ],
+ "publisher": [
+  "Electronic Arts"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "When a mad scientist uses robots and mutants to capture basketball players (for the bizarre reason of creating a cloned basketball team), it's up to then-retired professional basketball player Michael Jordan and an endless supply of basketballs to put a stop to it.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.91,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/05cf83ac-8215-4457-842f-6f7f7d5e0483.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/3/5/50935_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/3/5/50935_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

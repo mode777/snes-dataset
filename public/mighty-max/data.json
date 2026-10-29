@@ -1,0 +1,45 @@
+{
+ "title": "Mighty Max",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "February 1995"
+ },
+ "developer": [
+  "WJS Design"
+ ],
+ "publisher": [
+  "Ocean"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cartoon",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A 16-bit action platformer game based on the TV show of the same name which in turn was based on the toyline of the same name. Max's friends Bea and Felix are also playable characters.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/3/9/50939_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "title": "Ys III: Wanderers from Ys",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "January 1992",
+  "north_america": "January 10, 1992",
+  "first_release": "1992-01",
+  "usa": "January 1992"
+ },
+ "developer": [
+  "Nihon Falcom",
+  "Tonkin House",
+  "Advance Communication Company"
+ ],
+ "publisher": [
+  "American Sammy"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "horizontal",
+  "rpg",
+  "sideways",
+  "wanderer"
+ ],
+ "description": "A Falcom-developed Action-RPG and the third Ys game. For the first time in the series, players have direct control over Adol's ability to attack, in addition to the ability to jump. Also, instead of being a top-down game like its predecessors, Ys III is a side-scrolling action-platformer.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.4,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/1/8/6/20186_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/5/20185_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/5/20185_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/6/20186_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/6/20186_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

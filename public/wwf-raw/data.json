@@ -1,0 +1,54 @@
+{
+ "title": "WWF Raw",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 1994",
+  "pal": "December 1994",
+  "first_release": "1994-11",
+  "usa": "November 1994",
+  "europe": "November 1994"
+ },
+ "developer": [
+  "Sculptured Software"
+ ],
+ "publisher": [
+  "LJN"
+ ],
+ "genre": [
+  "Sports",
+  "Action",
+  "Fighting",
+  "Wrestling"
+ ],
+ "tags": [
+  "angle",
+  "behind",
+  "sports",
+  "wrestling"
+ ],
+ "description": "Sequel to WWF Royal Rumble, and ended LJN's 16-bit WWF trilogy.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.5,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/db8380ef-36b2-4ff8-8754-df486b55009d.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/7/12437_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/7/12437_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/8/12438_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

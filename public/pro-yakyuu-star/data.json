@@ -1,0 +1,45 @@
+{
+ "title": "Pro Yakyuu Star",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "japan": "Jan 17, 1997"
+ },
+ "developer": [
+  "Culture Brain"
+ ],
+ "publisher": [
+  "Culture Brain"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "baseball",
+  "sports"
+ ],
+ "description": "A baseball game for the Super Famicom. Originally supposed to be Ultra Baseball Jitsumeiban 4, Culture Brain removed the series-trademark superpower mode.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/5/4/307254_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/5/4/307254_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

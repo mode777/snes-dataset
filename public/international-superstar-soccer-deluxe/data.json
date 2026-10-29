@@ -1,0 +1,54 @@
+{
+ "title": "International Superstar Soccer Deluxe",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-11",
+  "europe": "November 1995",
+  "usa": "November 1995"
+ },
+ "developer": [
+  "Major A",
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "A soccer game developed by Konami for the Sega Genesis, SNES and PS1 systems.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.08,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/e9ece22d-2232-4010-a655-04688ed96cbc.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/3/35743_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/3/35743_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/2/35742_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/2/35742_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

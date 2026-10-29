@@ -1,0 +1,47 @@
+{
+ "title": "Lode Runner Twin - Justy to Liberty no Daibouken",
+ "aliases": [
+  "Lode Runner Twin: Justy to Liberty no Daibouken"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jul 29, 1994"
+ },
+ "developer": [
+  "T&E Soft"
+ ],
+ "publisher": [
+  "T&E Soft"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "Action"
+ ],
+ "tags": [
+  "arcade",
+  "cooperative",
+  "loderunner"
+ ],
+ "description": "A Japan-only Lode Runner game for the Super Famicom released in 1994. It features a co-operative two-player mode and levels with changing themes.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/8/0/31780_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/8/0/31780_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "title": "Street Fighter Alpha 2",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "first_release": "1996-11-01",
+  "europe": "November 1996",
+  "usa": "November 1996"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "fighting",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "The sequel to (and remake of) Street Fighter Alpha brings five new fighters into the fray including newcomer schoolgirl Sakura while adding a new special ability: the \"Custom Combo\", in which players can trigger a massive timed combo chain using their Super Meter.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.01,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/b17d3372-ca08-4783-b9f7-e8249dae15b7.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/7/1/7671_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/7/1/7671_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/7/0/7670_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/7/0/7670_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

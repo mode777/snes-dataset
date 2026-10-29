@@ -1,0 +1,57 @@
+{
+ "title": "Chuck Rock",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "north_america": "November 1, 1992",
+  "pal": "1992",
+  "first_release": "1992-11",
+  "usa": "November 1992",
+  "europe": "November 1992"
+ },
+ "developer": [
+  "Core Design",
+  "Core Design Ltd."
+ ],
+ "publisher": [
+  "Sony Imagesoft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "caveman",
+  "cute",
+  "dinosaurs",
+  "multidirectional",
+  "platform",
+  "prehistoric",
+  "sideways"
+ ],
+ "description": "Caveman Chuck Rock must save his wife from dinosaurs by beating down enemies with his stomach and by hurling rocks in this side-scrolling action game.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.6,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/4/2/8/28428_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/2/8/28428_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/2/9/28429_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

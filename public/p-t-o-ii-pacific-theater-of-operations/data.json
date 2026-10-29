@@ -1,0 +1,48 @@
+{
+ "title": "P.T.O. II: Pacific Theater of Operations",
+ "aliases": [
+  "P.T.O.: Pacific Theater of Operations II"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "usa": "December 1995"
+ },
+ "developer": [
+  "Koei"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Historic"
+ ],
+ "tags": [
+  "historical",
+  "strategy",
+  "tactic",
+  "wargame",
+  "ww2"
+ ],
+ "description": "The second game in the Pacific Theater of Operations series takes place during World War II, specifically the Japanese-American conflict.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/9/4/5894_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/4/5894_back.jpg"
+ ],
+ "sources": [
+  "openvgdb",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

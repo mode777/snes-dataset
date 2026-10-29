@@ -1,0 +1,61 @@
+{
+ "title": "The Lost Vikings",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1993-04",
+  "usa": "April 1993",
+  "spain": "April 1993",
+  "germany": "April 1993",
+  "france": "April 1993",
+  "europe": "April 1993"
+ },
+ "developer": [
+  "Silicon & Synapse"
+ ],
+ "publisher": [
+  "Interplay"
+ ],
+ "genre": [
+  "Puzzle",
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [
+  "alien",
+  "futuristic",
+  "humour",
+  "levelcodes",
+  "multidirectional",
+  "platform",
+  "puzzle",
+  "scifi",
+  "scrolling",
+  "space",
+  "viking"
+ ],
+ "description": "Play as Olaf, Baleog and Erik, three vikings who have been kidnapped by aliens and are trying to get home.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, Spanish, French, Japanese"
+ ],
+ "gf_score": 3.84,
+ "metascore": 75,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/9/6/3/10963_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/3/10963_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/3/10963_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/4/10964_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/4/10964_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "title": "Spectre",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "May 1994",
+  "pal": "July 1994",
+  "europe": "May 1994",
+  "usa": "May 1994"
+ },
+ "developer": [
+  "Synergistic Software"
+ ],
+ "publisher": [
+  "Cybersoft"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "futuristic",
+  "racing",
+  "shooter",
+  "tanks",
+  "topdown"
+ ],
+ "description": "A 3D tank combat game similar to Battlezone in which players must collect flags and, of course, destroy enemy tanks.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/7/0/51170_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/0/51170_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/6/9/51169_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

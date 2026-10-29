@@ -1,0 +1,50 @@
+{
+ "title": "Dual Orb II",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 29, 1994",
+  "first_release": "1994-12-29"
+ },
+ "developer": [
+  "Prism",
+  "I'Max"
+ ],
+ "publisher": [
+  "I'Max"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A turn-based RPG released in 1994 in Japan on the Super Famicom. An Empire resurrects an ancient scientist that once threatened the stability of the world.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.81,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/09ec3b13-b3f8-4184-9e0d-863c3f0824b1.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/6/20556_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/6/20556_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

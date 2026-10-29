@@ -1,0 +1,44 @@
+{
+ "title": "Leading Jockey 2",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Nov 24, 1995"
+ },
+ "developer": [
+  "Carrozzeria"
+ ],
+ "publisher": [
+  "Carrozzeria"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Horse Racing"
+ ],
+ "tags": [
+  "behind",
+  "horceracing",
+  "racing"
+ ],
+ "description": "Horse racing game sequel developed by Carrozzeria in 1995.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/5/5/307155_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

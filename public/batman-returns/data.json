@@ -1,0 +1,59 @@
+{
+ "title": "Batman Returns",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "April 1993",
+  "north_america": "May 31, 1993",
+  "pal": "May 1, 1993",
+  "first_release": "1993-04",
+  "usa": "April 1993",
+  "europe": "April 1993"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "beatemup",
+  "comic",
+  "movie",
+  "progressive",
+  "sideways"
+ ],
+ "description": "Guide the caped crusader as he fights through hordes of circus performers to foil the plans of The Penguin and Catwoman in this action game based on the 1992 movie of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.67,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/2/8/7/21287_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/6/21286_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/6/21286_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/7/21287_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/7/21287_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/8/21288_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/8/21288_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

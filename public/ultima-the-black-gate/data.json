@@ -1,0 +1,45 @@
+{
+ "title": "Ultima: The Black Gate",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "November 1994"
+ },
+ "developer": [
+  "ORIGIN Systems",
+  "Origin"
+ ],
+ "publisher": [
+  "FCI / Pony Canyon"
+ ],
+ "genre": [
+  "Role-Playing",
+  "PC-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "ultima",
+  "wanderer"
+ ],
+ "description": "The Avatar returns to the world of Britannia to face a new threat from a mysterious cult and its enigmatic god known as the Guardian in the seventh game of the Ultima series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/5/1/51451_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

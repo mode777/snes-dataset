@@ -1,0 +1,42 @@
+{
+ "title": "Aladdin 2000",
+ "aliases": [],
+ "year": null,
+ "release_dates": {},
+ "developer": [
+  "DVS Electronic"
+ ],
+ "publisher": [
+  "DVS Electronic"
+ ],
+ "genre": [],
+ "tags": [
+  "cartoon",
+  "comedy",
+  "cute",
+  "fantasy",
+  "folklore",
+  "middleeast",
+  "movie",
+  "multidirectional",
+  "platform",
+  "sideways",
+  "unlicensed"
+ ],
+ "description": "Aladdin 2000 is a port of Disney's Aladdin for the Sega Mega Drive, made for the SNES presumably by DVS Electronic.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

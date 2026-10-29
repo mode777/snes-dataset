@@ -1,0 +1,44 @@
+{
+ "title": "Pachio-kun Special 3",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec1, 1995"
+ },
+ "developer": [
+  "Marionette"
+ ],
+ "publisher": [
+  "Coconuts Japan"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "Pachinko compilation game from Marionette and Coconuts Japan in 1995. Features graphically updated remakes of the first four Pachiokun games for NES.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/5/7/307157_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/5/7/307157_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

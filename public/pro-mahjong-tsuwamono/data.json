@@ -1,0 +1,43 @@
+{
+ "title": "Pro Mahjong Tsuwamono",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "japan": "Apr 18, 1997"
+ },
+ "developer": [
+  "Culture Brain"
+ ],
+ "publisher": [
+  "Culture Brain"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A mahjong game for the Super Famicom featuring real-life mahjong professionals. The first in Culture Brain's \"Tsuwamono\" (Soldier) mahjong series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/6/3/307263_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/6/3/307263_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

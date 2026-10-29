@@ -1,0 +1,57 @@
+{
+ "title": "The Chessmaster",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "September 1991",
+  "north_america": "September 1, 1991",
+  "pal": "1992",
+  "first_release": "1991-09",
+  "usa": "September 1991",
+  "europe": "September 1991"
+ },
+ "developer": [
+  "Software Toolworks, Inc., The",
+  "The Software Toolworks",
+  "Software Toolworks"
+ ],
+ "publisher": [
+  "Mindscape"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "angle",
+  "chess",
+  "sports",
+  "topdown"
+ ],
+ "description": "The Chessmaster is a game where the player has the chance to play against the CPU controlled Chessmaster at a standard game of chess.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 2.85,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/29afb350-64e0-47a4-a7b5-9a0aeb3ce8c6.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/7/22587_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/6/22586_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/6/22586_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/8/22588_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/8/22588_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

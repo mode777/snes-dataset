@@ -1,0 +1,44 @@
+{
+ "title": "Sanrio Shanghai",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Aug 31, 1994"
+ },
+ "developer": [
+  "SAS Sakata"
+ ],
+ "publisher": [
+  "Character Soft"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "boardgame",
+  "shangai"
+ ],
+ "description": "A Shanghai (Mahjong Solitaire) game for the Super Famicom featuring Hello Kitty and other Sanrio characters.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/9/2/31792_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/9/2/31792_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

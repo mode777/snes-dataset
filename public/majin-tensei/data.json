@@ -1,0 +1,46 @@
+{
+ "title": "Majin Tensei",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jan 28, 1994"
+ },
+ "developer": [
+  "ATLUS"
+ ],
+ "publisher": [
+  "ATLUS"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Sci-Fi"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "An early turn-based SRPG spinoff of the Megami Tensei series released exclusively in Japan for the SNES. Although reminiscent of Nintendo series such as Famicom Wars and Fire Emblem, Majin Tensei still retains many defining Megami Tensei features such as demon summoning and lunar cycles.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/2/9/43029_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/2/9/43029_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

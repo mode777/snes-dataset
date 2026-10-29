@@ -1,0 +1,32 @@
+{
+ "title": "Super Stadium",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "February 1992"
+ },
+ "developer": [
+  "Affect"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [],
+ "description": "Nolan Ryan's Baseball is a Sports game, developed by Affect and published by Seta Corporation,which was released in Japan in 1991.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/7/7/50977_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/7/7/50977_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

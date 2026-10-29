@@ -1,0 +1,51 @@
+{
+ "title": "Super Valis IV",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1993-02",
+  "usa": "February 1993"
+ },
+ "developer": [
+  "Shin-Nihon Laser Soft",
+  "Laser Soft"
+ ],
+ "publisher": [
+  "Telenet Japan"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "femaleprotagonist",
+  "fighter",
+  "horriozntal",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Chronologically the final game in the side-scrolling Valis series. Unlike its predecessors, Yuko is not the main character. It is also the only game to be ported to a Nintendo system.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.34,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/f23bc3cc-00f3-4583-a8f2-5ec4dfdacaee.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/4/51384_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

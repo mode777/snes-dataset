@@ -1,0 +1,32 @@
+{
+ "title": "Wolfenstein 3D: The Claw of Eisenfaust",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "March 1994"
+ },
+ "developer": [
+  "id Software"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Shooter",
+  "First-Person",
+  "Historic"
+ ],
+ "tags": [],
+ "description": "Achtung! You are OSA super agent B.J. Blazkowicz. Your goal is to escape from Castle Wolfenstein and defeat the twisted Nazi regime in Wolfenstein 3D. Fight all of the memorable enemies from Hans Grosse to Mecha-Hitler in the legendary game that launched the first-person shooter genre. Search classic levels for hidden secrets revealing stolen Nazi treasure, health packs, ammo and weapons, or even short cuts.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/1/2/17012_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/1/2/17012_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

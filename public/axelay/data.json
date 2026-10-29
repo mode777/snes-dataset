@@ -1,0 +1,61 @@
+{
+ "title": "Axelay",
+ "aliases": [
+  "Axelay †"
+ ],
+ "year": 1992,
+ "release_dates": {
+  "japan": "September 1992",
+  "north_america": "September 14, 1992",
+  "pal": "September 30, 1993",
+  "first_release": "1992-09",
+  "usa": "September 1992",
+  "europe": "September 1992"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "behind",
+  "horizontal",
+  "intoscreen",
+  "shootemup",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Horizontal and vertical scrolling shooter for the Super Nintendo, which seamlessly switches between the two modes.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.8,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/7bac440e-e023-432c-a1fb-8b16327b4dd3.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/3/22503_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/3/22503_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/5/22505_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/5/22505_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/4/22504_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/4/22504_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

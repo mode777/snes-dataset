@@ -1,0 +1,45 @@
+{
+ "title": "Chibi Maruko-chan: Mezase! Minami no Island!!",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec1, 1995"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "boardgame",
+  "manga",
+  "minigames"
+ ],
+ "description": "A Chibi Maruko-Chan licensed multiplayer mini-game collection for Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/5/4/312554_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/4/312554_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

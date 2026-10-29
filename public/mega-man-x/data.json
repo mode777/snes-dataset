@@ -1,0 +1,54 @@
+{
+ "title": "Mega Man X",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1994-01-01",
+  "europe": "January 1994",
+  "usa": "January 1994"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "jumper",
+  "platform",
+  "scifi",
+  "shooter",
+  "sideways"
+ ],
+ "description": "The spiritual successor to the original Mega Man series of platformers, Mega Man X features a more technologically advanced hero and a darker storyline (set a century after the adventures of the original Mega Man).",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.37,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/4abc9629-a494-4743-b8d3-77534d9f2c71.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/9/19729_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/9/19729_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/8/19728_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/8/19728_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "title": "Pokonyan! - Henpokorin Adventure",
+ "aliases": [
+  "Pokonyan!: Henpokorin Adventure"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 22, 1994"
+ },
+ "developer": [
+  "Toho Company",
+  "Toho"
+ ],
+ "publisher": [
+  "Toho Company"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "anime",
+  "collect",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Anime-based action platformer. Released in 1994 for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/2/5/307025_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/2/5/307025_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

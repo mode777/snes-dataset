@@ -1,0 +1,43 @@
+{
+ "title": "Dr. Mario",
+ "aliases": [],
+ "year": 1998,
+ "release_dates": {
+  "first_release": "1998-06-01"
+ },
+ "developer": [
+  "Nintendo"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Puzzle"
+ ],
+ "tags": [
+  "movingblocks",
+  "puzzle",
+  "singlescreen",
+  "topdown"
+ ],
+ "description": "A puzzle game that released in the midst of the Tetris craze, Dr. Mario put its own spin on the falling-blocks concept. It was one of the few Tetris derivatives of the time that was a hit in its own right.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.35,
+ "metascore": 66,
+ "cover_urls": [
+  "https://images.launchbox-app.com/aa3c520d-3c63-4836-a5ac-26924319a615.png"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

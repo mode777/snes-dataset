@@ -1,0 +1,49 @@
+{
+ "title": "Captain Tsubasa III: Koutei no Chousen",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Jul 17, 1992"
+ },
+ "developer": [
+  "Tecmo"
+ ],
+ "publisher": [
+  "Tecmo"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "anime",
+  "football",
+  "manga",
+  "soccer",
+  "sports",
+  "strategy"
+ ],
+ "description": "The first Captain Tsubasa game released on the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/4/6/20246_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/4/6/20246_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

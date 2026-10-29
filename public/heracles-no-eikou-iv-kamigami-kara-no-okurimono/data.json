@@ -1,0 +1,46 @@
+{
+ "title": "Heracles no Eikou IV - Kamigami kara no Okurimono",
+ "aliases": [
+  "Heracles no Eikou IV: Kamigami kara no Okurimono"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Oct 21, 1994"
+ },
+ "developer": [
+  "Data East"
+ ],
+ "publisher": [
+  "Data East"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A JRPG based on Greek mythology and the fourth core game in the Heracles no Eikou/Glory of Heracles series from Data East. The player controls the magically disembodied spirit of a young man, taking over other bodies.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/8/8/306988_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/8/306988_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

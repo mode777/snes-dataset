@@ -1,0 +1,37 @@
+{
+ "title": "Full Throttle: All-American Racing",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "Cybersoft"
+ ],
+ "publisher": [
+  "GameTek"
+ ],
+ "genre": [],
+ "tags": [
+  "behind",
+  "intoscreen",
+  "motorcycle",
+  "racing",
+  "sports"
+ ],
+ "description": "An OutRun-style racing game for the Super Nintendo that presents two options for players: motorbikes or jetskis.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

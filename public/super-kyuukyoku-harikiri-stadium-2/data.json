@@ -1,0 +1,44 @@
+{
+ "title": "Super Kyuukyoku Harikiri Stadium 2",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Aug 12, 1994"
+ },
+ "developer": [
+  "Now Production"
+ ],
+ "publisher": [
+  "TAITO"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "baseball",
+  "sports"
+ ],
+ "description": "A 1994 baseball game for the Super Famicom and part of Taito's Kyuukyoku Harikiri Stadium series.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/6/1/306961_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

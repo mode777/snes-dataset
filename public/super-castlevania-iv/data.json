@@ -1,0 +1,51 @@
+{
+ "title": "Super Castlevania IV",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "first_release": "1991-12-03",
+  "usa": "December 1991",
+  "europe": "December 1991"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horror",
+  "platform",
+  "sideways"
+ ],
+ "description": "An enhanced recreation of the original Castlevania, retelling Simon Belmont's crusade against Dracula with new levels, content, and gameplay elements.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.15,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/fbe7b7cb-506a-4357-bc5f-4caaefffa093.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/6/3/51263_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/6/3/51263_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/6/4/51264_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/6/4/51264_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

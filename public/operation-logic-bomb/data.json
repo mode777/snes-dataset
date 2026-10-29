@@ -1,0 +1,37 @@
+{
+ "title": "Operation Logic Bomb",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {},
+ "developer": [
+  "Jaleco"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "angle",
+  "futuristic",
+  "maze",
+  "multidirectional",
+  "shooter"
+ ],
+ "description": "As a bionic soldier, the player must fight his way through enemies in a secret lab.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

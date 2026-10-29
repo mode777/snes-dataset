@@ -1,0 +1,54 @@
+{
+ "title": "Brandish",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "February 1995",
+  "north_america": "February 28, 1995",
+  "first_release": "1995-02",
+  "usa": "February 1995"
+ },
+ "developer": [
+  "Nihon Falcom Corp.",
+  "Koei",
+  "Falcom"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "A top-down dungeon crawling action RPG originally released for the NEC PC-9801 in 1991 and was later ported to the SNES and released in North America.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.38,
+ "metascore": 78,
+ "cover_urls": [
+  "https://images.launchbox-app.com/4ed07bfb-27db-4f2b-a8e4-c7fabdcc3281.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/0/50550_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/0/50550_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/9/50549_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/9/50549_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

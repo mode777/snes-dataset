@@ -1,0 +1,52 @@
+{
+ "title": "Snow White in Happily Ever After",
+ "aliases": [
+  "Snow White: Happily Ever After"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "usa": "October 1994",
+  "north_america": "October 1994"
+ },
+ "developer": [
+  "Imagitec Design",
+  "Imagitec Design, Inc."
+ ],
+ "publisher": [
+  "American Softworks Corporation",
+  "American Softworks"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "cartoon",
+  "collector",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A North American exclusive SNES platformer targeted towards female gamers. It is based on the 1993 Filmation animated movie, rather than the better-known 1937 Disney film.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/5/4/51154_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/5/4/51154_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

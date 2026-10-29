@@ -1,0 +1,43 @@
+{
+ "title": "Super Trump Collection 2",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Jul 19, 1996"
+ },
+ "developer": [
+  "?",
+  "Bottom Up"
+ ],
+ "publisher": [
+  "Bottom Up"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [
+  "cards",
+  "gambling"
+ ],
+ "description": "A compilation of card games for the Super Famicom. This sequel has an even greater number of traditional card games.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/4/7/31947_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "title": "Popful Mail",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jun 10, 1994"
+ },
+ "developer": [
+  "Nihon Falcom",
+  "Falcom"
+ ],
+ "publisher": [
+  "Nihon Falcom",
+  "Falcom"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "action",
+  "basher",
+  "multidirectional",
+  "platform",
+  "sideways"
+ ],
+ "description": "A side-scrolling fantasy action game with light RPG elements created by Nihon Falcom that is best known for its Sega CD incarnation, published in the US by Working Designs.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/1/2/22812_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/1/2/22812_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

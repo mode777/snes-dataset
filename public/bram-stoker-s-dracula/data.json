@@ -1,0 +1,55 @@
+{
+ "title": "Bram Stoker's Dracula",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "September 1993",
+  "pal": "1993",
+  "first_release": "1993-09",
+  "usa": "September 1993",
+  "europe": "September 1993"
+ },
+ "developer": [
+  "Psygnosis, Travellers Tales",
+  "Psygnosis / Traveller's Tales",
+  "Traveller's Tales"
+ ],
+ "publisher": [
+  "Sony Imagesoft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "beatemup",
+  "book",
+  "horror",
+  "legendary",
+  "movie",
+  "progressive",
+  "sideways"
+ ],
+ "description": "A horror action platformer game based on the movie of the same name, released on a multitude of platforms from 1993 on, developed by Psygnosis, Traveller's Tales, and Probe Entertainment and published by Sony Imagesoft and Psygnosis.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 1.93,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/4081299f-24da-4843-857b-7deb8174d805.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/8/22558_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/8/22558_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/9/22559_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/9/22559_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

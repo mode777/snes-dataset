@@ -1,0 +1,55 @@
+{
+ "title": "PGA Tour Golf",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "March 1992",
+  "north_america": "March 1, 1992",
+  "pal": "1992",
+  "usa": "March 1992",
+  "europe": "March 1992"
+ },
+ "developer": [
+  "Sterling Silver Software",
+  "Polygames"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "EA Sports"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Golf",
+  "Sim"
+ ],
+ "tags": [
+  "behind",
+  "golf",
+  "intoscreen",
+  "sports"
+ ],
+ "description": "The predecessor to the Tiger Woods PGA Tour series was originally released in 1990.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/2/6/41426_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/2/8/41428_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/2/7/41427_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/2/7/41427_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

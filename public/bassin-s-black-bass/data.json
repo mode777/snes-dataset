@@ -1,0 +1,31 @@
+{
+ "title": "Bassin's Black Bass",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Starfish Inc."
+ ],
+ "publisher": [
+  "HOT-B USA"
+ ],
+ "genre": [],
+ "tags": [
+  "fishing",
+  "simulation",
+  "sports"
+ ],
+ "description": "A tournament fishing game for the Super Nintendo developed by Starfish and published by Hot B. Part of Hot B's Black Bass series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

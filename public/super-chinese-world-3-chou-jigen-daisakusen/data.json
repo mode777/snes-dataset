@@ -1,0 +1,46 @@
+{
+ "title": "Super Chinese World 3 - Chou Jigen Daisakusen",
+ "aliases": [
+  "Super Chinese World 3: Chou Jigen Daisakusen"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec 22, 1995"
+ },
+ "developer": [
+  "Culture Brain"
+ ],
+ "publisher": [
+  "Culture Brain"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "brawler",
+  "rpg"
+ ],
+ "description": "A martial arts-themed action RPG for the Super Famicom (SNES) that was released only in Japan. The third and final game in the Super Chinese World series.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/1/2/312412_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/2/312412_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

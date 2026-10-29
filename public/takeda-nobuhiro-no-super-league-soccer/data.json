@@ -1,0 +1,47 @@
+{
+ "title": "Takeda Nobuhiro no Super League Soccer",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Nov 25, 1994"
+ },
+ "developer": [
+  "Tose"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "behinf",
+  "football",
+  "soccer",
+  "sports"
+ ],
+ "description": "A soccer game exclusive to the Super Famicom. Features teams from the Japanese J. League. It is the sequel to SNES soccer game Super Goal! 2, which was also named for and endorsed by Nobuhiro Takeda in Japan.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/0/7/307007_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/0/7/307007_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

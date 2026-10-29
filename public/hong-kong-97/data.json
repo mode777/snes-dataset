@@ -1,0 +1,32 @@
+{
+ "title": "Hong Kong 97",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "1995",
+  "first_release": "1995-04-02"
+ },
+ "developer": [
+  "Happysoft"
+ ],
+ "publisher": [
+  "Happysoft"
+ ],
+ "genre": [
+  "Action"
+ ],
+ "tags": [],
+ "description": "Hong Kong 97, stylized as HONGKONG1997 on the game's cover, is a 1995 unlicensed multidirectional shooter made for the Super Famicom in disk drive format by HappySoft Ltd., a Japanese homebrew game company. It was designed by the Japanese game journalist \"Kowloon\" Kurosawa  (クーロン黒沢 Kūron Kurosawa), who said the game was made in two days. The game has gained a cult following in Japan and Taiwan for its notoriously poor quality, considered to be a kusoge.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 1.09,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/6c45c774-c249-424d-93fb-b86a1d623c09.png"
+ ],
+ "sources": [
+  "wikipedia_unlicensed",
+  "opengamedb"
+ ]
+}

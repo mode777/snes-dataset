@@ -1,0 +1,43 @@
+{
+ "title": "John Madden Football '93",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "europe": "November 1992",
+  "usa": "November 1992"
+ },
+ "developer": [
+  "Electronic Arts",
+  "EA Canada"
+ ],
+ "publisher": [
+  "Electronic Arts"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [
+  "americanfootball",
+  "angle",
+  "sports"
+ ],
+ "description": "John Madden Football '93 was an early title in the popular football series. Released on the Genesis and SNES in 1992.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/3/2/10932_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/3/1/10931_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

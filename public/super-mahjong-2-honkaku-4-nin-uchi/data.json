@@ -1,0 +1,40 @@
+{
+ "title": "Super Mahjong 2 - Honkaku 4-nin Uchi!",
+ "aliases": [
+  "Super Mahjong 2: Honkaku 4 Nin Uchi!",
+  "Super Mahjong 2: Honkaku 4-nin Uchi!"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "December 2, 1993"
+ },
+ "developer": [
+  "I'MAX"
+ ],
+ "publisher": [
+  "I'MAX"
+ ],
+ "genre": [],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A mahjong game for the Super Famicom. It is the sequel to the original Super Mahjong, from I'Max.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

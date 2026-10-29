@@ -1,0 +1,62 @@
+{
+ "title": "Rise of the Robots",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "December 1994",
+  "north_america": "December 1994",
+  "pal": "January 1995",
+  "first_release": "1994-12",
+  "usa": "December 1994",
+  "europe": "December 1994"
+ },
+ "developer": [
+  "Instinct Design / Mirage",
+  "Mirage / T&E Soft",
+  "Data Design Interactive"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "competitive",
+  "cyborgs",
+  "fighting",
+  "robot",
+  "scifi",
+  "sideways"
+ ],
+ "description": "An infamous sci-fi fighting game known for its expensive marketing campaign (failing to live up to such lofty expectations). Set in the far future 2043, players control a cyborg that must neutralize an army of robots infected with a powerful computer virus.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 1.43,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/4b5f76d3-f125-4d33-8c70-7ed3d96f6cd1.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/2/3/45223_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/2/3/45223_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/2/1/45221_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/2/2/45222_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/2/2/45222_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

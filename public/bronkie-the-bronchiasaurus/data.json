@@ -1,0 +1,48 @@
+{
+ "title": "Bronkie the Bronchiasaurus",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "September 26, 1995",
+  "usa": "September 1995"
+ },
+ "developer": [
+  "WaveQuest Inc.",
+  "WaveQuest"
+ ],
+ "publisher": [
+  "Health Hero Network, Inc.",
+  "Raya Systems"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "educational",
+  "jumper",
+  "platform"
+ ],
+ "description": "Bronkie is a dinosaur with a serious case of asthma and the evil Rexo has stolen the machine purifying the air of dust caused by meteors. Bronkie is doomed if he can't find that machine.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Spanish"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/5/7/50557_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/7/50557_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

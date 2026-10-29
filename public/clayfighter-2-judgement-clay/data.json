@@ -1,0 +1,41 @@
+{
+ "title": "ClayFighter 2: Judgement Clay",
+ "aliases": [
+  "ClayFighter 2: Judgment Clay"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "January 1, 1995",
+  "pal": "May 23, 1995"
+ },
+ "developer": [
+  "Interplay",
+  "Interplay Entertainment"
+ ],
+ "publisher": [
+  "Interplay",
+  "Interplay Entertainment"
+ ],
+ "genre": [],
+ "tags": [
+  "fighting",
+  "sideways"
+ ],
+ "description": "Interplay's claymation fighting game returns with a brand new gameplay engine and a new cast of fighters.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

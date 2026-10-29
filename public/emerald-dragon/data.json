@@ -1,0 +1,50 @@
+{
+ "title": "Emerald Dragon",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jul 28, 1995",
+  "first_release": "1995-07-28"
+ },
+ "developer": [
+  "Alfa System"
+ ],
+ "publisher": [
+  "Media Works",
+  "MediaWorks"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "Emerald Dragon is a traditional Japanese RPG released for various gaming consoles and computers.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.59,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/f0fbdae2-43e4-4c96-bd1b-cbca24c30849.png",
+  "https://gamefaqs.gamespot.com/a/box/6/7/8/36678_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/7/8/36678_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

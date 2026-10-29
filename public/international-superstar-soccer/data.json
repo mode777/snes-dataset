@@ -1,0 +1,54 @@
+{
+ "title": "International Superstar Soccer",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-06",
+  "europe": "June 1995",
+  "usa": "June 1995"
+ },
+ "developer": [
+  "Konam",
+  "Konami"
+ ],
+ "publisher": [
+  "Konam"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "The first in the franchise, ISS featured a realistic simulation style soccer game played on a skewed almost isometric grid.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.83,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/c1de8653-0e6d-49ae-a218-0e8fb836be5f.png",
+  "https://gamefaqs.gamespot.com/a/box/6/7/7/15677_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/7/7/15677_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/7/6/15676_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/7/6/15676_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

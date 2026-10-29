@@ -1,0 +1,44 @@
+{
+ "title": "Umi no Nushi Tsuri",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Jul 19, 1996"
+ },
+ "developer": [
+  "Pack-In-Video"
+ ],
+ "publisher": [
+  "Pack-In-Video"
+ ],
+ "genre": [
+  "Sports",
+  "Nature",
+  "Fishing"
+ ],
+ "tags": [
+  "fishing",
+  "rpg",
+  "turnbased"
+ ],
+ "description": "Umi no Nushi Tsuri (\"Fishing the Sea Master\") is a fishing game in Pack-in-Video's Nushi Tsuri (usually localized as \"Legend of the River King\" or simply \"River King\") series, which combines traditional angling with RPG elements such as upgrading equipment and stats, and fighting turn-based battles with wild animals.  This spin-off moves from \"Kawa\" (river) to \"Umi\" (sea), focusing on saltwater fish instead. As with other games in the series, the player can choose between multiple members of the same family as their protagonist, each of which has their own reason for fishing. It saw sequels for the Game Boy (Umi no Nushi Tsuri 2) and the PlayStation (Umi no Nushi Tsuri: Takarajima he Mukatte).",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/2/9/307229_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

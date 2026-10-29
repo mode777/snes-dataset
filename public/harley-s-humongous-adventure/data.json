@@ -1,0 +1,43 @@
+{
+ "title": "Harley's Humongous Adventure",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "europe": "February 1993",
+  "usa": "February 1993"
+ },
+ "developer": [
+  "Visual Concepts Entertainment",
+  "Visual Concepts"
+ ],
+ "publisher": [
+  "Electronic Arts / Hi-Tech Expressions"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Harley's Humongous Adventure is a side-scrolling platformer for the SNES.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/6/6/50766_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/6/50766_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

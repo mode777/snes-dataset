@@ -1,0 +1,54 @@
+{
+ "title": "Hurricanes",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "December 31, 1994",
+  "pal": "1995",
+  "usa": "December 1994",
+  "europe": "December 1994"
+ },
+ "developer": [
+  "Probe Software",
+  "Probe Entertainment",
+  "Probe Entertainment Limited"
+ ],
+ "publisher": [
+  "U.S. Gold"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cartoon",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "An action game with soccer elements based on the 1990s animated TV show of the same name. The Hurricanes are once again caught in a scheme of Stavros Garkos and must make their way to Garkos Island across a series of stages set all over the world.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/8/0/47580_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/0/47580_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/1/47581_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/1/47581_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

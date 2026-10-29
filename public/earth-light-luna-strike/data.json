@@ -1,0 +1,48 @@
+{
+ "title": "Earth Light: Luna Strike",
+ "aliases": [
+  "Earth Light: Luna Strike [ja]"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "July 26, 1996"
+ },
+ "developer": [
+  "Kogado Software",
+  "Hudson",
+  "Hudson Soft"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "isometric",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "The sequel to Hudson's 1992 mecha turn-based strategy game.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/2/307232_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/2/307232_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

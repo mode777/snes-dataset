@@ -1,0 +1,58 @@
+{
+ "title": "NHLPA Hockey 93",
+ "aliases": [
+  "NHLPA Hockey '93"
+ ],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1992-12",
+  "usa": "December 1992",
+  "europe": "December 1992",
+  "north_america": "December 31, 1992",
+  "pal": "April 5, 1993"
+ },
+ "developer": [
+  "Electronic Arts",
+  "Park Place Productions"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "EA Sports"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Ice Hockey",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "icehockey",
+  "multidirectional",
+  "sports"
+ ],
+ "description": "This is the 2nd EA NHL game, although it lacked the NHL license and only had all the player names and city names appearing.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.51,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/547afb3d-6654-4289-8fa0-448c4b857c4a.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/3/2/47832_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/3/3/47833_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/3/3/47833_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "title": "Tetris Battle Gaiden",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "1993"
+ },
+ "developer": [
+  "Bullet Proof Software",
+  "Bullet-Proof Software"
+ ],
+ "publisher": [
+  "Bullet Proof Software",
+  "Bullet-Proof Software"
+ ],
+ "genre": [
+  "Puzzle"
+ ],
+ "tags": [
+  "fallingblocks",
+  "puzzle",
+  "realtime",
+  "singlescreen",
+  "tilearrangement"
+ ],
+ "description": "A multiplayer focused \"puzzle battle\" variant on the popular Tetris, released only in Japan.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/4/4/42244_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/4/4/42244_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

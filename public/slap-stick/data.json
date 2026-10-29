@@ -1,0 +1,30 @@
+{
+ "title": "Slap Stick",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "October 1994"
+ },
+ "developer": [
+  "Quintet"
+ ],
+ "publisher": [],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [],
+ "description": "Robotrek is a Role-Playing game, developed by Quintet and published by Enix Corporation,which was released in Japan in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/7/8/51078_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/7/8/51078_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

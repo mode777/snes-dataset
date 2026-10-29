@@ -1,0 +1,49 @@
+{
+ "title": "Fire Emblem: Seisen no Keifu",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "May 14, 1996",
+  "first_release": "1996-06-14"
+ },
+ "developer": [
+  "Intelligent Systems"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Fantasy"
+ ],
+ "tags": [
+  "fantasy",
+  "strategy",
+  "tactic",
+  "turnbased"
+ ],
+ "description": "The fourth game in the Fire Emblem series, released only in Japan for the Super Famicom. It presents a storyline spanning two generations and is one of the darkest entries in the franchise.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.43,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/6b330ab1-184d-4cd2-9c38-eef3bd055cdc.png",
+  "https://gamefaqs.gamespot.com/a/box/2/2/1/24221_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/2/1/24221_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

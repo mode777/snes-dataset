@@ -1,0 +1,36 @@
+{
+ "title": "Winter Extreme: Skiing & Snowboarding",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Loriciel"
+ ],
+ "publisher": [
+  "Electro Brain"
+ ],
+ "genre": [],
+ "tags": [
+  "behind",
+  "intoscreen",
+  "ski",
+  "snowboard",
+  "sports"
+ ],
+ "description": "Olympic skier Tommy Moe lends his name this winter sports game.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, French, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

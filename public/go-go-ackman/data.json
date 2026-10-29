@@ -1,0 +1,52 @@
+{
+ "title": "Go Go Ackman",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 23, 1994",
+  "first_release": "1994-12-23"
+ },
+ "developer": [
+  "Bird Studio /Shueisha",
+  "Aspect",
+  "Banpresto"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "jumpersideways",
+  "manga",
+  "platform"
+ ],
+ "description": "A comedy platformer game based on the manga of the same name. Ackman is a 200 year old demon out to harvest souls of mankind. Tenshi, an angel, attempts to stop him by any means.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.57,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/6e0ece51-a6b1-4836-b2bb-99430e7b49e9.png",
+  "https://gamefaqs.gamespot.com/a/box/4/1/7/43417_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/7/43417_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

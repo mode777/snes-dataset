@@ -1,0 +1,47 @@
+{
+ "title": "Super Ice Hockey",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "europe": "1994"
+ },
+ "developer": [
+  "Sunsoft",
+  "Opera House"
+ ],
+ "publisher": [
+  "Sunsoft"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Ice Hockey",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "icehockey",
+  "multidirectional",
+  "sports"
+ ],
+ "description": "A Super Nintendo hockey game that only came out in Europe and Japan. In Japan it is called Super Hockey '94.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/1/9/306919_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/9/306919_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

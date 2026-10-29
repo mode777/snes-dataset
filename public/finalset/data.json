@@ -1,0 +1,45 @@
+{
+ "title": "Finalset",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Sep 17, 1993"
+ },
+ "developer": [
+  "Opensystem",
+  "Open System"
+ ],
+ "publisher": [
+  "Forum"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Tennis"
+ ],
+ "tags": [
+  "behind",
+  "sports",
+  "tennis"
+ ],
+ "description": "A tennis game for the Super Famicom, developed by Open System. The game features both singles and doubles matches and can support up to four players.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/9/9/311999_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/9/9/311999_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

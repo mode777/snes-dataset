@@ -1,0 +1,54 @@
+{
+ "title": "Pinocchio",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "europe": "November 1996",
+  "japan": "November 1996",
+  "usa": "November 1996"
+ },
+ "developer": [
+  "Virgin",
+  "Virgin Interactive"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cartoon",
+  "disney",
+  "horizontal",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "Play as Pinocchio and Jiminy Cricket through the video game adaptation of the classic Disney film of the same title. Keep Pinocchio on the paths of truth, bravery and selflessness to ensure that the Blue Fairy grants his wish.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/2/2/47922_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/2/47922_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/1/47921_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/1/47921_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/3/47923_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/3/47923_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

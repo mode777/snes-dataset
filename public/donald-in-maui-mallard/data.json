@@ -1,0 +1,50 @@
+{
+ "title": "Donald in Maui Mallard",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "europe": "November 1996"
+ },
+ "developer": [
+  "Disney Interactive",
+  "Eurocom Entertainment Software"
+ ],
+ "publisher": [
+  "Disney Interactive"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "cartoon",
+  "collect",
+  "disney",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Maui Mallard is out to collect him some Luau Loot in this mid-90s platformer.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/3/2/5032_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/2/5032_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

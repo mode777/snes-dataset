@@ -1,0 +1,45 @@
+{
+ "title": "Marvelous - Mouhitotsu no Takara-jima",
+ "aliases": [
+  "Marvelous: Mouhitotsu no Takara-jima"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Oct 26, 1996"
+ },
+ "developer": [
+  "Nintendo"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action Adventure",
+  "Modern"
+ ],
+ "tags": [
+  "action",
+  "adventure",
+  "topdown"
+ ],
+ "description": "The first video game directed by Eiji Aonuma. It has a major resemblance to The Legend of Zelda: Link to the Past.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/8/9/39889_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/8/9/39889_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "title": "Spindizzy Worlds",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "March 1993",
+  "north_america": "March 1993",
+  "pal": "1992",
+  "europe": "March 1993",
+  "usa": "March 1993"
+ },
+ "developer": [
+  "Activision",
+  "ASCII Entertainment"
+ ],
+ "publisher": [
+  "ASCII",
+  "ASCII Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "isometric",
+  "puzzle",
+  "reaction"
+ ],
+ "description": "This sequel to Spindizzy is an isometric, navigation-based puzzle game developed and designed by Paul Shirley.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/7/4/51174_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/4/51174_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/3/51173_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/2/51172_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/2/51172_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

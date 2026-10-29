@@ -1,0 +1,46 @@
+{
+ "title": "Tottemo! Lucky Man: Lucky Cookie Roulette de Totsugeki!!",
+ "aliases": [
+  "Tottemo! Lucky Man - Lucky Cookie Roulette de Totsugekii"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jun 30, 1995"
+ },
+ "developer": [
+  "Tom Create"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "boardgame",
+  "manga",
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A Super Famicom board game RPG starring the comedic superhero Lucky Man from Shonen Jump.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/9/0/312390_front.jpg"
+ ],
+ "sources": [
+  "openvgdb",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "title": "Shin Nihon Pro Wrestling Kounin - '94 Battlefield in Tokyo Dome",
+ "aliases": [
+  "Shin Nihon Pro Wrestling Kounin: '94 Battlefield in Tokyo Dome"
+ ],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Varie"
+ ],
+ "publisher": [
+  "Varie"
+ ],
+ "genre": [],
+ "tags": [
+  "horizontal",
+  "sideways",
+  "sports",
+  "wrestling"
+ ],
+ "description": "The second of three Super Famicom wrestling games based on the Shin Nippon Pro Wrestling (a.k.a. the New Japan Pro Wrestling, or NJPW) circuit by Varie.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

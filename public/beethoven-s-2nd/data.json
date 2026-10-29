@@ -1,0 +1,40 @@
+{
+ "title": "Beethoven's 2nd",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "December 1993"
+ },
+ "developer": [
+  "Riedel Software Productions, Inc.",
+  "RSP"
+ ],
+ "publisher": [
+  "Hi-Tech Expressions, Inc."
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "animalprotagonist",
+  "horizontal",
+  "movie",
+  "sideways"
+ ],
+ "description": "Beethoven's 2nd is a platform game where you get a chance to wear the metaphorical shoes of Beethoven - that lovable, big dog from the movie.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

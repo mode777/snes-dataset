@@ -1,0 +1,29 @@
+{
+ "title": "Super Genjin",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "November 1994"
+ },
+ "developer": [
+  "RED Entertainment"
+ ],
+ "publisher": [],
+ "genre": [
+  "Platformer"
+ ],
+ "tags": [],
+ "description": "Dive headfirst into the action with your famously hard head in the first installment of the Bonk series on the Super NES. This time, Bonk has been caught in King Drool's trap and hurled into darkness. To find his way back to prehistoric times, he must embark on adventures through streets, caves, and eventually outer space!\n\nProgress through the stages as Bonk, but watch out for enemies blocking your path. Eat meat to transform Bonk and perform even more powerful attacks! Many challenges lie in Bonk's path. In addition to Bonk's spin and climb moves, you can use items like candy, which changes Bonk's size, to overcome these obstacles!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/9/51239_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/9/51239_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "title": "Terranigma",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1996-12-19",
+  "germany": "Dec 19, 1996",
+  "france": "Dec 19, 1996",
+  "spain": "Dec 19, 1996",
+  "europe": "Dec 19, 1996"
+ },
+ "developer": [
+  "Quintet"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "action",
+  "fantasy",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "An Action-RPG from Quintet and Enix about the resurrection of the world. Ark has to fix the mess he made and travels around the globe to take part in the most important events in the history of the planet.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French, Japanese"
+ ],
+ "gf_score": 4.35,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/a8c9086c-78e6-4db5-9a78-b7c17ed4124b.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/3/51403_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/3/51403_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

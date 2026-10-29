@@ -1,0 +1,46 @@
+{
+ "title": "Hungry Dinosaurs",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "europe": "Jan3, 1995"
+ },
+ "developer": [
+  "Magical Company",
+  "Magical Company (Mahou)"
+ ],
+ "publisher": [
+  "Sunsoft"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "animalprotagonist",
+  "dinosaurs",
+  "strategy",
+  "tactic",
+  "topdown"
+ ],
+ "description": "Puzzle game released in 1994 for the Super Famicom. Originally published in Japan as \"Harapeko Bakka\".",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/8/4/306984_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "title": "Asameshimae Nyanko",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Mar 18, 1994"
+ },
+ "developer": [
+  "J-Force"
+ ],
+ "publisher": [
+  "Zamuse"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "strategy"
+ ],
+ "description": "Reversi-based puzzle game released in 1994 for the Super Famicom. Instead of Go pieces, the game uses blue and pink cats.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/3/4/312534_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

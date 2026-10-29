@@ -1,0 +1,45 @@
+{
+ "title": "From TV Animation Slam Dunk 2: IH Yosen Kanzen Ban!!",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Feb 24, 1995"
+ },
+ "developer": [
+  "TOSE"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Sim"
+ ],
+ "tags": [
+  "anime",
+  "basketball",
+  "sports"
+ ],
+ "description": "Anime/Manga-based basketball video game developed by TOSE and published by Bandai in 1995.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/2/9/24229_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/2/9/24229_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

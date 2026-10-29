@@ -1,0 +1,43 @@
+{
+ "title": "Super Casino 2",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Oct 28, 1994"
+ },
+ "developer": [
+  "Oersted"
+ ],
+ "publisher": [
+  "Coconuts Japan"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "casino",
+  "gambling"
+ ],
+ "description": "A gambling game where a professional gambler attempts to turn $1000 into a cool million in the Coconuts Casino. It is the sequel to Super Caesar's Palace.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/9/7/306997_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "title": "Mario no Super Picross",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep 14, 2007",
+  "first_release": "2007-09-14"
+ },
+ "developer": [
+  "Ape / Jupiter Corp.",
+  "Jupiter Multimedia"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Puzzle",
+  "Miscellaneous",
+  "Logic"
+ ],
+ "tags": [
+  "picross",
+  "puzzle"
+ ],
+ "description": "Mario no Super Picross is the Super Famicom followup to the Game Boy puzzle game Mario's Picross.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.79,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/bb6b83f1-d0a6-43f7-9884-70f8e8369aab.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/3/39033_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/3/39033_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

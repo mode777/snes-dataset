@@ -1,0 +1,36 @@
+{
+ "title": "Mickey Mania: The Timeless Adventures of Mickey Mouse",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-10",
+  "japan": "October 1994",
+  "usa": "October 1994"
+ },
+ "developer": [
+  "Traveller's Tales"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Mickey Mania: The Timeless Adventures of Mickey Mouse is a 1994 platform video gamedeveloped by Traveller's Tales/Psygnosis and published by Sony Imagesoftfor the Super Nintendo Entertainment System, Sega Genesis, and Sega CD. In the game, the player controls Mickey Mouse, who must navigate through various side-scrolling levels, each designed and based from classical Mickey Mousecartoons. The game was later released on the PlayStation in 1996 as Mickey's Wild Adventure.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 3.48,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/962dd30c-2f4c-4ada-896c-568ff48a5602.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/3/7/22337_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/3/7/22337_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/3/8/22338_front.jpg"
+ ],
+ "sources": [
+  "opengamedb",
+  "openvgdb"
+ ]
+}

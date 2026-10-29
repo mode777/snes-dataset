@@ -1,0 +1,37 @@
+{
+ "title": "The Adventures of Mighty Max",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "February 7, 1995",
+  "pal": "1995",
+  "europe": "February 1995"
+ },
+ "developer": [
+  "Ocean Software",
+  "WJS Design"
+ ],
+ "publisher": [
+  "Ocean Software"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Mighty Max is an Action game, developed by WJS Design and published by Ocean,which was released in Europe in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/4/0/50940_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/0/50940_back.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "openvgdb"
+ ]
+}

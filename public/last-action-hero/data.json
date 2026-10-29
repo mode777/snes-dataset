@@ -1,0 +1,54 @@
+{
+ "title": "Last Action Hero",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "October 1993",
+  "pal": "December 10, 1993",
+  "first_release": "1993-10",
+  "europe": "October 1993",
+  "usa": "October 1993"
+ },
+ "developer": [
+  "Bits Studios"
+ ],
+ "publisher": [
+  "Sony Imagesoft"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "beatemup",
+  "brawler",
+  "fighter",
+  "horizontal",
+  "movie",
+  "sideways"
+ ],
+ "description": "The 16-bit console version of the movie license Last Action Hero combines side-scrolling beat'em up levels with driving sequences.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 1.49,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/b2053647-aa8f-45c2-8c46-00c4108ce63f.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/5/46415_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/4/46414_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/4/46414_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

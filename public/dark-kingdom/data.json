@@ -1,0 +1,47 @@
+{
+ "title": "Dark Kingdom",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Apr 29, 1994"
+ },
+ "developer": [
+  "Telenet Japan",
+  "Nippon Telenet"
+ ],
+ "publisher": [
+  "Telenet Japan"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A Super Famicom JRPG that puts the player in the role of a villain.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/2/8/306928_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/8/306928_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

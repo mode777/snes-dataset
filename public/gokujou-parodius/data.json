@@ -1,0 +1,50 @@
+{
+ "title": "Gokujou Parodius",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-11-25",
+  "japan": "Nov 25, 1994"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "horizontal",
+  "humour",
+  "powerup",
+  "shootemup",
+  "shooter",
+  "sideways"
+ ],
+ "description": "A side-scrolling Arcade shooter with an overdose of the strange and cute. The third game in the Parodius series. Alternatively known as Fantastic Journey.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.8,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/e9f25d6e-3129-450c-8f39-43d5e2225e3a.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/9/4/20294_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/9/4/20294_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

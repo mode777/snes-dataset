@@ -1,0 +1,48 @@
+{
+ "title": "World Soccer 94 - Road to Glory",
+ "aliases": [
+  "World Soccer 94: Road to Glory"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "usa": "December 1993"
+ },
+ "developer": [
+  "Rage Software"
+ ],
+ "publisher": [
+  "Atlus"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "behind",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "A fast-paced soccer game played on a 3D pitch. The SNES version is known as \"World Soccer\" in Japan, \"Striker\" in Europe, \"World Soccer '94: Road to Glory\" in North America and \"Eric Cantona Football Challenge\" in France.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, Spanish, French, Italian, Japanese, Dutch, Swedish"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/0/3/51503_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

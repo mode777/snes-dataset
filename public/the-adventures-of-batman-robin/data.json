@@ -1,0 +1,55 @@
+{
+ "title": "The Adventures of Batman & Robin",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "December 1, 1994",
+  "pal": "1994",
+  "first_release": "1994-12",
+  "usa": "December 1994",
+  "europe": "December 1994"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "cartoon",
+  "comic",
+  "platform",
+  "sideways",
+  "topdown"
+ ],
+ "description": "A set of three separate games that share the same title and are all based on the Batman animated TV series. The SNES version is more of an action platformer, while the Genesis and Game Gear versions are more of a shooter and the Sega CD version consists of only Batmobile levels.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.82,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/4c2dfec4-0c6e-426b-bb87-398a8f5e4113.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/1/50491_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/1/50491_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/2/50492_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/2/50492_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

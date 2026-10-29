@@ -1,0 +1,47 @@
+{
+ "title": "Bishoujo Senshi Sailor Moon S: Kurukkurin",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Feb 24, 1995"
+ },
+ "developer": [
+  "Tom Create"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "manga",
+  "puzzle",
+  "singlescreen",
+  "tilearrangement"
+ ],
+ "description": "A Sailor Moon S licensed puzzle game for the Super Famicom where the player has to capture all three of the mystical talismans before their opponent.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/2/42232_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/2/42232_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

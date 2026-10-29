@@ -1,0 +1,54 @@
+{
+ "title": "Madden NFL 95",
+ "aliases": [
+  "Madden NFL '95"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-11",
+  "usa": "November 1994",
+  "europe": "November 1994",
+  "north_america": "November 1994",
+  "pal": "1994"
+ },
+ "developer": [
+  "High Score Productions / Visual Concepts Entertainment",
+  "Visual Concepts"
+ ],
+ "publisher": [
+  "Electronic Arts"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [
+  "americanfootball",
+  "angle",
+  "sports"
+ ],
+ "description": "A football game that has all the features of Madden NFL '94 and more.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.29,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/394790d3-4d71-4564-87df-02cc9041a371.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/4/10944_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "title": "The Ren & Stimpy Show: Veediots",
+ "aliases": [
+  "The Ren & Stimpy Show: Veediots!"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "October 1993",
+  "pal": "1993",
+  "first_release": "1993-10",
+  "usa": "October 1993",
+  "europe": "October 1993"
+ },
+ "developer": [
+  "Gray Matter"
+ ],
+ "publisher": [
+  "THQ"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "cartoon",
+  "horizontal",
+  "puzzlesolve",
+  "sideways"
+ ],
+ "description": "A platformer game based on the Ren and Stimpy cartoon series on Nickelodeon. It was released by THQ for the SNES and Game Boy in 1993.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.66,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/9fb0ea04-da27-46aa-beae-5e8331d0d97a.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/4/4/46644_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

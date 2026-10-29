@@ -1,0 +1,47 @@
+{
+ "title": "F-1 Grand Prix",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "Apr 28, 1992"
+ },
+ "developer": [
+  "Video System"
+ ],
+ "publisher": [
+  "Video System"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Formula One"
+ ],
+ "tags": [
+  "arcade",
+  "formulaone",
+  "racing",
+  "topdown",
+  "vertical"
+ ],
+ "description": "Formula One video game. First title in Video System's licensed \"F1 Grand Prix\" series. Released for the Arcade and Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/9/4/304594_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/4/304594_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

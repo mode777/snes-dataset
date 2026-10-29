@@ -1,0 +1,52 @@
+{
+ "title": "Lucky Luke",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "pal": "October 27, 1997",
+  "first_release": "1997-10-27",
+  "europe": "Oct 27, 1997"
+ },
+ "developer": [
+  "Infogrames"
+ ],
+ "publisher": [
+  "Infogrames"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "comic",
+  "horizontal",
+  "puzzlesolving",
+  "shooter",
+  "sideways"
+ ],
+ "description": "An action game based on the French-Belgian comic series of the same name. It was released on SNES and PC in 1997 and published and developed by Infogrames.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French"
+ ],
+ "gf_score": 3.77,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/af72d88e-ea09-49e1-be97-3906b9076e26.png",
+  "https://gamefaqs.gamespot.com/a/box/8/9/1/296891_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/1/296891_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

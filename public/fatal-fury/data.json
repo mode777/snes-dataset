@@ -1,0 +1,51 @@
+{
+ "title": "Fatal Fury",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-04",
+  "usa": "April 1993",
+  "europe": "April 1993"
+ },
+ "developer": [
+  "SNK"
+ ],
+ "publisher": [
+  "TAKARA"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "fighting",
+  "sideways",
+  "singlescreen"
+ ],
+ "description": "SNK's first fighting game and the first fighting game on the Neo Geo, telling the tale of a trio of martial artists participating in a local tournament to seek revenge on the crime boss that sponsors it.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 2.97,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/45346348-d525-4831-b029-4f73282af5c0.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/3/20743_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/3/20743_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/4/20744_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/4/20744_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

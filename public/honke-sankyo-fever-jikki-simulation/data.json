@@ -1,0 +1,49 @@
+{
+ "title": "Honke Sankyo Fever - Jikki Simulation",
+ "aliases": [
+  "Honke Sankyo Fever: Jikki Simulation",
+  "Honke Sankyo Fever: Jikkyou Simulation"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "June 10, 1995"
+ },
+ "developer": [
+  "Japan Vistec",
+  "Vistec"
+ ],
+ "publisher": [
+  "Den'Z"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "A gambling pachi-slots game released in 1995 for the Super Famicom. Published by Den'Z.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/7/6/43376_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/7/6/43376_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

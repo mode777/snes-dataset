@@ -1,0 +1,30 @@
+{
+ "title": "Samurai Spirits",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "November 1994"
+ },
+ "developer": [
+  "Monolith (Japan)"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Lost in a forgotten era... You are a fierce Samurai warrior with only one goal. To seek out and defeat your enemies with all your strength and skills. Armed only with your sword, you must rely on your keen instincts while you do battle with some of the strongest and craftiest Knights, Ninjas, and tough guys ever assembled.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/4/2/21542_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

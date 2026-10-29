@@ -1,0 +1,37 @@
+{
+ "title": "The Ninja Warriors",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Natsume"
+ ],
+ "publisher": [
+  "Taito"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "beatemup",
+  "brawler",
+  "fighter",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "A side-scrolling brawler, Ninja Warriors is the story of three ninja androids sent to fight an oppressive regime in the future. It is the enhanced remake of Taito's 1987 Arcade brawler The Ninja Warriors.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

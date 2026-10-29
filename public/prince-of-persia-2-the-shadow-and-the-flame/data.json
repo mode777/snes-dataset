@@ -1,0 +1,42 @@
+{
+ "title": "Prince of Persia 2: The Shadow and the Flame",
+ "aliases": [
+  "Prince of Persia 2: The Shadow & The Flame"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "October 1, 1996",
+  "pal": "1996"
+ },
+ "developer": [
+  "Titus Software",
+  "Titus"
+ ],
+ "publisher": [
+  "Titus Software",
+  "Psygnosis"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "platform",
+  "puzzle"
+ ],
+ "description": "The Shadow and The Flame is the sequel to Jordan Mechner's classic platform game, featuring many new locations filled with traps and other dangers.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "wikipedia",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

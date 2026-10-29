@@ -1,0 +1,30 @@
+{
+ "title": "Cacoma Knight",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "June 1993"
+ },
+ "developer": [
+  "Affect"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [],
+ "description": "King Cacoma, the goofy golfing ruler of Bizyland needs you. Evil Queen Wagamama with the help of her meddling mirror have cast a spell on his Kingdom. Precious Princess Ophelia is trapped in the mirror! Bizyland has turned desolate and grey! Everyone but three slacking subjects are effected by the spell. It's up to you to grab the magic chalk and guide the quest to reclaim Bizyland and save the princess.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/8/0/22580_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/0/22580_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

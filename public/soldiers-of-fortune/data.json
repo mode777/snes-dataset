@@ -1,0 +1,33 @@
+{
+ "title": "Soldiers of Fortune",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-12",
+  "usa": "December 1993"
+ },
+ "developer": [
+  "Bitmap Brothers"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [],
+ "description": "Soldier of Fortune is a first-person shooter (FPS) video game created by Raven Software and published by Activision on February 29, 2000, for Microsoft Windows. It was later released for the PlayStation 2, as well as the Dreamcast, while Loki Software also made a port for Linux. It was digitally re-released on GOG.com on October 2, 2018, along with its two successors. The player takes on the role of a U.S. mercenary as he trots around the globe hoping to halt a terrorist nuclear weapons plot. The game was notable for its realistic depictions of violence, made possible by the GHOUL engine, including the dismemberment of human bodies. This was the game's stylistic attraction and it caused considerable controversy, especially in British Columbia and Germany, where it was classified as a \"pornographic film\" and listed on the Federal Department for Media Harmful to Young Persons, respectively. The technology creates 26 different zones on the bodies of enemies, allowing for vastly different reactions depending upon which one is targeted. Nonviolence is also possible, if the player can aim well enough to disarm enemies.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 3.28,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/ad8feb42-3d41-4ef6-a3bf-6cef4fb0fe41.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/0/4/48104_front.jpg"
+ ],
+ "sources": [
+  "opengamedb",
+  "openvgdb"
+ ]
+}

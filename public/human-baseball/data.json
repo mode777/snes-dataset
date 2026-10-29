@@ -1,0 +1,49 @@
+{
+ "title": "Human Baseball",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Aug6, 1993"
+ },
+ "developer": [
+  "Field / HUMAN",
+  "Human Entertainment",
+  "Field"
+ ],
+ "publisher": [
+  "HUMAN",
+  "Human Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "baseball",
+  "sports"
+ ],
+ "description": "A Super Famicom baseball game from Human Entertainment. It took advantage of the system's Mode 7 to create an illusion of 3D.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/5/8/306858_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/8/306858_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

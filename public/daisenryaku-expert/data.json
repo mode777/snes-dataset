@@ -1,0 +1,48 @@
+{
+ "title": "Daisenryaku Expert",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Sep 25, 1992"
+ },
+ "developer": [
+  "SystemSoft Alpha",
+  "SystemSoft"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [
+  "Strategy",
+  "Wargame",
+  "Turn-Based"
+ ],
+ "tags": [
+  "historical",
+  "mapconquer",
+  "strategy",
+  "turnbased",
+  "ww2"
+ ],
+ "description": "The eighth game in SystemSoft's long-running series of turn-based military strategy games. It is the first of two Daisenryaku games for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/9/7/312497_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/7/312497_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

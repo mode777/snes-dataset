@@ -1,0 +1,49 @@
+{
+ "title": "Super Chase H.Q.",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "December 1993",
+  "europe": "December 1993"
+ },
+ "developer": [
+  "Taito",
+  "Taito Corporation"
+ ],
+ "publisher": [
+  "Taito"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [
+  "arcade",
+  "behind",
+  "chase",
+  "police",
+  "racing",
+  "timelimit"
+ ],
+ "description": "A car combat game for the arcade and Super Nintendo platforms, part of Taito's Chase HQ series. The goal is to drive forward until reaching the criminal, and defeat them by repeatedly ramming into the back of their car.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/7/4/50574_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/4/50574_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "title": "Live A Live",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Sep2, 1994",
+  "first_release": "1994-09-02"
+ },
+ "developer": [
+  "Squaresoft",
+  "Square"
+ ],
+ "publisher": [
+  "Squaresoft",
+  "Square"
+ ],
+ "genre": [
+  "Strategy",
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A Japan-only turn-based RPG by Squaresoft featuring several seemingly unrelated characters each in different settings and time periods.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.09,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/r2_7c5524bd-dcce-439b-adac-de3f7db54d9e.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/4/1/19641_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/4/1/19641_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

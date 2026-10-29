@@ -1,0 +1,47 @@
+{
+ "title": "GP-1 Part II",
+ "aliases": [
+  "GP-1: Part II"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "usa": "December 1994"
+ },
+ "developer": [
+  "Genki"
+ ],
+ "publisher": [
+  "Atlus"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [
+  "behind",
+  "intoscreen",
+  "motorcycle",
+  "racing",
+  "sports"
+ ],
+ "description": "Motorcycle racing game developed by Genki and published by Atlus in 1994. GP-1's sequel.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/5/4/50754_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "title": "Tetris Attack",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "first_release": "1996-08",
+  "europe": "August 1996",
+  "usa": "August 1996"
+ },
+ "developer": [
+  "Intelligent Systems"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Puzzle",
+  "Miscellaneous",
+  "Stacking"
+ ],
+ "tags": [
+  "fallingblocks",
+  "puzzle",
+  "realtime",
+  "singlescreen",
+  "tilearrangement"
+ ],
+ "description": "One of the progenitors of the \"swap and match\" tile-based action-puzzle games, featuring either a Yoshi theme (for its international \"Tetris Attack\" release) or a cutesy fairy theme (for its Japanese \"Panel de Pon\" release).",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.26,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/733c7e38-c064-47f7-b7bc-2757e084c9b0.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/5/2/8052_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/5/2/8052_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/5/1/8051_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

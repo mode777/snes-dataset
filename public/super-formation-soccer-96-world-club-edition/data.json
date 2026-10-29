@@ -1,0 +1,52 @@
+{
+ "title": "Super Formation Soccer 96 - World Club Edition",
+ "aliases": [
+  "Super Formation Soccer 96: World Club Edition"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Mar 29, 1996"
+ },
+ "developer": [
+  "Human",
+  "Human Entertainment"
+ ],
+ "publisher": [
+  "Human",
+  "Human Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "behind",
+  "football",
+  "intoscreen",
+  "soccer",
+  "sports"
+ ],
+ "description": "Released in 1996 for the Super Famicom. Features 18 fictitious club teams from around the world.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/0/9/307209_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/0/9/307209_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

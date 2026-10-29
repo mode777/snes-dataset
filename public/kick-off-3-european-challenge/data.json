@@ -1,0 +1,51 @@
+{
+ "title": "Kick Off 3: European Challenge",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "Cancelled",
+  "pal": "1994",
+  "europe": "1994"
+ },
+ "developer": [
+  "Anco",
+  "Anco Software"
+ ],
+ "publisher": [
+  "Vic Tokai"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "Side-scrolling soccer game and the third in the Kick Off series. Kick Off 3 was the first game in the series to be developed by someone other than Dino Dini.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, Spanish, French, Italian"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/3/3/92533_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/3/3/92533_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

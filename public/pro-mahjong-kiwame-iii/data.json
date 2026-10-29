@@ -1,0 +1,43 @@
+{
+ "title": "Pro Mahjong Kiwame III",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jun 30, 1995"
+ },
+ "developer": [
+  "Athena"
+ ],
+ "publisher": [
+  "Athena"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "An advanced mahjong game and the final Super Famicom game in the Professional Mahjong Kiwame series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/9/7/307097_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/9/7/307097_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

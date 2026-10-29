@@ -1,0 +1,46 @@
+{
+ "title": "Ganbare! Daiku no Gen-san",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Dec 22, 1993"
+ },
+ "developer": [
+  "Irem"
+ ],
+ "publisher": [
+  "Irem"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "basher",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A Super Famicom-exclusive entry in the Hammerin' Harry brawler series by Irem.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/0/3/311403_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/3/311403_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

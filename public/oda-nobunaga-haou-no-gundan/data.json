@@ -1,0 +1,44 @@
+{
+ "title": "Oda Nobunaga - Haou no Gundan",
+ "aliases": [
+  "Oda Nobunaga: Haou no Gundan"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Feb 26, 1993"
+ },
+ "developer": [
+  "TOSE"
+ ],
+ "publisher": [
+  "Angel"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "strategy",
+  "wargame"
+ ],
+ "description": "A strategy war game released in 1993. It is based around the Sengoku leader Oda Nobunaga.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/3/3/306833_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

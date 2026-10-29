@@ -1,0 +1,43 @@
+{
+ "title": "Yam Yam",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Feb 17, 1995"
+ },
+ "developer": [
+  "Pandora Box"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "behind",
+  "cute",
+  "shootemup"
+ ],
+ "description": "A shoot 'em up with RPG and adventure game elements in which a young boy and his giant bird friend move around the world completing quests for villagers.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/4/6/307046_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/4/6/307046_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

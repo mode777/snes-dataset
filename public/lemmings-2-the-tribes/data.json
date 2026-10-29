@@ -1,0 +1,59 @@
+{
+ "title": "Lemmings 2: The Tribes",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "November 1994",
+  "north_america": "November 1, 1994",
+  "pal": "1994",
+  "first_release": "1994-11",
+  "usa": "November 1994",
+  "europe": "November 1994"
+ },
+ "developer": [
+  "DMA Design",
+  "Psygnosis"
+ ],
+ "publisher": [
+  "Psygnosis"
+ ],
+ "genre": [
+  "Puzzle",
+  "Miscellaneous",
+  "Action"
+ ],
+ "tags": [
+  "cute",
+  "humour",
+  "levelcodes",
+  "multidirectional",
+  "puzzle",
+  "scrolling",
+  "sideways"
+ ],
+ "description": "Navigate the fragile little fellas through even trickier levels. The addition of several new lemming \"classes\" is this game's main difference from its predecessor.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.5,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com//d5c7ceda-c1a6-4f53-8f64-faf0fb8e789c.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/7/3/24773_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/7/4/24774_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/7/5/24775_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/7/5/24775_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Pachinko Monogatari 2 - Nagoya Shachihoko no Teiou",
+ "aliases": [
+  "Pachinko Monogatari 2: Nagoya Shachihoko no Teiou"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jan 27, 1995"
+ },
+ "developer": [
+  "KAZe"
+ ],
+ "publisher": [
+  "KSS"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "Pachinko game sequel created by KAZe and KSS in 1995 for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/4/0/307040_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "title": "SimAnt: The Electronic Ant Colony",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "October 1993"
+ },
+ "developer": [
+  "Tomcat System"
+ ],
+ "publisher": [],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [],
+ "description": "Experience life as an ant: fight for queen and colony, face hungry spiders and menacing hordes of enemy ants, eat yummy caterpillars, and drive those yucky humans out of the house! Based on real ants, SimAnt has the depth of play and serious gaming challenge to really drive you buggy.SimAnt is about the closest you'll get to being an ant without growing more legs, removing your brain and living in a hole in the ground.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/6/6/25166_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/6/6/25166_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

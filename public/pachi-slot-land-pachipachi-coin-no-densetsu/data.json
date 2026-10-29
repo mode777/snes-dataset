@@ -1,0 +1,45 @@
+{
+ "title": "Pachi-Slot Land - Pachipachi Coin no Densetsu",
+ "aliases": [
+  "Pachi-Slot Land: Pachipachi Coin no Densetsu"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Feb 25, 1994"
+ },
+ "developer": [
+  "I.S.C",
+  "I.S.C."
+ ],
+ "publisher": [
+  "Carrozzeria"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "slotmachine"
+ ],
+ "description": "A Super Famicom pachi-slot game developed in 1994.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/0/5/306905_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

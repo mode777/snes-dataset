@@ -1,0 +1,51 @@
+{
+ "title": "Mario Paint",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "May5, 1992",
+  "north_america": "August 1, 1992",
+  "pal": "December 10, 1992",
+  "first_release": "1992-05-05",
+  "europe": "May5, 1992",
+  "usa": "May5, 1992"
+ },
+ "developer": [
+  "Nintendo",
+  "Intelligent Systems"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [
+  "creativity"
+ ],
+ "description": "A title that takes full advantage of the pack-in SNES mouse accessory, allowing the player to paint pictures, compose music, and play mini-games.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.65,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/5284586a-cda9-402c-ad4d-5b674ca728dc.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/8/50898_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/7/50897_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/7/50897_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

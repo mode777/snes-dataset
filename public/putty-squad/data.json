@@ -1,0 +1,52 @@
+{
+ "title": "Putty Squad",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "pal": "1994",
+  "europe": "1994"
+ },
+ "developer": [
+  "System 3"
+ ],
+ "publisher": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cartoonish",
+  "comedy",
+  "cute",
+  "fantasy",
+  "multidirectional",
+  "platform",
+  "scrolling",
+  "sideways"
+ ],
+ "description": "A 2D side-scrolling platformer. The player controls a small blue blob of putty and is tasked with rescuing other putties that have been captured.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/8/311238_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/8/311238_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "title": "Hana no Keiji - Kumo no Kanata ni",
+ "aliases": [
+  "Hana no Keiji: Kumo no Kanata ni"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Nov 18, 1994"
+ },
+ "developer": [
+  "TOSE"
+ ],
+ "publisher": [
+  "Yojigen"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "adventure",
+  "fighting",
+  "manga",
+  "sideways"
+ ],
+ "description": "Weapon-based fighting game with heavy adventure game elements released in 1994 for the Super Famicom. Developed by TOSE and published by Yojigen. Based on the period manga of the same name, about a flamboyant travelling samurai.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/0/0/307000_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/0/0/307000_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

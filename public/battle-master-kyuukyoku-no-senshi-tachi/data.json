@@ -1,0 +1,47 @@
+{
+ "title": "Battle Master: Kyuukyoku no Senshi-tachi",
+ "aliases": [
+  "Battle Master: Kyuukyoku no Senshitachi"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "November 19, 1993"
+ },
+ "developer": [
+  "System Vision"
+ ],
+ "publisher": [
+  "Toshiba / EMI",
+  "Toshiba"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "fighting",
+  "sideways"
+ ],
+ "description": "A traditional Japan-exclusive 2D fighting game for the Super Famicom with a minor sci-fi twist.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/3/8/31738_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/3/8/31738_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

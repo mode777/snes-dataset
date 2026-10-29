@@ -1,0 +1,44 @@
+{
+ "title": "Super Yakyuudou",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Jan 26, 1996"
+ },
+ "developer": [
+  "Nihon Create",
+  "Nippon Create"
+ ],
+ "publisher": [
+  "Nihon Create / Bandai"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "baseball",
+  "sports"
+ ],
+ "description": "Baseball game developed by Nihon Create in 1992.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/8/7/307187_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

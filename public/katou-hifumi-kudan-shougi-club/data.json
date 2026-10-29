@@ -1,0 +1,44 @@
+{
+ "title": "Katou Hifumi Kudan - Shougi Club",
+ "aliases": [
+  "Katou Hifumi Kudan: Shougi Club"
+ ],
+ "year": 1997,
+ "release_dates": {
+  "japan": "May 16, 1997"
+ },
+ "developer": [
+  "Hect",
+  "Natsu System"
+ ],
+ "publisher": [
+  "Hector"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Party"
+ ],
+ "tags": [
+  "boardgame",
+  "shogi"
+ ],
+ "description": "Shogi game developed by Hect in 1997. It features the name and likeness of professional shogi player Hifumi Katou.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/7/8/31978_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

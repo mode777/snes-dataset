@@ -1,0 +1,51 @@
+{
+ "title": "Populous II: Trials of the Olympian Gods",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "1993",
+  "pal": "1993",
+  "germany": "1993",
+  "europe": "1993"
+ },
+ "developer": [
+  "Bullfrog",
+  "Bullfrog Productions",
+  "Infinity"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "isometric",
+  "multidirectional",
+  "strategy"
+ ],
+ "description": "The first sequel to Bullfrog's hit god sim Populous, Populous II focuses on Greek mythology and the pantheon of Ancient Greek gods. The game retains the original's iconic isometric viewpoint, but adds several new features and tweaks.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/8/6/31686_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/8/6/31686_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/8/7/31687_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/8/7/31687_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

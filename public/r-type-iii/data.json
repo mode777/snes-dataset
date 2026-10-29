@@ -1,0 +1,54 @@
+{
+ "title": "R-Type III",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-10",
+  "usa": "October 1994",
+  "europe": "October 1994"
+ },
+ "developer": [
+  "Irem"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "arcade",
+  "horizontal",
+  "powerup",
+  "scifi",
+  "shootemup",
+  "shooter",
+  "sideways"
+ ],
+ "description": "The official second sequel to Irem's R-Type. The game would use some of the SNES's best graphic features, including Mode 7 graphics.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.0,
+ "metascore": 46,
+ "cover_urls": [
+  "https://images.launchbox-app.com/48a1d940-2272-4d8e-b77a-843724a9bb46.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/0/4/51104_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/0/4/51104_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/0/7/51107_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/0/7/51107_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

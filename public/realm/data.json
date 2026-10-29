@@ -1,0 +1,53 @@
+{
+ "title": "Realm",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "December 1996",
+  "pal": "February 27, 1996",
+  "europe": "December 1996",
+  "usa": "December 1996"
+ },
+ "developer": [
+  "Flair",
+  "Titus Software",
+  "Flair Software"
+ ],
+ "publisher": [
+  "Titus",
+  "Titus Software"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "A young cyborg known as the Biomech must save the remainder of humanity from robotic forces in the distant future. A platformer/shooter for the SNES, released late in the console's lifespan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/5/6/51056_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/5/6/51056_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/5/5/51055_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

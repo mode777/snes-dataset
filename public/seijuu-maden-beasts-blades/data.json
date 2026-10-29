@@ -1,0 +1,48 @@
+{
+ "title": "Seijuu Maden Beasts & Blades",
+ "aliases": [
+  "Seijuu Maden: Beasts & Blades"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec 15, 1995"
+ },
+ "developer": [
+  "Geo Factory",
+  "Bullet Proof Software"
+ ],
+ "publisher": [
+  "Bullet-Proof Software"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "isometric",
+  "rpg",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "An isometric strategy RPG for the Super Famicom. Players recruit companions and take on dungeons across the world.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/1/9/31919_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/9/31919_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

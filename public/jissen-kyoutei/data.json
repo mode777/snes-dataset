@@ -1,0 +1,43 @@
+{
+ "title": "Jissen Kyoutei",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jun 23, 1995"
+ },
+ "developer": [
+  "Aisystem Tokyo"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Other"
+ ],
+ "tags": [
+  "gambling"
+ ],
+ "description": "A jetski race gambling simulation game published by Imagineer in 1995.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/9/5/307095_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/9/5/307095_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

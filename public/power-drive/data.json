@@ -1,0 +1,50 @@
+{
+ "title": "Power Drive",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "Cancelled",
+  "pal": "April 27, 1995",
+  "europe": "Canceled"
+ },
+ "developer": [
+  "Rage Software",
+  "U.S. Gold"
+ ],
+ "publisher": [
+  "U.S. Gold",
+  "Rage Software"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Rally / Offroad"
+ ],
+ "tags": [
+  "angle",
+  "car",
+  "multidirectional",
+  "racing"
+ ],
+ "description": "A top-down rally racing game with simulation elements. Players take on rally courses from across the world, using their winnings to keep their vehicle in top shape.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French, Portuguese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/3/8/64038_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/8/64038_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "title": "Honke Sankyo Fever 3 - Jikki Simulation",
+ "aliases": [
+  "Honke Sankyo Fever 3: Jikki Simulation",
+  "Honke Sankyo Fever: Jikkyou Simulation 3"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "August 30, 1996"
+ },
+ "developer": [
+  "Japan Vistec",
+  "Vistec"
+ ],
+ "publisher": [
+  "BOSS",
+  "Boss Communications"
+ ],
+ "genre": [],
+ "tags": [
+  "gambling",
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "A pachinko game released in 1996 for the Super Famicom. The third of three SFC games that Vistec developed based on Sankyo pachinko machines.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

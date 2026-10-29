@@ -1,0 +1,55 @@
+{
+ "title": "Killer Instinct",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "August 30, 1995",
+  "pal": "1995",
+  "first_release": "1995-08-01",
+  "usa": "August 1995",
+  "europe": "August 1995"
+ },
+ "developer": [
+  "Rare",
+  "Rare Ltd."
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "fighting",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "Rare's signature fighting game, featuring heavy use of pre-rendered 3D graphics, a unique match format, a special multi-sequence combo system, and C-C-C-COMBO BREAKER",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.87,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/46d9d84e-9d09-48d9-98e4-102bcc19b946.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/6/44386_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/6/44386_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/7/44387_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/7/44387_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

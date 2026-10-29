@@ -1,0 +1,41 @@
+{
+ "title": "Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo",
+ "aliases": [
+  "Famicom Tantei Club Part II: Ushiro ni Tatsu Shōjo"
+ ],
+ "year": 1998,
+ "release_dates": {
+  "japan": "April 1, 1998"
+ },
+ "developer": [
+  "Nintendo",
+  "Nintendo R&D1"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [],
+ "tags": [
+  "adenture",
+  "firstperson",
+  "visualnovel"
+ ],
+ "description": "The second game in the Famicom Tantei Club franchise is a prequel to the original game. In this game, the player takes on the role of a young detective involved in two murder cases each relating to a myth called \"The Girl in Back.\"",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

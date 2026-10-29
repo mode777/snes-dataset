@@ -1,0 +1,41 @@
+{
+ "title": "Parlor! Mini 6 - Pachinko Jikki Simulation Game",
+ "aliases": [
+  "Parlor! Mini 6: Pachinko Jikki Simulation Game"
+ ],
+ "year": 1997,
+ "release_dates": {
+  "japan": "May 30, 1997"
+ },
+ "developer": [
+  "Telenet Japa"
+ ],
+ "publisher": [
+  "Telenet Japa",
+  "Nippon Telenet"
+ ],
+ "genre": [],
+ "tags": [
+  "gambling",
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "Pachinko game developed by Telenet Japan in 1997. The sixth of eight games in the Mini series, which focuses on two pachinko machines apiece.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

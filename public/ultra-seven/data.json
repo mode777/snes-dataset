@@ -1,0 +1,48 @@
+{
+ "title": "Ultra Seven",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Mar 26, 1993"
+ },
+ "developer": [
+  "BEC"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "angle",
+  "anime",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "2D fighting game published by Bandai in 1993. It features Ultra Seven, Ultraman's successor, and some of his most memorable foes.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/0/2/31702_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/2/31702_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

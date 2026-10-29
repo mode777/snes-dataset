@@ -1,0 +1,48 @@
+{
+ "title": "Super Noah's Ark 3D",
+ "aliases": [
+  "Super 3D Noah's Ark"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-",
+  "usa": "1994"
+ },
+ "developer": [
+  "Wisdom Tree"
+ ],
+ "publisher": [
+  "Wisdom Tree",
+  "Wisdom TreePiko Interactive (reprint)"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "First-Person",
+  "Fantasy"
+ ],
+ "tags": [
+  "fps",
+  "shooter",
+  "unlicensed"
+ ],
+ "description": "Super Noah's Ark 3D is a first-person shooter where the Biblical figure, Noah, must tame the animals that have escaped from their cages during the legendary voyage of the Ark. It's notable as the only unlicenced Super Nintendo game ever created during the system's lifespan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.05,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d05a4c31-f94a-4e2e-93e0-06d72b1d35a6.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/3/8/20538_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/3/8/20538_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb",
+  "wikipedia_unlicensed"
+ ]
+}

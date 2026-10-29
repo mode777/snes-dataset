@@ -1,0 +1,52 @@
+{
+ "title": "Sonic Blast Man II",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "November 1994",
+  "north_america": "November 1994",
+  "first_release": "1994-11",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "ITL",
+  "Taito / I.T.L"
+ ],
+ "publisher": [
+  "Taito"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "beatemup",
+  "fighter",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "A SNES-exclusive sequel to Taito's side-scrolling brawler Sonic Blast Man. The eponymous Sonic Blast Man is joined by two other heroes: Captain Choyear and Sonia.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.7,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/4741d801-5a38-43f1-89a5-4871a03f7899.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/0/4/29604_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/0/3/29603_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/0/3/29603_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

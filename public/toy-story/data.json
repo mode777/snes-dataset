@@ -1,0 +1,54 @@
+{
+ "title": "Toy Story",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "europe": "December 1995",
+  "japan": "December 1995",
+  "usa": "December 1995"
+ },
+ "developer": [
+  "Travellers Tales",
+  "Traveller's Tales"
+ ],
+ "publisher": [
+  "Psygnosis"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "collector",
+  "disney",
+  "horizontal",
+  "jumper",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "A game based on the popular animated movie of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/9/3/8393_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/3/8393_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/1/8391_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/2/8392_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/2/8392_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

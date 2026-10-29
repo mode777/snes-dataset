@@ -1,0 +1,46 @@
+{
+ "title": "Might and Magic - Book II",
+ "aliases": [
+  "Might and Magic: Book II"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Jan 22, 1993"
+ },
+ "developer": [
+  "Starcraft"
+ ],
+ "publisher": [
+  "LOZC"
+ ],
+ "genre": [
+  "Role-Playing",
+  "First-Person"
+ ],
+ "tags": [
+  "fantasy",
+  "firstperson",
+  "rpg",
+  "turnbased"
+ ],
+ "description": "A slightly different version of \"Might and Magic II\" developed for japanese market.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/2/2/226922_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/2/226922_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "title": "Granhistoria - Genshi Sekaiki",
+ "aliases": [
+  "Granhistoria: Genshi Sekaiki"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "June 30, 1995"
+ },
+ "developer": [
+  "J-Force"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [],
+ "tags": [
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A Japan-only role-playing game involving alternate universes, time travel, and reincarnation.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

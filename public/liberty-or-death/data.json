@@ -1,0 +1,48 @@
+{
+ "title": "Liberty or Death",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-04",
+  "usa": "April 1994"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Historic"
+ ],
+ "tags": [
+  "civilwar",
+  "historical",
+  "strategy",
+  "tactics",
+  "turnbased"
+ ],
+ "description": "A turn-based strategy sim set against the American Revolution similar in structure to Koei's Romance of the Three Kingdoms series. The player can choose to play as the colonials or rewrite history by attempting to win as the British.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.72,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/67c0f7fc-3492-474b-a587-e0e6792cd510.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/6/47706_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

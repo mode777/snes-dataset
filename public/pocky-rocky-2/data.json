@@ -1,0 +1,50 @@
+{
+ "title": "Pocky & Rocky 2",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-11",
+  "europe": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Natsume"
+ ],
+ "publisher": [
+  "Natsume"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "action",
+  "angle",
+  "shooter",
+  "vertical"
+ ],
+ "description": "Pocky & Rocky 2 is the follow-up to Natsume's youkai-filled cute 'em up Pocky & Rocky, starring the eponymous shrine maiden and tanooki.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.81,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/c7550949-26d4-4ed8-af43-2828e18b672f.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/2/8/51028_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/2/8/51028_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/2/7/51027_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

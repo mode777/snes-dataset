@@ -1,0 +1,47 @@
+{
+ "title": "Super F1 Circus 2",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Jul 29, 1993"
+ },
+ "developer": [
+  "Cream"
+ ],
+ "publisher": [
+  "Nichibutsu"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Formula One"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "formulaone",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "A Formula One racing game from Cream and Nihon Bussan, and the third Super Famicom game in their F1 Circus series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/5/4/306854_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

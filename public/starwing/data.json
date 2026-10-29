@@ -1,0 +1,32 @@
+{
+ "title": "Starwing",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "germany": "March 1993",
+  "europe": "March 1993"
+ },
+ "developer": [
+  "Argonaut Games"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Rail"
+ ],
+ "tags": [],
+ "description": "In the distant Lylat star system, imagine yourself at the controls of a futuristic, heavily armed, space fighter - Arwing. Lead the counter-attack on an invasion force of hundreds of alien tanks, fighter ships, laser gun emplacements and super battleships. Maneuver at warp speed through fog-enshrouded canyons, dense asteroid belts and waves of the enemy's best defense. You must use skill and cunning to fight to the enemy's home planet Venom and smash the Core Brain for victory!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/7/7/51177_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/7/51177_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

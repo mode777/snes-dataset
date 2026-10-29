@@ -1,0 +1,48 @@
+{
+ "title": "Romance of the Three Kingdoms III: Dragon of Destiny",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-12",
+  "usa": "December 1993"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Historic"
+ ],
+ "tags": [
+  "historical",
+  "mapbased",
+  "strategy",
+  "tactic",
+  "topdown"
+ ],
+ "description": "The third game in Koei's historical war simulation series based on the Three Kingdoms era of Ancient China.",
+ "description_source": "snes_csv",
+ "players": "1 - 8 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.66,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/c7f08907-ea4d-4f64-a623-e06949d3d132.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/6/31396_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "title": "Derby Stallion 98",
+ "aliases": [
+  "Derby Stallion '98"
+ ],
+ "year": 1998,
+ "release_dates": {
+  "japan": "September 1, 1998"
+ },
+ "developer": [
+  "ASCII",
+  "Nintendo"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Horse Racing"
+ ],
+ "tags": [
+  "horseracing",
+  "management",
+  "sports"
+ ],
+ "description": "The final Super Famicom game in ASCII's horseracing simulation series helped to promote Nintendo's \"Nintendo Power\" cart-writing service with a special cart release.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/9/2/31992_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

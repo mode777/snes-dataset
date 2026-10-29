@@ -1,0 +1,40 @@
+{
+ "title": "Pachi-Slot Monogatari - PAL Kougyou Special",
+ "aliases": [
+  "Pachi-Slot Monogatari: PAL Kougyou Special",
+  "Pachi-Slot Monogatari: Paru Kougyou Special"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "October 27, 1995"
+ },
+ "developer": [
+  "KAZe"
+ ],
+ "publisher": [
+  "KSS"
+ ],
+ "genre": [],
+ "tags": [
+  "gambling",
+  "slotmachine"
+ ],
+ "description": "Pachi-slot adventure game developed by KSS in 1995.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

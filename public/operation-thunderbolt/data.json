@@ -1,0 +1,49 @@
+{
+ "title": "Operation Thunderbolt",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "October 1994",
+  "usa": "October 1994"
+ },
+ "developer": [
+  "Taito",
+  "Aisystem Tokyo"
+ ],
+ "publisher": [
+  "Taito"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Light Gun"
+ ],
+ "tags": [
+  "crosshair",
+  "firstperson",
+  "horizontal",
+  "operationwolf",
+  "shooter",
+  "superscope"
+ ],
+ "description": "An Arcade shooter developed by Taito that pitted the player against a scrolling backdrop of targets as part of a mission to rescue hostages. It is the sequel to Operation Wolf and would later be followed by another sequel, Operation Wolf 3.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/0/3/29403_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

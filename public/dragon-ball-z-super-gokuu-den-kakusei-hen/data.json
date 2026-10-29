@@ -1,0 +1,47 @@
+{
+ "title": "Dragon Ball Z: Super Gokuu Den - Kakusei Hen",
+ "aliases": [
+  "Dragon Ball Z: Super Gokuu Den: Kakusei Hen"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep 22, 1995"
+ },
+ "developer": [
+  "d&d / Tose",
+  "TOSE"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "manga",
+  "rpg",
+  "turnbased"
+ ],
+ "description": "This game is a sequel to Super Gokuden: Totsugeki Hen, which picks up the story from the fight with Piccolo to the fight with Freeza.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/1/7/24217_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/1/7/24217_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

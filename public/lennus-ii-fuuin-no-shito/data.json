@@ -1,0 +1,49 @@
+{
+ "title": "Lennus II - Fuuin no Shito",
+ "aliases": [
+  "Lennus II: Fuuin no Shito"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Jul 26, 1996"
+ },
+ "developer": [
+  "Copya System",
+  "Copya Systems"
+ ],
+ "publisher": [
+  "Asmik",
+  "Asmik Ace Entertainment"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "The Japanese only sequel to Paladin's Quest.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/2/9/20529_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/9/20529_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

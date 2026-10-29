@@ -1,0 +1,37 @@
+{
+ "title": "Eien no Filerna",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "?"
+ ],
+ "publisher": [
+  "Tokuma Shoten Publishing"
+ ],
+ "genre": [],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A traditional turn-based RPG, released for the Super Famicom in 1995. The game is based on the light novel and anime of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

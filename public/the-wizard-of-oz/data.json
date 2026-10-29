@@ -1,0 +1,51 @@
+{
+ "title": "The Wizard of Oz",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "October 1993",
+  "first_release": "1993-10",
+  "usa": "October 1993"
+ },
+ "developer": [
+  "Manley & Associates",
+  "Manley and Associates Inc."
+ ],
+ "publisher": [
+  "SETA"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "book",
+  "horizontall",
+  "movie",
+  "platform",
+  "puzzlesolve",
+  "sideways"
+ ],
+ "description": "A SNES platformer loosely based on the movie The Wizard of Oz. The game allows the player to play as all three of Dorothy's friends, as well as Dorothy herself.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 1.61,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/ba581391-775d-4794-8cd1-7fed6d73b353.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/9/51499_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

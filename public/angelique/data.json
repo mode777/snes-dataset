@@ -1,0 +1,48 @@
+{
+ "title": "Angelique",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Sep 23, 1994"
+ },
+ "developer": [
+  "Ruby Party",
+  "Koei"
+ ],
+ "publisher": [
+  "KOEI",
+  "Koei, NEC"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "The first game in the popular Angelique series. It is generally acknowledged to have marked the beginning of the otome genre.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/4/2/303842_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/2/303842_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "title": "Aladdin",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "November 1993",
+  "spain": "November 1993",
+  "japan": "November 1993",
+  "germany": "November 1993",
+  "france": "November 1993",
+  "europe": "November 1993"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cartoon",
+  "comedy",
+  "cute",
+  "disney",
+  "fantasy",
+  "folklore",
+  "middleeast",
+  "movie"
+ ],
+ "description": "Disney's Aladdin was the title of several different games from different developers based on the classic Disney film, Aladdin. As the titular character, players venture through many levels inspired by events and locations in the movie.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/5/3/22453_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/5/3/22453_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/5/2/22452_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/5/2/22452_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/5/4/22454_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/5/4/22454_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

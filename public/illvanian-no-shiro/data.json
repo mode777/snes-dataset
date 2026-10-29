@@ -1,0 +1,40 @@
+{
+ "title": "Illvanian no Shiro",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "October 28, 1994"
+ },
+ "developer": [
+  "Thinking Rabbit / O-TWO"
+ ],
+ "publisher": [
+  "Nippon Clary Business"
+ ],
+ "genre": [],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "strategy",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "Illvanian no Shiro: Ruins of Illvanian is a strategy RPG published by Nippon Clary Business. The player guides units around the map in turns, taking over territory and fighting enemy units in cutaway scenes. The hero can summon various creatures to help him out, many of which can evolve to stronger versions with enough battle experience (similar to Ogre Battle or Fire Emblem).",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

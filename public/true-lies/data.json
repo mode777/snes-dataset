@@ -1,0 +1,59 @@
+{
+ "title": "True Lies",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "February 1995",
+  "north_america": "February 1995",
+  "pal": "June 29, 1995",
+  "first_release": "1995-02",
+  "europe": "February 1995",
+  "germany": "February 1995",
+  "usa": "February 1995"
+ },
+ "developer": [
+  "Beam Software"
+ ],
+ "publisher": [
+  "Acclaim",
+  "LJN"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "movie",
+  "multidirectinal",
+  "shooter",
+  "topdown"
+ ],
+ "description": "A top-down shooter based on the 1994 action film of the same name starring Arnold Schwarzenegger where he is trying to get to the bottom of a terrorist organization.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German"
+ ],
+ "gf_score": 3.8,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/17f55b10-8364-486b-a8b4-7f86db8dcfcb.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/7/46897_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/7/46897_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/6/46896_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/6/46896_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/8/46898_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/8/46898_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

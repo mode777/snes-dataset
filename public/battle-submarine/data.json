@@ -1,0 +1,46 @@
+{
+ "title": "Battle Submarine",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec 22, 1995"
+ },
+ "developer": [
+  "Office Koukan"
+ ],
+ "publisher": [
+  "Pack-In-Video"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "cockpit",
+  "simulation",
+  "strategy",
+  "submarine",
+  "tactic"
+ ],
+ "description": "A real-time tactical submarine combat simulator for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/7/2/307172_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/2/307172_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "title": "Tom to Jerry",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "April 1993"
+ },
+ "developer": [
+  "RSP"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Tom and Jerry is an Action game, developed by RSP and published by Hi Tech Expressions,which was released in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/8/1/21181_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/1/21181_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

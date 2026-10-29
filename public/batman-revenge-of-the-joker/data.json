@@ -1,0 +1,30 @@
+{
+ "title": "Batman: Revenge of the Joker",
+ "aliases": [],
+ "year": null,
+ "release_dates": {
+  "usa": "Canceled"
+ },
+ "developer": [
+  "ICOM Simulations"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Batman: Revenge of the Joker is an Action game, developed by ICOM Simulations and published by SunSoft,which was cancelled before it was released.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/7/6/47076_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

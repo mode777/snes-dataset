@@ -1,0 +1,51 @@
+{
+ "title": "Olympic Summer Games",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "June 1996",
+  "pal": "June 27, 1996",
+  "europe": "June 1996",
+  "usa": "June 1996"
+ },
+ "developer": [
+  "Tiertex",
+  "Black Pearl Software / Tiertex",
+  "Tiertex Design Studios"
+ ],
+ "publisher": [
+  "Black Pearl Software",
+  "U.S. Gold"
+ ],
+ "genre": [
+  "Sports",
+  "Olympic Sports"
+ ],
+ "tags": [
+  "multievent",
+  "olympics",
+  "sports"
+ ],
+ "description": "The official video game of the 100th Olympic Games held in Atlanta, USA back in 1996.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/4/7/46547_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/7/46547_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/6/46546_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

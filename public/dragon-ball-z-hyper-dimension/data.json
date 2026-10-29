@@ -1,0 +1,51 @@
+{
+ "title": "Dragon Ball Z: Hyper Dimension",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "1996",
+  "pal": "February 1997",
+  "first_release": "1996-",
+  "france": "1996"
+ },
+ "developer": [
+  "Tose"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "anime",
+  "fighting",
+  "manga",
+  "sideways"
+ ],
+ "description": "The final adaptation of the series to be released on the Super Famicom, featuring a less-cartoonish visual approach and more traditional fighting game mechanics.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "French, Japanese"
+ ],
+ "gf_score": 3.66,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/ddaf2eed-301c-4147-bb02-4ad0d7e264bf.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/4/3/50643_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/4/3/50643_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

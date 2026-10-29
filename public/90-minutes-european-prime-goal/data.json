@@ -1,0 +1,47 @@
+{
+ "title": "90 Minutes: European Prime Goal",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "europe": "December 1995"
+ },
+ "developer": [
+  "Namco"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "A Namco-developed soccer game for the SNES. Originally called Prime Goal 3, this was the first in the series to be localized for Europe.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/9/8/75398_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/8/75398_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

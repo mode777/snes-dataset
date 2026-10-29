@@ -1,0 +1,47 @@
+{
+ "title": "Out to Lunch",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "November 1993",
+  "pal": "September 1993",
+  "usa": "November 1993"
+ },
+ "developer": [
+  "Mindscape",
+  "Mindscape Inc."
+ ],
+ "publisher": [
+  "Mindscape"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "multidirectional",
+  "platform",
+  "sideways"
+ ],
+ "description": "A 2D platformer featuring a chef who travels around the world collecting sentient ingredients that escaped his kitchen.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/9/5/50995_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

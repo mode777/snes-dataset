@@ -1,0 +1,49 @@
+{
+ "title": "Battle Soccer: Field no Hasha",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Dec 11, 1992"
+ },
+ "developer": [
+  "Pandora Box"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "football",
+  "manga",
+  "multidirectional",
+  "soccer",
+  "sports",
+  "topdown"
+ ],
+ "description": "Brings together the Godzilla monsters, Ultraman characters, Gundam mecha and Kamen Riders together to play soccer/football.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/7/1/309471_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/7/1/309471_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

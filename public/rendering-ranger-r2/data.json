@@ -1,0 +1,54 @@
+{
+ "title": "Rendering Ranger R2",
+ "aliases": [
+  "Rendering Ranger: R2"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Nov 17, 1995",
+  "pal": "Cancelled",
+  "first_release": "1995-11-17"
+ },
+ "developer": [
+  "Rainbow Arts"
+ ],
+ "publisher": [
+  "Virgin",
+  "Virgin Interactive"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "scifi",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Rendering Ranger is a side-scrolling shooter that was released in Japan in limited quantities. It is the final game to be developed by Rainbow Arts.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 4.1,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/ccdb719f-f605-4d24-ad95-a4ee26b18383.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/1/31911_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/1/31911_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

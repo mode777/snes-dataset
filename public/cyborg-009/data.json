@@ -1,0 +1,46 @@
+{
+ "title": "Cyborg 009",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Feb 25, 1994"
+ },
+ "developer": [
+  "BEC"
+ ],
+ "publisher": [
+  "Toei Animation",
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "horizontal",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "A three-character action platformer only released in Japan, based on the anime series of the same name. Gameplay is similar to The Lost Vikings.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/0/6/306906_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/0/6/306906_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

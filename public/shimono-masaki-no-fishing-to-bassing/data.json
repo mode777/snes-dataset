@@ -1,0 +1,43 @@
+{
+ "title": "Shimono Masaki no Fishing to Bassing",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Oct 16, 1994"
+ },
+ "developer": [
+  "Natsume"
+ ],
+ "publisher": [
+  "Natsume"
+ ],
+ "genre": [
+  "Sports",
+  "Nature",
+  "Fishing"
+ ],
+ "tags": [
+  "fishing",
+  "sports"
+ ],
+ "description": "A fishing game for the Super Famicom endorsed by Masaki Shimono, a Japanese professional angler.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/8/2/306982_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

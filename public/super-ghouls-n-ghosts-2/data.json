@@ -1,0 +1,34 @@
+{
+ "title": "Super Ghouls'n Ghosts",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "europe": "November 1991",
+  "usa": "November 1991"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "You are Arthur, the boldest bladesman alive. You are caught in a dangerous quest! Fiendish foes and grim demons are about to hurl disaster your way!You must save the wondrous Princess Guinevere. But beware! The reeking ruler of the forbidden land can call forth evil and destruction. Who knows what creeping, leaping terrors haunt this dripping realm!You may lose your armor and your strength. You may be hexed. You may become a baby, a duck, or a skeleton! But you are never without a weapon. And magic awaits to help you.Destroy the witches, ogres and ghosts. Escape the snapping skulls and ghastly ghouls. And save Guinevere from the mysterious depths of the Phantom Zone in Super Ghouls 'N Ghosts!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/2/5/17425_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/2/5/17425_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/2/4/17424_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/2/4/17424_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

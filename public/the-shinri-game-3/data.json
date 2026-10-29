@@ -1,0 +1,44 @@
+{
+ "title": "The Shinri Game 3",
+ "aliases": [
+  "Shinri Game 3, The"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Aug 25, 1995"
+ },
+ "developer": [
+  "Ukiyotei"
+ ],
+ "publisher": [
+  "Visit"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [
+  "quiz"
+ ],
+ "description": "A quiz game that confronts the player with personality-determining dilemmas. The third game in the Shinri Game series and the last to grace the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/2/6/307126_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/6/307126_back.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "openvgdb",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

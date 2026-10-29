@@ -1,0 +1,40 @@
+{
+ "title": "Shin Seikoku - La Wares",
+ "aliases": [
+  "Shin Seikoku: La Wares"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "April 21, 1995"
+ },
+ "developer": [
+  "J-Force"
+ ],
+ "publisher": [
+  "Yutaka"
+ ],
+ "genre": [],
+ "tags": [
+  "fantasy",
+  "mech",
+  "rpg",
+  "wanderer"
+ ],
+ "description": "Take control of Chiffon on his quest to save the Kitan Kingdom! In Shin Seikoku, battles take place on top of large robots in a pseudo-fantasy environment.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

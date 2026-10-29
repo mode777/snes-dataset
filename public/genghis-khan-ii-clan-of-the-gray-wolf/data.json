@@ -1,0 +1,47 @@
+{
+ "title": "Genghis Khan II: Clan of the Gray Wolf",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-12",
+  "usa": "December 1993"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "General"
+ ],
+ "tags": [
+  "historical",
+  "strategy",
+  "tactics",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "Genghis Khan II: Clan of the Gray Wolf is a historical simulation and strategy game from KOEI that lets the player conquer Mongolia and Greater Eurasia during various scenarios.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.7,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/a5b21541-1caf-482c-bba1-05d604623fa9.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/6/1/31361_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

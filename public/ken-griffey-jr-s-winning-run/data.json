@@ -1,0 +1,49 @@
+{
+ "title": "Ken Griffey Jr.'s Winning Run",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "June 10, 1996",
+  "first_release": "1996-06",
+  "usa": "June 1996"
+ },
+ "developer": [
+  "Rareware",
+  "Rare",
+  "Rare Ltd."
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "baseball",
+  "behind",
+  "intoscreen",
+  "sports"
+ ],
+ "description": "Baseball game featuring baseball super star Ken Griffey Jr. Developed by Rare.",
+ "description_source": "snes_csv",
+ "players": "1 -  2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 4.02,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/305708b7-2edd-4842-a345-b9f9a1095ba4.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/1/6/50816_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/1/6/50816_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

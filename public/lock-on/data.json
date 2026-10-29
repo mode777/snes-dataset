@@ -1,0 +1,46 @@
+{
+ "title": "Lock On",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "October 1993"
+ },
+ "developer": [
+  "Copya System",
+  "Copya Systems"
+ ],
+ "publisher": [
+  "Vic Tokai"
+ ],
+ "genre": [
+  "Simulation",
+  "Flight",
+  "Modern Jet"
+ ],
+ "tags": [
+  "action",
+  "behind",
+  "intoscreen",
+  "shooter"
+ ],
+ "description": "Combat flight simulator video game released in 1993 for the SNES. Known in Japan and Europe as \"Super Air Diver\".",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/7/7/50877_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/7/7/50877_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

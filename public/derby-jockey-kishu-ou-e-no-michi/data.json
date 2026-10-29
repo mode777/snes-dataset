@@ -1,0 +1,35 @@
+{
+ "title": "Derby Jockey: Kishu Ou e no Michi",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Graphic Research"
+ ],
+ "publisher": [
+  "Asmik"
+ ],
+ "genre": [],
+ "tags": [
+  "horseracing",
+  "management",
+  "sports"
+ ],
+ "description": "A 1994 horseracing game for the Super Famicom. It was followed with a sequel in 1995.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

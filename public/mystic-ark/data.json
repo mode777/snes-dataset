@@ -1,0 +1,47 @@
+{
+ "title": "Mystic Ark",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jul 14, 1995",
+  "first_release": "1995-07-14"
+ },
+ "developer": [
+  "Produce"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "The spiritual successor to The 7th Saga. A mute hero must find their way back to their own world.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.88,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/94fe0781-b8ce-4f7a-b262-d444cd70b690.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/1/4/24214_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/1/4/24214_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

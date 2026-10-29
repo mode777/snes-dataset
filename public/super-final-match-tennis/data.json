@@ -1,0 +1,48 @@
+{
+ "title": "Super Final Match Tennis",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Aug 12, 1994"
+ },
+ "developer": [
+  "Human",
+  "Human Entertainment"
+ ],
+ "publisher": [
+  "Human",
+  "Human Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Tennis"
+ ],
+ "tags": [
+  "angle",
+  "behind",
+  "sports",
+  "tennis"
+ ],
+ "description": "A tennis game released in 1994 for the Super Famicom exclusively. It's the sole SFC entry in Human's Final Match Tennis series of tennis sims.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/6/2/306962_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/2/306962_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "title": "Nightmare Busters",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "December 23, 2013",
+  "pal": "December 23, 2013"
+ },
+ "developer": [
+  "Arcade Zone"
+ ],
+ "publisher": [
+  "Nihon Bussan",
+  "Super Fighter Team"
+ ],
+ "genre": [],
+ "tags": [
+  "horizontal",
+  "jumper",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Nightmare Busters is a run-and-gun game released in 2013 for the SNES. It stars a pair of leprechaun twin brothers, Flynn and Floyd, who are out to stop the diabolical Tyrant.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia_unlicensed",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

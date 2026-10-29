@@ -1,0 +1,47 @@
+{
+ "title": "Championship Pool",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "November 1993",
+  "europe": "November 1993"
+ },
+ "developer": [
+  "Bitmasters"
+ ],
+ "publisher": [
+  "Mindscape"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Billiards"
+ ],
+ "tags": [
+  "pool",
+  "snooker",
+  "sports",
+  "topdown"
+ ],
+ "description": "A pool simulation game with various different modes and variable viewpoints. The game was officially licensed by the Billiard Congress of America.",
+ "description_source": "snes_csv",
+ "players": "1 - 8 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/7/3/46073_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/7/4/46074_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/7/4/46074_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

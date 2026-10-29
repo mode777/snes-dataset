@@ -1,0 +1,31 @@
+{
+ "title": "Super Mario World: Super Mario Bros. 4",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "Aug 13, 1991"
+ },
+ "developer": [
+  "Nintendo"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Mario's off on his biggest adventure ever, and this time he's brought along a friend. Yoshi the dinosaur teams up with Mario to battle Bowser, who has kidnapped Princess Toadstool once again. Guide Mario and Yoshi through nine peril-filled worlds to the final showdown in Bowser's castle. Use Mario's new powers and Yoshi's voracious monster-gobbling appetite as you explore 96 levels filled with dangerous new monsters and traps. Climb mountains and cross rivers, and descend into subterranean depths. Destroy the seven Koopa castles and find keys to gain entrance to hidden levels. Discover more warps and thrilling bonus worlds than ever before!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/2/4/14624_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/2/4/14624_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

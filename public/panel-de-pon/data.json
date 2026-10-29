@@ -1,0 +1,31 @@
+{
+ "title": "Panel de Pon",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "August 1996"
+ },
+ "developer": [
+  "Intelligent Systems"
+ ],
+ "publisher": [],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "Stacking"
+ ],
+ "tags": [],
+ "description": "The Tetris sensation has landed at Yoshi's Island. Kamek and Bowser await to test your dexterity with a demanding race of strategic moves in this exciting new contest. As the stack of perplexing panels rises from the bottom, think fast to counteract the merciless enemy attack dropping in from above. Rapid switches and quick response are the key to clearing the way to the next challenging level. An incredible selection of competitive modes and options provide escalating action and endless fun!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/5/3/8053_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/5/3/8053_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

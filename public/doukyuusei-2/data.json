@@ -1,0 +1,39 @@
+{
+ "title": "Doukyuusei 2",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "japan": "December 1, 1997"
+ },
+ "developer": [
+  "Elf",
+  "ELF Corporation"
+ ],
+ "publisher": [
+  "Elf",
+  "Banpresto"
+ ],
+ "genre": [],
+ "tags": [
+  "dating",
+  "simulation"
+ ],
+ "description": "The sequel to Elf's popular dating sim series. The highschool-aged protagonist only has the two week Winter vacation to find a girlfriend.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

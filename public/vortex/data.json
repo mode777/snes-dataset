@@ -1,0 +1,60 @@
+{
+ "title": "Vortex",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "September 1994",
+  "north_america": "September 1994",
+  "pal": "December 1994",
+  "first_release": "1994-09",
+  "europe": "September 1994",
+  "usa": "September 1994"
+ },
+ "developer": [
+  "Argonaut Software",
+  "Argonaut Games"
+ ],
+ "publisher": [
+  "Electro Brain"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "behind",
+  "intoscreen",
+  "mech",
+  "racing",
+  "scifi",
+  "shooter"
+ ],
+ "description": "An experimental shape-shifting robot is humanity's last defense in this Super FX Chip-enhanced SNES mech shooter.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Spanish, Japanese"
+ ],
+ "gf_score": 2.94,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/a5f2a298-630b-4bb0-aff8-3558c149b8e2.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/9/51469_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/9/51469_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/7/51467_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/7/51467_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/8/51468_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/8/51468_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

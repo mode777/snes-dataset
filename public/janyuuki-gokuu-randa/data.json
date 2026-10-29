@@ -1,0 +1,46 @@
+{
+ "title": "Janyuuki - Gokuu Randa",
+ "aliases": [
+  "Janyuuki Gokuu Randa",
+  "Janyuuki: Gokuu Randa"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jan 13, 1995"
+ },
+ "developer": [
+  "?",
+  "Virgin Interactive"
+ ],
+ "publisher": [
+  "Virgin Interactive"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "Mahjong game created by Virgin Interactive in 1995 with a Journey to the West theme.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/3/5/307035_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "title": "Madou Monogatari - Hanamaru Daiyouchienji",
+ "aliases": [
+  "Madou Monogatari: Hanamaru Daiyouchienji"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Jan 12, 1996"
+ },
+ "developer": [
+  "Compile"
+ ],
+ "publisher": [
+  "Tokuma Shoten Publishing",
+  "Compile"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "cute",
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A traditional turn-based RPG based on the first-person dungeon crawler series that would later spin-off into the Puyo Puyo franchise. A younger Arle must collect special stones to have her wish granted.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/8/9/43389_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/9/43389_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

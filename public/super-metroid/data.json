@@ -1,0 +1,60 @@
+{
+ "title": "Super Metroid",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Apr 18, 1994",
+  "north_america": "April 18, 1994",
+  "pal": "July 28, 1994",
+  "first_release": "1994-04-18",
+  "usa": "Apr 18, 1994",
+  "europe": "Apr 18, 1994"
+ },
+ "developer": [
+  "Nintendo",
+  "Intelligent Systems"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action Adventure",
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "metroidvania",
+  "platfrom",
+  "scifi",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Super Metroid is the third game in the Metroid series and the only Metroid game to be released on the Super Nintendo. It has become widely revered for its gameplay, atmosphere, and environmental storytelling, and continues to inspire many action-adventure games.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": 4.47,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/df06e969-d69e-44ba-b209-1d0ac28d77bc.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/2/1/51321_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/2/1/51321_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/2/2/51322_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/2/2/51322_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/2/3/51323_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/2/3/51323_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "title": "Corn Buster",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "August 6, 2015",
+  "pal": "August 6, 2015"
+ },
+ "developer": [
+  "Engine Software"
+ ],
+ "publisher": [
+  "Piko",
+  "Piko Interactive"
+ ],
+ "genre": [],
+ "tags": [
+  "batandball",
+  "breakout",
+  "navigation",
+  "reaction"
+ ],
+ "description": "Corn Buster is an unreleased Breakout/Arkanoid clone by Engine Software.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia_unlicensed"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

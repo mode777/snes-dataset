@@ -1,0 +1,40 @@
+{
+ "title": "Yoshi no Cookie - Kuruppon Oven de Cookie",
+ "aliases": [
+  "Yoshi no Cookie: Kuruppon Oven de Cookie"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "1994"
+ },
+ "developer": [
+  "Bullet-Proof Software"
+ ],
+ "publisher": [
+  "Nintendo",
+  "National"
+ ],
+ "genre": [],
+ "tags": [
+  "cooking",
+  "simulation"
+ ],
+ "description": "A Japan-only sequel to Yoshi's Cookie developed to advertise the titular ovens. Basic gameplay is retained, but this game adds a world map and more detailed graphics.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

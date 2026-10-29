@@ -1,0 +1,56 @@
+{
+ "title": "BioMetal",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "November 1993",
+  "north_america": "November 1993",
+  "pal": "1993",
+  "first_release": "1993-11",
+  "usa": "November 1993",
+  "europe": "November 1993"
+ },
+ "developer": [
+  "Athena"
+ ],
+ "publisher": [
+  "Activision"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "horizontal",
+  "shootemup",
+  "shooter",
+  "sideways"
+ ],
+ "description": "BioMetal is a fast-paced scrolling shooter featuring midi-fied versions of the music of 2 Unlimited, perhaps the greatest techno band of the 90's (absolutely nobody might say).",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.69,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/30620f7c-aa50-45c8-ace2-a1e0d1b5b98b.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/3/4/50534_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/3/3/50533_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/3/3/50533_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/3/5/50535_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/3/5/50535_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "title": "Undercover Cops",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Canceled",
+  "north_america": "Cancelled"
+ },
+ "developer": [
+  "Irem"
+ ],
+ "publisher": [
+  "Varie"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "arcade",
+  "beatemup",
+  "fighter",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "Undercover Cops was an arcade game developed by Irem in 1992. It was ported to the Super Famicom in 1995, and was planned for a US SNES release that never materialized.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/3/5/31835_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/3/5/31835_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

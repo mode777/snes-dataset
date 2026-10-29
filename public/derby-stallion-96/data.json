@@ -1,0 +1,47 @@
+{
+ "title": "Derby Stallion 96",
+ "aliases": [
+  "Derby Stallion '96"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "March 15, 1996"
+ },
+ "developer": [
+  "ASCII",
+  "ASCII Entertainment"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Horse Racing"
+ ],
+ "tags": [
+  "horseracing",
+  "management",
+  "sports"
+ ],
+ "description": "The sixth game in ASCII's horseracing/gambling simulation series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/0/2/307202_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "title": "Super Star Wars",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "November 1992",
+  "north_america": "November 1, 1992",
+  "pal": "April 2, 1993",
+  "first_release": "1992-11-01",
+  "usa": "November 1992",
+  "europe": "November 1992"
+ },
+ "developer": [
+  "LucasArts / Sculptured Software",
+  "Sculptured Software"
+ ],
+ "publisher": [
+  "JVC",
+  "JVC Musical Industries"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "behind",
+  "horizontal",
+  "intoscreen",
+  "movie",
+  "platform",
+  "scifi",
+  "sideways"
+ ],
+ "description": "Based on the original 1977 Star Wars film, Super Star Wars is an arcade-style side-scrolling platformer chronicling Luke Skywalker's journey from the deserts of Tatooine to the massive Imperial superweapon known as the Death Star.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.54,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/c8669429-da7d-4961-9dfa-8cdb76c37da4.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/2/20842_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/2/20842_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/1/20841_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/1/20841_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/3/20843_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/3/20843_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "title": "NBA Jam",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "March 1994",
+  "north_america": "March 4, 1994",
+  "pal": "1994",
+  "first_release": "1994-03",
+  "usa": "March 1994",
+  "europe": "March 1994"
+ },
+ "developer": [
+  "Midway",
+  "Iguana Entertainment"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Arcade"
+ ],
+ "tags": [
+  "arcade",
+  "basketball",
+  "horizontal",
+  "sideways",
+  "sports"
+ ],
+ "description": "NBA Jam is an arcade basketball game developed by Midway in 1993. It gained fame for its rules-light take on basketball, its iconic announcer, and mysterious hidden characters.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.81,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/1/3/2/11132_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/2/11132_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/1/11131_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/1/11131_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/3/11133_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/3/11133_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

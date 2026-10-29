@@ -1,0 +1,46 @@
+{
+ "title": "Kikou Keisatsu Metal Jack",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Canceled"
+ },
+ "developer": [
+  "Atlus"
+ ],
+ "publisher": [
+  "Atlus"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "anime",
+  "fighter",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A Japan-only beat-em-up, based on the anime of the same name. Originally, an American release was planned (to be titled Metal Jack: Armored Police), but this version was eventually cancelled.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/6/6/31666_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/6/6/31666_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

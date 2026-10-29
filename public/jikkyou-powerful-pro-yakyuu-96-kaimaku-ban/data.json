@@ -1,0 +1,47 @@
+{
+ "title": "Jikkyou Powerful Pro Yakyuu '96 - Kaimaku Ban",
+ "aliases": [
+  "Jikkyou Powerful Pro Yakyuu '96: Kaimaku Ban",
+  "Jikkyou Powerful Pro Yakyuu '96 Kaimaku Han"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "July 19, 1996"
+ },
+ "developer": [
+  "Diamond Head"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "baseball",
+  "behind",
+  "intoscreen",
+  "sports"
+ ],
+ "description": "A baseball game and a variant of Powerful Pro Yakyuu 3 that was released at the start of the Japanese season, hence \"Kaimaku Han\" (\"Opener Edition\").",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/1/307231_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/1/307231_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ]
+}

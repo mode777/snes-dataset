@@ -1,0 +1,37 @@
+{
+ "title": "King of Rally, The - Paris-Moscow-Beijing",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {},
+ "developer": [
+  "Kaze"
+ ],
+ "publisher": [
+  "Meldac"
+ ],
+ "genre": [],
+ "tags": [
+  "behind",
+  "car",
+  "intoscreen",
+  "multidirectional",
+  "racing",
+  "rally"
+ ],
+ "description": "Japan-exclusive racing game developed by KAZe and published by Meldac in 1992.vigators.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

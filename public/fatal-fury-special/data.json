@@ -1,0 +1,49 @@
+{
+ "title": "Fatal Fury Special",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-04",
+  "europe": "April 1995",
+  "usa": "April 1995"
+ },
+ "developer": [
+  "SNK",
+  "Monolith (Japan)"
+ ],
+ "publisher": [
+  "TAKARA"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "fighting",
+  "sideways",
+  "singlescreen"
+ ],
+ "description": "The definitive version of Fatal Fury 2, improving both the game's speed and the playable character roster.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.65,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/7d5b5155-358c-48fc-9801-5905caf92fa9.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/7/26857_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

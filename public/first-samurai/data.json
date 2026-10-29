@@ -1,0 +1,58 @@
+{
+ "title": "First Samurai",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "July 1993",
+  "north_america": "July 2, 1993",
+  "pal": "1993",
+  "usa": "July 1993",
+  "europe": "July 1993"
+ },
+ "developer": [
+  "Vivid Image",
+  "Kemco"
+ ],
+ "publisher": [
+  "Kotobuki System",
+  "Kemco"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "fantasy",
+  "jumponthings",
+  "magic",
+  "multidirectional",
+  "ninja",
+  "oriental",
+  "platform",
+  "scrolling"
+ ],
+ "description": "A 2D action-platforming game that begins in a mystical representation of feudal Japan but travels all over time. It was originally released on European home computers, though the 1993 SNES port by Kemco was published in all regions.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/1/9/50719_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/8/50718_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/8/50718_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/0/50720_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

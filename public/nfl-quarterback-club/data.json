@@ -1,0 +1,53 @@
+{
+ "title": "NFL Quarterback Club",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "February 24, 1995",
+  "north_america": "December 1994",
+  "pal": "April 1995",
+  "usa": "December 1994",
+  "europe": "December 1994"
+ },
+ "developer": [
+  "Iguana",
+  "Iguana Entertainment"
+ ],
+ "publisher": [
+  "LJN"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [
+  "americanfootball",
+  "angle",
+  "sports"
+ ],
+ "description": "The first of Acclaim's NFL Quarterback Club football series. It was released in 1994.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/3/1/11031_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/1/11031_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/2/11032_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/2/11032_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

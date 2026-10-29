@@ -1,0 +1,50 @@
+{
+ "title": "ESPN SpeedWorld",
+ "aliases": [
+  "ESPN Speed World"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 30, 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Sony Imagesoft",
+  "Park Place Productions"
+ ],
+ "publisher": [
+  "Sony Imagesoft"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Stock Car"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "indycar",
+  "racing",
+  "sports"
+ ],
+ "description": "A 16-bit racing game based on the ESPN TV show of the same name. It resembles NASCAR but doesn't mention it by name due to licensing issues.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/8/2/50682_front.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "openvgdb",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

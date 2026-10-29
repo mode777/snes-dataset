@@ -1,0 +1,30 @@
+{
+ "title": "Final Fantasy IV: Easy Type",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "Nov 23, 1991"
+ },
+ "developer": [
+  "SquareSoft"
+ ],
+ "publisher": [],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [],
+ "description": "In the kingdom of Baron, powerful airships rule the skies. At the head of this elite fighting force is Cecil, Captain of the Red Wings, As our adventure begins, Cecil and his squadron are ordered to steal a powerful crystal from a rival kingdom. Upon their return, Cecil questions the King's orders and is stripped of his command. To prove his loyalty, he must slay a dreadful monster and deliver a mysterious package to a neighboring town. But when the package explodes, destroying everyone, Cecil and his friend Kain vow to fight the King's dark forces. Will you be able to save the world from their evil plan to control the crystals? Get ready for the most challenging role-playing adventure ever.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/2/0/3620_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/2/0/3620_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "title": "Dragon View",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-11",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Kotobuki System",
+  "Kemco"
+ ],
+ "publisher": [
+  "Kemco"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "wanderer"
+ ],
+ "description": "A fantasy adventure role-playing game for the SNES and the spiritual sequel to the CRPG Drakkhen. The main protagonist must rescue his girlfriend from the clutches of an evil wizard.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.72,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/b785129a-f938-48d0-bafa-4bfadefc6818.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/2/50652_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/2/50652_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

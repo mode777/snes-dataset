@@ -1,0 +1,51 @@
+{
+ "title": "The Death and Return of Superman",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "August 1, 1994",
+  "pal": "November 1994",
+  "first_release": "1994-08",
+  "usa": "August 1994",
+  "europe": "August 1994"
+ },
+ "developer": [
+  "Blizzard Entertainment"
+ ],
+ "publisher": [
+  "Sunsoft"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "action",
+  "beatemup",
+  "comic",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "From the pages of the best selling DC comic book series comes this brawler game adaption of the Death and Return of Superman.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.24,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/0f47bf20-ad24-41e6-a0ec-10f39bff5a71.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/6/8/47268_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

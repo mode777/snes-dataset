@@ -1,0 +1,43 @@
+{
+ "title": "Super Okumanchouja Game",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Nov 24, 1995"
+ },
+ "developer": [
+  "?",
+  "Takara"
+ ],
+ "publisher": [
+  "TAKARA"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "partygame"
+ ],
+ "description": "Business strategy board game released in 1995 by Takara, for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/0/3/312003_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/0/3/312003_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

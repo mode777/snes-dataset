@@ -1,0 +1,57 @@
+{
+ "title": "The Blues Brothers",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "June 1993",
+  "north_america": "June 1, 1993",
+  "pal": "1993",
+  "usa": "June 1993",
+  "europe": "June 1993"
+ },
+ "developer": [
+  "Titus",
+  "Titus Software"
+ ],
+ "publisher": [
+  "Titus",
+  "Titus Software"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "jumper",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "Take control of either Jake or Elwood in this platformer.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/5/6/27256_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/5/5/27255_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/5/5/27255_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/5/7/27257_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/5/7/27257_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

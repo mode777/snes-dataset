@@ -1,0 +1,53 @@
+{
+ "title": "Dragon Ball Z: Super Butouden",
+ "aliases": [
+  "Dragon Ball Z Super Butouden"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "1993",
+  "pal": "November 30, 1993",
+  "first_release": "1993-",
+  "france": "1993"
+ },
+ "developer": [
+  "Tose"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "anime",
+  "fighting",
+  "manga",
+  "sideways"
+ ],
+ "description": "One of the earliest fighting games to bear the Dragon Ball license, adding new concepts to the burgeoning fighting game genre (including a roaming split-screen view for less restrictive playfields).",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "French, Japanese"
+ ],
+ "gf_score": 3.18,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/df381a92-36e0-4aa5-9aaa-b59e7e788aab.png",
+  "https://gamefaqs.gamespot.com/a/box/6/4/9/50649_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/4/9/50649_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

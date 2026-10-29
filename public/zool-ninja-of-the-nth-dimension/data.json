@@ -1,0 +1,34 @@
+{
+ "title": "Zool: Ninja of the \"Nth\" Dimension",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "July 29, 1994",
+  "north_america": "January 1994",
+  "pal": "1994",
+  "first_release": "1994-01"
+ },
+ "developer": [
+  "Gremlin Interactive"
+ ],
+ "publisher": [
+  "GameTek"
+ ],
+ "genre": [
+  "Action"
+ ],
+ "tags": [],
+ "description": "Zool: Ninja of the Nth Dimension is a platform game originally produced for the Amiga by Gremlin Graphics in 1992. It was later ported to several other platforms and followed by Zool 2 in 1993. The game is a pure platform game, relying on smooth, fast-moving gameplay. Its protagonist is Zool, a gremlin \"Ninja of the Nth Dimension\" who is forced to land on Earth; in order to gain ninja ranking, he has to pass seven lands, beating a boss at the end of each of them. The game contains a number of embedded minigames, including several arcade games, a scrolling space shooter and a game accessible only by making Zool play a certain tune on an in-game piano or finding certain invisible warp points.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 3.12,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/9/3/5/29935_front.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "opengamedb"
+ ]
+}

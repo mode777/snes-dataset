@@ -1,0 +1,39 @@
+{
+ "title": "Mark Davis' The Fishing Master",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "usa": "April 1996"
+ },
+ "developer": [
+  "Natsume"
+ ],
+ "publisher": [
+  "Natsume"
+ ],
+ "genre": [
+  "Sports",
+  "Nature",
+  "Fishing"
+ ],
+ "tags": [
+  "fishing",
+  "simulation",
+  "sports"
+ ],
+ "description": "Bass fishing game developed by Natsume in 1995. The North American localization has the name and likeness of professional angler Mark Davis, though the original Japanese version had no affiliated sportsperson.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/0/4/50904_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

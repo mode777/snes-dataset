@@ -1,0 +1,46 @@
+{
+ "title": "Aerobiz Supersonic",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-08",
+  "usa": "August 1994"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "General"
+ ],
+ "tags": [
+  "airline",
+  "manager",
+  "simulation"
+ ],
+ "description": "A turn-based management simulation game in which the player owns an airline business. It is the sequel to Aerobiz, and features near-future scenarios involving supersonic flight.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.66,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/a56daddc-f6de-4ede-85ad-fadc635ec44d.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/9/4/46994_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/9/4/46994_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "title": "Gegege no Kitarou - Fukkatsu! Tenma Daiou",
+ "aliases": [
+  "Gegege no Kitarou: Fukkatsu! Tenma Daiou"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Feb5, 1993",
+  "north_america": "Cancelled"
+ },
+ "developer": [
+  "BEC"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "plateform",
+  "scrolling",
+  "sideways"
+ ],
+ "description": "An action platformer for the Super Famicom based on the Gegege no Kitarou anime and manga. The player, as Kitarou, must defeat the all-powerful Demon King Tenma before he can resurrect.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/1/8/306418_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/8/306418_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

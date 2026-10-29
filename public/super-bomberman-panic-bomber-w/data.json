@@ -1,0 +1,48 @@
+{
+ "title": "Super Bomberman: Panic Bomber W",
+ "aliases": [
+  "Super Bomber Man: Panic Bomber W"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar1, 1995"
+ },
+ "developer": [
+  "Raizing"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "Stacking"
+ ],
+ "tags": [
+  "fallingblocks",
+  "puzzle",
+  "singlescreen",
+  "tilearrangement"
+ ],
+ "description": "Panic Bomber is a \"falling blocks\" puzzle game and spin-off of the studio's Bomberman series.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/3/7/31837_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/3/7/31837_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

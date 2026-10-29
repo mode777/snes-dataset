@@ -1,0 +1,48 @@
+{
+ "title": "Tsuppari Oozumou - Risshinshusse Hen",
+ "aliases": [
+  "Tsuppari Oozumou: Risshinshusse Hen",
+  "Tsuppari Ōzumō: Risshin Shusse Hen"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "March 26, 1993"
+ },
+ "developer": [
+  "Tecmo"
+ ],
+ "publisher": [
+  "Tecmo"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "Wrestling"
+ ],
+ "tags": [
+  "fighting",
+  "sideways",
+  "sumotori"
+ ],
+ "description": "Tsuppari Oozumou: Risshin Shussehen is the sequel to the original Famicom Tsuppari Oozumou game.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/6/0/312360_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/6/0/312360_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

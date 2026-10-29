@@ -1,0 +1,47 @@
+{
+ "title": "Smart Ball",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1992-03",
+  "usa": "March 1992"
+ },
+ "developer": [
+  "Game Freak / System Sacom",
+  "System Sacom"
+ ],
+ "publisher": [
+  "Sony Imagesoft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "A simple SNES platform game in which the player has been transformed into a blue ball and must embark on a journey to stop an evil witch.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.26,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/328c15d1-ec1e-44ce-889f-db985ea0afa2.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/4/8/51148_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

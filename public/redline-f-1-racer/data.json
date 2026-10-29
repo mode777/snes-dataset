@@ -1,0 +1,45 @@
+{
+ "title": "Redline F-1 Racer",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "September 1993"
+ },
+ "developer": [
+  "Genki"
+ ],
+ "publisher": [
+  "Absolute Entertainment"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Formula One"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "Developed by Genki, this F-1 racer had Tomoharu Kimura as its lead programmer.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/5/4/51054_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "title": "Sugoroku Ginga Senki",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Dec 19, 1996"
+ },
+ "developer": [
+  "Bottom Up"
+ ],
+ "publisher": [
+  "Bottom Up"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "Sci-fi themed board game released in 1996 for the Super Famicom inspired by space opera anime. Published by Bottom Up.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/5/1/307251_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/5/1/307251_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

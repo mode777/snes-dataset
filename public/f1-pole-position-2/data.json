@@ -1,0 +1,47 @@
+{
+ "title": "F1 Pole Position 2",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "europe": "1993"
+ },
+ "developer": [
+  "Human",
+  "Human Entertainment"
+ ],
+ "publisher": [
+  "Human"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Formula One"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "A Formula One racing game released only in Europe and Japan for the Super Nintendo. Known in Japan as \"Human Grand Prix II\", and is the second of four SNES games in the series.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/5/1/31751_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/1/31751_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "title": "Street Fighter II",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1992-07",
+  "usa": "July 1992",
+  "japan": "July 1992",
+  "europe": "July 1992"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "fighting",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "The one-on-one arcade fighting game that kicked off the \"fighting game revolution\" of the 1990s. Play as one of eight martial artists and travel the world to knock your opponents out of the tournament!",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.9,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/78dc0ce0-132e-432e-bee9-8fda6b7deb93.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/3/32573_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/3/32573_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/2/32572_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/2/32572_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/4/32574_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/4/32574_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "title": "Marvel Super Heroes: War of the Gems",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "October 18, 1996",
+  "north_america": "November 1996",
+  "pal": "1996"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [],
+ "tags": [
+  "beatemup",
+  "comic",
+  "fighter",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "A Capcom-developed brawler featuring many famous Marvel characters set during the popular Infinity Gauntlet series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

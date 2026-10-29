@@ -1,0 +1,44 @@
+{
+ "title": "Super Famista 4",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar3, 1995"
+ },
+ "developer": [
+  "Namco"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "baseball",
+  "sports"
+ ],
+ "description": "The fourth game in Namco's Family Stadium, or FamiSta, series of baseball sims to hit the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/5/4/307054_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

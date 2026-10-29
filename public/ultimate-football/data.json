@@ -1,0 +1,31 @@
+{
+ "title": "Ultimate Football",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "October 1993"
+ },
+ "developer": [
+  "Aicom"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [],
+ "description": "Football Fury is a Sports game, developed by Aicom and published by Sammy Studios,which was released in Japan in 1992.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/2/3/50723_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "title": "Super Family Circuit",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Oct 21, 1994"
+ },
+ "developer": [
+  "GAME STUDIO"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [
+  "car",
+  "formulaone",
+  "racing",
+  "sports",
+  "topdown"
+ ],
+ "description": "A top-down Namco racing game featuring various types of vehicles. It was released on the Super Famicom in Japan only.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/9/2/306992_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/9/2/306992_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

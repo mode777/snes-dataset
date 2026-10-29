@@ -1,0 +1,37 @@
+{
+ "title": "Ryuuki Heidan Danzarb",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {},
+ "developer": [
+  "Pandora Box / Gainax"
+ ],
+ "publisher": [
+  "Yutaka"
+ ],
+ "genre": [],
+ "tags": [
+  "anime",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A sci-fi themed RPG from Pandora Box and Yutaka. The protagonist joins a special army division that regularly employs giant robot dragons in battle.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

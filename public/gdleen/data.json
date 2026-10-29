@@ -1,0 +1,47 @@
+{
+ "title": "Gdleen",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "May 28, 1991",
+  "north_america": "Cancelled"
+ },
+ "developer": [
+  "Jorudan"
+ ],
+ "publisher": [
+  "SETA"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "The first RPG to ever be released on the Super Famicom, which is loosely based on an anime OVA of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/7/6/306776_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/7/6/306776_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

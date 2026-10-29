@@ -1,0 +1,50 @@
+{
+ "title": "Super Widget",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "September 1993",
+  "pal": "1993",
+  "europe": "September 1993",
+  "usa": "September 1993"
+ },
+ "developer": [
+  "Atlus"
+ ],
+ "publisher": [
+  "Atlus"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cartoon",
+  "collector",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A cartoony platformer based on the animated TV show Widget. It is the \"Super\" sequel to the 1990 NES original.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/8/2/51382_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

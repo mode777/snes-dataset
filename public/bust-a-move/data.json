@@ -1,0 +1,33 @@
+{
+ "title": "Bust-A-Move",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-03",
+  "usa": "March 1995"
+ },
+ "developer": [
+  "Taito Corporation"
+ ],
+ "publisher": [],
+ "genre": [
+  "Puzzle",
+  "Miscellaneous",
+  "Matching"
+ ],
+ "tags": [],
+ "description": "Puzzle Bobble is a 1994 tile-matching arcade puzzle video game for one or two players created by Taito Corporation. It is based on Taito's popular 1986 arcade game Bubble Bobble, featuring characters and themes from that game. Its characteristically cuteJapanese animation and music, along with its play mechanics and level designs, made it successful as an arcade title and spawned several sequels and ports to home gaming systems.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 3.72,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/29c2ae85-3584-4c7c-9484-aa2aed0356f5.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/6/20716_front.jpg"
+ ],
+ "sources": [
+  "opengamedb",
+  "openvgdb"
+ ]
+}

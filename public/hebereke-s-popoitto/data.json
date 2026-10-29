@@ -1,0 +1,43 @@
+{
+ "title": "Hebereke's Popoitto",
+ "aliases": [
+  "Popoitto Hebereke"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "europe": "Sep 30, 1995",
+  "japan": "Sep 30, 1995"
+ },
+ "developer": [
+  "Sunsoft"
+ ],
+ "publisher": [
+  "Sunsoft"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "puzzle",
+  "realtime",
+  "singlescreen"
+ ],
+ "description": "Sequel to Hebereke's Popoon. Very similar gameplay to Dr Mario. Only released in Europe and Japan for the SNES, Sega Saturn and Sony PlayStation systems.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/8/3/31883_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/8/2/31882_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

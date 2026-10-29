@@ -1,0 +1,50 @@
+{
+ "title": "Mazinger Z",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Jun 25, 1993"
+ },
+ "developer": [
+  "Winky Sof",
+  "Winkysoft"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "anime",
+  "fighter",
+  "horizontal",
+  "manga",
+  "platform",
+  "robot",
+  "sideways"
+ ],
+ "description": "Mazinger Z is an action-platformer based on the anime and manga of the same name. Players assume the role of Kouji Kabuto, who seeks revenge against Dr. Hell and his henchmen.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/0/7/31707_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/7/31707_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

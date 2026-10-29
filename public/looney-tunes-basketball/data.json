@@ -1,0 +1,46 @@
+{
+ "title": "Looney Tunes Basketball",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "europe": "February 1995"
+ },
+ "developer": [
+  "Sculptured Software"
+ ],
+ "publisher": [
+  "Sunsoft"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Arcade"
+ ],
+ "tags": [
+  "basketball",
+  "cartoon",
+  "sideways",
+  "sports"
+ ],
+ "description": "Join the Looney Tunes cast as they shoot some whacky street ball hoops!",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/7/5/50875_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/7/5/50875_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

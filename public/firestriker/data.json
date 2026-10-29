@@ -1,0 +1,46 @@
+{
+ "title": "FireStriker",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "October 1994"
+ },
+ "developer": [
+  "Axes Art Amuse, Hect",
+  "Axes Art Amuse"
+ ],
+ "publisher": [
+  "DTMC"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "cooperative",
+  "scrolling",
+  "shooter",
+  "topdown",
+  "vertical"
+ ],
+ "description": "A top-down action game for the Super Nintendo. The gameplay often resembles that of Arkanoid/Break-Out bat-and-ball games, as the player uses a ball of light to fight enemies and must keep it on the screen.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/1/2/50712_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

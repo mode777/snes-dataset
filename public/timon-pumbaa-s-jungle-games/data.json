@@ -1,0 +1,47 @@
+{
+ "title": "Timon & Pumbaa's Jungle Games",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "north_america": "November 30, 1997",
+  "pal": "March 26, 1998",
+  "usa": "November 1997",
+  "europe": "November 1997"
+ },
+ "developer": [
+  "Tiertex",
+  "Tiertex Design Studios"
+ ],
+ "publisher": [
+  "THQ"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "cartoon",
+  "disney",
+  "minigames",
+  "partygame"
+ ],
+ "description": "A mini-game collection featuring Timon and Pumbaa from Disney's The Lion King aimed at a younger audience. Released for PC and Mac and later ported to the Super Nintendo Entertainment System.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/9/7/63897_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/8/63898_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/8/63898_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

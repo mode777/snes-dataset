@@ -1,0 +1,42 @@
+{
+ "title": "Kikuni Masahiko no Jantoushi Doraou 2",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Dec3, 1993"
+ },
+ "developer": [
+  "LOG Staff",
+  "Pow"
+ ],
+ "publisher": [
+  "POW"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A parodic mahjong game and the sequel to the original Jantoushi Dora Ou. Released in 1993 for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/8/0/306880_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

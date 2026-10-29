@@ -1,0 +1,48 @@
+{
+ "title": "Star Trek: The Next Generation - Future's Past",
+ "aliases": [
+  "Star Trek: The Next Generation: Future's Past"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-03",
+  "europe": "March 1994",
+  "usa": "March 1994"
+ },
+ "developer": [
+  "Spectrum Holobyte"
+ ],
+ "publisher": [
+  "Spectrum Holobyte"
+ ],
+ "genre": [
+  "Adventure",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "adventure",
+  "angle",
+  "scifi",
+  "topdown",
+  "tv"
+ ],
+ "description": "A Star Trek game for the SNES that is a virtual facsimile of the Sega Genesis game, \"Star Trek: The Next Generation: Echoes of the Past\", but with a variety of inexplicable changes that render it so obscenely difficult as to be unplayable.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.16,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/1/8/1/51181_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/1/51181_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/1/51181_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

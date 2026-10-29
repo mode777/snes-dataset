@@ -1,0 +1,52 @@
+{
+ "title": "Art of Fighting",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-12",
+  "europe": "December 1993",
+  "usa": "December 1993"
+ },
+ "developer": [
+  "SNK",
+  "Monolith (Japan)"
+ ],
+ "publisher": [
+  "TAKARA"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "fighting",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "SNK's second foray into the fighting game genre, known for its dedicated linear story, camera zooming effect (allowing for large character sprites in close-range combat), and the introduction of a gauge that depletes when certain moves are used.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.0,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/80e74082-229a-4739-869f-bbe7fc1882a7.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/7/3/21273_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/7/3/21273_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/7/2/21272_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/7/2/21272_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

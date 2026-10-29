@@ -1,0 +1,44 @@
+{
+ "title": "Super Battletank",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "June 1992"
+ },
+ "developer": [
+  "Absolute Entertainment",
+  "Imagineering Inc"
+ ],
+ "publisher": [
+  "Absolute Entertainment"
+ ],
+ "genre": [
+  "Simulation",
+  "Tank"
+ ],
+ "tags": [
+  "gulfwar",
+  "simulation",
+  "tanks",
+  "war"
+ ],
+ "description": "Sequel to Battletank for the NES, also designed by Garry Kitchen.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/7/7/46777_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

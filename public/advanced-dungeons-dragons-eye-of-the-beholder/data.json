@@ -1,0 +1,53 @@
+{
+ "title": "Advanced Dungeons & Dragons - Eye of the Beholder",
+ "aliases": [
+  "Advanced Dungeons & Dragons: Eye of the Beholder"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-04",
+  "usa": "April 1994"
+ },
+ "developer": [
+  "Westwood",
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Role-Playing",
+  "First-Person"
+ ],
+ "tags": [
+  "behind",
+  "dungeoncrawler",
+  "dungeonsanddragons",
+  "fantasy",
+  "intoscreen",
+  "rpg",
+  "swordandsorcerey"
+ ],
+ "description": "The first entry in SSI's Legend Series based on 2nd Edition AD&D license. The Lords of the City of Waterdeep have put out a call for heroes to investigate the evil lurking in the sewers beneath their streets.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 2.83,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d62a2861-33e9-42fe-b0c6-662e983a73b6.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/2/3/25223_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/2/3/25223_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

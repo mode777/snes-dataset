@@ -1,0 +1,59 @@
+{
+ "title": "Batman Forever",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "August 1995",
+  "north_america": "October 26, 1995",
+  "pal": "September 7, 1995",
+  "first_release": "1995-08",
+  "europe": "August 1995",
+  "usa": "August 1995"
+ },
+ "developer": [
+  "Acclaim Studios London",
+  "Probe Entertainment",
+  "Probe Entertainment Limited"
+ ],
+ "publisher": [
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "action",
+  "comic",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "Batman Forever is the officially licensed game based on the 1995 movie. The bad guys this time around are The Riddler and Two-Face.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.03,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/5e842715-c365-44e4-89ec-f650162f105a.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/3/10983_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/3/10983_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/1/10981_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/1/10981_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/2/10982_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/2/10982_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

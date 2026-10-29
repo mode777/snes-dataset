@@ -1,0 +1,46 @@
+{
+ "title": "Super Tetris 2 + Bombliss",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Dec 18, 1992"
+ },
+ "developer": [
+  "Tose"
+ ],
+ "publisher": [
+  "Bullet-Proof Software"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Compilation"
+ ],
+ "tags": [
+  "reaction",
+  "sideways",
+  "single",
+  "strategy",
+  "tetris"
+ ],
+ "description": "Aside from including a traditional Tetris mode, Super Tetris 2 + Bombliss included Bombliss mode that featured bombs used to destroy surrounding pieces after a line was completed. It also included a Tetris \"C Mode\" in which the ground level blocks automatically rise after a set number pieces are destroyed.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/2/9/42829_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/2/9/42829_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

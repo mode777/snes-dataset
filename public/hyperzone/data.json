@@ -1,0 +1,59 @@
+{
+ "title": "HyperZone",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "September 1991",
+  "north_america": "September 1, 1991",
+  "pal": "1992",
+  "first_release": "1991-09",
+  "europe": "September 1991",
+  "usa": "September 1991"
+ },
+ "developer": [
+  "HAL Laboratory",
+  "Hal"
+ ],
+ "publisher": [
+  "HAL Laboratory"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Rail"
+ ],
+ "tags": [
+  "action",
+  "behind",
+  "intoscreen",
+  "shootemup",
+  "shooter"
+ ],
+ "description": "HyperZone is an \"on-rails\" futuristic shooter for the SNES.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.17,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d766e81b-c087-43cd-8cb7-ef1a2abb2de6.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/8/0/50780_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/8/0/50780_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/7/8/50778_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/7/8/50778_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/7/9/50779_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/7/9/50779_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "title": "Kendo Rage",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-10",
+  "usa": "October 1993"
+ },
+ "developer": [
+  "Affect"
+ ],
+ "publisher": [
+  "SETA"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "fighter",
+  "horizontal",
+  "martialarts",
+  "platform",
+  "sideways"
+ ],
+ "description": "Kendo Rage is a side-scrolling action platformer from Kemco, which borrows elements from Valis, Parodius, and the original Prince of Persia.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.29,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/74f73907-9f41-4590-9fdc-8d8519d15e01.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/1/4/50814_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

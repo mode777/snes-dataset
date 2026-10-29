@@ -1,0 +1,53 @@
+{
+ "title": "Super Mario All-Stars",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-08-01",
+  "europe": "August 1993",
+  "usa": "August 1993"
+ },
+ "developer": [
+  "Nintendo"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Compilation"
+ ],
+ "tags": [
+  "compilation",
+  "cute",
+  "fantasy",
+  "horizontal",
+  "jumponthings",
+  "powerup",
+  "scrolling"
+ ],
+ "description": "Mario's 8-bit adventures were compiled and enhanced for the Super Nintendo on a single cartridge. This was the world debut of \"The Lost Levels\", originally sold as Super Mario Bros. 2 only in Japan.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.4,
+ "metascore": 70,
+ "cover_urls": [
+  "https://images.launchbox-app.com/a7ebaf64-93a3-4a25-b9b1-499aad86cd74.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/9/4/51294_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/9/4/51294_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/9/3/51293_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/9/3/51293_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

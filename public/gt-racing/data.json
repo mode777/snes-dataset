@@ -1,0 +1,47 @@
+{
+ "title": "GT Racing",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Mar 29, 1996"
+ },
+ "developer": [
+  "Imagineer",
+  "Lenar"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "GT / Street"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "Racing video game released in 1996 for the Super Famicom. Developed by Lenar and published by Imagineer.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/4/8/317048_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

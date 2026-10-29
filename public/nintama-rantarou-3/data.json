@@ -1,0 +1,47 @@
+{
+ "title": "Nintama Rantarou 3",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "japan": "Feb 28, 1997"
+ },
+ "developer": [
+  "Culture Brain"
+ ],
+ "publisher": [
+  "Culture Brain"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "horizontal",
+  "jumper",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "The fifth and final Nintama Rantarou licensed game for the Super Famicom. The game retains the gameplay of the two previous core games, throwing the three heroes into a mix of platforming and mini-game action.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/5/6/307256_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/5/6/307256_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

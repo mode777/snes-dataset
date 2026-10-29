@@ -1,0 +1,46 @@
+{
+ "title": "Mystery Circle",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Dec4, 1992"
+ },
+ "developer": [
+  "Wave Corp.",
+  "Sammy Studios",
+  "Wave"
+ ],
+ "publisher": [
+  "K. Amusement Leasing",
+  "K Amusement Leasing"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "puzzle"
+ ],
+ "description": "Puzzle game published by K Amusement Leasing in 1992.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/1/4/306814_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/1/4/306814_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

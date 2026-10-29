@@ -1,0 +1,55 @@
+{
+ "title": "The Legend of Zelda: A Link to the Past",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1992-04-13",
+  "canada": "Apr 13, 1992",
+  "europe": "Apr 13, 1992",
+  "france": "Apr 13, 1992",
+  "germany": "Apr 13, 1992",
+  "usa": "Apr 13, 1992"
+ },
+ "developer": [
+  "Nintendo"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action Adventure",
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "action",
+  "adventure",
+  "fantasy",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "The third installment in the Zelda series makes a return to the top-down 2D gameplay of the original. Link must travel between the Light and Dark Worlds in order to set things right in the kingdom of Hyrule.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": 4.58,
+ "metascore": 95,
+ "cover_urls": [
+  "https://images.launchbox-app.com//3d487ee9-d645-42af-9432-d2751523aaed.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/2/3/18323_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/2/3/18323_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/2/2/18322_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/2/2/18322_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

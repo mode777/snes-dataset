@@ -1,0 +1,42 @@
+{
+ "title": "Oraga Land Shusai - Best Farmer Shuukakusai",
+ "aliases": [
+  "Oraga Land Shusai: Best Farmer Shuukakusai"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 17, 1995"
+ },
+ "developer": [
+  "Graphic Research"
+ ],
+ "publisher": [
+  "Vic Tokai"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "puzzle"
+ ],
+ "description": "A competitive farming puzzle game published by Vic Tokai in 1995.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/5/0/312550_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

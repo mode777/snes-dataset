@@ -1,0 +1,51 @@
+{
+ "title": "Breath of Fire",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "April 3, 1993",
+  "north_america": "August 10, 1994",
+  "first_release": "1994-08-10",
+  "usa": "August 1994"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Square Soft",
+  "Capcom (JP)Square (NA)"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "Breath of Fire is the first entry in the relatively successful Breath of Fire series, developed by Capcom. The gameplay is similar to other SNES RPG titles, such as Final Fantasy IV, with turn-based combat and a large medieval-like overworld to traverse.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.79,
+ "metascore": 79,
+ "cover_urls": [
+  "https://images.launchbox-app.com/806301c5-9be1-40ea-963f-748af76621fe.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/0/22570_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/0/22570_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

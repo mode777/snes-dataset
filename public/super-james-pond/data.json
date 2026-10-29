@@ -1,0 +1,50 @@
+{
+ "title": "Super James Pond",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "July 1993"
+ },
+ "developer": [
+  "Vectordean"
+ ],
+ "publisher": [
+  "American Softworks"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "animalprotagonist",
+  "christmas",
+  "comedy",
+  "cute",
+  "fantasy",
+  "multidirectional",
+  "platform",
+  "scrolling",
+  "sideways"
+ ],
+ "description": "A side-scrolling platform game released in 1991. It is the sequel to the original James Pond, and now parodies RoboCop as well as James Bond.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/8/8/51288_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/8/51288_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

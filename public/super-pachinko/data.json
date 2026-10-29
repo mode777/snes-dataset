@@ -1,0 +1,47 @@
+{
+ "title": "Super!! Pachinko",
+ "aliases": [
+  "Super Pachinko"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jul 29, 1994"
+ },
+ "developer": [
+  "Betop"
+ ],
+ "publisher": [
+  "I'MAX"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "A 1994 pachinko game for the Super Famicom, developed by Betop and published by I'Max.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/5/5/306955_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/5/5/306955_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

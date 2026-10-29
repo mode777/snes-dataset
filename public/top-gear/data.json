@@ -1,0 +1,51 @@
+{
+ "title": "Top Gear",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1992-04",
+  "usa": "April 1992",
+  "europe": "April 1992"
+ },
+ "developer": [
+  "Gremlin",
+  "Gremlin Graphics"
+ ],
+ "publisher": [
+  "Kemco"
+ ],
+ "genre": [
+  "Racing",
+  "Driving",
+  "Arcade"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "Top Gear sends players over eight countries around the world with one of four cars, facing sharp turns, pit stops, and debris in this arcade-style racing game.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.96,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d7c80b5e-dc9c-4539-ae2e-3d192ca4e563.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/4/51434_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/5/51435_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "title": "Battle Jockey",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 22, 1994"
+ },
+ "developer": [
+  "Nova",
+  "Nova Games",
+  "Nova Games Ltd."
+ ],
+ "publisher": [
+  "Virgin Interactive"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Horse Racing"
+ ],
+ "tags": [
+  "horseracing",
+  "sports"
+ ],
+ "description": "A competitive top-down four-player horse racing game. The game throws surprises aplenty at the unsuspecting jockeys.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/2/7/307027_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "title": "Motoko-chan no Wonder Kitchen",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "September 1993"
+ },
+ "developer": [
+  "Nintendo",
+  "Ajinomoto"
+ ],
+ "publisher": [
+  "Nintendo",
+  "Ajinomoto"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [
+  "cooking",
+  "partygame"
+ ],
+ "description": "A culinary mini-game collection developed by Nintendo in 1993. It was created as a promotional tie-in with food corporation Ajinomoto.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/5/2/317652_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/2/317652_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

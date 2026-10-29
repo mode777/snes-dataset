@@ -1,0 +1,49 @@
+{
+ "title": "Beauty and the Beast",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "July 1994",
+  "europe": "July 1994"
+ },
+ "developer": [
+  "Probe Software",
+  "Probe Entertainment Limited"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "disney",
+  "jumper",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "The official licensed game of the 1991 movie of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/2/8/48928_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/3/0/48930_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/3/0/48930_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

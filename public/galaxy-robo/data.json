@@ -1,0 +1,46 @@
+{
+ "title": "Galaxy Robo",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Mar 11, 1994"
+ },
+ "developer": [
+  "Copya System",
+  "Copya Systems"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "rpg",
+  "strategy",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A mecha strategy RPG that uses animated cutaways for skirmishes similar to Fire Emblem. It was developed by Copya Systems, the team behind Paladin's Quest.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/1/0/306910_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/0/306910_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "title": "Bomber Man B-Daman",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Dec 20, 1996"
+ },
+ "developer": [
+  "AI"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [],
+ "description": "Bomberman B-Daman is an Action game, developed by AI and published by Hudson,which was released in Japan in 1996.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/6/7/31967_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/7/31967_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

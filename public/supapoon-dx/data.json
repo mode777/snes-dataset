@@ -1,0 +1,46 @@
+{
+ "title": "Supapoon DX",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "May 31, 1996"
+ },
+ "developer": [
+  "Now Production"
+ ],
+ "publisher": [
+  "Yutaka"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "batandball",
+  "breakout",
+  "reaction",
+  "singlescreen"
+ ],
+ "description": "A cutesy variant on Breakout/Arkanoid where the goal is to eliminate the yellow balls wearing shades. A sequel/remake for 1995's Supapoon.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/7/8/312578_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/8/312578_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

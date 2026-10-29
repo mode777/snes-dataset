@@ -1,0 +1,54 @@
+{
+ "title": "Cool World",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "north_america": "February 1, 1993",
+  "pal": "1992",
+  "first_release": "1993-02",
+  "usa": "February 1993",
+  "spain": "February 1993"
+ },
+ "developer": [
+  "Painting by Numbers",
+  "Ocean Software"
+ ],
+ "publisher": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "A game based on the live action/animation film Cool World. The player controls Frank Harris, who must prevent Holli Would from entering the real world.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Spanish"
+ ],
+ "gf_score": 1.75,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/897043a5-8a40-448d-8bf6-e8e1a1bcfab4.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/0/9/46109_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/0/9/46109_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "title": "Maten Densetsu - Senritsu no Ooparts",
+ "aliases": [
+  "Maten Densetsu: Senritsu no Ooparts"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "October 27, 1995"
+ },
+ "developer": [
+  "Office I / Thinking Rabbit",
+  "Thinking Rabbit"
+ ],
+ "publisher": [
+  "TAKARA"
+ ],
+ "genre": [],
+ "tags": [
+  "adventure",
+  "firstperson",
+  "rpg",
+  "turnbased"
+ ],
+ "description": "A horror sci-fi-themed RPG/adventure game hybrid that's set in a future where humanity has almost been wiped out by demonic forces from parts unknown.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

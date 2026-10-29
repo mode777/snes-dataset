@@ -1,0 +1,50 @@
+{
+ "title": "J.League Soccer - Prime Goal 2",
+ "aliases": [
+  "J.League Soccer Prime Goal 2"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Aug5, 1994"
+ },
+ "developer": [
+  "Namco"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "A 1994 soccer simulation game centered around Japanese soccer teams. The game is top-down, and was released only in Japan (although its sequel, Prime Goal 3, was released in Europe).",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/5/9/306959_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/5/9/306959_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

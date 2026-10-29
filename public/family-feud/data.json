@@ -1,0 +1,49 @@
+{
+ "title": "Family Feud",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "September 13, 1993",
+  "first_release": "1993-10",
+  "usa": "October 1993"
+ },
+ "developer": [
+  "Imagineering",
+  "Imagineering Inc"
+ ],
+ "publisher": [
+  "GameTek"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Trivia / Game Show"
+ ],
+ "tags": [
+  "gameshow",
+  "quiz",
+  "trivia",
+  "tv"
+ ],
+ "description": "An adaptation of the TV quiz show where two families compete for cash prizes. These versions were all published by GameTek and developed by various developers between 1991 and 1994.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.97,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/3/8/8/47388_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/8/47388_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

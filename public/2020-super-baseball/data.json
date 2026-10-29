@@ -1,0 +1,55 @@
+{
+ "title": "2020 Super Baseball",
+ "aliases": [
+  "Super Baseball 2020"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-07",
+  "japan": "March 12, 1993",
+  "usa": "July 1993",
+  "north_america": "July 13, 1993"
+ },
+ "developer": [
+  "Pallas",
+  "Monolith (Japan)",
+  "Monolith Corporation"
+ ],
+ "publisher": [
+  "Tradewest"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Arcade"
+ ],
+ "tags": [
+  "baseball",
+  "behind",
+  "intoscreen",
+  "sports"
+ ],
+ "description": "Taking the sport of baseball to the future, 2020 Super Baseball plays with a variety of new rules and abilities with teams composed of both cybernetically-enhanced humans and robotic machines.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.62,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/1c0662b3-ad65-4381-b5e3-4f25d99e4692.png",
+  "https://gamefaqs.gamespot.com/a/box/2/2/9/51229_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

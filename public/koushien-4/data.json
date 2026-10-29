@@ -1,0 +1,46 @@
+{
+ "title": "Koushien 4",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jul 14, 1995"
+ },
+ "developer": [
+  "Magical Company",
+  "Magical Company (Mahou)"
+ ],
+ "publisher": [
+  "Magical Company"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "baseball",
+  "sports"
+ ],
+ "description": "Baseball sim published by Magical Company in 1995. High school teams across Japan compete to reach the tournament final in Koushien.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/0/6/307106_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/0/6/307106_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

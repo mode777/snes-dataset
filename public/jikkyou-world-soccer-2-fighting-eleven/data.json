@@ -1,0 +1,32 @@
+{
+ "title": "Jikkyou World Soccer 2: Fighting Eleven",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "November 1995"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [],
+ "description": "It's a whole new ball game... Realistic sprites with 36 teams featuring recognisable celebrity players. Increased CPU intelligence to challenge beginners and experts alike. Choose from 16 formations, 8 strategies, 20 players and 9 adjustable player skills. Four way play possible with adaptor.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/4/4/35744_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/4/35744_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

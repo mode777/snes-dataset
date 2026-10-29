@@ -1,0 +1,31 @@
+{
+ "title": "Street Fighter Zero 2",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "November 1996"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [],
+ "description": "The bad boys from the Street Fighter series are back for more fisticuffs of fury! Eighteen different combatants, some old and some new, are here to lay claim to the title 'World's Best.' Screamin' moves like Ken's Dragon Punch, Adon's Jaguar Tooth and M. Bison's Somersault Skull Driver will blow you away! Play alone or pummel a friend in two-player simultaneous action. This ain't no cakewalk. This is Street Fight Alpha 2 and it's blazing on your Super NES!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/6/9/7669_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/6/9/7669_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "title": "Yakouchuu",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jun 16, 1995"
+ },
+ "developer": [
+  "Athena"
+ ],
+ "publisher": [
+  "Athena"
+ ],
+ "genre": [
+  "Adventure",
+  "General"
+ ],
+ "tags": [
+  "adventure",
+  "firstperson",
+  "visualnovel"
+ ],
+ "description": "Sound novel released in 1995 for the Super Famicom. The game was ported to the Game Boy Color in 1999: Yakouchuu GB. A sequel Yakouchuu II: Satsujin Kouru was also released in 1999 for the Nintendo 64.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/9/1/307091_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/9/1/307091_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "title": "Gambler Jiko Chuushinha 2 - Dorapon Quest",
+ "aliases": [
+  "Gambler Jiko Chuushinha 2: Dorapon Quest"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Mar 18, 1994"
+ },
+ "developer": [
+  "Bits Laboratory"
+ ],
+ "publisher": [
+  "Pack-In-Video"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A four-player mahjong game and part of a series of games based on the comedic mahjong-related manga Gambler Jiko Chuushinha.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/7/4/312574_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

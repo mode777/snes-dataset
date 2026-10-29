@@ -1,0 +1,51 @@
+{
+ "title": "Super Off Road - The Baja",
+ "aliases": [
+  "Super Off Road: The Baja"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-09",
+  "usa": "September 1993"
+ },
+ "developer": [
+  "Leland Interactive Media",
+  "Software Creations"
+ ],
+ "publisher": [
+  "Tradewest"
+ ],
+ "genre": [
+  "Racing",
+  "Driving",
+  "Rally / Offroad"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "A rally driving game and the sequel to Ivan \"Ironman\" Stewart's Super Off Road, released for the SNES in September 1993. The sequel changes the view from overhead to 3rd person.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 2.88,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/0541c0a1-fb31-4709-8823-4e33c4a18098.png",
+  "https://gamefaqs.gamespot.com/a/box/3/3/9/51339_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

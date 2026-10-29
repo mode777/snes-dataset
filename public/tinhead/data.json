@@ -1,0 +1,43 @@
+{
+ "title": "Tinhead",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "April 15, 2019",
+  "pal": "April 15, 2019",
+  "japan": "April 15, 2019"
+ },
+ "developer": [
+  "Microprose"
+ ],
+ "publisher": [
+  "Microprose",
+  "Piko Interactive"
+ ],
+ "genre": [],
+ "tags": [
+  "horizontal",
+  "jumper",
+  "platform",
+  "prototype",
+  "sideways"
+ ],
+ "description": "Tinhead was an unreleased game, intended for a 1994 release. It was cancelled after developer MicroProse ran out of money.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia_unlicensed",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

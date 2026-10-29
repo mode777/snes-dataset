@@ -1,0 +1,46 @@
+{
+ "title": "Bounty Sword",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep8, 1995"
+ },
+ "developer": [
+  "ITL"
+ ],
+ "publisher": [
+  "Pioneer LDC"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A Japan-only strategy RPG for the Super Famicom that mixes real-time and turn-based combat, with the player moving around the battlefield giving their units commands.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/9/2/31892_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/2/31892_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

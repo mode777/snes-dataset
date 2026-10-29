@@ -1,0 +1,31 @@
+{
+ "title": "Cannondale Cup",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Radical Entertainment"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Biking"
+ ],
+ "tags": [],
+ "description": "Pick your player, choose your Cannondale Mountain Bike and you're off! Face some of the toughest competitors, boss enemies and obstacles waiting to trip you up. Punch, speed jump and bump through deserts, mountains, cities and back roads as you race your way to victory!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/6/4/50564_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/4/50564_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

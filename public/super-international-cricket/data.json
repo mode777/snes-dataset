@@ -1,0 +1,47 @@
+{
+ "title": "Super International Cricket",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "pal": "1994",
+  "europe": "1994"
+ },
+ "developer": [
+  "Beam Software"
+ ],
+ "publisher": [
+  "Beam Software",
+  "Nintendo"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Cricket"
+ ],
+ "tags": [
+  "angle",
+  "cricket",
+  "sports"
+ ],
+ "description": "Hit balls for six, win by 10 wickets and use other terms confusing to Americans in the Super Nintendo's only foray into the cricket genre.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/4/2/42842_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/2/42842_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "title": "Shanghai - Banri no Choujou",
+ "aliases": [
+  "Shanghai: Banri no Choujou"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Nov 17, 1995"
+ },
+ "developer": [
+  "Activision / Success Corp.",
+  "Kuusou Kagaku"
+ ],
+ "publisher": [
+  "SUNSOFT"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "boardgame",
+  "shangai"
+ ],
+ "description": "Released for various console systems in Japan. Banri no Choujou means \"The Great Wall\". The game is known in the US as \"Shanghai: Triple-Threat\"",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/0/8/31908_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/0/8/31908_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

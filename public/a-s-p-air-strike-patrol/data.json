@@ -1,0 +1,48 @@
+{
+ "title": "A.S.P.: Air Strike Patrol",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "usa": "January 1995"
+ },
+ "developer": [
+  "Optus Corp",
+  "Opus"
+ ],
+ "publisher": [
+  "SETA"
+ ],
+ "genre": [
+  "Simulation",
+  "Flight",
+  "Modern Jet"
+ ],
+ "tags": [
+  "isometric",
+  "multidirectional",
+  "plane",
+  "shooter",
+  "tank",
+  "wargame"
+ ],
+ "description": "Air Strike Patrol is an isometric, tactical jet fighter shoot 'em up developed by Opus for the SNES. It was released in Europe by System 3 Software, where it was known as Desert Fighter.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/0/2/50502_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/2/50502_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

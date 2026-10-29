@@ -1,0 +1,42 @@
+{
+ "title": "Capcom's Soccer Shootout",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "June 1994"
+ },
+ "developer": [
+  "A-Max"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "Soccer game developed by A-Max and released by Capcom for the Super Nintendo system. Known in Japan as \"J.League Excite Stage '94\".",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/5/5/51155_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

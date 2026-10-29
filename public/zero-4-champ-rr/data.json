@@ -1,0 +1,46 @@
+{
+ "title": "Zero 4 Champ RR",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jul 22, 1994"
+ },
+ "developer": [
+  "Media Rings Corporation",
+  "Media Rings"
+ ],
+ "publisher": [
+  "Media Rings Corporation"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [
+  "adventure",
+  "behind",
+  "dragster",
+  "racing"
+ ],
+ "description": "A street racing game from Media Rings that focuses on 400m drag races, the titular \"Zero-4\". It is the first of two Super Famicom games in the Zero-4 series.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/1/5/312415_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/5/312415_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

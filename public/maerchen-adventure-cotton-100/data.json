@@ -1,0 +1,42 @@
+{
+ "title": "Maerchen Adventure Cotton 100%",
+ "aliases": [
+  "Marchen Adventure Cotton 100%"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "April 22, 1994"
+ },
+ "developer": [
+  "Success"
+ ],
+ "publisher": [
+  "Datam Polystar"
+ ],
+ "genre": [],
+ "tags": [
+  "cute",
+  "horizontal",
+  "shootemup",
+  "shooter",
+  "sideways"
+ ],
+ "description": "The Super Famicom/PlayStation side-scrolling shoot 'em up sequel to Fantastic Nights Dream: Cotton featuring the eponymous witch Cotton in another quest for delicious candy.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

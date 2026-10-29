@@ -1,0 +1,51 @@
+{
+ "title": "Cliffhanger",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "October 25, 1993",
+  "pal": "1993",
+  "usa": "October 1993",
+  "europe": "October 1993"
+ },
+ "developer": [
+  "Malibu Interactive",
+  "Malibu"
+ ],
+ "publisher": [
+  "Sony Imagesoft"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "beatemup",
+  "horizontal",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "A side-scrolling brawler with a number of precarious action segments, loosely based on the Sylvester Stallone action film of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/8/6/46086_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/7/46087_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/7/46087_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "title": "Militia",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "December 1993"
+ },
+ "developer": [
+  "Namco"
+ ],
+ "publisher": [],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [],
+ "description": "Metal Marines is a Strategy game, developed and published by Namco,which was released in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/2/0/27420_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/2/0/27420_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

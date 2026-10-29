@@ -1,0 +1,64 @@
+{
+ "title": "Alien 3",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "May 1993",
+  "north_america": "May 17, 1993",
+  "pal": "1992",
+  "first_release": "1993-05",
+  "europe": "May 1993",
+  "usa": "May 1993"
+ },
+ "developer": [
+  "Probe Software Ltd., Spearsoft",
+  "Probe Entertainment",
+  "Probe Entertainment Limited"
+ ],
+ "publisher": [
+  "LJN, Ltd.",
+  "LJN"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "alien",
+  "futuristic",
+  "movie",
+  "multidirectional",
+  "platform",
+  "scary",
+  "scfi",
+  "shooter"
+ ],
+ "description": "An action game from Acclaim based on the 1992 David Fincher movie. The player assumes the role of Ripley as she explores the prison planet of Fury 161.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.63,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/4/6/2/22462_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/1/22461_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/1/22461_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/0/22460_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/0/22460_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/2/22462_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

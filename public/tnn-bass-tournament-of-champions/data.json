@@ -1,0 +1,44 @@
+{
+ "title": "TNN Bass Tournament of Champions",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "November 1994"
+ },
+ "developer": [
+  "GAPS"
+ ],
+ "publisher": [
+  "American Softworks"
+ ],
+ "genre": [
+  "Sports",
+  "Nature",
+  "Fishing"
+ ],
+ "tags": [
+  "behind",
+  "fishing",
+  "sports",
+  "topdown"
+ ],
+ "description": "Fishing game bearing the TNN license.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/7/8/48278_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

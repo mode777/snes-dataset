@@ -1,0 +1,48 @@
+{
+ "title": "Dirt Racer",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "pal": "May 31, 1995",
+  "europe": "May 1995"
+ },
+ "developer": [
+  "Motivetime",
+  "MotiveTime, Ltd."
+ ],
+ "publisher": [
+  "Elite Systems"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Rally / Offroad"
+ ],
+ "tags": [
+  "behind",
+  "intoscreen",
+  "monstertrucks",
+  "racing"
+ ],
+ "description": "A racing game for the SNES that uses the Super FX chip for its polygonal vehicles. It was not released outside of Europe.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/1/2/89312_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/1/2/89312_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

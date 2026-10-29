@@ -1,0 +1,52 @@
+{
+ "title": "Rival Turf",
+ "aliases": [
+  "Rival Turf!"
+ ],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1992-04",
+  "europe": "April 1992",
+  "usa": "April 1992"
+ },
+ "developer": [
+  "Jaleco",
+  "Jaleco Entertainment"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "beatemup",
+  "horizontal",
+  "progressive",
+  "sideways"
+ ],
+ "description": "Rival Turf is a cyber-punk comic-book style beat 'em up inspired by the likes of Streets Of Rage and Final Fight.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.08,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d61ed271-0c97-4765-ae25-20f71a048b94.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/9/51069_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/8/51068_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/8/51068_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

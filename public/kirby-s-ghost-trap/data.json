@@ -1,0 +1,31 @@
+{
+ "title": "Kirby's Ghost Trap",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "europe": "February 1995"
+ },
+ "developer": [
+  "Compile"
+ ],
+ "publisher": [],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [],
+ "description": "AVALANCHE! The call is heard in the hills and valley throughout Dream Land! The people of the country hold their breath in wonder. The First Annual Dream Land's Avalanche Competition has begun!It's up to you to blast Kirby's adversaries in the most thunderous puzzler around. Strategically stack the color-coded Blobs and watch them meld together. A colossal explosion will cause a massive bombardment of Boulders to cascade upon your opponent!Rise above these grizzled veterans and claim the prized Dream Fountain Cup! Help Kirby bury his opponents in a landslide victory!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/5/0/50850_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/0/50850_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

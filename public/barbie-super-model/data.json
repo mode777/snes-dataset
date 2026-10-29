@@ -1,0 +1,48 @@
+{
+ "title": "Barbie Super Model",
+ "aliases": [
+  "Barbie: Super Model"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "December 1993",
+  "usa": "December 1993"
+ },
+ "developer": [
+  "Bonsai Entertainment, Inc., Tahoe Software Productions",
+  "Software Creations"
+ ],
+ "publisher": [
+  "Hi-Tech Expressions, Inc.",
+  "Hi Tech Expressions"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "manager",
+  "simulation",
+  "strategy"
+ ],
+ "description": "Help Barbie become a great fashion model! This is an arcade game with many different activities to participate in.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/1/8/50518_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

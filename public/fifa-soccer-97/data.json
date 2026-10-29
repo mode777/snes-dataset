@@ -1,0 +1,47 @@
+{
+ "title": "FIFA Soccer 97",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "usa": "1996"
+ },
+ "developer": [
+  "Extended Play Productions, Rage Software",
+  "Rage Software"
+ ],
+ "publisher": [
+  "Electronic Arts"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "football",
+  "isometric",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "A soccer/football game. The fourth game in the FIFA series.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, Spanish, French, Italian, Swedish"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/5/5/3555_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

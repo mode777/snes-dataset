@@ -1,0 +1,45 @@
+{
+ "title": "Kirby's Avalanche",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-02",
+  "usa": "February 1995"
+ },
+ "developer": [
+  "Compile / HAL Laboratory",
+  "Compile"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Puzzle",
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [
+  "fallingblocks",
+  "puzzle",
+  "singlescreen",
+  "tilearrangement"
+ ],
+ "description": "Kirby's Avalanche is a puzzle game that fuses the gameplay of Puyo-Puyo with a distinct Kirby theme.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.54,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/e4476a65-20ae-4f1a-954c-ddcc8ed9bed4.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/1/50851_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/1/50851_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

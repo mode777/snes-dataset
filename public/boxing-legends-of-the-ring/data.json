@@ -1,0 +1,48 @@
+{
+ "title": "Boxing: Legends of the Ring",
+ "aliases": [
+  "Boxing Legends of the Ring"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "usa": "September 1993",
+  "europe": "September 1993"
+ },
+ "developer": [
+  "Sculptured Software"
+ ],
+ "publisher": [
+  "Electro Brain"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Boxing"
+ ],
+ "tags": [
+  "behind",
+  "boxing",
+  "intoscreen",
+  "sports"
+ ],
+ "description": "Compete as some of the greatest legends in boxing history in this 16-bit boxing game.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Spanish, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/5/0/22550_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/2/22552_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

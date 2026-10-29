@@ -1,0 +1,40 @@
+{
+ "title": "Drift King Shutokou Battle 2: Tsuchiya Keiichi & Bandou Masaaki",
+ "aliases": [
+  "Shutokou Battle 2: Drift King Keichii Tsuchiya & Masaaki Bandoh"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "February 24, 1995"
+ },
+ "developer": [
+  "Genki"
+ ],
+ "publisher": [
+  "Bullet-Proof Software"
+ ],
+ "genre": [],
+ "tags": [
+  "behind",
+  "drift",
+  "racing"
+ ],
+ "description": "A street-racing game featuring the endorsement of Keiichi \"Drift King\" Tsuchiya and the sequel to Drift King Shutokou Battle '94.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

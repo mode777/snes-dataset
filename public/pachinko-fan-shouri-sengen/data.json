@@ -1,0 +1,47 @@
+{
+ "title": "Pachinko Fan - Shouri Sengen",
+ "aliases": [
+  "Pachinko Fan: Shouri Sengen"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Oct 15, 1994"
+ },
+ "developer": [
+  "?",
+  "Pow"
+ ],
+ "publisher": [
+  "Planning Office Wada"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "Super Famicom pachinko game published by Planning Office Wada in 1994.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/0/1/31801_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

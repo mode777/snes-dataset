@@ -1,0 +1,51 @@
+{
+ "title": "Strike Gunner S.T.G",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1992-08",
+  "japan": "August 1992",
+  "usa": "August 1992"
+ },
+ "developer": [
+  "Athena"
+ ],
+ "publisher": [
+  "NTV International Corporation"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "action",
+  "shootemup",
+  "shooter",
+  "topdown",
+  "vertical"
+ ],
+ "description": "Strike Gunner S.T.G is a vertical shoot 'em up released for the Arcade and SNES.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.58,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/42f90ced-9458-4e0b-aeca-664a3777e4d3.png",
+  "https://gamefaqs.gamespot.com/a/box/2/0/1/51201_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/0/1/51201_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/0/2/51202_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "title": "Pro Mahjong Kiwame II",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jul 22, 1994"
+ },
+ "developer": [
+  "Athena"
+ ],
+ "publisher": [
+  "Athena"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "The second of Athena's Super Famicom pro mahjong games for advanced players.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/4/6/306946_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

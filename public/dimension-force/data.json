@@ -1,0 +1,31 @@
+{
+ "title": "Dimension-Force",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "December 1991"
+ },
+ "developer": [
+  "ISCO"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [],
+ "description": "D-Force is an Action game, developed by ISCO and published by Asmik Corporation of America,which was released in Japan in 1991.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/9/6/50596_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/6/50596_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

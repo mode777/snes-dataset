@@ -1,0 +1,48 @@
+{
+ "title": "Super Loopz",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Canceled",
+  "north_america": "Cancelled",
+  "pal": "Cancelled"
+ },
+ "developer": [
+  "Grafiti",
+  "Graffiti"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "puzzle",
+  "singlescreen",
+  "tilearrangement"
+ ],
+ "description": "A puzzle game that plays similarly to Pipe Dream. It was released only in Japan by Imagineer, having been canceled for the US.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/6/2/31762_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/2/31762_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

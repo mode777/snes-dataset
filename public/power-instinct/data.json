@@ -1,0 +1,44 @@
+{
+ "title": "Power Instinct",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "December 1994"
+ },
+ "developer": [
+  "Atlus",
+  "AI"
+ ],
+ "publisher": [
+  "Atlus"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "fighting",
+  "sideways"
+ ],
+ "description": "The first in Atlus's signature fighting game series, featuring a competition (that gets more bizarre as the series goes on) where all of the combatants are descendants of the same bloodline.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/0/5/44405_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

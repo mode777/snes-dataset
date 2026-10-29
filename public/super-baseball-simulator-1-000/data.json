@@ -1,0 +1,46 @@
+{
+ "title": "Super Baseball Simulator 1.000",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "usa": "December 1991"
+ },
+ "developer": [
+  "Culture Brain"
+ ],
+ "publisher": [
+  "Culture Brain"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Arcade"
+ ],
+ "tags": [
+  "angle",
+  "baseball",
+  "behind",
+  "sports"
+ ],
+ "description": "America’s Pastime goes nuclear! Players in the Ultra League can turn the ball into a fireball, a missile, a leaf, a meteor, and much, much more.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/2/3/51223_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/2/3/51223_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

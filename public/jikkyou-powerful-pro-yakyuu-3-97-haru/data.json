@@ -1,0 +1,47 @@
+{
+ "title": "Jikkyou Powerful Pro Yakyuu 3 - '97 Haru",
+ "aliases": [
+  "Jikkyou Powerful Pro Yakyuu 3 '97 Haru",
+  "Jikkyou Powerful Pro Yakyuu 3: '97 Haru"
+ ],
+ "year": 1997,
+ "release_dates": {
+  "japan": "Mar 20, 1997"
+ },
+ "developer": [
+  "Diamond Head"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "baseball",
+  "behind",
+  "intoscreen",
+  "sports"
+ ],
+ "description": "Baseball video game and the last of the Jikkyou Powerful Pro Yakyuu games to be released on Super Famicom. Less a full sequel, more a roster update for the 1997 season.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/6/1/307261_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/6/1/307261_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

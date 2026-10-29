@@ -1,0 +1,50 @@
+{
+ "title": "Matsumura Kunihiro Den - Saikyou no Rekishi o Nurikaero!",
+ "aliases": [
+  "Matsumura Kunihiro Den: Saikyou no Rekishi o Nurikaero!"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Aug 26, 1994"
+ },
+ "developer": [
+  "Office Koukan"
+ ],
+ "publisher": [
+  "Shouei System",
+  "Shouei"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "competitive",
+  "fighting",
+  "horizontal",
+  "scrolling",
+  "sideways"
+ ],
+ "description": "A parody fighting game featuring the digitized faces of various Japanese comedians. It was published on the Super Famicom by Shouei in 1994.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/6/8/306968_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/8/306968_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

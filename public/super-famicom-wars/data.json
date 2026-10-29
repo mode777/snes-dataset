@@ -1,0 +1,38 @@
+{
+ "title": "Super Famicom Wars",
+ "aliases": [],
+ "year": 1998,
+ "release_dates": {
+  "japan": "May 1, 1998"
+ },
+ "developer": [
+  "Intelligent Systems"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [],
+ "tags": [
+  "strategy",
+  "tactic",
+  "turnbased"
+ ],
+ "description": "A Nintendo Wars (a.k.a. Advance Wars) game for the Broadcast Satellaview that was later added to the Nintendo Power service and Virtual Console.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

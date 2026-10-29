@@ -1,0 +1,34 @@
+{
+ "title": "Chou Aniki: Bakuretsu Rantou Hen",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "NCS Corporation"
+ ],
+ "publisher": [
+  "Masaya"
+ ],
+ "genre": [],
+ "tags": [
+  "fighting",
+  "sideways"
+ ],
+ "description": "A very manly 2D fighter featuring characters from the Cho Aniki universe.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

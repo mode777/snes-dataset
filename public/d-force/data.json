@@ -1,0 +1,48 @@
+{
+ "title": "D-Force",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "first_release": "1991-12",
+  "usa": "December 1991"
+ },
+ "developer": [
+  "Cream",
+  "ISCO"
+ ],
+ "publisher": [
+  "Asmik"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "action",
+  "multidirectional",
+  "shootemup",
+  "topdown"
+ ],
+ "description": "D-Force, also known as Dimension Force, is an Asmik-published top-down vertical shoot 'em up for the SNES. Players control a helicopter-like ship that has the ability to alter its altitude to avoid or attack air and land targets.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 2.93,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/289f8e3b-bd7a-4309-aecc-b86ba5aeb9dd.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/5/50595_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

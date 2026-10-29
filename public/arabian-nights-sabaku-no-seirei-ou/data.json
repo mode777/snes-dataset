@@ -1,0 +1,47 @@
+{
+ "title": "Arabian Nights - Sabaku no Seirei Ou",
+ "aliases": [
+  "Arabian Nights: Sabaku no Seirei Ou"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Jun 14, 1996"
+ },
+ "developer": [
+  "Pandora Box"
+ ],
+ "publisher": [
+  "Takara"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "An Arabian themed Japanese console RPG developed by Pandora Box for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/4/7/42747_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/7/42747_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

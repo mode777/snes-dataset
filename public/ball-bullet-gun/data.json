@@ -1,0 +1,33 @@
+{
+ "title": "Ball Bullet Gun",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "Betop"
+ ],
+ "publisher": [
+  "I'Max Corp."
+ ],
+ "genre": [],
+ "tags": [
+  "?"
+ ],
+ "description": "A turn-based tactics game based on paintball simulation battles.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

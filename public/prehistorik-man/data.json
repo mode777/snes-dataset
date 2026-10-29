@@ -1,0 +1,53 @@
+{
+ "title": "Prehistorik Man",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1996-01",
+  "europe": "January 1996",
+  "usa": "January 1996"
+ },
+ "developer": [
+  "Titus",
+  "Titus Software"
+ ],
+ "publisher": [
+  "Titus"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "basher",
+  "collector",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A 2D platformer where Sam the Caveman must get back his tribe's food supply. The third game in the Prehistorik series from Titus Interactive.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French, Japanese"
+ ],
+ "gf_score": 3.36,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/8ce915f4-0386-4991-9a7a-e6fae14da790.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/8/14758_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/8/14758_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/7/14757_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

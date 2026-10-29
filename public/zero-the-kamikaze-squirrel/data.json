@@ -1,0 +1,53 @@
+{
+ "title": "Zero the Kamikaze Squirrel",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 1, 1994",
+  "pal": "March 30, 1995",
+  "first_release": "1994-11",
+  "europe": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Iguana",
+  "Iguana Entertainment"
+ ],
+ "publisher": [
+  "Sunsoft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Spun-off from Aero the Acro-Bat, itself a rip-off of Sonic the Hedgehog, Zero the Kamikaze Squirrel plays hero in his own adventure to save the trees and rescue his gal, Amy.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.52,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/3b488cc2-f430-4eb5-8e49-a33eb22c51cc.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/4/7/48447_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/4/6/48446_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

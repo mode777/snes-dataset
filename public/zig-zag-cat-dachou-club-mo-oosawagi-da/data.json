@@ -1,0 +1,38 @@
+{
+ "title": "Zig Zag Cat - Dachou Club mo Oosawagi da",
+ "aliases": [
+  "Zig Zag Cat: Dachou Club mo Oosawagi da"
+ ],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Opera House"
+ ],
+ "publisher": [
+  "Den'Z"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "shootemup",
+  "shooter",
+  "topdown"
+ ],
+ "description": "Puzzle action game that resembles a vertically-scrolling version of BreakOut/Arkanoid. It was published by Den'Z in 1994.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

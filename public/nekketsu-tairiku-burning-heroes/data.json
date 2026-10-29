@@ -1,0 +1,46 @@
+{
+ "title": "Nekketsu Tairiku Burning Heroes",
+ "aliases": [
+  "Nekketsu Tairiku Burning Heroes [ja]"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "March 17, 1995"
+ },
+ "developer": [
+  "J-Force"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A scenario-based RPG developed by J-Force and published by Enix that tells a story from the vantage point of eight different playable heroes.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/9/5/309495_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/5/309495_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

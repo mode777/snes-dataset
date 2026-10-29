@@ -1,0 +1,35 @@
+{
+ "title": "NHL 94",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {},
+ "developer": [
+  "Electronic Arts"
+ ],
+ "publisher": [
+  "Electronic Arts"
+ ],
+ "genre": [],
+ "tags": [
+  "angle",
+  "icehockey",
+  "sports",
+  "vertical"
+ ],
+ "description": "The 1994 entry in EA's ice hockey series. It is widely considered the best of the NHL series and one of the best hockey games ever made.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

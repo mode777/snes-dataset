@@ -1,0 +1,51 @@
+{
+ "title": "Captain Tsubasa V: Hasha no Shougou Campione",
+ "aliases": [
+  "Captain Tsubasa V: Hasha no Shōgō Campione"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "December 9, 1994"
+ },
+ "developer": [
+  "Tecmo"
+ ],
+ "publisher": [
+  "Tecmo"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "anime",
+  "football",
+  "manga",
+  "soccer",
+  "sports",
+  "strategy"
+ ],
+ "description": "The fifth and final installment of the Captain Tsubasa \"strategic soccer\" video game series developed and published by Tecmo.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/0/9/37809_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/0/9/37809_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

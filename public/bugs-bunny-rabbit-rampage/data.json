@@ -1,0 +1,54 @@
+{
+ "title": "Bugs Bunny: Rabbit Rampage",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-02",
+  "usa": "February 1994",
+  "europe": "February 1994"
+ },
+ "developer": [
+  "Viacom New Media"
+ ],
+ "publisher": [
+  "Sun Corporation of America"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "cartoon",
+  "horizontal",
+  "humor",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Play as Bugs Bunny in this zany battle across a mad world at the mercy of an antagonistic animator in order to confront Daffy Duck and save the day!",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.1,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d3eef9cf-6d01-4a28-9dd2-5007a378d875.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/9/50559_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/9/50559_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/0/50560_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/0/50560_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

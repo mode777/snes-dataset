@@ -1,0 +1,46 @@
+{
+ "title": "Koutetsu no Kishi",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "Feb 19, 1993"
+ },
+ "developer": [
+  "Dual"
+ ],
+ "publisher": [
+  "Asmik",
+  "Asmik Ace Entertainment, Inc"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "historical",
+  "strategy",
+  "topdown",
+  "turnbased",
+  "ww2"
+ ],
+ "description": "WW2 strategy game released for the NEC PC-9801 and Super Famicom. It follows the perspective of the Axis forces, rather than the Allies.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/0/8/296408_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

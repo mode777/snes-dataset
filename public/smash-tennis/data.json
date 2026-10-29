@@ -1,0 +1,45 @@
+{
+ "title": "Smash Tennis",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "europe": "1994"
+ },
+ "developer": [
+  "Namco"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Tennis"
+ ],
+ "tags": [
+  "angle",
+  "behind",
+  "sports",
+  "tennis"
+ ],
+ "description": "Super Family Tennis is a tennis game that was created by Namcot for the Super Nintendo in 1993. It was released in Europe as Smash Tennis by Virgin Interactive.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/1/2/31712_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/2/31712_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

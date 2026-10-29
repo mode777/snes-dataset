@@ -1,0 +1,29 @@
+{
+ "title": "Super Chinese World",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "April 1993"
+ },
+ "developer": [
+  "Culture Brain"
+ ],
+ "publisher": [],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [],
+ "description": "Super Ninja Boy is a Role-Playing game, developed and published by Culture Brain,which was released in Japan in 1991.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/4/1/51341_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "title": "Waterworld",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "Cancelled",
+  "pal": "1995",
+  "europe": "1995"
+ },
+ "developer": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "publisher": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "movie",
+  "naval",
+  "platform",
+  "postapocalyptic",
+  "shooter",
+  "sideways",
+  "topdown"
+ ],
+ "description": "An action-adventure game loosely based off the blockbuster film of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/5/3/8853_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

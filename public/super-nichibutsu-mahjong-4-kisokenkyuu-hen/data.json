@@ -1,0 +1,44 @@
+{
+ "title": "Super Nichibutsu Mahjong 4 - Kisokenkyuu Hen",
+ "aliases": [
+  "Super Nichibutsu Mahjong 4: Kisokenkyuu Hen"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Sep 27, 1996"
+ },
+ "developer": [
+  "Nihon Bussan",
+  "Nichibutsu"
+ ],
+ "publisher": [
+  "Nihon Bussan"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "The fourth and final game in Nichibutsu(Nihon Bussan)'s series of mahjong sims for the Super Famicom. This one has an education/school theme.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/4/2/307242_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

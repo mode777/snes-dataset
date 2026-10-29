@@ -1,0 +1,48 @@
+{
+ "title": "Super Bombliss",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Mar 17, 1995"
+ },
+ "developer": [
+  "Ape",
+  "Tose"
+ ],
+ "publisher": [
+  "Bullet Proof Software",
+  "Bullet-Proof Software"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "puzzle",
+  "realtime",
+  "singlescreen",
+  "tilearrange",
+  "topdown"
+ ],
+ "description": "A version of Bombliss that lacks a Tetris mode that was released by Bullet Proof Software in Japan only.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/5/7/307057_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

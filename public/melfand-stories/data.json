@@ -1,0 +1,47 @@
+{
+ "title": "Melfand Stories",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Mar 25, 1994"
+ },
+ "developer": [
+  "Sting Entertainment",
+  "Sting"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "basher",
+  "horizontal",
+  "jumper",
+  "sideways"
+ ],
+ "description": "A side-scrolling brawler title developed by Sting in 1994 for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/1/7/306917_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/7/306917_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

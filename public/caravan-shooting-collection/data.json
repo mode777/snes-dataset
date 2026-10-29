@@ -1,0 +1,48 @@
+{
+ "title": "Caravan Shooting Collection",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jul7, 1995"
+ },
+ "developer": [
+  "Hudson Soft",
+  "Hudson"
+ ],
+ "publisher": [
+  "Tecmo",
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "shootemup",
+  "shooter",
+  "topdown",
+  "vertical"
+ ],
+ "description": "A compilation of shoot 'em ups from Hudson Soft. The games included were featured in the Hudson All-Japan Caravan Festival, a regular shoot 'em up tournament held in Japan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/6/0/31860_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/6/0/31860_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

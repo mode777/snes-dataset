@@ -1,0 +1,46 @@
+{
+ "title": "Space Football - One on One",
+ "aliases": [
+  "Space Football: One on One"
+ ],
+ "year": 1992,
+ "release_dates": {
+  "usa": "June 1992"
+ },
+ "developer": [
+  "Argonaut Software / B.I.T.S.",
+  "Argonaut Games"
+ ],
+ "publisher": [
+  "Triffix Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "General"
+ ],
+ "tags": [
+  "firstperson",
+  "football",
+  "multidirectional",
+  "sports"
+ ],
+ "description": "A Super Nintendo first-person futuristic sport simulator in which the player has to maneuver a floating ball into the scoring zone while preventing their opponent from doing the same.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/6/5/51165_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

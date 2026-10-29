@@ -1,0 +1,45 @@
+{
+ "title": "True Golf Classics: Waialae Country Club",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "usa": "November 1991"
+ },
+ "developer": [
+  "T&E Soft"
+ ],
+ "publisher": [
+  "T&E Soft"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Golf",
+  "Sim"
+ ],
+ "tags": [
+  "behind",
+  "golf",
+  "intoscreen",
+  "sports"
+ ],
+ "description": "The fourth in T&E Soft's '90s golf simulation games for Japanese computers (and the first released outside of Japan for the SNES), taking place at the prestigious Hawaiian country club of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/7/1/51471_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

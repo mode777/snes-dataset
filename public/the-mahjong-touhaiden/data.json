@@ -1,0 +1,46 @@
+{
+ "title": "The Mahjong Touhaiden",
+ "aliases": [
+  "Mahjong Touhaiden, The"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Apr 16, 1993"
+ },
+ "developer": [
+  "Khaos",
+  "Khaos / Micronics"
+ ],
+ "publisher": [
+  "Video System"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A mahjong game released in 1993 for the Super Famicom, developed by Khaos and published by Video System.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/4/5/306845_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/5/306845_back.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "openvgdb",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

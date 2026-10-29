@@ -1,0 +1,45 @@
+{
+ "title": "Dragon Knight 4",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Dec 27, 1996"
+ },
+ "developer": [
+  "Elf",
+  "ELF Corporation"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "Dragon Knight 4 is a role-playing game developed by ELF and released in Japan on several platforms between 1994 and 1997.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/6/8/31968_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/8/31968_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

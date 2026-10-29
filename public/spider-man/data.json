@@ -1,0 +1,54 @@
+{
+ "title": "Spider-Man",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "February 1995",
+  "pal": "March 1995",
+  "first_release": "1995-02",
+  "europe": "February 1995",
+  "usa": "February 1995"
+ },
+ "developer": [
+  "Western Technologies",
+  "Western Technologies, Inc."
+ ],
+ "publisher": [
+  "LJN"
+ ],
+ "genre": [
+  "Action Adventure",
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "comic",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "A side-scrolling action game based on the critically acclaimed '90s cartoon, Spider-Man: The Animated Series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.86,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/e5d085d2-a6e7-4f2b-9dd6-cbbdf685832f.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/3/42553_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

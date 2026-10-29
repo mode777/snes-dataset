@@ -1,0 +1,53 @@
+{
+ "title": "International Tennis Tour",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "November 1993",
+  "north_america": "November 1, 1993",
+  "pal": "1993",
+  "usa": "November 1993",
+  "europe": "November 1993"
+ },
+ "developer": [
+  "Loriciel",
+  "Loriciels"
+ ],
+ "publisher": [
+  "Taito"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Tennis"
+ ],
+ "tags": [
+  "behind",
+  "sports",
+  "tennis"
+ ],
+ "description": "A tennis game created by French developer Loriciels for the Super Famicom/SNES in 1993.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/0/0/31700_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/9/9/31699_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/9/9/31699_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/1/31701_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/1/31701_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

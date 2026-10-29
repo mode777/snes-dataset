@@ -1,0 +1,31 @@
+{
+ "title": "Teitoku no Ketsudan",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "September 1993"
+ },
+ "developer": [
+  "Koei"
+ ],
+ "publisher": [],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Historic"
+ ],
+ "tags": [],
+ "description": "P.T.O.: Pacific Theater of Operations is a Strategy game, developed and published by Koei,which was released in Japan in 1992.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/6/6/47866_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/6/6/47866_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

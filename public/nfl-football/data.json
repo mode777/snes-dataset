@@ -1,0 +1,53 @@
+{
+ "title": "NFL Football",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "July 1993",
+  "north_america": "July 1993",
+  "pal": "1993",
+  "europe": "July 1993",
+  "usa": "July 1993"
+ },
+ "developer": [
+  "Park Place Productions"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [
+  "americanfootball",
+  "angle",
+  "multidirectional",
+  "sports"
+ ],
+ "description": "An NFL football game for the Super Nintendo and Nintendo Game Boy developed by Konami. It is one of the earlier NFL games to use a dynamic camera that turns around to follows whichever side is playing offense.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/2/1/21121_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/3/21123_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/3/21123_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/2/21122_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

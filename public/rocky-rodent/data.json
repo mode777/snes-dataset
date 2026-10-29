@@ -1,0 +1,45 @@
+{
+ "title": "Rocky Rodent",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "September 1993",
+  "europe": "September 1993"
+ },
+ "developer": [
+  "Irem"
+ ],
+ "publisher": [
+  "Irem"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "Like a combination of Sonic the Hedgehog and the Tazmanian Devil, Rocky Rodent is another drop in the \"Mascots with Attitude\" bucket.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/8/0/51080_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

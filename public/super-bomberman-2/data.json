@@ -1,0 +1,63 @@
+{
+ "title": "Super Bomberman 2",
+ "aliases": [
+  "Super Bomber Man 2"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "September 1994",
+  "north_america": "September 1994",
+  "pal": "February 23, 1995",
+  "first_release": "1994-09",
+  "usa": "September 1994",
+  "europe": "September 1994"
+ },
+ "developer": [
+  "Hudson Soft",
+  "Produce"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Puzzle",
+  "Miscellaneous",
+  "Action"
+ ],
+ "tags": [
+  "bomberman",
+  "competitive",
+  "cute",
+  "horizontal",
+  "levelcodes",
+  "scrolling",
+  "topdown"
+ ],
+ "description": "Super Bomberman 2 is the second of five SNES Bomberman games from Hudson Soft.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.79,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/9f232603-136a-4487-9085-7913e83c94e8.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/4/8/51248_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/4/8/51248_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/4/9/51249_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/4/9/51249_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/4/7/51247_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/4/7/51247_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

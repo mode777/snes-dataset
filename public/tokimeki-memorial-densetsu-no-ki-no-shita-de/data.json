@@ -1,0 +1,48 @@
+{
+ "title": "Tokimeki Memorial - Densetsu no Ki no Shita de",
+ "aliases": [
+  "Tokimeki Memorial: Densetsu no Ki no Shita de"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Feb9, 1996"
+ },
+ "developer": [
+  "Konami",
+  "KCEO"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Virtual Life"
+ ],
+ "tags": [
+  "adventure",
+  "dating",
+  "firstperson",
+  "visualnovel"
+ ],
+ "description": "Tokimeki Memorial is the first in the long-running series of dating sims by Konami which started life on the PC Engine. Released in 1994, it boosted the popularity of the dating sim genre in Japan immensely.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/8/8/36688_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/8/8/36688_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

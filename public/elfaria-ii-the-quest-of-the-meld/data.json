@@ -1,0 +1,37 @@
+{
+ "title": "Elfaria II: The Quest of the Meld",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "RED"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "JRPG sequel that once again features the artwork of manga artist Susumu Matsushita.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

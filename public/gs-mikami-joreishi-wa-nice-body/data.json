@@ -1,0 +1,53 @@
+{
+ "title": "GS Mikami - Joreishi wa Nice Body",
+ "aliases": [
+  "GS Mikami: Joreishi wa Nice Body"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-09-23",
+  "japan": "Sep 23, 1993"
+ },
+ "developer": [
+  "Natsume"
+ ],
+ "publisher": [
+  "Banalex"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "anime",
+  "femaleprotagonist",
+  "fighter",
+  "horizontal",
+  "manga",
+  "mystical",
+  "sideways"
+ ],
+ "description": "An action platformer developed by Natsume and published by Banalex featuring characters from the popular early 90s manga and anime series, Ghost Sweeper Mikami.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.64,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/756760f0-05c2-4596-b0fa-a826bf597ff1.png",
+  "https://gamefaqs.gamespot.com/a/box/7/2/8/31728_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/8/31728_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

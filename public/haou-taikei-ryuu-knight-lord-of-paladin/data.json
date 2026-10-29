@@ -1,0 +1,39 @@
+{
+ "title": "Haou Taikei Ryuu Knight - Lord of Paladin",
+ "aliases": [
+  "Haou Taikei Ryuu Knight: Lord of Paladin"
+ ],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Japan Art Media"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "adventure",
+  "fantasy",
+  "rpg",
+  "topdown"
+ ],
+ "description": "An action RPG that depicts the story of Adeu: a young boy training to be a paladin. He goes out on a quest to recover a legendary and mysterious weapon, the Earth's Blade, which has been shattered into 12 pieces.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

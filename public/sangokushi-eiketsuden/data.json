@@ -1,0 +1,44 @@
+{
+ "title": "Sangokushi Eiketsuden",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec 28, 1995"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "General"
+ ],
+ "tags": [
+  "strategy",
+  "tactic",
+  "turnbased"
+ ],
+ "description": "A spin-off title from the Sangokushi (Romance of the Three Kingdoms) series where the main focus is Liu Bei.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/7/7/307177_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/7/307177_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

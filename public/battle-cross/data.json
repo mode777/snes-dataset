@@ -1,0 +1,46 @@
+{
+ "title": "Battle Cross",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec9, 1994"
+ },
+ "developer": [
+  "Imagineer",
+  "A-Max"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [
+  "angle",
+  "racing",
+  "singlescreen"
+ ],
+ "description": "Japan-exclusive action racing video game developed by A-Max and published by Imagineer in 1994, for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/1/3/307013_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/1/3/307013_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

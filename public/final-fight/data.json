@@ -1,0 +1,57 @@
+{
+ "title": "Final Fight",
+ "aliases": [
+  "Final Fight †"
+ ],
+ "year": 1990,
+ "release_dates": {
+  "japan": "September 1991",
+  "north_america": "November 10, 1991",
+  "pal": "December 10, 1992",
+  "first_release": "1991-09",
+  "usa": "September 1991",
+  "europe": "September 1991"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "arcade",
+  "beatemup",
+  "horizontal",
+  "progressive",
+  "sideways"
+ ],
+ "description": "Final Fight is a classic beat-em-up game developed by Capcom featuring a memorable cast of characters, including Guy, Cody, and the first and only mustachioed ex-pro-wrestler turned mayor, Mike Haggar. Released for the CPS arcade system in 1989 and then ported to the SNES and other home systems.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.42,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/7/6/9/20769_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/9/20769_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/9/20769_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/8/20768_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/8/20768_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

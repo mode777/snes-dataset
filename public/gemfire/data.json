@@ -1,0 +1,48 @@
+{
+ "title": "Gemfire",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1992-12",
+  "usa": "December 1992"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Fantasy"
+ ],
+ "tags": [
+  "fantasy",
+  "strategy",
+  "tactics",
+  "turnbased"
+ ],
+ "description": "Koei made an incursion into the fantasy worlds of magic with this game.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.71,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/1bcf77c1-05aa-4e45-95e6-c148ac718214.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/7/1/47471_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/7/1/47471_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

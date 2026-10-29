@@ -1,0 +1,50 @@
+{
+ "title": "Pocky & Rocky",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-06",
+  "usa": "June 1993",
+  "europe": "June 1993"
+ },
+ "developer": [
+  "Natsume"
+ ],
+ "publisher": [
+  "Natsume"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "action",
+  "angle",
+  "shooter",
+  "vertical"
+ ],
+ "description": "Pocky and Rocky is an arcade style top-down style shooting game starring a girl and a raccoon.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.79,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/340f05f7-591f-49cc-8fdd-5c8cf953c3bc.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/2/51032_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/2/51032_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/1/51031_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

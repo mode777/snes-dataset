@@ -1,0 +1,45 @@
+{
+ "title": "Metal Marines",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "europe": "December 1993",
+  "usa": "December 1993"
+ },
+ "developer": [
+  "Namco"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "isometric",
+  "scifi",
+  "simulation",
+  "strategy",
+  "tactic"
+ ],
+ "description": "A turn-based strategy war game where the player must manage troops and resources effectively to crush the AI opponent's war machine.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/2/1/27421_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

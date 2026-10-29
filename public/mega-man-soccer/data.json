@@ -1,0 +1,51 @@
+{
+ "title": "Mega Man Soccer",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-04",
+  "usa": "April 1994"
+ },
+ "developer": [
+  "Nova",
+  "Sun L"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Arcade"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "futuristic",
+  "soccer",
+  "sports"
+ ],
+ "description": "Dr. Wily, angered at being foiled once again decides to send his robots to the soccer field. Dr. Light immediately responds by forming a soccer team of Mega Mans to counter Dr. Wily's latest scheme.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.1,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/6466d83f-f6a7-4156-bf60-6fed2b6bc290.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/1/50921_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/1/50921_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

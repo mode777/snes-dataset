@@ -1,0 +1,60 @@
+{
+ "title": "Tiny Toon Adventures: Buster Busts Loose",
+ "aliases": [
+  "Tiny Toon Adventures: Buster Busts Loose! †",
+  "Tiny Toon Adventures: Buster Busts Loose!"
+ ],
+ "year": 1992,
+ "release_dates": {
+  "japan": "December 18, 1992",
+  "north_america": "February 16, 1993",
+  "pal": "June 24, 1993",
+  "first_release": "1993-08",
+  "usa": "February 1993",
+  "europe": "February 1993",
+  "spain": "February 1993"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "cartoon",
+  "horizontal",
+  "platfrom",
+  "sideways"
+ ],
+ "description": "Take the role of Buster Bunny from the animated series \"Tiny Toons\" in this crazy SNES action-platformer.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Spanish, Japanese"
+ ],
+ "gf_score": 3.56,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/5abcf6eb-b9e3-47ad-ab40-95ccfe6d05ec.png",
+  "https://gamefaqs.gamespot.com/a/box/1/8/4/58184_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/4/58184_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/5/58185_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/5/58185_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

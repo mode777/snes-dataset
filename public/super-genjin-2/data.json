@@ -1,0 +1,45 @@
+{
+ "title": "Super Genjin 2",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jul 28, 1995"
+ },
+ "developer": [
+  "Hudson Soft",
+  "RED Entertainment"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Platformer"
+ ],
+ "tags": [
+  "basher",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Chou Genjin 2 (Super Bonk 2) is the Japanese only sequel to the original SNES game featuring Bonk.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/8/3/43383_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/3/43383_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

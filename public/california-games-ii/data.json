@@ -1,0 +1,47 @@
+{
+ "title": "California Games II",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "January 1993",
+  "usa": "January 1993",
+  "europe": "January 1993"
+ },
+ "developer": [
+  "Epyx",
+  "Silicon Sorcery"
+ ],
+ "publisher": [
+  "DTMC"
+ ],
+ "genre": [
+  "Sports",
+  "General"
+ ],
+ "tags": [
+  "multievent",
+  "sports"
+ ],
+ "description": "The sequel to the acclaimed California Games adds several new sports, including hang gliding, jet skiing, and snowboarding.",
+ "description_source": "snes_csv",
+ "players": "1 -  8 (1 simultaneous)",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/6/6/50566_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/6/50566_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/7/50567_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/7/50567_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

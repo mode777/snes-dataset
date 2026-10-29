@@ -1,0 +1,56 @@
+{
+ "title": "Side Pocket",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "December 1993",
+  "north_america": "December 1993",
+  "pal": "1994",
+  "usa": "December 1993",
+  "europe": "December 1993"
+ },
+ "developer": [
+  "Data East",
+  "Iguana Entertainment"
+ ],
+ "publisher": [
+  "Data East"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Billiards"
+ ],
+ "tags": [
+  "arcade",
+  "pool",
+  "simulation",
+  "snooker",
+  "sports",
+  "topdown"
+ ],
+ "description": "Multi-platform pocket billiards (pool) simulator video game.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/5/2/44652_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/1/44651_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/1/44651_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/3/44653_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/3/44653_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

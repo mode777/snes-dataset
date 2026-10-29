@@ -1,0 +1,30 @@
+{
+ "title": "Romancing Sa-Ga 2",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Dec 10, 1993"
+ },
+ "developer": [
+  "SquareSoft"
+ ],
+ "publisher": [],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [],
+ "description": "Romancing Sa-Ga 2 is a Role-Playing game, developed and published by SquareSoft,which was released in Japan in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/9/6/51096_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/9/6/51096_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

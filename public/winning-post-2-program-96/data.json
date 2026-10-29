@@ -1,0 +1,43 @@
+{
+ "title": "Winning Post 2 - Program '96",
+ "aliases": [
+  "Winning Post 2: Program '96"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Oct4, 1996"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Horse Racing"
+ ],
+ "tags": [
+  "gambling",
+  "horseracing",
+  "management"
+ ],
+ "description": "An enhanced remake of the second game in Koei's horse racing simulation series Winning Post. It was released in Japan under the title Winning Post 2: Program '96, and was the first to be released outside of Japan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/6/0/31960_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/0/31960_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

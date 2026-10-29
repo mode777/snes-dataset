@@ -1,0 +1,44 @@
+{
+ "title": "Mario's Early Years: Fun With Letters",
+ "aliases": [
+  "Mario's Early Years! Fun with Letters"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "September 1994",
+  "usa": "October 1994"
+ },
+ "developer": [
+  "Software Toolworks",
+  "The Software Toolworks"
+ ],
+ "publisher": [
+  "Nintendo",
+  "The Software Toolworks"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [
+  "educational",
+  "reading",
+  "writing"
+ ],
+ "description": "An educational game about letters and words featuring Mario, Luigi, Peach and Yoshi.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/0/1/50901_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

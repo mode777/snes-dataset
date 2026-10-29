@@ -1,0 +1,46 @@
+{
+ "title": "Hi no Ouji - Yamato Takeru",
+ "aliases": [
+  "Hi no Ouji: Yamato Takeru"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep 29, 1995"
+ },
+ "developer": [
+  "Multimedia Intelligence Transfer"
+ ],
+ "publisher": [
+  "Toho Company"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "An RPG loosely based on the exploits of Prince Ousu, the titular Yamato Takeru (\"The Brave of Yamato\").",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/3/7/307137_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/7/307137_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

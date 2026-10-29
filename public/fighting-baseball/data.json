@@ -1,0 +1,31 @@
+{
+ "title": "Fighting Baseball",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "March 1994"
+ },
+ "developer": [
+  "Visual Concepts"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [],
+ "description": "Never before has a baseball game been created that captures the details of the sport like MLBPA Baseball. Realistic run-downs, accurate cut-off plays, the double switch, multiple defensive alignments, snap throws, even bad hops and booted balls. Throw in every player from Alamar to Zeile and you've got the only baseball game worth playing for the Super NES.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/4/2/48542_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

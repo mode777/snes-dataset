@@ -1,0 +1,42 @@
+{
+ "title": "Emit Vol. 1: Toki no Maigo",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 25, 1995"
+ },
+ "developer": [
+  "Koei"
+ ],
+ "publisher": [
+  "Koei"
+ ],
+ "genre": [
+  "Adventure",
+  "General"
+ ],
+ "tags": [
+  "adventure",
+  "fisrtperson",
+  "visualnovel"
+ ],
+ "description": "The first part in a series of adventure games developed under Koei's \"English Dream\" label, a collection of games used to help teach the English language.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/8/5/311385_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

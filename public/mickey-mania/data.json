@@ -1,0 +1,48 @@
+{
+ "title": "Mickey Mania",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "europe": "October 1994"
+ },
+ "developer": [
+  "Travellers Tales",
+  "Traveller's Tales"
+ ],
+ "publisher": [
+  "Sony Imagesoft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cartoon",
+  "disney",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A side-scrolling platformer featuring Disney mascot Mickey Mouse that is inspired by his long history in animated films.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/3/9/22339_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/3/9/22339_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

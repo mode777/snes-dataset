@@ -1,0 +1,45 @@
+{
+ "title": "Koushien 3",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jul 29, 1994"
+ },
+ "developer": [
+  "Magical Company",
+  "Magical Company (Mahou)"
+ ],
+ "publisher": [
+  "Magical Company"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "baseball",
+  "sports"
+ ],
+ "description": "Baseball sim developed by Magical Company in 1994 based on Japanese high school baseball. It is the second Koushien game for the Super Famicom and the third overall.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/5/0/306950_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

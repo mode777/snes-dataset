@@ -1,0 +1,36 @@
+{
+ "title": "Nomark Baku Haitou - Shijou Saikyou no Janshi-tachi",
+ "aliases": [
+  "Nomark Baku Haitou: Shijou Saikyou no Janshi-tachi"
+ ],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "?"
+ ],
+ "publisher": [
+  "Angel"
+ ],
+ "genre": [],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "Super Famicom mahjong game based on a manga about an underground mahjong club.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

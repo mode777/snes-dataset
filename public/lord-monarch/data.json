@@ -1,0 +1,46 @@
+{
+ "title": "Lord Monarch",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Oct9, 1992"
+ },
+ "developer": [
+  "Nihon Falcom",
+  "AIM"
+ ],
+ "publisher": [
+  "Epoch",
+  "Epoch Co."
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "strategy",
+  "tactic",
+  "topdown"
+ ],
+ "description": "A fantasy RTS game developed by Nihon Falcom that was originally released for the NEC PC-9801 in 1991 and later ported to the FM Towns and Super Famicom, followed by many other enhanced versions.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/0/3/306803_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/0/3/306803_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

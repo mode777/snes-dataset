@@ -1,0 +1,33 @@
+{
+ "title": "Kyouraku Sanyou Toyomaru Parlor! Parlor! 2",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "Telenet Japan"
+ ],
+ "publisher": [
+  "Telenet Japan"
+ ],
+ "genre": [],
+ "tags": [
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "The second of five Japan-only pachinko gambling games released for the Super Famicom, Parlor 2 was released in 1995.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

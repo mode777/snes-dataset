@@ -1,0 +1,46 @@
+{
+ "title": "Riddick Bowe Boxing",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "January 1994",
+  "japan": "January 1994"
+ },
+ "developer": [
+  "Malibu Interactive",
+  "Malibu"
+ ],
+ "publisher": [
+  "Extreme Entertainment Group"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Boxing"
+ ],
+ "tags": [
+  "boxing",
+  "sideways",
+  "sports"
+ ],
+ "description": "The official boxing game of Heavyweight Boxing Champion, Riddick \"Big Daddy\" Bowe. One of the many popular boxers of the 1990s.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Spanish"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/5/2/46652_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/0/46650_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

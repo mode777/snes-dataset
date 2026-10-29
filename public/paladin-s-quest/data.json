@@ -1,0 +1,44 @@
+{
+ "title": "Paladin's Quest",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-10",
+  "usa": "October 1993"
+ },
+ "developer": [
+  "Copya System",
+  "Copya Systems"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "Paladin's Quest is a role-playing game for the SNES. Chezni, a boy attending magic school, activates an ancient machine on a dare and unknowingly releases a powerful evil being. His task is to defeat it before it can destroy the world.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.37,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/1b2b5a47-2318-4795-9f7b-9c11d8f78d48.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/9/9/50999_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/9/9/50999_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

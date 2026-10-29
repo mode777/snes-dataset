@@ -1,0 +1,31 @@
+{
+ "title": "Super H.Q.: Criminal Chaser",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "December 1993"
+ },
+ "developer": [
+  "Taito Corporation"
+ ],
+ "publisher": [],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [],
+ "description": "Super Chase H.Q. is a Driving game, developed and published by Taito Corporation,which was released in Japan in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/7/3/50573_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/3/50573_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

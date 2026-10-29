@@ -1,0 +1,46 @@
+{
+ "title": "Aerobiz",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-02",
+  "usa": "February 1993"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "General"
+ ],
+ "tags": [
+  "airline",
+  "manager",
+  "simulation"
+ ],
+ "description": "Business simulation game from Koei released for the SNES and Genesis. Known in Japan as \"Air Management: Oozora ni Kakeru\"",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.61,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/5f631494-d6af-4c49-b754-666ac869d5c6.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/4/9/22449_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/4/9/22449_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

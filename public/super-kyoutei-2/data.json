@@ -1,0 +1,50 @@
+{
+ "title": "Super Kyoutei 2",
+ "aliases": [
+  "Super Kyotei 2"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "April 26, 1996"
+ },
+ "developer": [
+  "Nihon Bussan",
+  "Nichibutsu"
+ ],
+ "publisher": [
+  "Nihon Bussan",
+  "Nichibutsu"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [
+  "gambling",
+  "motorboat",
+  "racing",
+  "simulation"
+ ],
+ "description": "A motorboat racing game sequel from Nihon Bussan. Learn the sport and win big with some clever bets.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/1/4/307214_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/1/4/307214_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

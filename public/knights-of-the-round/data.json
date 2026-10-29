@@ -1,0 +1,56 @@
+{
+ "title": "Knights of the Round",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "April 1994",
+  "north_america": "April 1994",
+  "first_release": "1994-04",
+  "europe": "April 1994",
+  "usa": "April 1994"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "beatemup",
+  "brawler",
+  "fighter",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "Play as Arthur, Lancelot, or Percival in this strangely-named medieval side scrolling brawler from Capcom.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.66,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/a7659bf8-4f51-4ee0-87e7-8dfe222528c2.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/3/40133_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/3/40133_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/2/40132_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/2/40132_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/1/40131_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/1/40131_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

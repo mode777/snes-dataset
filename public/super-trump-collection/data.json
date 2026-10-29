@@ -1,0 +1,44 @@
+{
+ "title": "Super Trump Collection",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Apr 21, 1995"
+ },
+ "developer": [
+  "?",
+  "Bottom Up"
+ ],
+ "publisher": [
+  "Bottom Up"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "cards",
+  "gambling"
+ ],
+ "description": "A compilation of seven card games for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/7/7/307077_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

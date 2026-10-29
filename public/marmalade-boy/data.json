@@ -1,0 +1,45 @@
+{
+ "title": "Marmalade Boy",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Apr 21, 1995"
+ },
+ "developer": [
+  "Kuusou Kagaku"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "adventure",
+  "dating",
+  "firstperson",
+  "visualnovel"
+ ],
+ "description": "Dating game developed by Kuusou Kagaku in 1995.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/6/5/303765_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/5/303765_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

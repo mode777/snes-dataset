@@ -1,0 +1,52 @@
+{
+ "title": "Jikkyou Oshaberi Parodius",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec 15, 1995",
+  "first_release": "1995-12-15"
+ },
+ "developer": [
+  "Konami",
+  "KCEO"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "horizontal",
+  "humour",
+  "powerup",
+  "shootemup",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Jikkyou Oshaberi Parodius is the fourth game in Konami's Parodius series. The game was first released for the Super Famicom in 1995 and ported with enhanced graphics to the Sega Saturn and Sony Playstation in 1996.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.72,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/0988e776-faeb-4595-97bc-4fb952ca4b97.png",
+  "https://gamefaqs.gamespot.com/a/box/3/4/9/20349_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/4/9/20349_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

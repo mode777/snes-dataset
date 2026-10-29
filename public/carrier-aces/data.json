@@ -1,0 +1,52 @@
+{
+ "title": "Carrier Aces",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "January 1995",
+  "north_america": "January 1, 1995",
+  "pal": "1995",
+  "usa": "January 1995",
+  "europe": "January 1995"
+ },
+ "developer": [
+  "Synergistic Software"
+ ],
+ "publisher": [
+  "Cybersoft"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "action",
+  "behind",
+  "historical",
+  "intoscreen",
+  "simulation",
+  "warplanes",
+  "ww2"
+ ],
+ "description": "Carrier Aces is a WW2 combat flight simulation game for the SNES.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/7/0/50570_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/1/50571_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

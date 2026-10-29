@@ -1,0 +1,50 @@
+{
+ "title": "Shin Megami Tensei",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Oct 30, 1992",
+  "first_release": "1992-10-30"
+ },
+ "developer": [
+  "ATLUS"
+ ],
+ "publisher": [
+  "ATLUS"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "adventure",
+  "dungeoncrawler",
+  "fantasy",
+  "firstperson",
+  "magic",
+  "rpg"
+ ],
+ "description": "The inaugural entry in the Shin Megami Tensei series and successor to Megami Tensei I and II on the Famicom. It follows a young man who must prove himself a hero after the opening of a demonic gate in Tokyo and the city's subsequent nuclear destruction.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.75,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/f12d56cf-f5f8-45a2-8959-90eeec1a9ab7.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/1/22891_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/1/22891_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

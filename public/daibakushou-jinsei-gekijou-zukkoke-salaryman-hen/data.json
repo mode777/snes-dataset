@@ -1,0 +1,40 @@
+{
+ "title": "Daibakushou Jinsei Gekijou: Zukkoke Salaryman Hen",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec 29, 1995"
+ },
+ "developer": [
+  "Act Japan"
+ ],
+ "publisher": [
+  "TAITO"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame"
+ ],
+ "description": "The fourth and final Super Famicom game in Taito's series of Game of Life board game adaptations. This one has players living the 9-5 lives of office drones.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/9/2/312492_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

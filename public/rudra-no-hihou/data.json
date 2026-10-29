@@ -1,0 +1,53 @@
+{
+ "title": "Rudra no Hihou",
+ "aliases": [
+  "Rudra no Hihō"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "first_release": "1996-04-05",
+  "japan": "April 5, 1996"
+ },
+ "developer": [
+  "Squaresoft",
+  "Square"
+ ],
+ "publisher": [
+  "Squaresoft",
+  "Square"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A late Squaresoft JRPG for the Super Famicom. Four disparate groups of adventurers attempt to prevent the extinction of the human race from a fated destroyer: the titular Rudra.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.06,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/13e67ae2-7568-45be-b611-4cb23a66ceed.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/2/7/24227_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/2/7/24227_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

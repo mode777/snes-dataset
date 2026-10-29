@@ -1,0 +1,61 @@
+{
+ "title": "Super Star Wars: Return of the Jedi",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "June 23, 1995",
+  "north_america": "October 1994",
+  "pal": "March 30, 1995",
+  "first_release": "1994-10-01",
+  "europe": "October 1994",
+  "usa": "October 1994"
+ },
+ "developer": [
+  "LucasArts / Sculptured Software",
+  "Sculptured Software"
+ ],
+ "publisher": [
+  "JVC",
+  "JVC Musical Industries"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "behind",
+  "horizontal",
+  "intoscreen",
+  "movie",
+  "platform",
+  "scifi",
+  "sideways"
+ ],
+ "description": "An arcade-action interpretation of the third film in the original Star Wars trilogy, as Jedi Knight Luke Skywalker and his crew must rescue Han Solo and help destroy a re-built Death Star.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.66,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/cf3a80d9-8207-48b0-ab1e-4fd821ec1728.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/6/20856_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/6/20856_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/5/20855_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/5/20855_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Big Sky Trooper",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "October 10, 1995",
+  "pal": "1995",
+  "usa": "October 1995",
+  "europe": "October 1995"
+ },
+ "developer": [
+  "LucasArts"
+ ],
+ "publisher": [
+  "JVC Musical Industries"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "futuristic",
+  "puzzle",
+  "shooter",
+  "topdown"
+ ],
+ "description": "Help defend humanity from the evil Space Slug forces in this 1995 adventure game for the SNES.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/1/9/45019_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/1/9/45019_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/2/0/45020_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/2/0/45020_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

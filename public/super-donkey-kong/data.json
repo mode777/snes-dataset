@@ -1,0 +1,31 @@
+{
+ "title": "Super Donkey Kong",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Nov 25, 1994"
+ },
+ "developer": [
+  "Rare Ltd."
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Donkey Kong is back with a new sidekick, Diddy Kong, in a crazy island adventure! Challenged by the crazed tribe of reptilian Kremlings, they endeavor to get back their stolen banana horde! Armed with lightning-quick moves, chest-pounding muscle and awesome aerial acrobatics, our duo is ready to face their cunning adversaries. With the help of Donkey Kong's quirky family and his wild animal mounts, they squabble and scamper their way through the unending monkey mayhem.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/2/0/11320_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/2/0/11320_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "title": "Final Stretch",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Nov 12, 1993"
+ },
+ "developer": [
+  "Genki"
+ ],
+ "publisher": [
+  "LOZC/G. Amusements",
+  "LOZC G. Amusements"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Formula One"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "formulaone",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "Formula One video game developed in 1993 by Genki for the Super Famicom. It is a follow-up to Genki's earlier Redline: F1 Racer, and was never released outside of Japan.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/7/0/306870_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

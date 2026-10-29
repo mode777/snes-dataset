@@ -1,0 +1,50 @@
+{
+ "title": "New Horizons",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-10",
+  "usa": "October 1994"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Strategy",
+  "Turn-Based",
+  "Historic"
+ ],
+ "tags": [
+  "naval",
+  "newworld",
+  "simulation",
+  "strategy",
+  "topdown"
+ ],
+ "description": "A privateer simulation/RPG that lets the player conquer the seven seas through trade, piracy, and exploration. It is known as Daikoukai Jidai II in Japan and is the sequel to Uncharted Waters.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.98,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/37a8505b-e081-415f-b254-30ab79d8fd03.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/7/3/24273_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/7/3/24273_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

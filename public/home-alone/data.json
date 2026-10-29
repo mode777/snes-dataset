@@ -1,0 +1,60 @@
+{
+ "title": "Home Alone",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "December 1991",
+  "north_america": "December 30, 1991",
+  "pal": "1992",
+  "first_release": "1991-12",
+  "usa": "December 1991",
+  "europe": "December 1991"
+ },
+ "developer": [
+  "Imagineering Inc.",
+  "Imagineering",
+  "Imagineering Inc"
+ ],
+ "publisher": [
+  "Altron",
+  "THQ"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "christmas",
+  "comedy",
+  "movie",
+  "multidirectional",
+  "platform",
+  "runandjump",
+  "scrolling",
+  "sideways"
+ ],
+ "description": "A sidescrolling platformer based on the movie of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 2.42,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/2/3/4/4234_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/4/4234_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/4/4234_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/3/4233_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

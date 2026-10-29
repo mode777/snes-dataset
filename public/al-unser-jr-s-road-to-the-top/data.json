@@ -1,0 +1,49 @@
+{
+ "title": "Al Unser Jr.'s Road to the Top",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 1, 1994",
+  "pal": "1994",
+  "europe": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Radical Entertainment Inc.",
+  "Radical Entertainment"
+ ],
+ "publisher": [
+  "Software Toolworks, Inc., The",
+  "Mindscape"
+ ],
+ "genre": [
+  "Driving",
+  "General"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "cycles",
+  "intoscreen",
+  "racing",
+  "snowmobiles",
+  "sports"
+ ],
+ "description": "A SNES racing game released in 1994. It features multiple vehicle types, and utilized the Super Nintendo's Mode 7 technology.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/0/6/50506_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/5/50505_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

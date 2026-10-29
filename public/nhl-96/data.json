@@ -1,0 +1,56 @@
+{
+ "title": "NHL 96",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "September 1995",
+  "pal": "October 26, 1995",
+  "first_release": "1995-09",
+  "usa": "September 1995",
+  "europe": "September 1995"
+ },
+ "developer": [
+  "Tiburon Entertainment / High Score Productions",
+  "High Score Productions / Tiburon Entertainment",
+  "High Score Productions"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "EA Sports"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Ice Hockey",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "icehockey",
+  "sports",
+  "vertical"
+ ],
+ "description": "The fifth game of the NHL franchise from EA Sports. It was released for the 1995-1996 NHL season.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.76,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/7/0/2/5702_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/2/5702_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/3/5703_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

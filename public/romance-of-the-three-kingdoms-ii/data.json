@@ -1,0 +1,51 @@
+{
+ "title": "Romance of the Three Kingdoms II",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "first_release": "1992-05",
+  "usa": "May 1992"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Historic"
+ ],
+ "tags": [
+  "book",
+  "china",
+  "historical",
+  "mapbased",
+  "strategy",
+  "topdown",
+  "war"
+ ],
+ "description": "Choose between one of several warlords or create your own in the struggle to reunite China after the decaying collapse of the Han Dynasty.",
+ "description_source": "snes_csv",
+ "players": "1 - 12 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.75,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/fc60d7b6-7aeb-4aa8-84ae-733d3b0cda93.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/3/48033_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/3/48033_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

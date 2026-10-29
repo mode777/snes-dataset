@@ -1,0 +1,31 @@
+{
+ "title": "Makeruna! Makendou",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "October 1993"
+ },
+ "developer": [
+  "Affect"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Kendo Rage is an Action game, developed by Affect and published by Datam Polystar,which was released in Japan in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/1/5/50815_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/1/5/50815_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

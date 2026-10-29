@@ -1,0 +1,47 @@
+{
+ "title": "Manchester United Championship Soccer",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "europe": "1995"
+ },
+ "developer": [
+  "Ocean",
+  "Krisalis Software"
+ ],
+ "publisher": [
+  "Ocean"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "Europe-exclusive soccer video game released in 1995 for the SNES. Known in Germany as \"Lothar Matthäus Super Soccer\".",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/7/5/41175_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "title": "Secret of Mana",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-10-03",
+  "france": "October 1993",
+  "usa": "October 1993",
+  "germany": "October 1993",
+  "europe": "October 1993"
+ },
+ "developer": [
+  "Square",
+  "SquareSoft"
+ ],
+ "publisher": [
+  "Square"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "action",
+  "cooperative",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "An action RPG for the Super Nintendo and the second game in the Seiken Densetsu series. Secret of Mana can be played by up to three players simultaneously, and is widely regarded as one of the system's finest games.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": 4.25,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/f703a67c-2523-400a-bbe0-5b3211e2b237.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/0/51120_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/0/51120_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/1/51121_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/1/51121_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

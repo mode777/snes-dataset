@@ -1,0 +1,55 @@
+{
+ "title": "Incantation",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "December 1, 1996",
+  "pal": "1996",
+  "europe": "December 1996",
+  "usa": "December 1996"
+ },
+ "developer": [
+  "Titus",
+  "Titus Software"
+ ],
+ "publisher": [
+  "Titus",
+  "Titus Software"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "fantasy",
+  "horizontal",
+  "jumper",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Incantion is a fanntasy sidescroller made quite late in the life of the SNES. Watchoo know about wand-shooting?",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/8/9/55589_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/9/55589_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/8/55588_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/8/55588_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

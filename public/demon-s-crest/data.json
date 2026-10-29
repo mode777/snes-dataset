@@ -1,0 +1,48 @@
+{
+ "title": "Demon's Crest",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-11",
+  "europe": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "fantasy",
+  "metroidvania",
+  "platform",
+  "sideways"
+ ],
+ "description": "Demon's Crest is the third game in the Gargoyle's Quest series, a spin-off of the Ghosts 'n Goblins franchise. The action once again focuses on the demon Firebrand, who must this time collect six magical crests in order to defeat the ambitions of Phalanx.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.03,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/ba0effa0-c17d-4ebd-9032-156e1b7ca477.png",
+  "https://gamefaqs.gamespot.com/a/box/6/0/7/50607_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/0/7/50607_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/0/6/50606_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/0/6/50606_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

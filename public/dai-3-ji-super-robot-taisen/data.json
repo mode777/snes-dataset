@@ -1,0 +1,46 @@
+{
+ "title": "Dai-3-ji Super Robot Taisen",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Jul 23, 1993"
+ },
+ "developer": [
+  "Winky Soft",
+  "WinkySoft"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Sci-Fi"
+ ],
+ "tags": [
+  "anime",
+  "strategy",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "The first Super Robot Wars on the Super Famicom. This is also the first game to include anime outside of the Getter-Mazinger-Gundam trio.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/1/9/38919_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/9/38919_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Ys V - Expert",
+ "aliases": [
+  "Ys V Expert",
+  "Ys V: Expert"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 22, 1996"
+ },
+ "developer": [
+  "Nihon Falcom",
+  "Falcom"
+ ],
+ "publisher": [
+  "Nihon Falcom"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "fantasy",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "A few months later after the game's initial release, a tweaked expert version was released. This version included tougher enemies, a time attack mode, as well as a new dungeon to explore.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/2/2/23822_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/2/2/23822_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

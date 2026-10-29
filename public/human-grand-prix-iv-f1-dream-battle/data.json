@@ -1,0 +1,51 @@
+{
+ "title": "Human Grand Prix IV - F1 Dream Battle",
+ "aliases": [
+  "Human Grand Prix IV: F1 Dream Battle"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Aug 25, 1995"
+ },
+ "developer": [
+  "Human",
+  "Human Entertainment"
+ ],
+ "publisher": [
+  "Human",
+  "Human Entertainment"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Formula One"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "formulaone",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "Human Grand Prix IV: F1 Dream Battle is the last title of the Human Grand Prix series released on the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/8/8/31888_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

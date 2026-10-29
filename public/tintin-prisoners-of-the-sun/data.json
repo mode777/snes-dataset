@@ -1,0 +1,38 @@
+{
+ "title": "Tintin: Prisoners of the Sun",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {},
+ "developer": [
+  "Infogrames"
+ ],
+ "publisher": [
+  "Infogrames"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "cartoon",
+  "comic",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "A platformer loosely based on two comic books, \"The Seven Crystal Balls\" and \"Prisoners of the Sun.\"",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

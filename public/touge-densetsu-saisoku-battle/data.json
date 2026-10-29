@@ -1,0 +1,49 @@
+{
+ "title": "Touge Densetsu - Saisoku Battle",
+ "aliases": [
+  "Touge Densetsu: Saisoku Battle"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Mar 15, 1996"
+ },
+ "developer": [
+  "Lenar"
+ ],
+ "publisher": [
+  "Bullet-Proof Software"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Motorcycle",
+  "Street"
+ ],
+ "tags": [
+  "behind",
+  "intoscreen",
+  "motorcycle",
+  "racing"
+ ],
+ "description": "A motorcycle touge racing game for the Super Famicom featuring courses all over Japan.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/0/1/307201_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/0/1/307201_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

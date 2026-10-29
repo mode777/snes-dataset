@@ -1,0 +1,48 @@
+{
+ "title": "Super Dany",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "pal": "1994",
+  "france": "1994"
+ },
+ "developer": [
+  "Cryo Interactive Entertainment",
+  "Cryo Interactive"
+ ],
+ "publisher": [
+  "Virgin",
+  "Virgin Interactive"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "jumper",
+  "platform",
+  "puzzlesove",
+  "sideways"
+ ],
+ "description": "A French puzzle-platformer advergame in which the player switches between Dany and friends, each with their own special ability, in order to progress through stages.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "French"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "title": "Hello! Pac-Man",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "September 1994"
+ },
+ "developer": [
+  "Namco"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Enter an original animated adventure--with the world's first video game hero! But the star of your cartoon has a mind of his own, and it's going to take all your skills and patience to carefully guide Pac-man through this hilarious, action-packed cartoon adventure.With a revolutionary new Character Guidance Interface&trade; (CGI&trade;), Pac-Man2 is a game unlike anything you've ever experienced before! So Step into Pac-Man's new and exciting interactive cartoon world... It's a whole new way to play!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/7/1/47871_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/7/1/47871_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "title": "Nichibutsu Arcade Classics 2 - Heiankyou Alien",
+ "aliases": [
+  "Nichibutsu Arcade Classics 2: Heiankyou Alien",
+  "Nichibutsu Arcade Classics 2: Heiankyo Alien"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "December 15, 1995"
+ },
+ "developer": [
+  "Syscom Entertainment",
+  "Syscom"
+ ],
+ "publisher": [
+  "Nihon Bussan",
+  "Nichibutsu"
+ ],
+ "genre": [],
+ "tags": [
+  "action"
+ ],
+ "description": "An upgraded version of the arcade classic Heiankyo Alien, with the original included.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "title": "Donald Duck no Mahou no Boushi",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Aug 11, 1995"
+ },
+ "developer": [
+  "SAS Sakata",
+  "Pop House/SAS Sakata"
+ ],
+ "publisher": [
+  "Epoch",
+  "Epoch Co."
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "cartoon",
+  "collect",
+  "disney",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A Donald Duck licensed platformer released in 1995 for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/2/2/307122_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/2/307122_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

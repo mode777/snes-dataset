@@ -1,0 +1,44 @@
+{
+ "title": "Otogirisou",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Mar7, 1992"
+ },
+ "developer": [
+  "Chunsoft"
+ ],
+ "publisher": [
+  "Chunsoft"
+ ],
+ "genre": [
+  "Adventure",
+  "General"
+ ],
+ "tags": [
+  "adventure",
+  "horror",
+  "visualnovel"
+ ],
+ "description": "Horror themed adventure game developed by Chunsoft in 1992 that was the first entry in the company's influential Sound Novel series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/8/5/43385_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/5/43385_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

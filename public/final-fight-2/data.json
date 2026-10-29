@@ -1,0 +1,56 @@
+{
+ "title": "Final Fight 2",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "August 1993",
+  "north_america": "August 15, 1993",
+  "pal": "December 1993",
+  "first_release": "1993-08",
+  "usa": "August 1993",
+  "europe": "August 1993"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "beatemup",
+  "horizontal",
+  "progressive",
+  "sideways"
+ ],
+ "description": "Final Fight 2 is the SNES exclusive sequel to Final Fight which was released on the same platform. Like the original outing, this game is a sidescrolling fighter (i.e. Double Dragon).",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.6,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/bb540ace-ad35-4fa0-9487-f6d532b4a3aa.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/5/50705_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/5/50705_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/6/50706_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/6/50706_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/1/50711_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/1/50711_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

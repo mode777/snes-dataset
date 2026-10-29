@@ -1,0 +1,49 @@
+{
+ "title": "True Golf Classics: Pebble Beach Golf Links",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "usa": "April 1992",
+  "europe": "April 1992"
+ },
+ "developer": [
+  "T&E Soft"
+ ],
+ "publisher": [
+  "T&E Soft"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Golf",
+  "Sim"
+ ],
+ "tags": [
+  "behind",
+  "golf",
+  "intoscreen",
+  "sports"
+ ],
+ "description": "The fifth in T&E Soft's '90s golf simulation games, taking place at the golf course of the same name (located in the western coast of the United States).",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/0/5/51005_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/0/5/51005_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/0/6/51006_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/0/6/51006_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

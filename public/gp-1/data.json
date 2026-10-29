@@ -1,0 +1,55 @@
+{
+ "title": "GP-1",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "September 1993",
+  "north_america": "September 29, 1993",
+  "pal": "1993",
+  "usa": "September 1993",
+  "europe": "September 1993"
+ },
+ "developer": [
+  "Genki",
+  "Atlus"
+ ],
+ "publisher": [
+  "Atlus"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [
+  "behind",
+  "intoscreen",
+  "motorcycle",
+  "racing",
+  "sports"
+ ],
+ "description": "A motorcycle racing game based on the MotoGP circuit that was developed by Genki and published by Atlus for the SNES in 1993. It was followed by GP-1: Part II.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/4/8/50748_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/7/50747_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/7/50747_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/9/50749_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/9/50749_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

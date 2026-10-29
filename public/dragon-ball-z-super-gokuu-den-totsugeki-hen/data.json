@@ -1,0 +1,47 @@
+{
+ "title": "Dragon Ball Z: Super Gokuu Den - Totsugeki Hen",
+ "aliases": [
+  "Dragon Ball Z: Super Gokuu Den: Totsugeki Hen"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 24, 1995"
+ },
+ "developer": [
+  "d&d / Tose",
+  "TOSE"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "manga",
+  "rpg",
+  "turnbased"
+ ],
+ "description": "Dragon Ball Z video game released in Japan that depicts events from Dragon Ball. Followed by DBZ Super Gokuden: Kakusei-Hen, which continues the story into Dragon Ball Z proper. Developed by TOSE and published by Bandai in 1995.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/1/6/24216_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/1/6/24216_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

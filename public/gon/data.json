@@ -1,0 +1,45 @@
+{
+ "title": "Gon",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Nov 11, 1994"
+ },
+ "developer": [
+  "TOSE"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "dinosaur",
+  "manga",
+  "plateform",
+  "sideways"
+ ],
+ "description": "A SNES platformer based on the dialogue-free manga with the same name about a tiny dinosaur with a huge appetite.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/9/9/306999_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

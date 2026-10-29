@@ -1,0 +1,46 @@
+{
+ "title": "Battle Robot Retsuden",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep1, 1995"
+ },
+ "developer": [
+  "Winkysoft"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Strategy",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "isometric",
+  "mapconquer",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "A mecha anime-based strategy game from Winkysoft and Banpresto of Super Robot Wars fame.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/0/3/39003_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/0/3/39003_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

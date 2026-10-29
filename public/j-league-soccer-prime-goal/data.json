@@ -1,0 +1,50 @@
+{
+ "title": "J.League Soccer - Prime Goal",
+ "aliases": [
+  "J.League Soccer Prime Goal"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Aug6, 1993"
+ },
+ "developer": [
+  "Namco"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "Soccer game developed by Namco in 1993. It is the first game in the J-League Soccer: Prime Goal series, based on and licensed by the real-life J-League professional soccer organization.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/5/9/306859_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/9/306859_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

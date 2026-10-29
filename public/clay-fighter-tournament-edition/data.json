@@ -1,0 +1,30 @@
+{
+ "title": "Clay Fighter: Tournament Edition",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "May 1994"
+ },
+ "developer": [
+  "Visual Concepts"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [],
+ "description": "ClayFighter: Tournament Edition is an Action game, developed by Visual Concepts and published by Interplay,which was released in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/7/8/50578_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

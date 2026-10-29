@@ -1,0 +1,41 @@
+{
+ "title": "Star Fox 2",
+ "aliases": [],
+ "year": 2017,
+ "release_dates": {
+  "first_release": "2017-09-29"
+ },
+ "developer": [
+  "Argonaut Software /  Nintendo"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action"
+ ],
+ "tags": [
+  "firstpersonscifi",
+  "shooter",
+  "simulation"
+ ],
+ "description": "Star Fox 2 was fully developed Super Nintendo game left unreleased until 2017, when it was sold in all regions as part of the Super NES Classic edition. Later installments in the Star Fox franchise would implement Star Fox 2's mechanical and story elements as their own.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.68,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/335903d7-c78c-4d40-97b9-30bd234b15ef.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

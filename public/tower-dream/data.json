@@ -1,0 +1,43 @@
+{
+ "title": "Tower Dream",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Oct 25, 1996"
+ },
+ "developer": [
+  "C-Lab"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "minigames"
+ ],
+ "description": "A property-developing board game with a surreal sense of humor. A sequel was released in 1998 for the PlayStation.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/4/5/307245_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/4/5/307245_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

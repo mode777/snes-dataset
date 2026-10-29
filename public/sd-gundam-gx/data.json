@@ -1,0 +1,47 @@
+{
+ "title": "SD Gundam GX",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "May 27, 1994"
+ },
+ "developer": [
+  "BEC"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Strategy",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "mech",
+  "strategy",
+  "tactic",
+  "turnbased",
+  "wargame"
+ ],
+ "description": "SD Gundam GX is the sequel to SD Gundam X. Like its predecessor, it is a strategy game featuring various mobile suits from the Gundam franchise.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/6/7/303767_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/7/303767_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

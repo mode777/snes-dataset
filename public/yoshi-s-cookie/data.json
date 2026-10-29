@@ -1,0 +1,48 @@
+{
+ "title": "Yoshi's Cookie",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-06",
+  "europe": "June 1993",
+  "usa": "June 1993"
+ },
+ "developer": [
+  "Bullet-Proof Software",
+  "TOSE"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Puzzle",
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [
+  "movingtiles",
+  "reaction",
+  "realtime",
+  "singlescreen",
+  "tilearrangement"
+ ],
+ "description": "Yoshi's Cookie is a puzzle game in which players manipulate rows of cookies in order to create combos and score points.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.34,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/79445d28-6588-4052-a499-b1568d3902e2.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/4/0/21240_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/9/21239_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/9/21239_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

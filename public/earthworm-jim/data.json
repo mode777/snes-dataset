@@ -1,0 +1,60 @@
+{
+ "title": "Earthworm Jim",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "October 1994",
+  "north_america": "October 2, 1994",
+  "pal": "December 16, 1994",
+  "first_release": "1994-10",
+  "usa": "October 1994",
+  "europe": "October 1994"
+ },
+ "developer": [
+  "Shiny Entertainment"
+ ],
+ "publisher": [
+  "Playmates Interactive Entertainment",
+  "Playmates Interactive"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "animalprotagonist",
+  "horizontal",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Created by the twisted minds at Shiny Entertainment (led by Dave Perry and Doug TenNapel), Earthworm Jim is a nonsensical side-scrolling platform game that allows the player to venture through the galaxy as an earthworm trapped in a futuristic space-suit to rescue Princess What's-Her-Name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.71,
+ "metascore": 69,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/0/8/6/86_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/6/86_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/6/86_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/5/85_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/5/85_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/7/87_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/7/87_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

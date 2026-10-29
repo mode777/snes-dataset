@@ -1,0 +1,47 @@
+{
+ "title": "Frantic Flea",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "April 1, 1996",
+  "europe": "April 1996",
+  "usa": "April 1996"
+ },
+ "developer": [
+  "Häus Teknikka",
+  "Haus Teknikka"
+ ],
+ "publisher": [
+  "GameTek"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "collect",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "A 2D side scrolling platform game released for the Super Nintendo Entertainment System. Rescue fleas and save their home world from the evil Insideos.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/2/4/50724_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

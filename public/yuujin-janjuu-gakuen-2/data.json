@@ -1,0 +1,40 @@
+{
+ "title": "Yuujin Janjuu Gakuen 2",
+ "aliases": [
+  "Yuujin: Janjuu Gakuen 2"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "November 18, 1994"
+ },
+ "developer": [
+  "?",
+  "Varie"
+ ],
+ "publisher": [
+  "Varie"
+ ],
+ "genre": [],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A Super Famicom mahjong game featuring the artwork of the manga artist Yuujin (U-Jin). It is the sequel to the 1993 game Yuujin: Janjyu Gakuen.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

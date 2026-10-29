@@ -1,0 +1,30 @@
+{
+ "title": "Ninjawarriors: The New Generation",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "europe": "February 1994"
+ },
+ "developer": [
+  "Natsume"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [],
+ "description": "Three androids, programmed with all the ancient skills of Ninja Warriors, are sent forth, untried, to defeat an army and bring down the tyrant, Banglar. They will attack their foes with fist, sword, knives, curving steel blades, and their own powerful bodies. They have no human emotions to weaken them, and only one mission - to destroy all enemies!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/7/3/50973_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/7/3/50973_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

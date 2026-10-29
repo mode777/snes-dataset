@@ -1,0 +1,41 @@
+{
+ "title": "SD The Great Battle - Aratanaru Chousen",
+ "aliases": [
+  "SD The Great Battle: Aratanaru Chousen"
+ ],
+ "year": 1991,
+ "release_dates": {},
+ "developer": [
+  "Tsubujara"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [],
+ "tags": [
+  "anime",
+  "jumper",
+  "manga",
+  "mech",
+  "multidirectional",
+  "platform",
+  "shooter"
+ ],
+ "description": "The first game in the Great Battle series, this is a crossover of the Ultraman, Kamen Rider, and Mobile Suit Gundam franchises.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

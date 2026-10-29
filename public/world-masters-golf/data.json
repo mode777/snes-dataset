@@ -1,0 +1,49 @@
+{
+ "title": "World Masters Golf",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "pal": "November 23, 1995",
+  "europe": "Nov 23, 1995"
+ },
+ "developer": [
+  "Arc Developments"
+ ],
+ "publisher": [
+  "Virgin",
+  "Virgin Interactive"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Golf",
+  "Sim"
+ ],
+ "tags": [
+  "behind",
+  "golf",
+  "intoscreen",
+  "sports"
+ ],
+ "description": "Europe-exclusive golf video game released in 1995 for the SNES.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/1/5/320115_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/5/320115_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

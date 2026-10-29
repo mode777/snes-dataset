@@ -1,0 +1,52 @@
+{
+ "title": "Jelly Boy",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "Cancelled",
+  "pal": "March 1995",
+  "europe": "March 1995"
+ },
+ "developer": [
+  "Probe",
+  "Probe Entertainment",
+  "Probe Entertainment Limited"
+ ],
+ "publisher": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "collector",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Jelly Boy is a 2D side-scrolling platformer developed by Probe Entertainment and published by Ocean for the SNES and Game Boy. It was only available in Europe.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/0/2/50802_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/0/2/50802_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

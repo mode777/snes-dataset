@@ -1,0 +1,48 @@
+{
+ "title": "Soreyuke Ebisumaru Karakuri Meiro - Kieta Goemon no Nazo!!",
+ "aliases": [
+  "Soreyuke Ebisumaru Karakuri Meiro: Kieta Goemon no Nazo!!"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Mar 29, 1996"
+ },
+ "developer": [
+  "Konami",
+  "Konami Computer Entertainment Osaka"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "competitive",
+  "isometric",
+  "puzzle"
+ ],
+ "description": "A puzzle game in the Goemon franchise. Guide an oblivious Ebisumaru through a series of mazes by manipulating the level around him.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/9/3/43393_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/3/43393_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

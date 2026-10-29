@@ -1,0 +1,30 @@
+{
+ "title": "Top Racer 2",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "September 1993"
+ },
+ "developer": [
+  "Gremlin Interactive"
+ ],
+ "publisher": [],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [],
+ "description": "Top Gear 2 is a Driving game, developed by Gremlin Interactive and published by Kemco,which was released in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/3/0/51430_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

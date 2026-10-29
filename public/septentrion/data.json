@@ -1,0 +1,30 @@
+{
+ "title": "Septentrion",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "April 1994"
+ },
+ "developer": [
+  "Human Entertainment"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [],
+ "description": "SOS is an Action game, developed and published by Human Entertainment,which was released in Japan in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/5/0/41250_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/5/0/41250_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

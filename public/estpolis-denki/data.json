@@ -1,0 +1,30 @@
+{
+ "title": "Estpolis Denki",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Dec4, 1993"
+ },
+ "developer": [
+  "Neverland"
+ ],
+ "publisher": [],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [],
+ "description": "The Sinistrals, four masters of Doom, arrived in this land on their floating island 100 years ago.You will begin your quest by traveling through time to join in a tremendous battle against them--and you will determine the outcome.When you return to present time, you and Lufia, your companion, must join forces with two others to prevent the Sinistrals from regaining control of your world.It will be a long and difficult task--This land is larger than that of most RPG games.And in the end, the balance of fate will be overturned in a contest of love and betrayal that could destroy you all.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/8/4/50884_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/8/4/50884_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

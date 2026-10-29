@@ -1,0 +1,43 @@
+{
+ "title": "Pachio-kun Special",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Dec 11, 1992"
+ },
+ "developer": [
+  "Marionette"
+ ],
+ "publisher": [
+  "Coconuts Japan"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "Pachinko game developed by Marionette and published by Coconuts Japan in 1992 exclusively for the Japanese Super Famicom. It is the first Super Famicom game starring Pachiokun.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/1/6/306816_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

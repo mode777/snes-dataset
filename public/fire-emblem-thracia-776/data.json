@@ -1,0 +1,49 @@
+{
+ "title": "Fire Emblem: Thracia 776",
+ "aliases": [],
+ "year": 1999,
+ "release_dates": {
+  "japan": "Jan 21, 2000",
+  "first_release": "2000-01-21"
+ },
+ "developer": [
+  "Intelligent Systems"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Fantasy"
+ ],
+ "tags": [
+  "fantasy",
+  "strategy",
+  "tactic",
+  "turnbased"
+ ],
+ "description": "The fifth game in the Fire Emblem series, released only in Japan for the Super Famicom. It is a midquel to Fire Emblem: Seisen no Keifu and stars Leif, a major character from the previous game.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.15,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/eee5385c-2cbb-4634-acf6-da9e44d01aa1.png",
+  "https://gamefaqs.gamespot.com/a/box/7/7/3/39773_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/7/3/39773_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

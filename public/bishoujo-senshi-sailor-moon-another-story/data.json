@@ -1,0 +1,53 @@
+{
+ "title": "Bishoujo Senshi Sailor Moon: Another Story",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep 22, 1995",
+  "first_release": "1995-09-22"
+ },
+ "developer": [
+  "TNSsoft",
+  "Arc System Works/TNS",
+  "Angel (Bandai)"
+ ],
+ "publisher": [
+  "Angel"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "anime",
+  "fantasy",
+  "manga",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "Also known as Sailor Moon RPG, this is the first and so far only turn-based RPG set in the Sailor Moon Universe.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.9,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/2d0d3f24-1e71-4e43-b505-a775e5f6cd06.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/1/51111_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/1/51111_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

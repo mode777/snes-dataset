@@ -1,0 +1,48 @@
+{
+ "title": "Ginga Sengoku Gunyuuden Rai",
+ "aliases": [
+  "Ginga Sengoku Gun'yūden Rai"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "March 8, 1996"
+ },
+ "developer": [
+  "?",
+  "Angel (Bandai)",
+  "Angel"
+ ],
+ "publisher": [
+  "Angel"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "manga",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "A real-time strategy game based on the sci-fi manga and anime that is also known as Thunder Jets.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/3/6/31936_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/3/6/31936_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

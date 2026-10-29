@@ -1,0 +1,47 @@
+{
+ "title": "Dai-4-ji Super Robot Taisen",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 17, 1995"
+ },
+ "developer": [
+  "Winky Soft",
+  "WinkySoft"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Sci-Fi"
+ ],
+ "tags": [
+  "anime",
+  "rpg",
+  "strategy",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "The third SRW game on the Super Famicom. This game was originally considered the end of the Classic Timeline, but would be replaced by Super Robot Wars F and F Final.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/8/4/50484_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/4/50484_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Super Formation Soccer 94 - World Cup Final Data",
+ "aliases": [
+  "Super Formation Soccer 94: World Cup Final Data"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Sep 22, 1994"
+ },
+ "developer": [
+  "HUMAN",
+  "Human Entertainment"
+ ],
+ "publisher": [
+  "HUMAN"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "behind",
+  "football",
+  "intoscreen",
+  "soccer",
+  "sports"
+ ],
+ "description": "The third game in Human Entertainment's series of soccer games. It focuses on the 1994 World Cup, featuring the 24 national teams that qualified (and Japan, which did not).",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/9/6/31796_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/9/6/31796_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

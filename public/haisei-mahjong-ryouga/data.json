@@ -1,0 +1,46 @@
+{
+ "title": "Haisei Mahjong - Ryouga",
+ "aliases": [
+  "Haisei Mahjong Ryouga",
+  "Haisei Mahjong: Ryouga"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Apr 28, 1995"
+ },
+ "developer": [
+  "?",
+  "ASCII Entertainment"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A mahjong game for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/7/8/307078_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

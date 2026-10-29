@@ -1,0 +1,44 @@
+{
+ "title": "Zakuro no Aji",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec 22, 1995"
+ },
+ "developer": [
+  "Imagineer"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [
+  "Adventure",
+  "General"
+ ],
+ "tags": [
+  "adventure",
+  "firstperson",
+  "visualnovel"
+ ],
+ "description": "A visual novel that makes use of sound and text to tell its story. An office block collapses underground after an earthquake, stranding the workers.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/5/2/312552_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/2/312552_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

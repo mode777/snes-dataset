@@ -1,0 +1,56 @@
+{
+ "title": "Primal Rage",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "August 25, 1995",
+  "pal": "November 1995",
+  "first_release": "1995-08",
+  "usa": "August 1995",
+  "europe": "August 1995"
+ },
+ "developer": [
+  "Atari",
+  "Bitmasters"
+ ],
+ "publisher": [
+  "Time Warner Interactive"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "competitive",
+  "fighting",
+  "prehistoric",
+  "sideways"
+ ],
+ "description": "Giant beasts from different parts of the post-apocalyptic world fight each other for global domination in this violent 2D fighting game from Atari.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.98,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/1/1/7/11117_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/7/11117_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/7/11117_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/8/11118_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/8/11118_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

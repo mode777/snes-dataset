@@ -1,0 +1,40 @@
+{
+ "title": "Pachi-Slot Kanzen Kouryaku - Universal Shindai Nyuuka Volume 1",
+ "aliases": [
+  "Pachi-Slot Kanzen Kouryaku: Universal Shindai Nyuuka Volume 1"
+ ],
+ "year": 1997,
+ "release_dates": {
+  "japan": "March 7, 1997"
+ },
+ "developer": [
+  "Nihon Syscom"
+ ],
+ "publisher": [
+  "?",
+  "Syscom"
+ ],
+ "genre": [],
+ "tags": [
+  "gambling",
+  "slotmachine"
+ ],
+ "description": "A pachi-slots game that draws from Universal Entertainment's product line. Like many pachinko/pachi-slots games, its chief role is to help gamblers practice for the real deal.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

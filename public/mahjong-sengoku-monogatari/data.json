@@ -1,0 +1,42 @@
+{
+ "title": "Mahjong Sengoku Monogatari",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Sep 23, 1994"
+ },
+ "developer": [
+  "Khaos"
+ ],
+ "publisher": [
+  "Yojigen"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "Mahjong game developed by Khaos in 1994.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/9/5/31795_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

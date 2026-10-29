@@ -1,0 +1,42 @@
+{
+ "title": "Bishoujo Wrestler Retsuden: Blizzard Yuki Rannyuu!!",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Mar 29, 1996"
+ },
+ "developer": [
+  "KSS"
+ ],
+ "publisher": [
+  "KSS"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "sports",
+  "strategy",
+  "wrestling"
+ ],
+ "description": "A Joshi wrestling themed strategy game by KSS.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/9/2/306092_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

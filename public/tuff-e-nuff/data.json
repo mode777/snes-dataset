@@ -1,0 +1,49 @@
+{
+ "title": "Tuff E Nuff",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-09",
+  "europe": "September 1993",
+  "usa": "September 1993"
+ },
+ "developer": [
+  "Jaleco",
+  "Jaleco Entertainment"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "fighting",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "A fighting game for the SNES from Jaleco, taking place in a post-apocalyptic future as four heroes fight to determine who's tough enough to take on the Fighting King.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.12,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/f8af3bfb-a80f-48b4-a300-95763c5670f1.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/4/9/51449_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/4/8/51448_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

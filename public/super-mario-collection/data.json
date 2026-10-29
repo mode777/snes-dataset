@@ -1,0 +1,30 @@
+{
+ "title": "Super Mario Collection",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "August 1993"
+ },
+ "developer": [
+  "Nintendo"
+ ],
+ "publisher": [],
+ "genre": [
+  "Miscellaneous",
+  "Compilation"
+ ],
+ "tags": [],
+ "description": "Revisit the magic and fun of the classic Super Mario Bros. series on your Super NES! All the great Super Mario Bros. games for the NES have been powered up with 16-bit graphics and sound and collected on one super game pak. As an added bonus, the previously unreleased 'Lost Levels' are included. These super challenging courses have never been available in this country until now!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/9/2/51292_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/9/2/51292_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

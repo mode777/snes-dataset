@@ -1,0 +1,49 @@
+{
+ "title": "St. Andrews - Eikou to Rekishi no Old Course",
+ "aliases": [
+  "St. Andrews: Eikou to Rekishi no Old Course"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep 15, 1995"
+ },
+ "developer": [
+  "?",
+  "Epoch"
+ ],
+ "publisher": [
+  "Epoch",
+  "Epoch Co."
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Golf",
+  "Sim"
+ ],
+ "tags": [
+  "golf",
+  "sports"
+ ],
+ "description": "A licensed golf video game released in 1995 for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/9/4/31894_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/4/31894_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

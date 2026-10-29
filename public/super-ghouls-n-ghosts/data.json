@@ -1,0 +1,39 @@
+{
+ "title": "Super Ghouls 'N Ghosts",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "first_release": "1991-11-01"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action"
+ ],
+ "tags": [
+  "arcade",
+  "multidirectional",
+  "platform",
+  "scrolling",
+  "sideways"
+ ],
+ "description": "The third game in the classic Ghosts 'n Goblins series sees the valiant knight Arthur once again embarking on a brutally difficult quest to rescue his beloved from demonic forces.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.73,
+ "metascore": 78,
+ "cover_urls": [
+  "https://images.launchbox-app.com/58a44091-fa7e-44cc-a59e-6dcdf6dd693e.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb"
+ ]
+}

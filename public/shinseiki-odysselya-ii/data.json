@@ -1,0 +1,40 @@
+{
+ "title": "Shinseiki Odysselya II",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "October 6, 1995"
+ },
+ "developer": [
+  "Vic Tokai"
+ ],
+ "publisher": [
+  "Vic Tokai"
+ ],
+ "genre": [],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "RPG sequel for the Super Famicom from Vic Tokai.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

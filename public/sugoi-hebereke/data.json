@@ -1,0 +1,46 @@
+{
+ "title": "Sugoi Hebereke",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Mar 11, 1994"
+ },
+ "developer": [
+  "SUNSOFT",
+  "OLMSunsoft"
+ ],
+ "publisher": [
+  "SUNSOFT"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "competitive",
+  "puzzle"
+ ],
+ "description": "Japan-exclusive action fighting video game released in 1994 for the Super Famicom. It features Hebereke and pals, SunSoft's Sanrio-esque stable of mascot characters.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/7/5/312575_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/5/312575_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

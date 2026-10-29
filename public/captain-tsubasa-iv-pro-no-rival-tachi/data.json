@@ -1,0 +1,51 @@
+{
+ "title": "Captain Tsubasa IV: Pro no Rival-tachi",
+ "aliases": [
+  "Captain Tsubasa IV: Pro no Rival Tachi"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Apr3, 1993"
+ },
+ "developer": [
+  "Tecmo"
+ ],
+ "publisher": [
+  "Tecmo"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "anime",
+  "football",
+  "manga",
+  "soccer",
+  "sports",
+  "strategy"
+ ],
+ "description": "The fourth game in the Captain Tsubasa series of soccer RPGs by Tecmo. It's the second game released for the SNES.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/3/7/19637_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/3/7/19637_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

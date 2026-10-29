@@ -1,0 +1,36 @@
+{
+ "title": "WildC.A.T.S: Covert Action Teams",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "Beam Software"
+ ],
+ "publisher": [
+  "Playmates Interactive Entertainment"
+ ],
+ "genre": [],
+ "tags": [
+  "beatemup",
+  "comic",
+  "fighter",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "Based on the comic book of the same name, WildC.A.T.S is a 2D brawler in the same vein as Comix Zone or Final Fight.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Best Shot Pro Golf",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Jun 14, 1996"
+ },
+ "developer": [
+  "KID Corp.",
+  "KID"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Golf",
+  "Sim"
+ ],
+ "tags": [
+  "golf",
+  "sports",
+  "topdown"
+ ],
+ "description": "A golfing simulation game where the player trains their golfer before competitions.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/2/1/307221_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

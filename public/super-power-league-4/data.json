@@ -1,0 +1,47 @@
+{
+ "title": "Super Power League 4",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Aug9, 1996"
+ },
+ "developer": [
+  "Now Production"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "baseball",
+  "behind",
+  "intoscreen",
+  "sports"
+ ],
+ "description": "The fourth and final of Hudson's Power League series to be released on the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/6/307236_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

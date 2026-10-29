@@ -1,0 +1,46 @@
+{
+ "title": "Snoopy Concert",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "May 19, 1995"
+ },
+ "developer": [
+  "Pax Softnica / Nintendo",
+  "Pax Softonica"
+ ],
+ "publisher": [
+  "Mitsui Fudosan"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "adventure",
+  "comic",
+  "plateform"
+ ],
+ "description": "A minigame collection starring Snoopy and the cast of Peanuts. This game was only released in Japan for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/5/4/31854_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/4/31854_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

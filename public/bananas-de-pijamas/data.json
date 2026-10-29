@@ -1,0 +1,35 @@
+{
+ "title": "Bananas de Pijamas",
+ "aliases": [],
+ "year": 1998,
+ "release_dates": {},
+ "developer": [
+  "Twin Eagles Group"
+ ],
+ "publisher": [
+  "?"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "platform",
+  "sideways",
+  "unlicensed"
+ ],
+ "description": "Bananas in Pajamas (Known as Bananas de Pijamas) is a pirate SNES hack of Chester Cheetah: Too Cool to Fool, made by Twin Eagles Group.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

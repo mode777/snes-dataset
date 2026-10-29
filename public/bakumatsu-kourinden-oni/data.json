@@ -1,0 +1,36 @@
+{
+ "title": "Bakumatsu Kourinden Oni",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "February 2, 1996"
+ },
+ "developer": [
+  "Pandora Box"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [],
+ "tags": [
+  "?"
+ ],
+ "description": "A supernatural RPG set at the end of the Edo era in mid-19th century Japan. The protagonist Yamatomaru joins forces with demon-hunting samurai Juurouta after a monster attacks his village.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

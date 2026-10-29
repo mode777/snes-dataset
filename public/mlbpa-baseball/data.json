@@ -1,0 +1,47 @@
+{
+ "title": "MLBPA Baseball",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "March 1994"
+ },
+ "developer": [
+  "Visual Concepts Entertainment",
+  "Visual Concepts"
+ ],
+ "publisher": [
+  "Electronic Arts"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "baseball",
+  "behind",
+  "sports"
+ ],
+ "description": "A baseball game released for the Sega Genesis and SNES in 1994. It is notable for its large sprites, full season mode and scoreboard animations.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/4/1/48541_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/1/48541_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

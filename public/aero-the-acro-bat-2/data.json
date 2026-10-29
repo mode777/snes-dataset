@@ -1,0 +1,56 @@
+{
+ "title": "Aero the Acro-Bat 2",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 1994",
+  "pal": "August 1994",
+  "first_release": "1994-11",
+  "europe": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Iguana Entertainment, Inc.",
+  "Iguana Entertainment"
+ ],
+ "publisher": [
+  "Sunsoft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "collect",
+  "jumper",
+  "multidirectional",
+  "sideways"
+ ],
+ "description": "A Super Nintendo sequel featuring SunSoft's daredevil rodent in another high-flying adventure.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.57,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/9260ee1a-5c9f-4cca-8061-ec3aff39d38b.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/4/1/22441_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/4/1/22441_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/4/0/22440_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/4/0/22440_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

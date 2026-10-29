@@ -1,0 +1,55 @@
+{
+ "title": "NBA Live 96",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "October 1995",
+  "pal": "November 23, 1995",
+  "first_release": "1995-10",
+  "europe": "October 1995",
+  "usa": "October 1995"
+ },
+ "developer": [
+  "Hitmen Productions",
+  "Electronic Arts"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "EA Sports"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Sim"
+ ],
+ "tags": [
+  "basketball",
+  "isometric",
+  "sports"
+ ],
+ "description": "EA Sports's NBA game for the 1996 Season.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.72,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/5/2/8/5528_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/7/5527_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/7/5527_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/8/5528_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "title": "Honkaku Mahjong - Tetsuman",
+ "aliases": [
+  "Honkaku Mahjong: Tetsuman"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Sep 24, 1993"
+ },
+ "developer": [
+  "Syscom Entertainment",
+  "Syscom"
+ ],
+ "publisher": [
+  "Naxat Soft"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A competitive four seat Mahjong game with anime-styled characters. It was released on the Super Famicom by Syscom and Naxat Soft, and eventually received a sequel.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/7/8/43378_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "title": "Verne World",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep 29, 1995"
+ },
+ "developer": [
+  "Dual"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A 1995 Super Famicom RPG published by Banpresto about a group of kids trapped in an animatronic theme park based on the works of Jules Verne.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/7/1/30171_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/1/30171_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

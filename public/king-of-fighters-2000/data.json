@@ -1,0 +1,35 @@
+{
+ "title": "King of Fighters 2000",
+ "aliases": [],
+ "year": 2000,
+ "release_dates": {},
+ "developer": [
+  "DVS Electronic"
+ ],
+ "publisher": [
+  "DVS Electronic"
+ ],
+ "genre": [],
+ "tags": [
+  "fighting",
+  "horizontal",
+  "sideways",
+  "unlicensed"
+ ],
+ "description": "The King of Fighters 2000 is an unlicensed fighting game for the SNES produced by DVS Electronic Co., with characters and assets taken from The King of Fighters, Street Fighter and X-Men.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

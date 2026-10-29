@@ -1,0 +1,49 @@
+{
+ "title": "Fire Emblem: Monshou no Nazo",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jan 21, 1994",
+  "first_release": "1994-01-21"
+ },
+ "developer": [
+  "Intelligent Systems"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Fantasy"
+ ],
+ "tags": [
+  "fantasy",
+  "strategy",
+  "tactic",
+  "turnbased"
+ ],
+ "description": "Fire Emblem: Monshou no Nazo is the third game in the series and the first to be released on the Super Famicom. The game is a remake of and sequel to the original Fire Emblem: Ankoku Ryu to Hikari no Tsurugi.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.86,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/f9c9b22b-5ebf-4c66-af1a-4e880abfbd1d.png",
+  "https://gamefaqs.gamespot.com/a/box/7/6/9/39769_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/9/39769_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

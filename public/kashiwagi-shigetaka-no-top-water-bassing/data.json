@@ -1,0 +1,46 @@
+{
+ "title": "Kashiwagi Shigetaka no Top Water Bassing",
+ "aliases": [
+  "Shigetaka Kashiwagi's Top Water Bassing"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "February 17, 1995"
+ },
+ "developer": [
+  "Imagesoft"
+ ],
+ "publisher": [
+  "Vap"
+ ],
+ "genre": [
+  "Sports",
+  "Nature",
+  "Fishing"
+ ],
+ "tags": [
+  "behind",
+  "fishing"
+ ],
+ "description": "A bass fishing game from Vap and Zeal. Features the likeness of famous Japanese professional bass fisher Shigetaka Kashiwagi.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/4/4/307044_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/4/4/307044_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

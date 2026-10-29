@@ -1,0 +1,49 @@
+{
+ "title": "Kaite Tsukutte Asoberu Dezaemon",
+ "aliases": [
+  "Dezaemon: Kaite Tsukutte Asoberu"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "September 20, 1994"
+ },
+ "developer": [
+  "Athena"
+ ],
+ "publisher": [
+  "Athena"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "powerup",
+  "shootemup",
+  "shooter",
+  "topdown",
+  "vertical"
+ ],
+ "description": "A construction kit for the Super Famicom, built in 1994 for designing and playing arcade-style vertical-scrolling shoot-'em-ups. Along with numerous enhancements compared to its Famicom predecessor, it also includes a fully-featured sample game (which itself is a spiritual sequel to the developer's 1993 arcade game Daioh).",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/3/6/297136_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/6/297136_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "title": "Sid Meier's Civilization",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-11",
+  "usa": "November 1995"
+ },
+ "developer": [
+  "MicroProse"
+ ],
+ "publisher": [],
+ "genre": [
+  "Strategy",
+  "General"
+ ],
+ "tags": [],
+ "description": "Sid Meier's Civilization is a turn-based strategy 4X video game created by Sid Meierand Bruce Shelley for MicroProse in 1991. The game's objective is to \"Build an empire to stand the test of time\": it begins in 4000 BCand the players attempt to expand and develop their empires through the ages from the ancient era until modern and near-future times.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 3.66,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/c39946b8-dc83-4ec1-b5fc-4866d9532789.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/7/34657_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/7/34657_back.jpg"
+ ],
+ "sources": [
+  "opengamedb",
+  "openvgdb"
+ ]
+}

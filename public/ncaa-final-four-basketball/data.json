@@ -1,0 +1,47 @@
+{
+ "title": "NCAA Final Four Basketball",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "February 1995",
+  "usa": "February 1995"
+ },
+ "developer": [
+  "Bitmasters"
+ ],
+ "publisher": [
+  "Mindscape"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Sim"
+ ],
+ "tags": [
+  "basketball",
+  "horizontal",
+  "sideways",
+  "sports"
+ ],
+ "description": "A college basketball game for the Sega Genesis and Super Nintendo. The inaugural game in the NCAA Final Four series.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/1/0/47810_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

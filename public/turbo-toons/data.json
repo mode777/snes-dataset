@@ -1,0 +1,36 @@
+{
+ "title": "Turbo Toons",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Empire"
+ ],
+ "publisher": [
+  "Empire"
+ ],
+ "genre": [],
+ "tags": [
+  "cartoon",
+  "racing",
+  "sinlgescreen",
+  "topdown"
+ ],
+ "description": "A top-down on-foot racing game featuring characters from the Hanna Barbera cartoon universe. Released exclusively in the PAL region.",
+ "description_source": "snes_csv",
+ "players": "1 -5 (5 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

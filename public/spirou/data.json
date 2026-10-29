@@ -1,0 +1,47 @@
+{
+ "title": "Spirou",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "pal": "September 29, 1995",
+  "europe": "Sep 29, 1996"
+ },
+ "developer": [
+  "Infogrames"
+ ],
+ "publisher": [
+  "Infogrames"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "comic",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "An obscure 2D side-scrolling platformer designed by Infogrames based on a popular Belgian comic.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/1/0/296710_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/0/296710_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

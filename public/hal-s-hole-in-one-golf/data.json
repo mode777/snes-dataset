@@ -1,0 +1,43 @@
+{
+ "title": "HAL's Hole in One Golf",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "europe": "September 1991",
+  "usa": "September 1991"
+ },
+ "developer": [
+  "HAL"
+ ],
+ "publisher": [
+  "HAL"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Golf",
+  "Sim"
+ ],
+ "tags": [
+  "golf",
+  "sports",
+  "topdown"
+ ],
+ "description": "A golf game that uses an uncommon top-down perspective. It was the first golf game (and first sports game) for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/6/9/50769_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/9/50769_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/8/50768_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

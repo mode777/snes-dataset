@@ -1,0 +1,49 @@
+{
+ "title": "Kidou Senshi Gundam F91 - Formula Senki 0122",
+ "aliases": [
+  "Kidou Senshi Gundam F91: Formula Senki 0122"
+ ],
+ "year": 1991,
+ "release_dates": {
+  "japan": "Jul6, 1991"
+ },
+ "developer": [
+  "Bandai / Nova",
+  "Nova Games",
+  "Nova Games Ltd."
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "anime",
+  "strategy",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A sci-fi strategy game based in the Gundam universe that was published by Bandai in 1991 for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/3/9/26739_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/3/9/26739_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "title": "Dragon's Magic",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "February 1993"
+ },
+ "developer": [
+  "MotiveTime, Ltd."
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "From deep within Mordroc's Castle, a foul stench rose up to mix with the cold, damp midnight air; the telltale sign of the evil wizard's pet fire-breathing dragon, Singe; the beast that guarded the Princess Daphne in the deadly caves far below the surface. Dirk the Daring walked steadily toward the castle gate. He felt no fear; but then fear was for cowards. No other would dare to enter this perilous castle where Mordroc had imprisoned the helpless princess. But for Dirk there was no other possible course to take. Now was the time for heroes. Now was the time for action. Now was the time to enter the Dragon's Lair...",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/5/4/50654_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/4/50654_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

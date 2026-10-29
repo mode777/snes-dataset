@@ -1,0 +1,35 @@
+{
+ "title": "Pokemon Gold & Silver",
+ "aliases": [],
+ "year": null,
+ "release_dates": {},
+ "developer": [
+  "?"
+ ],
+ "publisher": [
+  "?"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "plateform",
+  "sideways",
+  "unlicensed"
+ ],
+ "description": "Pokémon Gold Silver (Chinese Traditional: 神奇寶貝 金 ＆ 銀) is a platformer based on Pokémon made by an unknown developer for SNES.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

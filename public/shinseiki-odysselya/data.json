@@ -1,0 +1,47 @@
+{
+ "title": "Shinseiki Odysselya",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Canceled",
+  "north_america": "Cancelled"
+ },
+ "developer": [
+  "Vic Tokai / Studio Cliché",
+  "Vic Tokai"
+ ],
+ "publisher": [
+  "Vic Tokai"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A fantasy JRPG released by Vic Tokai in 1993 for the Super Famicom. An American version titled \"Lost Mission\" was scheduled in 1994, but was canceled.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/6/8/312468_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

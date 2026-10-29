@@ -1,0 +1,30 @@
+{
+ "title": "Holy Striker",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "October 1994"
+ },
+ "developer": [
+  "Axes Art Amuse"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [],
+ "description": "Firestriker is an Action game, developed by Axes Art Amuse and published by Hect,which was released in Japan in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/1/3/50713_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/3/50713_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "title": "Thomas the Tank Engine & Friends",
+ "aliases": [
+  "Thomas the Tank Engine and Friends"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "September 30, 1993",
+  "pal": "August 2, 1993December 31, 1993",
+  "europe": "September 1993",
+  "usa": "September 1993"
+ },
+ "developer": [
+  "Software Creations"
+ ],
+ "publisher": [
+  "THQ"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [
+  "educational",
+  "horizontal",
+  "puzzle",
+  "quiz",
+  "racing",
+  "sideways",
+  "topdown"
+ ],
+ "description": "A train driving sim featuring the popular children's book and cartoon character. Help Thomas complete family friendly lighthearted tasks such as delivering medical supplies and the mail.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/8/2/32982_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/2/32982_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/1/32981_front.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "openvgdb",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

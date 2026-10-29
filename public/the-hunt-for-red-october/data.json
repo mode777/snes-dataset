@@ -1,0 +1,57 @@
+{
+ "title": "The Hunt for Red October",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "October 1, 1993",
+  "north_america": "January 1, 1993",
+  "pal": "1993",
+  "europe": "January 1993",
+  "usa": "January 1993"
+ },
+ "developer": [
+  "Riedel Software Productions",
+  "RSP"
+ ],
+ "publisher": [
+  "Hi-Tech Expressions",
+  "Hi Tech Expressions"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "action",
+  "book",
+  "horizontal",
+  "movie",
+  "naval",
+  "shooter",
+  "sideways",
+  "submarine",
+  "superscope"
+ ],
+ "description": "The Hunt for Red October is a side-scrolling submarine shooter based on the 1990 Sean Connery movie adaptation of the Tom Clancy novel.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/7/49237_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/7/49237_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "title": "Alfred Chicken",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "europe": "February 1994"
+ },
+ "developer": [
+  "Twilight Games"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Oh no! The evil Meka-Chickens have eggnapped Billy Egg and his brothers for their terrible cloning experiment! And they've taken Floella, too! As the world's only chicken with a bionic beak, Alfred is whisked off to a multitude of bizarre lands to pluck his friends from the clutches of their foul captors. Scramble through 21 huge transdimensional levels facing the likes of Byron Snail, Mag-Mite, Grim Blocker and the Terrasawus. Beat the Meka-Chickens, snatch back the eggs, and lay their plans for world domination to rest!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/0/8/50508_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/8/50508_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "title": "Super Gomoku Narabe - Renju",
+ "aliases": [
+  "Super Gomoku Narabe Renju",
+  "Super Gomoku Narabe: Renju"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Mar 25, 1994"
+ },
+ "developer": [
+  "Naxat Soft"
+ ],
+ "publisher": [
+  "Naxat Soft"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "connectfour",
+  "go"
+ ],
+ "description": "A video game adaptation of the board game Gomoku Narabe, which is played on a Go board but is closer to Connect Four.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/2/1/306921_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/1/306921_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

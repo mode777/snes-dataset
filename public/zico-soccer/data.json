@@ -1,0 +1,48 @@
+{
+ "title": "Zico Soccer",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Mar4, 1994"
+ },
+ "developer": [
+  "Electronic Arts / Victor",
+  "Electronic Arts Victor"
+ ],
+ "publisher": [
+  "Electronic Arts / Victor",
+  "Electronic Arts Victor"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "football",
+  "management",
+  "soccer"
+ ],
+ "description": "Japan-exclusive soccer management game released in 1994 by Electronic Arts Victor. Endorsed by Zico, a famous Brazilian soccer player.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/6/1/31761_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/1/31761_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

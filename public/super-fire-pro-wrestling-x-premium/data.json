@@ -1,0 +1,46 @@
+{
+ "title": "Super Fire Pro Wrestling X Premium",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Mar 29, 1996"
+ },
+ "developer": [
+  "HUMAN",
+  "Human Club"
+ ],
+ "publisher": [
+  "HUMAN",
+  "Human Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "Wrestling"
+ ],
+ "tags": [
+  "isometric",
+  "sports",
+  "wrestling"
+ ],
+ "description": "A Super Famicom wrestling game in Human's prolific Fire Pro Wrestling series. Better known for its improved remake, Super Fire Pro Wrestling X Premium.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/3/6/37536_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "title": "Rock n' Roll Racing",
+ "aliases": [
+  "Rock 'N' Roll Racing"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "September 1993",
+  "north_america": "June 4, 1993",
+  "pal": "March 31, 1994",
+  "first_release": "1993-06-04",
+  "usa": "September 1993",
+  "europe": "September 1993"
+ },
+ "developer": [
+  "Silicon & Synapse"
+ ],
+ "publisher": [
+  "Interplay Entertainment",
+  "Interplay"
+ ],
+ "genre": [
+  "Racing",
+  "Driving",
+  "Arcade"
+ ],
+ "tags": [
+  "action",
+  "angle",
+  "car",
+  "futuristic",
+  "multidirectional",
+  "racing"
+ ],
+ "description": "Rock your way to the finish to the beat of righteous metal using all kinds of special weapons!",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.04,
+ "metascore": 80,
+ "cover_urls": [
+  "https://images.launchbox-app.com/62797c45-5b5b-464f-8bd6-71c4e7d5fd3c.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/7/19307_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/7/19307_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/6/19306_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/8/19308_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/8/19308_back.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "opengamedb",
+  "openvgdb",
+  "snes_csv"
+ ]
+}

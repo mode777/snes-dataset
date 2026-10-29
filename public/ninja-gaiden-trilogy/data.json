@@ -1,0 +1,50 @@
+{
+ "title": "Ninja Gaiden Trilogy",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-08-10",
+  "usa": "Aug 10, 1995"
+ },
+ "developer": [
+  "Tecmo",
+  "Team Ninja"
+ ],
+ "publisher": [
+  "Tecmo"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Compilation"
+ ],
+ "tags": [
+  "action",
+  "arcade",
+  "fighter",
+  "horizontal",
+  "platorm",
+  "sideways"
+ ],
+ "description": "A compilation of the first three Ninja Gaiden titles. This version features updated visuals and music with certain drawbacks and limitations, including non-configurable controls.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.7,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/252c6629-6502-4e6a-9b96-30794b20fc83.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/9/50969_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/9/50969_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

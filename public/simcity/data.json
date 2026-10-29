@@ -1,0 +1,63 @@
+{
+ "title": "SimCity",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "Aug 13, 1991",
+  "north_america": "August 23, 1991",
+  "pal": "September 24, 1992",
+  "first_release": "1991-08-13",
+  "usa": "Aug 13, 1991",
+  "europe": "Aug 13, 1991",
+  "france": "Aug 13, 1991",
+  "germany": "Aug 13, 1991"
+ },
+ "developer": [
+  "Maxis",
+  "Nintendo/Maxis",
+  "Intelligent Systems"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Strategy",
+  "City Building",
+  "Modern"
+ ],
+ "tags": [
+  "management",
+  "multidirectional",
+  "scrolling",
+  "simulation",
+  "strategy",
+  "topdown"
+ ],
+ "description": "The first installment in the highly acclaimed SimCity franchise by Maxis' Will Wright. The gameplay centers around developing and managing a city in a variety of scenarios using a combination of different zones and buildings.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": 3.84,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com//759d7746-bd99-4318-a9f7-323d50ca6cc8.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/2/51132_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/2/51132_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/3/51133_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/3/51133_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/1/51131_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/3/1/51131_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

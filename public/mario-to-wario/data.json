@@ -1,0 +1,31 @@
+{
+ "title": "Mario to Wario",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Aug 27, 1993"
+ },
+ "developer": [
+  "Game Freak"
+ ],
+ "publisher": [],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [],
+ "description": "Mario and Wario is a Miscellaneous game, developed by Game Freak and published by Nintendo,which was released in Japan in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/1/5/37715_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/5/37715_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

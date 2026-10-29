@@ -1,0 +1,52 @@
+{
+ "title": "Tin Star",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 1994",
+  "first_release": "1994-11",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Software Creations"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Light Gun"
+ ],
+ "tags": [
+  "action",
+  "behind",
+  "crosshair",
+  "shooter",
+  "singlescreen",
+  "superscope",
+  "western"
+ ],
+ "description": "A SNES on-rails shooter. Robot sheriff Tin Star is about to have a busy week in the frontier town of East Driftwood.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.58,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/7bdfd0fa-b906-45e1-b54d-e842e6adae10.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/2/51412_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

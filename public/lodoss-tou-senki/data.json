@@ -1,0 +1,47 @@
+{
+ "title": "Lodoss-tou Senki",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec 22, 1995"
+ },
+ "developer": [
+  "Thinking Rabbit",
+  "Hummingbird Soft"
+ ],
+ "publisher": [
+  "Kadokawa Shoten"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "fantasy",
+  "rpg",
+  "strategy",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A role-playing game in the Record of Lodoss War series. It saw an English fan translation in 2001.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/0/4/25404_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/4/25404_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

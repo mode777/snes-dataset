@@ -1,0 +1,45 @@
+{
+ "title": "Sports Illustrated Championship Football & Baseball",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "February 1994"
+ },
+ "developer": [
+  "Malibu Interactive",
+  "Malibu"
+ ],
+ "publisher": [
+  "Malibu Games"
+ ],
+ "genre": [
+  "Sports",
+  "General"
+ ],
+ "tags": [
+  "americanfootball",
+  "angle",
+  "baseball",
+  "behind",
+  "sports"
+ ],
+ "description": "A Sports Illustrated themed game featuring isometric football with playcalling and a traditional baseball simulation.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/4/2/46742_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

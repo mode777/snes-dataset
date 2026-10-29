@@ -1,0 +1,43 @@
+{
+ "title": "Ultima - Kyouryuu Teikoku",
+ "aliases": [
+  "Ultima: Kyouryuu Teikoku"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "July 28, 1995"
+ },
+ "developer": [
+  "ORIGIN Systems"
+ ],
+ "publisher": [
+  "Pony Canyon"
+ ],
+ "genre": [],
+ "tags": [
+  "fantasy",
+  "multidirectional",
+  "rpg",
+  "topdown",
+  "ultima",
+  "wanderer"
+ ],
+ "description": "Part of a spin-off series from Ultima, the Savage Empire sees the Avatar transported to a strange version filled with stone-age cultures, dinosaurs, and insectoid invaders.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

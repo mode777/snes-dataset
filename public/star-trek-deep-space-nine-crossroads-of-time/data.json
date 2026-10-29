@@ -1,0 +1,54 @@
+{
+ "title": "Star Trek: Deep Space Nine - Crossroads of Time",
+ "aliases": [
+  "Star Trek: Deep Space Nine – Crossroads of Time",
+  "Star Trek: Deep Space Nine: Crossroads of Time"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "September 1995",
+  "pal": "1995",
+  "usa": "September 1995",
+  "europe": "September 1995"
+ },
+ "developer": [
+  "Novotrade Software",
+  "Novotrade"
+ ],
+ "publisher": [
+  "Playmates Interactive Entertainment",
+  "Playmates Interactive"
+ ],
+ "genre": [
+  "Adventure",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "scifi",
+  "sideways",
+  "tv"
+ ],
+ "description": "An action-adventure platformer with a Star Trek theme. The crew of DS9 are under attack from terrorists, and Sisko might have to travel back to a traumatic moment of his past in order to save the future.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/6/2/48162_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/6/2/48162_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Astérix",
+ "aliases": [
+  "Asterix"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "Cancelled",
+  "pal": "May 30, 1993",
+  "first_release": "Canceled",
+  "europe": "Canceled"
+ },
+ "developer": [
+  "Infogrames"
+ ],
+ "publisher": [
+  "Infogrames"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "comic",
+  "multidirectional",
+  "platform",
+  "sideways"
+ ],
+ "description": "European exclusive platformer starring the indomitable Gaul, Astérix. It was released on all three Nintendo platforms of 1993: NES, Game Boy and SNES. US releases were planned but canceled.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English, German, Spanish, French"
+ ],
+ "gf_score": 3.29,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/6/5/0/1650_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/4/9/1649_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/4/9/1649_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

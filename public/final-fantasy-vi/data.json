@@ -1,0 +1,30 @@
+{
+ "title": "Final Fantasy VI",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Oct 20, 1994"
+ },
+ "developer": [
+  "SquareSoft"
+ ],
+ "publisher": [],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [],
+ "description": "Ages ago, evil beings created powerful creatures called Espers, and unleashed them against each other.The resulting battles left their world a smoldering rubble.Legend has it, the Espers destroyed themselves and most of humanity.Magic disappeared forever.Centuries have passed and a rational world now exists with Espers living only in myths, until one frozen solid since the ancient wars is unearthed.Suddenly, there are reports of magical attacks on civilians.Imperial Commandos launch raids using magic-powered MagiTek weapons.Magic is obviously alive and the world is in danger again.Who or what is behind the rediscovery and redeployment of this legendary power?What chaotic plans exists that will wreak havoc on this orderly world?",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/1/5/16615_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/1/5/16615_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

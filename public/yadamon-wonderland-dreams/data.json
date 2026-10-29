@@ -1,0 +1,38 @@
+{
+ "title": "Yadamon - Wonderland Dreams",
+ "aliases": [
+  "Yadamon: Wonderland Dreams"
+ ],
+ "year": 1993,
+ "release_dates": {},
+ "developer": [
+  "Sting"
+ ],
+ "publisher": [
+  "Tokuma Shoten Publishing"
+ ],
+ "genre": [],
+ "tags": [
+  "adventure",
+  "anime",
+  "pointandclick",
+  "puzzlesolving"
+ ],
+ "description": "Anime-based adventure game released in 1993 for the Super Famicom. Help the young witch Yadamon get home by solving a series of puzzles.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

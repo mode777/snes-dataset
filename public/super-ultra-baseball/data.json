@@ -1,0 +1,32 @@
+{
+ "title": "Super Ultra Baseball",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "December 1991"
+ },
+ "developer": [
+  "Culture Brain"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Arcade"
+ ],
+ "tags": [],
+ "description": "This is the ultimate baseball game! Precise pitching, Bulls-eye batting, and Awesome fielding! It's all under your control with simpler yet more sophisticated operation. With loads of features. You'll be an All Star! It is the ultimate baseball simulation you've dreamed of.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/2/2/51222_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/2/2/51222_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

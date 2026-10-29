@@ -1,0 +1,50 @@
+{
+ "title": "Whizz",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "November 1996",
+  "pal": "1997",
+  "europe": "November 1996",
+  "usa": "November 1996"
+ },
+ "developer": [
+  "Flair",
+  "Flair Software"
+ ],
+ "publisher": [
+  "Titus",
+  "Titus Software"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "3D"
+ ],
+ "tags": [
+  "isometric",
+  "multidirectional",
+  "platform",
+  "puzzle"
+ ],
+ "description": "An isometric platformer-puzzle game developed by Flair featuring a white rabbit in a magician's outfit racing to get through levels before time runs out.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/8/3/51483_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

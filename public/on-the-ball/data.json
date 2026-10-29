@@ -1,0 +1,49 @@
+{
+ "title": "On the Ball",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "europe": "November 1992",
+  "usa": "November 1992"
+ },
+ "developer": [
+  "Taito",
+  "Taito Corporation"
+ ],
+ "publisher": [
+  "Taito"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "ball",
+  "gravity",
+  "multidirectional",
+  "racing",
+  "topdown"
+ ],
+ "description": "An action/puzzle game originally developed by Taito Corporation for their F2 arcade system hardware. The player rotates a maze around a free-falling ball with the goal of guiding the ball out of the maze within a set time limit.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/8/9/50989_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/9/50989_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/8/50988_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

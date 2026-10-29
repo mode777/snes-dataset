@@ -1,0 +1,38 @@
+{
+ "title": "JWP Joshi Pro Wres - Pure Wrestle Queens",
+ "aliases": [
+  "JWP Joshi Pro Wres: Pure Wrestle Queens"
+ ],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Jaleco"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [],
+ "tags": [
+  "femaleprotagonist",
+  "sideways",
+  "sports",
+  "wrestling"
+ ],
+ "description": "Wrestling game developed by Jaleco in 1994. It is based on the all-women Joshi Pro Wrestling circuit and features multiple modes.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

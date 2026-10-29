@@ -1,0 +1,34 @@
+{
+ "title": "Soul Edge vs Samurai",
+ "aliases": [],
+ "year": null,
+ "release_dates": {},
+ "developer": [
+  "?"
+ ],
+ "publisher": [
+  "DVS Electronic"
+ ],
+ "genre": [],
+ "tags": [
+  "fighting",
+  "sideways",
+  "unlicensed"
+ ],
+ "description": "Soul Edge VS Samurai is an unlicensed fighting game for the SNES published by DVS Electronic Co. The developer is currently unknown.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

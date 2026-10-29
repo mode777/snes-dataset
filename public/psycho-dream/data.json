@@ -1,0 +1,46 @@
+{
+ "title": "Psycho Dream",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Canceled"
+ },
+ "developer": [
+  "Riot"
+ ],
+ "publisher": [
+  "Telenet"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "fighter",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Riot's side-scrolling platformer has the player exploring the dreams of a young girl who is trapped in a \"dream machine\". The game was only released in Japan (as \"Psycho Dream\") since the planned English version was cancelled.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/4/5/42745_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/5/42745_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

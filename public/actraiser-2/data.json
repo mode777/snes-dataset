@@ -1,0 +1,55 @@
+{
+ "title": "Actraiser 2",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-11",
+  "europe": "November 1993",
+  "usa": "November 1993"
+ },
+ "developer": [
+  "Quintet"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "fantasy",
+  "platform",
+  "rpg",
+  "sideways",
+  "strategy",
+  "tactic",
+  "topdown"
+ ],
+ "description": "An action platformer game and the sequel to ActRaiser. The sequel is more focused on action than its predecessor, removing the sim aspects.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": 3.13,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/3cad2175-898e-4492-865e-6001133a6c7b.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/1/22411_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/1/22411_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/0/22410_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/0/22410_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

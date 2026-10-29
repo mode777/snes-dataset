@@ -1,0 +1,50 @@
+{
+ "title": "Front Mission",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Feb 24, 1995",
+  "first_release": "1995-02-24"
+ },
+ "developer": [
+  "G-Craft"
+ ],
+ "publisher": [
+  "Squaresoft",
+  "Square"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Sci-Fi"
+ ],
+ "tags": [
+  "isometric",
+  "rpg",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "The first video game entry in the Front Mission franchise. Wanzer forces from the USN and OCU clash over Huffman Island, with the protagonist Royd Clive caught in the middle.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.18,
+ "metascore": 72,
+ "cover_urls": [
+  "https://images.launchbox-app.com/8129bfe2-a352-4d33-aca7-ef7bb8d50c10.png",
+  "https://gamefaqs.gamespot.com/a/box/7/4/2/19742_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/2/19742_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

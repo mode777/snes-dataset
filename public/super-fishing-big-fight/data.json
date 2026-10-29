@@ -1,0 +1,45 @@
+{
+ "title": "Super Fishing Big Fight",
+ "aliases": [
+  "Super Fishing: Big Fight"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 16, 1994"
+ },
+ "developer": [
+  "Geo Factory"
+ ],
+ "publisher": [
+  "Naxat Soft"
+ ],
+ "genre": [
+  "Sports",
+  "Nature",
+  "Fishing"
+ ],
+ "tags": [
+  "fishing",
+  "sports"
+ ],
+ "description": "A Super Famicom fishing game from Naxat Soft. Compete in angling competitions across Japan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/2/1/307021_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

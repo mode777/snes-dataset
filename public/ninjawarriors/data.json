@@ -1,0 +1,33 @@
+{
+ "title": "NinjaWarriors",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-02",
+  "usa": "February 1994"
+ },
+ "developer": [
+  "Natsume"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [],
+ "description": "The Ninja Warriors is a beat 'em up video game developed by Natsume for the Super Nintendo Entertainment System and published by Taito in Japan and North America in 1994 and by Titus in Europe in 1995. It is a follow-up to Taito's 1987 arcade game of the same title, and shares similar game play. The player can choose between playing as one of three ninja robots, each with different attributes and a unique set of moves including jumps, dashes, throws, and other attacks.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 4.05,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/14e7149d-af46-44aa-be75-8d713ae9c2e3.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/7/2/50972_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/7/2/50972_back.jpg"
+ ],
+ "sources": [
+  "opengamedb",
+  "openvgdb"
+ ]
+}

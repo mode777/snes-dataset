@@ -1,0 +1,31 @@
+{
+ "title": "P-Man",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "January 1996"
+ },
+ "developer": [
+  "Titus Software"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Prehistorik Man is an Action game, developed by Titus Software and published by Kemco,which was released in Japan in 1995.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/5/9/14759_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/9/14759_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

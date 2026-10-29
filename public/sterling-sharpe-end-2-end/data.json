@@ -1,0 +1,49 @@
+{
+ "title": "Sterling Sharpe - End 2 End",
+ "aliases": [
+  "Sterling Sharpe: End 2 End"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "March 1995",
+  "usa": "March 1995"
+ },
+ "developer": [
+  "Tose"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [
+  "americanfootball",
+  "angle",
+  "behind",
+  "sports"
+ ],
+ "description": "A football game for the Super Nintendo. NFL wide-receiver Sterling Sharpe, then of the Green Bay Packers, lends his likeness and name to the game.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/8/3/51183_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

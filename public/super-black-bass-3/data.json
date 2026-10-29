@@ -1,0 +1,43 @@
+{
+ "title": "Super Black Bass 3",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec 15, 1995"
+ },
+ "developer": [
+  "Starfish"
+ ],
+ "publisher": [
+  "Starfish"
+ ],
+ "genre": [
+  "Sports",
+  "Nature",
+  "Fishing"
+ ],
+ "tags": [
+  "fishing",
+  "sports"
+ ],
+ "description": "The third and final Super Black Bass competitive fishing game on the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/6/6/307166_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

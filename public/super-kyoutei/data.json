@@ -1,0 +1,50 @@
+{
+ "title": "Super Kyoutei",
+ "aliases": [
+  "Super Kyotei"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "June 30, 1995"
+ },
+ "developer": [
+  "Nihon Bussan",
+  "Nichibutsu"
+ ],
+ "publisher": [
+  "Nihon Bussan",
+  "Nichibutsu"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [
+  "gambling",
+  "motorboat",
+  "racing",
+  "simulation"
+ ],
+ "description": "A motorboat racing game that has a gambling/simulation angle to it.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/0/0/307100_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/0/0/307100_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Pinball Dreams",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "europe": "April 1994",
+  "usa": "April 1994"
+ },
+ "developer": [
+  "Digital Illusions",
+  "Spidersoft"
+ ],
+ "publisher": [
+  "GameTek"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Pinball"
+ ],
+ "tags": [
+  "competitive",
+  "hotseat",
+  "pinball",
+  "realistic",
+  "scrolling",
+  "topdown",
+  "vertical"
+ ],
+ "description": "A multi-table pinball simulator released for numerous systems.",
+ "description_source": "snes_csv",
+ "players": "1 - 8 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/8/6/46586_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/7/46587_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "title": "Equinox",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-03",
+  "usa": "March 1994",
+  "europe": "March 1994"
+ },
+ "developer": [
+  "Software Creations",
+  "Sony Music Entertainment"
+ ],
+ "publisher": [
+  "Sony Imagesoft"
+ ],
+ "genre": [
+  "Adventure",
+  "Third-Person",
+  "Fantasy"
+ ],
+ "tags": [
+  "action",
+  "angle",
+  "fantasy",
+  "platform",
+  "puzzlesolving"
+ ],
+ "description": "An isometric platforming game, and the sequel to Solstice. It features a series of progressively harder dungeons, as well as a number of weapons and spells that the player can use against their foes.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.17,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/2cf9b189-a584-4457-aea5-97c095f32d1b.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/7/5/50675_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/7/5/50675_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/7/6/50676_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/7/6/50676_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

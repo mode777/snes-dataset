@@ -1,0 +1,45 @@
+{
+ "title": "Higashio Osamu Kanshuu Super Pro Yakyuu Stadium",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Sep 30, 1993"
+ },
+ "developer": [
+  "C-Lab"
+ ],
+ "publisher": [
+  "Tokuma Shoten"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "baseball",
+  "behind",
+  "sports"
+ ],
+ "description": "A baseball game sponsored by Japanese Baseball Hall of Famer Osamu Higashio. It was developed by C-Lab and published by Tokuma Shoten in Japan only.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/6/4/306864_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

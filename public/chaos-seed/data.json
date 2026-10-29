@@ -1,0 +1,32 @@
+{
+ "title": "Chaos Seed",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "March 15, 1996",
+  "first_release": "1996-03-15"
+ },
+ "developer": [
+  "Neverland"
+ ],
+ "publisher": [
+  "Taito"
+ ],
+ "genre": [
+  "Strategy"
+ ],
+ "tags": [],
+ "description": "LitRPG, short for Literary Role Playing Game, is a literary genre combining the conventions of RPGs with science-fiction and fantasy novels. Games or game-like challenges form an essential part of the story and visible RPG statistics (for example strength, intelligence, damage) are a significant part of the reading experience. This is in contrast to GameLit, which involves game-like worlds but does not typically provide visible statistics.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 4.02,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/08c836ae-1b32-4ec6-bf88-1af1101b7cf1.png"
+ ],
+ "sources": [
+  "wikipedia",
+  "opengamedb"
+ ]
+}

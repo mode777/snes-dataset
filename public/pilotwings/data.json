@@ -1,0 +1,56 @@
+{
+ "title": "Pilotwings",
+ "aliases": [],
+ "year": 1990,
+ "release_dates": {
+  "japan": "Aug 13, 1991",
+  "north_america": "August 23, 1991",
+  "pal": "1992",
+  "first_release": "1991-08-13",
+  "usa": "Aug 13, 1991",
+  "europe": "Aug 13, 1991"
+ },
+ "developer": [
+  "Nintendo"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Simulation",
+  "Flight",
+  "Civilian Plane"
+ ],
+ "tags": [
+  "aviation",
+  "flight",
+  "simulation"
+ ],
+ "description": "A first-party flight simulation game for SNES featuring a variety of aerial vehicles and challenges.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.64,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/ece32b58-0547-47d5-b3f1-503c9538a394.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/1/3/51013_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/1/3/51013_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/1/2/51012_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/1/2/51012_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/1/4/51014_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/1/4/51014_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

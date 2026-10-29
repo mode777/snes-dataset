@@ -1,0 +1,55 @@
+{
+ "title": "Bubsy in Claws Encounters of the Furred Kind",
+ "aliases": [
+  "Bubsy in: Claws Encounters of the Furred Kind"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-05",
+  "europe": "May 1993",
+  "usa": "May 1993"
+ },
+ "developer": [
+  "Accolade",
+  "Solid Software"
+ ],
+ "publisher": [
+  "Accolade"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "animalprotagonist",
+  "collect",
+  "humor",
+  "jumper",
+  "platform"
+ ],
+ "description": "A wise-cracking anthromorphic bobcat tries to stop enemy aliens from stealing Earth's supply of yarn balls in this 2D platformer by Accolade. What could paws-ibly go wrong?",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 2.93,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/58419f0e-3de4-458b-964f-25c2542d29e6.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/6/22576_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/6/22576_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/5/22575_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/5/22575_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

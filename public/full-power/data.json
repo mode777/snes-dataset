@@ -1,0 +1,30 @@
+{
+ "title": "Full Power",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "January 1995"
+ },
+ "developer": [
+  "Gremlin Interactive"
+ ],
+ "publisher": [],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [],
+ "description": "Full Throttle All-America Racing is a Driving game, developed by Gremlin Interactive and published by Coconuts Japan,which was released in Japan in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/2/8/50728_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

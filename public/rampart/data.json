@@ -1,0 +1,49 @@
+{
+ "title": "Rampart",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "north_america": "August 1, 1992",
+  "usa": "August 1992"
+ },
+ "developer": [
+  "Atari",
+  "Bitmasters"
+ ],
+ "publisher": [
+  "Electronic Arts"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "arcade",
+  "placeshapes",
+  "raceagainsttime",
+  "shooter",
+  "singlescreen",
+  "topdown"
+ ],
+ "description": "Rampart is a blend of action and strategy, where you take turns building, defending, and attacking castles.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/9/2/10492_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/2/10492_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

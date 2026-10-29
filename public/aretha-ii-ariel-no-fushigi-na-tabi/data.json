@@ -1,0 +1,49 @@
+{
+ "title": "Aretha II - Ariel no Fushigi na Tabi",
+ "aliases": [
+  "Aretha II: Ariel no Fushigi na Tabi"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec2, 1994"
+ },
+ "developer": [
+  "Japan Art Media",
+  "Japan Art Media (JAM)"
+ ],
+ "publisher": [
+  "Yanoman"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A Japan-exclusive turn-based RPG game for the Super Famicom and Game Boy.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/5/0/43350_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/5/0/43350_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

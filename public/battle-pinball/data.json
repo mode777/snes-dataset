@@ -1,0 +1,46 @@
+{
+ "title": "Battle Pinball",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Feb 24, 1995"
+ },
+ "developer": [
+  "Banpresto"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Pinball"
+ ],
+ "tags": [
+  "pinball",
+  "reaction",
+  "topdown",
+  "vertical"
+ ],
+ "description": "A pinball Compati Hero Series game released in 1995 for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/3/2/31832_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/3/2/31832_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

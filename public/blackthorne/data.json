@@ -1,0 +1,47 @@
+{
+ "title": "Blackthorne",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-09",
+  "usa": "September 1994"
+ },
+ "developer": [
+  "Blizzard Entertainment"
+ ],
+ "publisher": [
+  "Interplay Productions"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Shoot everything in your quest to rightfully claim the throne of Androth in this early Blizzard platformer.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": 3.65,
+ "metascore": 67,
+ "cover_urls": [
+  "https://images.launchbox-app.com/0fea6fc3-f5ad-4b28-91bd-26db58c5e4ca.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/1/2/19312_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/1/2/19312_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Super Puyo Puyo Tsuu",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec8, 1995"
+ },
+ "developer": [
+  "Compile"
+ ],
+ "publisher": [
+  "Compile"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "Matching"
+ ],
+ "tags": [
+  "fallingblocks",
+  "puzzle",
+  "singlescreen",
+  "tilearrangement"
+ ],
+ "description": "Puyo Puyo 2, also known as \"Puyo Puyo Tsu\", is the second game in the Puyo Puyo series of tile-matching games.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/0/8/43408_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/8/43408_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

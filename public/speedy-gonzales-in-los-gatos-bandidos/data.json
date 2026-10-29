@@ -1,0 +1,38 @@
+{
+ "title": "Speedy Gonzales in Los Gatos Bandidos",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Sunsoft"
+ ],
+ "publisher": [
+  "Acclaim"
+ ],
+ "genre": [],
+ "tags": [
+  "cartoon",
+  "collector",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Based off the popular Looney Toons cartoon, Los Gatos Bandidos features side scrolling levels in which players run around at high speeds in a fashion similar to the Sonic series, rescuing mice brethren that have been captured by cats.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Konpeki no Kantai",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Nov2, 1995"
+ },
+ "developer": [
+  "Access"
+ ],
+ "publisher": [
+  "Angel"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "anime",
+  "manga",
+  "naval",
+  "strategy",
+  "tactic",
+  "wargame"
+ ],
+ "description": "Naval strategy game developed in 1995 that sees an alternate version of World War 2.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/5/0/307150_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

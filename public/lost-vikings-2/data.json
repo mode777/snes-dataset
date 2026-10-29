@@ -1,0 +1,34 @@
+{
+ "title": "Lost Vikings 2",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "first_release": "1997-05",
+  "usa": "May 1997"
+ },
+ "developer": [
+  "Blizzard Entertainment"
+ ],
+ "publisher": [],
+ "genre": [
+  "Puzzle",
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [],
+ "description": "The Lost Vikings 2 is a 1997 puzzle platform video game developed by Beam Software and published by Interplay. All versions of the game, except the SNES release, were titled Lost Vikings 2: Norse by Norsewest (Norse by Norse West: The Return of Lost Vikings in the U.S.). The sequel to The Lost Vikings, it features the original three characters plus two new playable characters: Fang the werewolf and Scorch the dragon. The gameplay remains largely the same, though the three Viking characters all have new or modified abilities.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 3.87,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/9ee9f926-1ff7-4960-bbad-6ef79446fd34.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/0/19580_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/0/19580_back.jpg"
+ ],
+ "sources": [
+  "opengamedb",
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "title": "Albert Odyssey",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Mar5, 1993"
+ },
+ "developer": [
+  "Tokai Engineering",
+  "Sunsoft"
+ ],
+ "publisher": [
+  "SUNSOFT"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A strategy RPG for the Super Famicom centered around the town of Guoto, and a war over the powerful and mysterious Key of Resurrection.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/0/9/50509_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/9/50509_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

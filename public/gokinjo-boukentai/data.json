@@ -1,0 +1,45 @@
+{
+ "title": "Gokinjo Boukentai",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "May 24, 1996"
+ },
+ "developer": [
+  "ITL"
+ ],
+ "publisher": [
+  "Pioneer LDC"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "cute",
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A Super Famicom RPG about a kindergartner who is tasked by God to rid her neighborhood of evil youkai.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/8/7/312587_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/7/312587_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

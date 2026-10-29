@@ -1,0 +1,48 @@
+{
+ "title": "ESPN Sunday Night NFL",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 10, 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Ringler Studios",
+  "Absolute Entertainment"
+ ],
+ "publisher": [
+  "Sony Imagesoft"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [
+  "americanfootball",
+  "angle",
+  "sports",
+  "vertical"
+ ],
+ "description": "A football game licensed by the Entertainment and Sports Programming Network and named for their 1987-2005 weekly TV series.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/8/3/50683_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

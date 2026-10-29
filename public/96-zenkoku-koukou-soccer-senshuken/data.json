@@ -1,0 +1,52 @@
+{
+ "title": "'96 Zenkoku Koukou Soccer Senshuken",
+ "aliases": [
+  "96 Zenkoku Koukou Soccer Senshuken",
+  "Zenkoku Koukou Soccer Senshuken '96"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "March 22, 1996"
+ },
+ "developer": [
+  "Magical Company",
+  "Magical Company (Mahou)"
+ ],
+ "publisher": [
+  "Magical Company"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "Japanese high school soccer video game. Produced by Mahou (Magical Company) and released in 1996.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/0/3/307203_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/0/3/307203_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "title": "From TV Animation Slam Dunk: SD Heat Up!!",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Oct 27, 1995"
+ },
+ "developer": [
+  "Tose"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Sim"
+ ],
+ "tags": [
+  "anime",
+  "basketball",
+  "sports"
+ ],
+ "description": "An anime license basketball sim, developed by TOSE and published by Bandai, which was released in Japan in 1995.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/0/4/31904_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/0/4/31904_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

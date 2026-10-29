@@ -1,0 +1,52 @@
+{
+ "title": "The Ren & Stimpy Show: Time Warp",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 1994",
+  "pal": "1994",
+  "europe": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Sculptured Software"
+ ],
+ "publisher": [
+  "THQ"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "beatemup",
+  "cartoon",
+  "collector",
+  "horizontal",
+  "shooter",
+  "sideways"
+ ],
+ "description": "In this Ren & Stimpy game released for the SNES, the gruesome twosome must travel through time to stop Muddy Mudskipper from changing history.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/6/0/51060_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/0/51060_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/5/9/51059_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

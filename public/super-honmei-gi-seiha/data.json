@@ -1,0 +1,36 @@
+{
+ "title": "Super Honmei - GI Seiha",
+ "aliases": [
+  "Super Honmei: GI Seiha"
+ ],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Nihon Bussan"
+ ],
+ "publisher": [
+  "Nihon Bussan"
+ ],
+ "genre": [],
+ "tags": [
+  "gambling",
+  "horseracing"
+ ],
+ "description": "A horseracing simulation game for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

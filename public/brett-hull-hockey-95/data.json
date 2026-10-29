@@ -1,0 +1,51 @@
+{
+ "title": "Brett Hull Hockey 95",
+ "aliases": [
+  "Brett Hull Hockey '95"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "usa": "January 1995",
+  "north_america": "January 1995"
+ },
+ "developer": [
+  "Radical Entertainment Inc.",
+  "Radical Entertainment"
+ ],
+ "publisher": [
+  "Accolade, Inc.",
+  "Accolade"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Ice Hockey",
+  "Arcade"
+ ],
+ "tags": [
+  "angle",
+  "icehockey",
+  "sports"
+ ],
+ "description": "A hockey game for 16-bit consoles headlined by the Canadian-American hockey legend Brett Hull. Followed the original Brett Hull Hockey released the previous year.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/6/6/24266_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/6/6/24266_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

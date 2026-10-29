@@ -1,0 +1,46 @@
+{
+ "title": "Dynamic Stadium",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Nov 26, 1993"
+ },
+ "developer": [
+  "Sammy",
+  "Electronics Application"
+ ],
+ "publisher": [
+  "Sammy",
+  "Sammy Corporation"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "baseball",
+  "sports"
+ ],
+ "description": "A baseball game for the Super Famicom developed by Electronics Application (Eleca). Notable for its comic book style visuals.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/7/6/306876_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

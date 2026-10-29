@@ -1,0 +1,52 @@
+{
+ "title": "X-Kaliber 2097",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-02",
+  "usa": "February 1994",
+  "europe": "February 1994"
+ },
+ "developer": [
+  "Fupac / Winds",
+  "Fupac"
+ ],
+ "publisher": [
+  "Activision"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "fighter",
+  "horizontal",
+  "platform",
+  "scifi",
+  "sideways"
+ ],
+ "description": "In the year 2097, the city of Neo New York is run by a tyrant named Raptor. It's up to Slash and his sword, the X-Kaliber, to stop Raptor and his army of Morphs in this futuristic brawler.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.12,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/bc0f6b71-2e1c-44c1-ba92-8e0812bc472e.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/5/51515_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/6/51516_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

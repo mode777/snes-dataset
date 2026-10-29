@@ -1,0 +1,51 @@
+{
+ "title": "Wayne's World",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "April 1993",
+  "pal": "1993",
+  "first_release": "1993-04",
+  "europe": "April 1993",
+  "usa": "April 1993"
+ },
+ "developer": [
+  "Gray Matter"
+ ],
+ "publisher": [
+  "THQ"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "horizontal",
+  "jumper",
+  "movie",
+  "platform",
+  "shooter",
+  "sideways",
+  "tv"
+ ],
+ "description": "Play as Wayne as he is sucked into a video game and forced to rescue his friend from a mysterious purple hand that keeps snatching him away. Rock your way through levels in places from backstage to a donut factory to save Garth.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 1.32,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/cab8f9c3-fb8f-4f2a-b374-0b73890aa331.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/3/5/46935_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/3/5/46935_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/3/4/46934_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

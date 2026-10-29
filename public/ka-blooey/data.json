@@ -1,0 +1,31 @@
+{
+ "title": "Ka-blooey",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "usa": "August 1992"
+ },
+ "developer": [
+  "Mirrorsoft"
+ ],
+ "publisher": [],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [],
+ "description": "It's a mind-blower! Welcome to the mind-blowing, bomb-throwing, brain-twisting world of KA-BLOOEY--where any button you push could lead you right to oblivion. You're a weird little bug-eyed spud in a land of exploding tiles, and only your knowledge of demolitions can save you from certain disaster. Use your strategic skill to set off the bombs, before they get you. Watch your step on a tile that's cracked--it's liable to break your back. And be sure not to blow it too soon. There are 130 levels before you make it to total safety!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/1/2/50812_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/1/2/50812_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

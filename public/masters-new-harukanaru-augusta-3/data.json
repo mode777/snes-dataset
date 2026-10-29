@@ -1,0 +1,49 @@
+{
+ "title": "Masters New - Harukanaru Augusta 3",
+ "aliases": [
+  "Masters New: Harukanaru Augusta 3",
+  "Harukanaru Augusta 3: Masters New"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "December 8, 1995"
+ },
+ "developer": [
+  "T&E Soft"
+ ],
+ "publisher": [
+  "T&E Soft"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Golf",
+  "Sim"
+ ],
+ "tags": [
+  "behind",
+  "golf",
+  "sports"
+ ],
+ "description": "A Japan-exclusive golf game and the sequel to Masters: Harukanaru Augusta 2",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/6/3/307163_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/6/3/307163_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

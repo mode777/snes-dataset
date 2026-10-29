@@ -1,0 +1,36 @@
+{
+ "title": "Downtown - Nekketsu Baseball Monogatari: Yakyuu de Shoubu da! Kunio-kun",
+ "aliases": [
+  "Downtown: Nekketsu Baseball Monogatari: Yakyuu de Shoubu da! Kunio-kun"
+ ],
+ "year": 1993,
+ "release_dates": {},
+ "developer": [
+  "Technos"
+ ],
+ "publisher": [
+  "Technos"
+ ],
+ "genre": [],
+ "tags": [
+  "baseball",
+  "sports"
+ ],
+ "description": "A baseball game with the Kunio-kun cast that spices up the action with some drop kicks and special attacks.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

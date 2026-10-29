@@ -1,0 +1,43 @@
+{
+ "title": "Marko's Magic Football",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "pal": "1995",
+  "europe": "1995"
+ },
+ "developer": [
+  "Domark"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A side-scrolling platformer featuring a kid and his magical soccer ball. Marko has to stop a mad scientist pumping any more dangerous mutation-causing sludge into the wildlife.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/1/0/93710_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

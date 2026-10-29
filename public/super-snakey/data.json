@@ -1,0 +1,30 @@
+{
+ "title": "Super Snakey",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "September 1994"
+ },
+ "developer": [
+  "Manley and Associates Inc."
+ ],
+ "publisher": [],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [],
+ "description": "Wild Snake is a Miscellaneous game, developed by Manley and Associates Inc. and published by Spectrum Holobyte,which was released in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/0/9/8909_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

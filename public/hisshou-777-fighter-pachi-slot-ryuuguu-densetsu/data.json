@@ -1,0 +1,39 @@
+{
+ "title": "Hisshou 777 Fighter - Pachi-Slot Ryuuguu Densetsu",
+ "aliases": [
+  "Hisshou 777 Fighter: Pachi-Slot Ryuuguu Densetsu"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "January 14, 1994"
+ },
+ "developer": [
+  "Jorudan"
+ ],
+ "publisher": [
+  "Vap"
+ ],
+ "genre": [],
+ "tags": [
+  "gambling",
+  "slotmachine"
+ ],
+ "description": "A pachi-slot (slot machine) simulator game for the Super Famicom. The title refers to the mythical Sea Dragon Palace of Japanese folklore.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

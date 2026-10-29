@@ -1,0 +1,43 @@
+{
+ "title": "Super Keiba 2",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "May 19, 1995"
+ },
+ "developer": [
+  "Tomcat System"
+ ],
+ "publisher": [
+  "I'MAX"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Horse Racing"
+ ],
+ "tags": [
+  "horseracing",
+  "sports"
+ ],
+ "description": "A horseracing game for the Super Famicom and the sequel to 1993's Super Keiba.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/8/4/307084_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

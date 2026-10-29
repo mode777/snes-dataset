@@ -1,0 +1,34 @@
+{
+ "title": "Soccer Kid",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "europe": "August 1994",
+  "japan": "August 1994"
+ },
+ "developer": [
+  "Krisalis Software"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "The Adventures of Kid Kleets is an Action game, developed by Krisalis Software and published by Yanoman,which was released in Japan in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/9/5/50495_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/5/50495_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/3/50493_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/3/50493_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

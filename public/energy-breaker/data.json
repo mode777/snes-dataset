@@ -1,0 +1,49 @@
+{
+ "title": "Energy Breaker",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Jul 26, 1996",
+  "first_release": "1996-07-26"
+ },
+ "developer": [
+  "Neverland"
+ ],
+ "publisher": [
+  "TAITO"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Fantasy"
+ ],
+ "tags": [
+  "isometric",
+  "rpg",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "A tactical RPG by Neverland for the SNES featuring character designs by Yasuhiro Nightow of Trigun fame. It utilizes a Tactics Ogre-style battle system but also allows the player to freely explore the world.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.0,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/77cc96a6-65af-40eb-8824-1800c1e0fd04.png",
+  "https://gamefaqs.gamespot.com/a/box/0/3/9/24039_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/9/24039_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

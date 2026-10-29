@@ -1,0 +1,37 @@
+{
+ "title": "Doom Troopers: Mutant Chronicles",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "Adrenalin Entertainment"
+ ],
+ "publisher": [
+  "Playmates Interactive Entertainment"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "horizontal",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "A bloody run-and-gun platformer based on the eponymous collectible card game.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

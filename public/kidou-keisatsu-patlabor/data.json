@@ -1,0 +1,50 @@
+{
+ "title": "Kidou Keisatsu Patlabor",
+ "aliases": [
+  "Kidō Keisatsu Patlabor"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "April 22, 1994"
+ },
+ "developer": [
+  "BEC",
+  "Interbec"
+ ],
+ "publisher": [
+  "Interbec",
+  "BEC"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "anime",
+  "manga",
+  "strategy",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A strategic fighter/action game featuring the large mechas of Patlabor. The player must keep the streets clean with their enormous Ingram mobile suit.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/1/7/24117_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/7/24117_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

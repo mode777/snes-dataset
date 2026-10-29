@@ -1,0 +1,49 @@
+{
+ "title": "J.League Super Soccer '95 - Jikkyou Stadium",
+ "aliases": [
+  "J.League Super Soccer '95 Jikkyou Stadium",
+  "J.League Super Soccer '95: Jikkyou Stadium"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 17, 1995"
+ },
+ "developer": [
+  "AI",
+  "A.I."
+ ],
+ "publisher": [
+  "Human",
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "Soccer game created by Hudson in 1995. The second in a series of three J-League games Hudson Soft published for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/6/0/307060_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/0/307060_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

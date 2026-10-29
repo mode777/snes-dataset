@@ -1,0 +1,49 @@
+{
+ "title": "Tales of Phantasia",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec 15, 1995",
+  "first_release": "1995-12-15"
+ },
+ "developer": [
+  "Wolf Team"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "The first entry in the \"Tales\" RPG series, Tales of Phantasia centers around a group of unwitting time travelers as they try to stop the Evil King Dhaos and reverse the decay of their world.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.22,
+ "metascore": 76,
+ "cover_urls": [
+  "https://images.launchbox-app.com/70fdee19-c5bf-429c-bfb2-0c9629aea129.png",
+  "https://gamefaqs.gamespot.com/a/box/2/0/7/20207_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/0/7/20207_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

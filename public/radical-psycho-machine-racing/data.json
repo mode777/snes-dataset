@@ -1,0 +1,37 @@
+{
+ "title": "Radical Psycho Machine Racing",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {},
+ "developer": [
+  "Silicon & Synapse"
+ ],
+ "publisher": [
+  "Interplay"
+ ],
+ "genre": [],
+ "tags": [
+  "angle",
+  "car",
+  "multidirectional",
+  "racing",
+  "sports"
+ ],
+ "description": "A Silicon & Synapse-developed action-racing game. As the precursor to Rock 'N Roll Racing, players can attack other racers to stall their advance, and earn money to buy and modify their cars.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

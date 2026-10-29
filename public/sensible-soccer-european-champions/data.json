@@ -1,0 +1,48 @@
+{
+ "title": "Sensible Soccer - European Champions",
+ "aliases": [
+  "Sensible Soccer: European Champions"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "europe": "June 1994"
+ },
+ "developer": [
+  "Sensible Software"
+ ],
+ "publisher": [
+  "Sony Imagesoft"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports",
+  "topdown"
+ ],
+ "description": "The 1993 improved version of Sensible Soccer with updated rosters. This is the version that would be ported to various consoles, such as the SNES.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "English, German, French, Italian"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/7/0/50070_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

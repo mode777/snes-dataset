@@ -1,0 +1,47 @@
+{
+ "title": "Super F1 Circus Limited",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Oct 23, 1992"
+ },
+ "developer": [
+  "Cream"
+ ],
+ "publisher": [
+  "Nichibutsu"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Formula One"
+ ],
+ "tags": [
+  "car",
+  "formulaone",
+  "racing",
+  "sports",
+  "topdown"
+ ],
+ "description": "A Formula 1 racing game and an enhanced version of Cream's earlier Super F1 Circus.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/0/5/306805_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/0/5/306805_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

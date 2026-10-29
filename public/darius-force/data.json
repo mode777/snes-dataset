@@ -1,0 +1,47 @@
+{
+ "title": "Darius Force",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "December 1993"
+ },
+ "developer": [
+  "Taito",
+  "Act Japan"
+ ],
+ "publisher": [
+  "Taito"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "horizontal",
+  "powerup",
+  "shootemup",
+  "shooter",
+  "sideways"
+ ],
+ "description": "A sci-fi horizontal shoot 'em up for the Super Nintendo. It is also known as Darius Force in Japan, and is part of Taito's Darius series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/0/9/25609_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/0/9/25609_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

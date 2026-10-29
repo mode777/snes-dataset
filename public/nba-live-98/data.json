@@ -1,0 +1,53 @@
+{
+ "title": "NBA Live 98",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "north_america": "November 1997",
+  "first_release": "1998-03",
+  "usa": "March 1998"
+ },
+ "developer": [
+  "Tiertex",
+  "EA Sports / Tiertex",
+  "Tiertex Design Studios"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "THQ"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Sim"
+ ],
+ "tags": [
+  "basketball",
+  "isometric",
+  "sports"
+ ],
+ "description": "The fourth game in EA Sport's annual basketball franchise, featuring Tim Hardaway (then of the Miami Heat) on the cover.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 4.07,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/4e280142-d56b-4e13-adf2-4aaae47e9c53.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/9/2/42292_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/9/2/42292_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

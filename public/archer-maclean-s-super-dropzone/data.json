@@ -1,0 +1,45 @@
+{
+ "title": "Archer Maclean's Super Dropzone",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "Cancelled",
+  "pal": "December 1995",
+  "europe": "December 1995"
+ },
+ "developer": [
+  "Eurocom",
+  "Eurocom Entertainment Software"
+ ],
+ "publisher": [
+  "Psygnosis"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "shooter",
+  "sideways"
+ ],
+ "description": "The sequel to the 1984 game Dropzone. As well as a graphical overhaul, the game now also features bosses and power-ups.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/3/4/64034_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/4/64034_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

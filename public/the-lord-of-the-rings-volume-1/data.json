@@ -1,0 +1,37 @@
+{
+ "title": "The Lord of the Rings: Volume 1",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Interplay"
+ ],
+ "publisher": [
+  "Interplay"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "angle",
+  "book",
+  "fantasy",
+  "rpg",
+  "wanderer"
+ ],
+ "description": "A SNES game based on the first book in the Lord of the Rings trilogy, The Fellowship of the Ring. It was the only game based on the novels that Interplay produced.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "title": "Galaxy Wars",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jan 13, 1995"
+ },
+ "developer": [
+  "Universal",
+  "C-Lab"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "action",
+  "arcade",
+  "singlescreen",
+  "topdown"
+ ],
+ "description": "A 1979 Arcade shoot 'em up in which the player guides missiles towards alien invaders, avoiding their projectiles and random asteroids along the way. Saw a Super Famicom revamp in 1995.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/3/4/307034_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/4/307034_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

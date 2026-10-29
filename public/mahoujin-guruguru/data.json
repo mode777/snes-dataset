@@ -1,0 +1,45 @@
+{
+ "title": "Mahoujin Guruguru",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Apr 21, 1995"
+ },
+ "developer": [
+  "TamTam"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "Anime-based RPG released for the Game Boy and Super Famicom. A sequel was released for the Super Famicom, and also \"Doki Doki Densetsu: Mahoujin Guruguru\" was released for the Game Boy Color.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/4/2/312542_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/2/312542_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

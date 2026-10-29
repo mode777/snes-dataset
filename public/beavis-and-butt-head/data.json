@@ -1,0 +1,54 @@
+{
+ "title": "Beavis and Butt-Head",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 1, 1994",
+  "pal": "1995",
+  "first_release": "1994-11",
+  "europe": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Realtime Associates, Inc.",
+  "Realtime Associates"
+ ],
+ "publisher": [
+  "Viacom New Media"
+ ],
+ "genre": [
+  "Action",
+  "Adventure",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "cartoon",
+  "horizontal",
+  "mtv",
+  "sideways"
+ ],
+ "description": "Help Beavis and Butt-head find tickets to attend the GWAR concert. The SNES version is a straight platformer, while the Genesis version more closely resembles a PC adventure game with some platforming and action elements.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.8,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/9dacdf67-4961-4aeb-9943-8cc909d83557.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/3/4/22534_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/3/4/22534_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

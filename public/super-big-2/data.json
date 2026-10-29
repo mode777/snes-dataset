@@ -1,0 +1,34 @@
+{
+ "title": "Super Big 2",
+ "aliases": [],
+ "year": 1999,
+ "release_dates": {},
+ "developer": [
+  "?"
+ ],
+ "publisher": [
+  "?"
+ ],
+ "genre": [],
+ "tags": [
+  "cards",
+  "unlicensed"
+ ],
+ "description": "Super Big 2 (Chinese Traditional: 黑桃2 or Hei Tao 2) is an unlicensed cartridge game based on the card game Big 2 popular in many Asian countries such as China and Taiwan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "zh"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

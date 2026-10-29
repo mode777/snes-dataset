@@ -1,0 +1,50 @@
+{
+ "title": "NBA Hang Time",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "first_release": "1996-11",
+  "usa": "November 1996",
+  "europe": "November 1996"
+ },
+ "developer": [
+  "Funcom"
+ ],
+ "publisher": [
+  "Midway"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Arcade"
+ ],
+ "tags": [
+  "arcade",
+  "basketall",
+  "horizontal",
+  "sideways",
+  "sports"
+ ],
+ "description": "NBA Hangtime is essentially the sequel to NBA Jam Tournament Edition. Midway continued the franchise after Acclaim took over the right to the Jam name.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 4.01,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/ee040b9e-f1c1-40e6-94d4-36afd3c22241.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/8/5488_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

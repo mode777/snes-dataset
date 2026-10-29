@@ -1,0 +1,49 @@
+{
+ "title": "Jeopardy: Sports Edition",
+ "aliases": [
+  "Jeopardy! Sports Edition",
+  "Jeopardy!: Sports Edition"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "May 1994",
+  "usa": "May 1994"
+ },
+ "developer": [
+  "Imagineering",
+  "Imagineering Inc"
+ ],
+ "publisher": [
+  "GameTek"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Trivia / Game Show"
+ ],
+ "tags": [
+  "gameshow",
+  "quiz",
+  "trivia",
+  "tv"
+ ],
+ "description": "Answer sports trivia in this adaptation of the popular game show.",
+ "description_source": "snes_csv",
+ "players": "1 - 3 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/3/9/46339_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

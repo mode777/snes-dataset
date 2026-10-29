@@ -1,0 +1,45 @@
+{
+ "title": "Kirby's Dream Land 3",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "first_release": "1997-11-27",
+  "usa": "November 1997"
+ },
+ "developer": [
+  "HAL Laboratory",
+  "HAL Labs"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cute",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Kirby and his friend Gooey notice a large dark cloud spreading over their peaceful planet of PopStar. Together, along with their six animal friends, they must stop this darkness before it consumes all of Dream Land.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.0,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/5379ad68-2998-45c7-b9f6-e3311b0f393c.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/2/8/19628_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "title": "The Tick",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "December 1994",
+  "first_release": "1994-12",
+  "usa": "December 1994"
+ },
+ "developer": [
+  "Software Creations"
+ ],
+ "publisher": [
+  "Fox Interactive"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "beatemup",
+  "cartoon",
+  "comic",
+  "fighter",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "A side-scrolling brawler based on the animated series of the same name. Developed by Software Creations and published by Fox Interactive, the game was released for the Genesis and Super Nintendo in 1994.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.63,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/3bf95de8-b5b8-43d6-946b-400dcd18b096.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/6/5/48265_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Farland Story",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Feb 24, 1995"
+ },
+ "developer": [
+  "Technical Group Laboratory",
+  "TGL"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Fantasy"
+ ],
+ "tags": [
+  "rpg",
+  "strategy",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A remake of the first two games in TGL's long-running Farland series of turn-based strategy RPGs combined together. The hero Arc is forced to rescue his beloved Ferio from the mysterious Black Knight.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/4/7/307047_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/4/7/307047_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "title": "WeaponLord",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "September 1995",
+  "pal": "1995",
+  "first_release": "1995-09",
+  "europe": "September 1995",
+  "usa": "September 1995"
+ },
+ "developer": [
+  "Visual Concepts"
+ ],
+ "publisher": [
+  "Namco",
+  "Namco (NA)Ocean Software (EU)"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "fantasy",
+  "fighting",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "Loosely inspired by the Conan the Barbarian-inspired dark fantasy comics of the '70s and '80s, WeaponLord is a 2D weapon-based fighting game where fierce barbarian warriors strike, parry, and counter-attack to become the new Weapon Lord.",
+ "description_source": "snes_csv",
+ "players": "1 - 8 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.85,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/24dc321e-0d08-4ae4-a836-e543a2bae51a.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/1/48391_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/1/48391_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/0/48390_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/0/48390_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

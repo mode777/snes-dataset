@@ -1,0 +1,40 @@
+{
+ "title": "Kaizou Choujin Shubibinman Zero",
+ "aliases": [
+  "Kaizou Chounin Shubibinman Zero"
+ ],
+ "year": 1997,
+ "release_dates": {},
+ "developer": [
+  "Masaya"
+ ],
+ "publisher": [
+  "NCS"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "fighter",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A Super Famicom game in the Shubibinman series available exclusively as a download via the Broadcast Satellaview satellite service in Japan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

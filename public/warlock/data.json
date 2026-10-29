@@ -1,0 +1,57 @@
+{
+ "title": "Warlock",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "March 1995",
+  "north_america": "March 1995",
+  "pal": "1994",
+  "first_release": "1995-03",
+  "usa": "March 1995",
+  "europe": "March 1995"
+ },
+ "developer": [
+  "Realtime Associates"
+ ],
+ "publisher": [
+  "LJN"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "movie",
+  "platform",
+  "puzzlesovle",
+  "sideways"
+ ],
+ "description": "A young Druid warrior must find the scattered runestones through time and across the world before the Warlock does. A side-scrolling video game adaptation of the 1993 movie Warlock: The Armageddon.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.88,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/r2_86dead35-b5f0-4772-8956-05aa51340d75.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/7/0/48370_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/6/9/48369_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/6/9/48369_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/7/1/48371_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/7/1/48371_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "title": "Terminator 2: Judgment Day",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "November 1993",
+  "pal": "1993",
+  "first_release": "1993-11",
+  "usa": "November 1993",
+  "europe": "November 1993"
+ },
+ "developer": [
+  "B.I.T.S",
+  "Bits Studios"
+ ],
+ "publisher": [
+  "LJN"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "The first of two home system games based on the 1991 movie of the same name. Unlike the Arcade on-rails shooter and its ports, this LJN/Ocean home version is a side-scrolling action game.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.29,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/9/2/4/32924_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/4/32924_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/5/32925_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

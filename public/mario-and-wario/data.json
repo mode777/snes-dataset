@@ -1,0 +1,26 @@
+{
+ "title": "Mario and Wario",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-08-27"
+ },
+ "developer": [],
+ "publisher": [],
+ "genre": [
+  "Puzzle"
+ ],
+ "tags": [],
+ "description": "Mario & Wario is a Marioside-scrolling puzzle video game designed by Satoshi Tajiri and developed by Game Freak for the Super Famicom console. The game was released in Japan on August 27, 1993 and requires the Super Famicom Mouse accessory to play. It is notable for being the first Mario game not released overseas. The gameplay of Mario & Wario focuses on guiding Mario, who has various objects placed atop his head by his nemesis Wario, through a series of levels consisting of various obstacles and traps. Because Mario has been rendered sightless and is constantly in danger of walking into hazards, the player controls the fairy Wanda, who can protect Mario by changing the environment around him as he moves towards the levels' end. The game offers a total of 100 levels and offers three playable characters.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 3.33,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/5d42e062-fcce-49f8-86ac-1dbff83802ff.jpg"
+ ],
+ "sources": [
+  "opengamedb"
+ ]
+}

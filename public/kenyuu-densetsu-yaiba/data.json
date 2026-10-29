@@ -1,0 +1,44 @@
+{
+ "title": "Kenyuu Densetsu Yaiba",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Mar 25, 1994"
+ },
+ "developer": [
+  "Atelier Double"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A Super Famicom JRPG based on the manga and anime of the same name about a young samurai in a modern city.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/9/4/30494_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/4/30494_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

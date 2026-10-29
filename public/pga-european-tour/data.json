@@ -1,0 +1,51 @@
+{
+ "title": "PGA European Tour",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "September 1996",
+  "pal": "December 1996",
+  "europe": "September 1996",
+  "usa": "September 1996"
+ },
+ "developer": [
+  "Halestorm",
+  "Electronic Arts"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "Black Pearl Software"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Golf",
+  "Sim"
+ ],
+ "tags": [
+  "behind",
+  "golf",
+  "intoscreen",
+  "sports"
+ ],
+ "description": "This PGA Tour side game features five courses from across Europe. It was released around the same time as PGA Tour III and features a similar level of production.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/0/7/51007_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

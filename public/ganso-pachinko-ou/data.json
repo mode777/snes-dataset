@@ -1,0 +1,44 @@
+{
+ "title": "Ganso Pachinko Ou",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 22, 1994"
+ },
+ "developer": [
+  "Coconuts Japan"
+ ],
+ "publisher": [
+  "Coconuts",
+  "Coconuts Japan"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "pachinko"
+ ],
+ "description": "A pachinko game for Super Famicom. One of a few to use a special Pachinko controller that emulates the dial the actual machines use to determine the strength of the ball launcher.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/3/1/307031_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "title": "Yoshi's Safari",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-09",
+  "europe": "September 1993",
+  "usa": "September 1993"
+ },
+ "developer": [
+  "Nintendo",
+  "TOSE"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Light Gun"
+ ],
+ "tags": [
+  "crosshair",
+  "firstperson",
+  "shooter",
+  "superscope"
+ ],
+ "description": "With Super Scope in hand, Mario travels atop Yoshi to defeat Bowser once again in this on-rails light-gun game.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.28,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/5e970aa9-3c8d-43ef-97b1-6876423902c3.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/4/51524_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/3/51523_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/3/51523_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

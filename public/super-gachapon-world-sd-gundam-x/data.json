@@ -1,0 +1,47 @@
+{
+ "title": "Super Gachapon World - SD Gundam X",
+ "aliases": [
+  "Super Gachapon World: SD Gundam X"
+ ],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Sep 18, 1992"
+ },
+ "developer": [
+  "BEC"
+ ],
+ "publisher": [
+  "Yutaka"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "anime",
+  "strategy",
+  "tactic",
+  "turnbased",
+  "wargame"
+ ],
+ "description": "SD Gundam X is a strategy game featuring various Gundam factions.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/4/0/26740_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/0/26740_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

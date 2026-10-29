@@ -1,0 +1,42 @@
+{
+ "title": "Dragon's Earth",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Jan 22, 1993"
+ },
+ "developer": [
+  "HUMAN",
+  "Human Entertainment"
+ ],
+ "publisher": [
+  "HUMAN",
+  "Human Entertainment"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "fantasy",
+  "strategy",
+  "tactical"
+ ],
+ "description": "A fantasy tactical strategy game for the Super Famicom from Human Entertainment.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/5/5/43355_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/5/5/43355_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

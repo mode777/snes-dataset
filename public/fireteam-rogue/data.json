@@ -1,0 +1,30 @@
+{
+ "title": "Fireteam Rogue",
+ "aliases": [],
+ "year": null,
+ "release_dates": {
+  "usa": "Canceled"
+ },
+ "developer": [
+  "Accolade"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Fireteam Rogue is an Action game, developed and published by Accolade,which was cancelled before it was released.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/5/5/83955_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

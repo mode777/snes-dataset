@@ -1,0 +1,47 @@
+{
+ "title": "Bushi Seiryuuden: Futari no Yuusha",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "japan": "Jan 17, 1997"
+ },
+ "developer": [
+  "Game Freak"
+ ],
+ "publisher": [
+  "T&E Soft"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "fantasy",
+  "platform",
+  "rpg",
+  "sideways",
+  "topdown"
+ ],
+ "description": "A tactical RPG featuring a player-named swordsman who is joined by a flying creature as he sets off to rescue his kidnapped sister. The game alternates from a top-down view, side-view and first-person view, and is one of Game Freak's few non-Pokémon games.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/1/1/43411_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/1/43411_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "title": "Yuujin Janjuu Gakuen",
+ "aliases": [
+  "Yuujin: Janjuu Gakuen"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "November 19, 1993"
+ },
+ "developer": [
+  "?",
+  "Varie"
+ ],
+ "publisher": [
+  "Varie"
+ ],
+ "genre": [],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "An anime-themed Mahjong game from Varie for the Super Famicom. Features artwork from prominent manga artist U-Jin.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "title": "NHL 98",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "north_america": "October 23, 1997",
+  "first_release": "1997-12",
+  "usa": "December 1997"
+ },
+ "developer": [
+  "Electronic Arts",
+  "THQ",
+  "Al Baker and Associates"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "EA Sports"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Ice Hockey",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "icehockey",
+  "sports",
+  "vertical"
+ ],
+ "description": "The 7th game of the NHL franchise from EA Sports. It was the last to be released on 16-bit systems.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 4.04,
+ "metascore": null,
+ "cover_urls": [
+  "https://i.postimg.cc/3wPJGmrf/6aed171a-747c-46c7-b64c-ad003cd2e211.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/5/5725_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

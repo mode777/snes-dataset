@@ -1,0 +1,43 @@
+{
+ "title": "George Foreman's KO Boxing",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "north_america": "September 1, 1992",
+  "usa": "September 1992",
+  "europe": "September 1992"
+ },
+ "developer": [
+  "Beam Software"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Boxing"
+ ],
+ "tags": [
+  "behind",
+  "boxing",
+  "sports"
+ ],
+ "description": "Featuring heavyweight champion George Foreman, this is a boxing simulation where players, taking the role of Foreman, go through a series of twelve rounds against different boxers to win the championship title belt.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/2/6/30926_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

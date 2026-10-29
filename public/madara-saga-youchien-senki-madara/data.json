@@ -1,0 +1,35 @@
+{
+ "title": "Madara Saga: Youchien Senki Madara",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {},
+ "developer": [
+  "Nexus Interact"
+ ],
+ "publisher": [
+  "Datam Polystar"
+ ],
+ "genre": [],
+ "tags": [
+  "adventure",
+  "anime",
+  "isometric",
+  "manga"
+ ],
+ "description": "A comedic adaptation of the Madara anime and manga that reimagines the demon hunter heroes as rambunctious kindergartners.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

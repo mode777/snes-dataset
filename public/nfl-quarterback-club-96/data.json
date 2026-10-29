@@ -1,0 +1,55 @@
+{
+ "title": "NFL Quarterback Club 96",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "November 1995",
+  "north_america": "November 1995",
+  "pal": "1995",
+  "usa": "November 1995",
+  "europe": "November 1995"
+ },
+ "developer": [
+  "Iguana",
+  "Iguana Entertainment"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [
+  "americanfootball",
+  "angle",
+  "sports"
+ ],
+ "description": "The third game in the NFL Quarterback Club series and the last to be released on 16-bit consoles.",
+ "description_source": "snes_csv",
+ "players": "1 - 5 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/4/6/35946_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/6/35946_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/7/35947_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/7/35947_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/5/35945_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

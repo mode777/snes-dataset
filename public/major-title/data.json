@@ -1,0 +1,32 @@
+{
+ "title": "Major Title",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "europe": "October 1992",
+  "japan": "October 1992"
+ },
+ "developer": [
+  "Irem"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Golf",
+  "Sim"
+ ],
+ "tags": [],
+ "description": "The Irem Skins Game is a Sports game, developed and published by Irem,which was released in 1992.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/4/1/51141_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

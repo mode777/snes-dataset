@@ -1,0 +1,29 @@
+{
+ "title": "Barbie Vacation Adventure",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "1994"
+ },
+ "developer": [
+  "Software Creations"
+ ],
+ "publisher": [],
+ "genre": [
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [],
+ "description": "Barbie: Vacation Adventure is a Miscellaneous game, developed by Software Creations and published by High Tech,which was released in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/5/4/37654_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

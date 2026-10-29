@@ -1,0 +1,43 @@
+{
+ "title": "Heisei Inu Monogatari Bow - Pop'n Smash!!",
+ "aliases": [
+  "Heisei Inu Monogatari Bow: Pop'n Smash!!"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Apr 28, 1994"
+ },
+ "developer": [
+  "?",
+  "Takara"
+ ],
+ "publisher": [
+  "TAKARA"
+ ],
+ "genre": [
+  "Sports",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "competitive",
+  "tennis",
+  "topdown"
+ ],
+ "description": "A Super Famicom competitive multiplayer game featuring Bow, the dog protagonist of the manga of the same name.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/1/0/312010_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

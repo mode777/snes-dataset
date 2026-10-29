@@ -1,0 +1,47 @@
+{
+ "title": "Battle Racers",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 17, 1995"
+ },
+ "developer": [
+  "Minato Giken",
+  "Banpresto"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [
+  "behind",
+  "intoscreen",
+  "mariokart",
+  "racing"
+ ],
+ "description": "Compati Hero Series racing game released in 1995 for the Super Famicom. Published by Banpresto.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/5/5/307055_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/5/5/307055_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

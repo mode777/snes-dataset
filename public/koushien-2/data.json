@@ -1,0 +1,45 @@
+{
+ "title": "Koushien 2",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Jun 26, 1992"
+ },
+ "developer": [
+  "Affect"
+ ],
+ "publisher": [
+  "K. Amusement Leasing",
+  "K Amusement Leasing"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "baseball",
+  "sports"
+ ],
+ "description": "Super Famicom baseball sim developed by Affect in 1992. It is the first sequel to the Famicom game Koushien.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/9/3/306793_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

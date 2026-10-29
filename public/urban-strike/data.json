@@ -1,0 +1,56 @@
+{
+ "title": "Urban Strike",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "November 1995",
+  "pal": "1995",
+  "first_release": "1995-11",
+  "usa": "November 1995",
+  "europe": "November 1995"
+ },
+ "developer": [
+  "Black Pearl Software",
+  "Granite Bay Software",
+  "Solid Software"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "Black Pearl Software"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "angle",
+  "helicopter",
+  "muktidirectional",
+  "shooter"
+ ],
+ "description": "A millionaire, former presidential candidate, and fanatic cult leader named H. R. Malone plans on toppling the government using a super weapon he is constructing.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.33,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/3c536b24-4858-4871-991c-e2d782753207.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/6/46926_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/7/46927_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/7/46927_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

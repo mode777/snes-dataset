@@ -1,0 +1,50 @@
+{
+ "title": "Tetris 2",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-08",
+  "europe": "August 1994",
+  "usa": "August 1994"
+ },
+ "developer": [
+  "Nintendo / R&D1 / Tose",
+  "TOSE"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Puzzle",
+  "Miscellaneous",
+  "Stacking"
+ ],
+ "tags": [
+  "fallingblocks",
+  "puzzle",
+  "realtime",
+  "singlescreen",
+  "tilearrangement"
+ ],
+ "description": "The falling blocks return for a sequel focused on color connection instead of the usual line filling.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.53,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/f22890c7-df88-4d35-a260-97561a9158d3.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/9/25309_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

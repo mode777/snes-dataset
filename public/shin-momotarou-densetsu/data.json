@@ -1,0 +1,46 @@
+{
+ "title": "Shin Momotarou Densetsu",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Dec 24, 1993"
+ },
+ "developer": [
+  "Hudson Soft",
+  "Hudson"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "The first and only entry of the Momotarou Densetsu RPG series to be released for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/9/0/306890_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/0/306890_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

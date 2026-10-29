@@ -1,0 +1,30 @@
+{
+ "title": "Chavez",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "January 1994"
+ },
+ "developer": [
+  "Malibu"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Boxing"
+ ],
+ "tags": [],
+ "description": "Riddick Bowe Boxing is a Sports game, developed by Malibu and published by Micronet,which was released in Japan in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/5/2/46652_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

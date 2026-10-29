@@ -1,0 +1,51 @@
+{
+ "title": "Tecmo Super Baseball",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "September 1994",
+  "north_america": "September 1994",
+  "usa": "September 1994"
+ },
+ "developer": [
+  "Sculptured Software",
+  "Tecmo"
+ ],
+ "publisher": [
+  "Tecmo"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "baseball",
+  "behind",
+  "sports"
+ ],
+ "description": "A MLBPA licensed baseball game released in 1994 for the SNES and SEGA Genesis.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/9/2/51392_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/2/51392_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/1/51391_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

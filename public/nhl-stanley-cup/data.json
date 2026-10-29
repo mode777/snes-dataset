@@ -1,0 +1,49 @@
+{
+ "title": "NHL Stanley Cup",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-11",
+  "usa": "November 1993"
+ },
+ "developer": [
+  "Sculptured Software"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Ice Hockey",
+  "Arcade"
+ ],
+ "tags": [
+  "behind",
+  "icehockey",
+  "multidirectional",
+  "sports"
+ ],
+ "description": "A hockey game licensed by the NHL employing a unique 3D-perspective.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, French"
+ ],
+ "gf_score": 3.03,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/7186c289-4abf-4395-8dbf-42b1705eddf3.png",
+  "https://gamefaqs.gamespot.com/a/box/9/6/6/50966_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/6/50966_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

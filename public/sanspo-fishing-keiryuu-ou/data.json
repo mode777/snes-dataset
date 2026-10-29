@@ -1,0 +1,36 @@
+{
+ "title": "Sanspo Fishing - Keiryuu Ou",
+ "aliases": [
+  "Sanspo Fishing: Keiryuu Ou"
+ ],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Lenar"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [],
+ "tags": [
+  "fishing",
+  "sports"
+ ],
+ "description": "A fishing game for the Super Famicom. The game focuses on mountain stream angling and the fish that can be caught in those regions.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

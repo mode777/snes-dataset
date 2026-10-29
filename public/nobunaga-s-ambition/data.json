@@ -1,0 +1,40 @@
+{
+ "title": "Nobunaga's Ambition",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "December 1993"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "General"
+ ],
+ "tags": [
+  "historical",
+  "strategy",
+  "tactic",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "The second game in Koei's Nobunaga's Ambition series of historical simulation-strategy games set in the warring states era of Japan, and the first to be released outside of Japan.",
+ "description_source": "snes_csv",
+ "players": "1 - 8 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/0/9/31309_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

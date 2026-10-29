@@ -1,0 +1,34 @@
+{
+ "title": "Disney's Pinocchio",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "December 20, 1996",
+  "north_america": "November 1, 1996",
+  "pal": "1996",
+  "first_release": "1996-11"
+ },
+ "developer": [
+  "Virgin Interactive"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action"
+ ],
+ "tags": [],
+ "description": "Disney's Pinocchio is a platform puzzle adventure game from Virgin Interactive. It was released in 1996 for the Game Boy, Super NES, and Sega Genesis and is based on Walt Disney's animated feature film Pinocchio, originally released in 1940.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 3.38,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/67948bd8-ff19-4b5b-a5b6-53981d7f22a2.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "opengamedb"
+ ]
+}

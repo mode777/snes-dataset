@@ -1,0 +1,52 @@
+{
+ "title": "Final Fight Guy",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "June 1994",
+  "north_america": "June 1, 1994",
+  "first_release": "1994-06",
+  "usa": "June 1994"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "beatemup",
+  "horizontal",
+  "progressive",
+  "sideways"
+ ],
+ "description": "Re-release of Final Fight.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.34,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/f8588d2d-c565-4d8c-9cb2-2b97472582c7.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/3/50703_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/3/50703_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/4/50704_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/4/50704_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "title": "Torneco no Daibouken: Fushigi no Dungeon",
+ "aliases": [
+  "Torneko no Daibōken: Fushigi no Dungeon",
+  "Torneko no Daibouken - Fushigi no Dungeon"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "September 19, 1993"
+ },
+ "developer": [
+  "Chunsoft"
+ ],
+ "publisher": [
+  "Chunsoft"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "fantasy",
+  "rpg",
+  "topdown"
+ ],
+ "description": "The first game in the Mystery Dungeon series starring Torneko Taloon, a character from Dragon Quest IV.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "openvgdb",
+  "wikipedia",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

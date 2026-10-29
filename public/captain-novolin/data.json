@@ -1,0 +1,52 @@
+{
+ "title": "Captain Novolin",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "north_america": "November 2, 1992",
+  "first_release": "1992-11",
+  "usa": "November 1992"
+ },
+ "developer": [
+  "Sculptured Software"
+ ],
+ "publisher": [
+  "raya systems"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "educational",
+  "health",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "Learn about diabetes in this educational platformer by assuming control of a diabetic superhero, whose task it is to save the mayor from alien abductors.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Spanish, French"
+ ],
+ "gf_score": 1.16,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/641c4e79-b57d-4958-aebf-ac367cedea2d.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/9/50569_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

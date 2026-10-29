@@ -1,0 +1,48 @@
+{
+ "title": "ESPN National Hockey Night",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "December 1, 1994",
+  "usa": "December 1994"
+ },
+ "developer": [
+  "Park Place Productions",
+  "Sony Imagesoft"
+ ],
+ "publisher": [
+  "Sony Imagesoft"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Ice Hockey",
+  "Arcade"
+ ],
+ "tags": [
+  "icehockey",
+  "sideways",
+  "sports",
+  "vertical"
+ ],
+ "description": "A hockey game released in 1994 licensed by both the NHL and ESPN. Very similar to the EA Sports hockey games of the era.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/5/9/47359_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

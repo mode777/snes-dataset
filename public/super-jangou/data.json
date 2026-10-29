@@ -1,0 +1,32 @@
+{
+ "title": "Super Jangou",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 17, 1995"
+ },
+ "developer": [
+  "Victor Interactive Software"
+ ],
+ "publisher": [
+  "Victor Interactive Software"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [],
+ "description": "Super Jangou is a Miscellaneous game, published by Victor Interactive Software,which was released in Japan in 1995.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/5/6/307056_front.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "openvgdb"
+ ]
+}

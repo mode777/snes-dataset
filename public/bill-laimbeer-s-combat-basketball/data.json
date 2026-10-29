@@ -1,0 +1,47 @@
+{
+ "title": "Bill Laimbeer's Combat Basketball",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "north_america": "December 1, 1991",
+  "first_release": "1991-11",
+  "usa": "November 1991"
+ },
+ "developer": [
+  "Hudson Soft",
+  "Hewson Consultants"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Sim"
+ ],
+ "tags": [
+  "basketball",
+  "futuristic",
+  "sports",
+  "topdown"
+ ],
+ "description": "Destroy the competition (literally) while playing basketball under the ownership of basketball's most dirtiest player!",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.32,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/4173e388-aee2-4008-b78b-b8ced9886b0e.png",
+  "https://gamefaqs.gamespot.com/a/box/5/4/9/22549_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

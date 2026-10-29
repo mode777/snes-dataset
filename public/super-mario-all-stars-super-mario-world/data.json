@@ -1,0 +1,55 @@
+{
+ "title": "Super Mario All-Stars + Super Mario World",
+ "aliases": [
+  "Super Mario All-Stars / Super Mario World",
+  "Super Mario All-Stars and Super Mario World"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "December 1994",
+  "pal": "1995",
+  "first_release": "1994-12-01",
+  "europe": "December 1994"
+ },
+ "developer": [
+  "Nintendo"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Compilation"
+ ],
+ "tags": [
+  "compilation",
+  "cute",
+  "fantasy",
+  "horizontal",
+  "jumponthings",
+  "powerup",
+  "scrolling"
+ ],
+ "description": "An updated version of Super Mario All-Stars bundled for a short period of time with the Super Nintendo Entertainment System from December 1994, featuring the inclusion of Super Mario World.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 4.57,
+ "metascore": null,
+ "cover_urls": [
+  "https://i.postimg.cc/cCGY61m8/4a6ea058-1483-4224-9c14-69bbc9420407.png",
+  "https://gamefaqs.gamespot.com/a/box/9/7/4/60974_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

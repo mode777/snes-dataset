@@ -1,0 +1,32 @@
+{
+ "title": "Super Kick Off",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Jul 22, 1993"
+ },
+ "developer": [
+  "Anco"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [],
+ "description": "Super Kick Off is a Sports game, developed by Anco and published by Misawa,which was released in Japan in 1992.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/8/3/31683_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/8/3/31683_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

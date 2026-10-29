@@ -1,0 +1,44 @@
+{
+ "title": "Thoroughbred Breeder",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Aug 27, 1993"
+ },
+ "developer": [
+  "Hect"
+ ],
+ "publisher": [
+  "Hector",
+  "Hect"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Horse Racing"
+ ],
+ "tags": [
+  "horseracing",
+  "management"
+ ],
+ "description": "The first game in a series of horse-raising and racing simulation games from Hect.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/2/0/31720_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

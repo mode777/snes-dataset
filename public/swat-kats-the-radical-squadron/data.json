@@ -1,0 +1,47 @@
+{
+ "title": "SWAT Kats: The Radical Squadron",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "August 21, 1995",
+  "usa": "August 1995"
+ },
+ "developer": [
+  "AIM"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "cartoon",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "A licensed platformer developed by AIM and published by Hudson Soft for the SNES. T-Bone and Razor are once again required to save Megakat City from some of its worst criminals.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/1/2/51112_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

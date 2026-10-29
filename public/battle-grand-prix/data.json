@@ -1,0 +1,52 @@
+{
+ "title": "Battle Grand Prix",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "April 1993",
+  "north_america": "April 20, 1993",
+  "usa": "April 1993"
+ },
+ "developer": [
+  "KID Corp.",
+  "KID"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Formula One"
+ ],
+ "tags": [
+  "car",
+  "formulaone",
+  "multidirectional",
+  "racing",
+  "sports",
+  "topdown"
+ ],
+ "description": "Hudson combined F1 racing with vehicular combat in the SNES release. Co-op mode, along with 3 difficulty levels could be enjoyed over the course of 19 indivdual tracks.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/2/4/50524_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/4/50524_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/5/50525_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

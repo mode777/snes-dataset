@@ -1,0 +1,41 @@
+{
+ "title": "New Yatterman - Nandai Kandai Yajirobee",
+ "aliases": [
+  "New Yatterman: Nandai Kandai Yajirobee"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "March 22, 1996"
+ },
+ "developer": [
+  "Tom Create"
+ ],
+ "publisher": [
+  "Yutaka"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "competitive",
+  "flipscreen",
+  "humour"
+ ],
+ "description": "Action game published by Yutaka in 1996 based on the Tatsunoko anime franchise Yatterman. Features gameplay similar to the Spy vs. Spy games.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

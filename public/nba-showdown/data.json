@@ -1,0 +1,45 @@
+{
+ "title": "NBA Showdown",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "October 1993"
+ },
+ "developer": [
+  "Electronic Arts"
+ ],
+ "publisher": [
+  "Electronic Arts"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Sim"
+ ],
+ "tags": [
+  "basketball",
+  "horizontal",
+  "sideways",
+  "sports"
+ ],
+ "description": "A basketball game and EA Sports' NBA title for the 1993 season. On the Sega Genesis it is known as NBA Showdown '94.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/5/6/50956_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

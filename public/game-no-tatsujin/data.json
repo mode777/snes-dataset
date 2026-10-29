@@ -1,0 +1,47 @@
+{
+ "title": "Game no Tatsujin",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Aug 11, 1995"
+ },
+ "developer": [
+  "Affect / Alpha-Beta / Itsui",
+  "Affect"
+ ],
+ "publisher": [
+  "SUNSOFT"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "gomoku",
+  "mahjong",
+  "reversi",
+  "shogi"
+ ],
+ "description": "A board game simulation game for the Super Famicom. It features modes for shogi, mahjong, gomoku and reversi.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/6/0/295760_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/0/295760_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

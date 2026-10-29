@@ -1,0 +1,48 @@
+{
+ "title": "Uniracers",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-12",
+  "usa": "December 1994"
+ },
+ "developer": [
+  "DMA Design"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Racing",
+  "Driving",
+  "Arcade"
+ ],
+ "tags": [
+  "horizontal",
+  "racing",
+  "sideways",
+  "unicycle"
+ ],
+ "description": "A 2D racing game developed by Rockstar North with unicycles which pick up speed by performing stunts and jumps. Some levels require a set amount of points by performing stunts in a limited time.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.73,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/f9971b8e-182c-4886-bb49-3dc9b9306bf6.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/1/51461_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/1/51461_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

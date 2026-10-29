@@ -1,0 +1,48 @@
+{
+ "title": "Super Air Diver 2",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar3, 1995"
+ },
+ "developer": [
+  "Copya System",
+  "Copya Systems"
+ ],
+ "publisher": [
+  "Asmik Ace",
+  "Asmik Ace Entertainment"
+ ],
+ "genre": [
+  "Simulation",
+  "Flight",
+  "Modern Jet"
+ ],
+ "tags": [
+  "action",
+  "behind",
+  "intoscreen",
+  "shooter"
+ ],
+ "description": "Japan-exclusive game released in 1995 for the Super Famicom. Sequel to Super Air Diver (known as Lock On in the US).",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/3/9/31839_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/3/9/31839_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

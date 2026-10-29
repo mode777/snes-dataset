@@ -1,0 +1,43 @@
+{
+ "title": "Super Momotarou Dentetsu II",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "Aug7, 1992"
+ },
+ "developer": [
+  "Make"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "partygame"
+ ],
+ "description": "A Super iteration in the Momotarou Dentetsu series of railway-based board games released for the PC Engine, Super Famicom, and Game Boy.",
+ "description_source": "snes_csv",
+ "players": "1 - 4",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/6/5/306365_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/6/5/306365_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

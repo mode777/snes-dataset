@@ -1,0 +1,52 @@
+{
+ "title": "Andre Agassi Tennis",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "May 1994",
+  "north_america": "May 31, 1994",
+  "usa": "May 1994"
+ },
+ "developer": [
+  "TecMagik Entertainment",
+  "Radiance Software",
+  "Radiance"
+ ],
+ "publisher": [
+  "Radiance Software",
+  "TecMagik"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Tennis"
+ ],
+ "tags": [
+  "angle",
+  "behind",
+  "sports",
+  "tennis"
+ ],
+ "description": "This is the first tennis game to use Andre Agassi's likeness. It came out for many Sega and Nintendo platforms.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/5/7/21257_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/5/7/21257_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/5/6/21256_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

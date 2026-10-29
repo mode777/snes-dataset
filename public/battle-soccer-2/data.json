@@ -1,0 +1,46 @@
+{
+ "title": "Battle Soccer 2",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Nov 25, 1994"
+ },
+ "developer": [
+  "Pandora Box"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "football",
+  "multidirectional",
+  "sports",
+  "topdown"
+ ],
+ "description": "?",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/0/9/307009_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

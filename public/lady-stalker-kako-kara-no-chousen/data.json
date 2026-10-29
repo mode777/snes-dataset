@@ -1,0 +1,48 @@
+{
+ "title": "Lady Stalker - Kako kara no Chousen",
+ "aliases": [
+  "Lady Stalker: Kako kara no Chousen"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Apr1, 1995"
+ },
+ "developer": [
+  "Climax",
+  "Climax Entertainment"
+ ],
+ "publisher": [
+  "TAITO"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "fantasy",
+  "isometric",
+  "rpg",
+  "wanderer"
+ ],
+ "description": "An isometric RPG, Lady Stalker was the sequel to the more adventure game focused LandStalker.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/9/9/25399_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/9/25399_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

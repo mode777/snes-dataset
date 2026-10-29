@@ -1,0 +1,41 @@
+{
+ "title": "Doraemon 2: Nobita no Toys Land Daibouken",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "December 17, 1993"
+ },
+ "developer": [
+  "Sakata SAS",
+  "Pop House/SAS Sakata"
+ ],
+ "publisher": [
+  "Epoch",
+  "Epoch Co."
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "manga",
+  "platform",
+  "sideways"
+ ],
+ "description": "A platformer with adventure games elements featuring the robotic cat Doraemon released for the Super Famicom by SAS Sakata. It follows Doraemon: Nobita to Yousei no Kuni.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

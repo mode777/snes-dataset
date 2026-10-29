@@ -1,0 +1,56 @@
+{
+ "title": "Sparkster",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "October 1994",
+  "north_america": "October 1, 1994",
+  "pal": "1994",
+  "first_release": "1994-10",
+  "usa": "October 1994",
+  "europe": "October 1994"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Sort of a spin-off game to the Genesis game known as Rocket Knight Adventures. A Genesis game was released at the same time but was a more direct sequel.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.77,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/dced1d64-19c4-4fca-abb1-42d75dfaa8aa.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/8/48128_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/8/48128_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/7/48127_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/9/48129_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/9/48129_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

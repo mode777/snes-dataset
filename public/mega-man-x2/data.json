@@ -1,0 +1,53 @@
+{
+ "title": "Mega Man X2",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-01-16",
+  "europe": "January 1995",
+  "usa": "January 1995"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "jumper",
+  "platform",
+  "scifi",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Despite the defeat of a powerful Maverick leader, Mega Man X (now the leader of the Maverick Hunters) keeps fighting new Mavericks (including the powerful \"X-Hunters\") while searching for the whereabouts of Zero in the second installment of the Mega Man X series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.18,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/ea8c4993-2be9-47a7-ae15-752b960412b1.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/4/50924_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/3/50923_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/3/50923_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

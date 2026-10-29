@@ -1,0 +1,54 @@
+{
+ "title": "Super Caesars Palace",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "October 21, 1993",
+  "north_america": "August 8, 1993",
+  "first_release": "1993-10",
+  "usa": "October 1993"
+ },
+ "developer": [
+  "Illusions Gaming Company, The",
+  "Illusion Softworks",
+  "Illusions Gaming Company"
+ ],
+ "publisher": [
+  "Virgin",
+  "Virgin Interactive"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "cards",
+  "casino",
+  "gambler",
+  "slotmachine"
+ ],
+ "description": "Super Caesar's Palace is a casino simulator with nine casino games, a small hub world, and some bad NPC conversations.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 2.89,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/fbd2ae79-61df-4e90-a273-88490e599003.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/5/8/51258_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/5/8/51258_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

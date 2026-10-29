@@ -1,0 +1,44 @@
+{
+ "title": "Thoroughbred Breeder II",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jun8, 1994"
+ },
+ "developer": [
+  "Hect"
+ ],
+ "publisher": [
+  "Hector",
+  "Hect"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Horse Racing"
+ ],
+ "tags": [
+  "horseracing",
+  "management"
+ ],
+ "description": "The second in a series of horse raising simulations from Hect.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/7/1/31771_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

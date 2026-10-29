@@ -1,0 +1,34 @@
+{
+ "title": "Undake30 Same Game",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {},
+ "developer": [
+  "Hudson Soft"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [],
+ "tags": [
+  "matchpairs",
+  "puzzle",
+  "tileremoval"
+ ],
+ "description": "Hudson's take on Same Game, including recognizable characters from their other games.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

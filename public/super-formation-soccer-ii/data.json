@@ -1,0 +1,50 @@
+{
+ "title": "Super Formation Soccer II",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Jun 11, 1993"
+ },
+ "developer": [
+  "Human",
+  "Human Entertainment"
+ ],
+ "publisher": [
+  "Human",
+  "Human Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "behind",
+  "football",
+  "intoscreen",
+  "soccer",
+  "sports"
+ ],
+ "description": "A Super Famicom soccer game from Human Entertainment and the sequel to the original Super Formation Soccer, which was known in Europe and the US as Super Soccer.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/4/9/306849_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/9/306849_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

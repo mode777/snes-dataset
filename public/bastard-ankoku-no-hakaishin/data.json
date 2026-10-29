@@ -1,0 +1,50 @@
+{
+ "title": "Bastard!! Ankoku no Hakaishin",
+ "aliases": [
+  "Bastard!!: Ankoku no Hakaishin"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jan 28, 1994"
+ },
+ "developer": [
+  "Cobra Team"
+ ],
+ "publisher": [
+  "Kazushi Hagiwara / Shueisha"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "anime",
+  "behind",
+  "fighter",
+  "intoscreen",
+  "manga",
+  "shooter",
+  "singlescreen"
+ ],
+ "description": "A fighter game released for the Super Famicom in 1994. It is based on the heavy metal-inspired manga and anime of the same name.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/1/5/24215_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/1/5/24215_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

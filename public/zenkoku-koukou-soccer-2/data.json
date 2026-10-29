@@ -1,0 +1,50 @@
+{
+ "title": "Zenkoku Koukou Soccer 2",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Nov 17, 1995"
+ },
+ "developer": [
+  "Syscom Entertainment",
+  "Nihon Syscom",
+  "Syscom"
+ ],
+ "publisher": [
+  "Yojigen"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "Soccer video game released for the Super Famicom. Second title from the Zenkoku Koukou Soccer series.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/7/2/311472_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/7/2/311472_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "title": "Dream T.V.",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "April 1994"
+ },
+ "developer": [
+  "Triffix"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [],
+ "description": "Dream T.V. is an Action game, developed and published by Triffix,which was released in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/6/0/50660_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

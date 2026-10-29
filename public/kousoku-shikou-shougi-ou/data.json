@@ -1,0 +1,39 @@
+{
+ "title": "Kousoku Shikou Shougi Ou",
+ "aliases": [
+  "Kousoku Shikou: Shougi Ou"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "March 24, 1995"
+ },
+ "developer": [
+  "Access"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [],
+ "tags": [
+  "boardgame",
+  "shogi"
+ ],
+ "description": "A shogi game developed by Access in 1995.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

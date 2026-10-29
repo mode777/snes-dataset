@@ -1,0 +1,44 @@
+{
+ "title": "Dokapon Gaiden: Honoo no Audition",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec1, 1995"
+ },
+ "developer": [
+  "Earthly Soft"
+ ],
+ "publisher": [
+  "Asmik",
+  "Asmik Ace Entertainment"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "boardgame",
+  "rpg"
+ ],
+ "description": "The third entry in the Dokapon series of RPG styled boardgames.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/1/5/31915_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/5/31915_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

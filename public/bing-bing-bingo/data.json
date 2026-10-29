@@ -1,0 +1,45 @@
+{
+ "title": "Bing Bing! Bingo",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Dec 22, 1993"
+ },
+ "developer": [
+  "Copya System",
+  "Copya Systems"
+ ],
+ "publisher": [
+  "KSS"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "bingo",
+  "gambling",
+  "slotmachine"
+ ],
+ "description": "Bingo-based mini-game collection released in 1993 for the Super Famicom. Developed by Copya System and published by KSS.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/9/6/312596_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/6/312596_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

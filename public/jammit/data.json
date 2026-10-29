@@ -1,0 +1,40 @@
+{
+ "title": "Jammit",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 1994"
+ },
+ "developer": [
+  "GTE Vantage",
+  "GTE Interactive Media"
+ ],
+ "publisher": [
+  "GTE Entertainment",
+  "GTE Interactive Media"
+ ],
+ "genre": [],
+ "tags": [
+  "basketball",
+  "horizontal",
+  "sideways",
+  "sports"
+ ],
+ "description": "Don't get cocky! Flaunt it, taunt it, shove it, pick it, slam it, keep it, face it...Jammit is a street basketball game chock full of 90s attitude and swagger.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

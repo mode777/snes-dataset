@@ -1,0 +1,36 @@
+{
+ "title": "Oozumou Spirits",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {},
+ "developer": [
+  "Sun L"
+ ],
+ "publisher": [
+  "TAKARA"
+ ],
+ "genre": [],
+ "tags": [
+  "horizontal",
+  "sideways",
+  "sports",
+  "sumotori"
+ ],
+ "description": "Sumo wrestling game from Sun L and Takara. Players train their sumo incrementally while fighting other wrestlers.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

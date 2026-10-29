@@ -1,0 +1,31 @@
+{
+ "title": "ActRaiser 2: Chinmoku e no Seisen",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "November 1993"
+ },
+ "developer": [
+  "Quintet"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "The Destroyer is back... Amazing graphics, spellbinding music, 100% action adventure, all taking place in a universe of ghouls and furies! Dive into the dream... or the nightmare!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/0/9/22409_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/9/22409_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

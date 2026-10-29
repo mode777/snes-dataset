@@ -1,0 +1,31 @@
+{
+ "title": "Puzzle Bobble",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "March 1995"
+ },
+ "developer": [
+  "Taito Corporation"
+ ],
+ "publisher": [],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "Matching"
+ ],
+ "tags": [],
+ "description": "Which will burst first: your concentration or the level you're working on? It takes more than just swinging the bubble-turret and taking aim on the falling ceiling; tactical planning and mental dexterity are the only way to string together three or more bubbles and 100 wins to make it through all the bubble and ego-bursting rounds of Bust-A-Move!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/1/4/20714_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/4/20714_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

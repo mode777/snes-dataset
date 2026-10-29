@@ -1,0 +1,35 @@
+{
+ "title": "Emit Vol. 2: Inochigake no Tabi",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [],
+ "tags": [
+  "adventure",
+  "fisrtperson",
+  "visualnovel"
+ ],
+ "description": "The second part in a series of adventure games developed under Koei's \"English Dream\" label. Yuri continues to unlock the secrets of the tunnel in the bookstore's basement, including meeting another version of herself.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "title": "Kyle Petty's No Fear Racing",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "usa": "April 1995"
+ },
+ "developer": [
+  "Leland Interactive Media"
+ ],
+ "publisher": [
+  "Williams"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "indycar",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "Based loosely on the popular sport of NASCAR. Players can race against real stock car drivers from the era on fantasy tracks, or build their own.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/7/8/319078_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

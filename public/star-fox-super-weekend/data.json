@@ -1,0 +1,37 @@
+{
+ "title": "Star Fox: Super Weekend",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {},
+ "developer": [
+  "Argonaut Software / Nintendo"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [],
+ "tags": [
+  "behind",
+  "competition",
+  "event",
+  "scifi",
+  "shooter"
+ ],
+ "description": "The Super Star Fox Weekend was a contest run by Nintendo to promote the release of Star Fox. A similar contest was held in Europe. The competition occurred at approximately 1500 to 2000 locations. This game was produced in small quantities for the purpose of the contest, making this one of the rarest SNES games released.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

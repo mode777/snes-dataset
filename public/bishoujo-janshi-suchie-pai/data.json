@@ -1,0 +1,44 @@
+{
+ "title": "Bishoujo Janshi Suchie-Pai",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Jul 30, 1993"
+ },
+ "developer": [
+  "Jaleco",
+  "DCE"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "?",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/5/5/306855_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/5/306855_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

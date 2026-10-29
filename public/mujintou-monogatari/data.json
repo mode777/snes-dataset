@@ -1,0 +1,45 @@
+{
+ "title": "Mujintou Monogatari",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jan 26, 1996"
+ },
+ "developer": [
+  "Mediamuse",
+  "Open Sesame"
+ ],
+ "publisher": [
+  "KSS"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "adventure",
+  "firstperson",
+  "survival"
+ ],
+ "description": "An adventure/survival game released for Japanese computers and the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/8/6/307186_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/6/307186_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

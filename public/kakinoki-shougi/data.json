@@ -1,0 +1,42 @@
+{
+ "title": "Kakinoki Shougi",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep1, 1995"
+ },
+ "developer": [
+  "SAS Sakata"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "shogi"
+ ],
+ "description": "Shogi software developed by Yoshikazu Kakinoki that was released on various systems in 1995. Later saw many sequels for mobile devices.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/2/2/296422_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "title": "Pac-In-Time",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "January 1995",
+  "north_america": "January 1995",
+  "pal": "December 1994",
+  "europe": "January 1995",
+  "usa": "January 1995"
+ },
+ "developer": [
+  "Atreid Concept",
+  "Kalisto Entertainment",
+  "Atreid Concept SA"
+ ],
+ "publisher": [
+  "Mindscape / Namco",
+  "Namco"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "collector",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Guide Pac-Man through five worlds with an assortment of gadgets in this side-scrolling platformer.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/6/7/46567_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/6/46566_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/6/46566_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/5/46565_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

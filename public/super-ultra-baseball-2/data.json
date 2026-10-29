@@ -1,0 +1,43 @@
+{
+ "title": "Super Ultra Baseball 2",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jul 28, 1994"
+ },
+ "developer": [
+  "Culture Brain"
+ ],
+ "publisher": [
+  "Culture Brain"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Arcade"
+ ],
+ "tags": [
+  "baseball",
+  "sports"
+ ],
+ "description": "A baseball game from Culture Brain and part of their Ultra Baseball series, known in the US as Baseball Simulator 1.000. Features a mode that contains super-powered athletes.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/4/7/306947_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

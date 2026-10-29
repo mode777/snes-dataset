@@ -1,0 +1,50 @@
+{
+ "title": "Super Conflict",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "March 1993",
+  "pal": "1994",
+  "usa": "March 1993",
+  "europe": "March 1993"
+ },
+ "developer": [
+  "Manley & Associates",
+  "Vic Tokai",
+  "Manley and Associates Inc."
+ ],
+ "publisher": [
+  "Vic Tokai"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "strategy",
+  "tactic",
+  "topdown",
+  "wargame"
+ ],
+ "description": "Super Conflict is a SNES turn-based strategy game where the player controls a field commander during a Gulf War like conflict. The player controls a blue American army in a war against a red Soviet army.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/6/0/51260_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/6/0/51260_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

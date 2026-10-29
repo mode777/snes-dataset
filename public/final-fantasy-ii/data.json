@@ -1,0 +1,49 @@
+{
+ "title": "Final Fantasy II",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "first_release": "1991-11-23",
+  "usa": "Nov 23, 1991"
+ },
+ "developer": [
+  "Square",
+  "SquareSoft"
+ ],
+ "publisher": [
+  "Square"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "Final Fantasy II is a critically acclaimed RPG in the Final Fantasy series and one of the first of its kind to tell a heavily character-driven story. It also created the Active Time Battle system.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.28,
+ "metascore": 85,
+ "cover_urls": [
+  "https://i.postimg.cc/bYLFDdWh/dd23eb36-6399-442e-b7a8-4e683f3249eb.png",
+  "https://gamefaqs.gamespot.com/a/box/6/2/1/3621_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/2/1/3621_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

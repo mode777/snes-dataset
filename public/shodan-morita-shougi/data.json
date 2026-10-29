@@ -1,0 +1,43 @@
+{
+ "title": "Shodan Morita Shougi",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "Aug 23, 1991"
+ },
+ "developer": [
+  "Khaos",
+  "Seta Corporation"
+ ],
+ "publisher": [
+  "SETA"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Party"
+ ],
+ "tags": [
+  "boardgame",
+  "shogi"
+ ],
+ "description": "A shogi game by Seta Corporation for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/7/7/306777_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

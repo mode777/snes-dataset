@@ -1,0 +1,58 @@
+{
+ "title": "Virtual Bart",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "September 1994",
+  "north_america": "September 26, 1994",
+  "pal": "1994",
+  "first_release": "1994-09",
+  "europe": "September 1994",
+  "usa": "September 1994"
+ },
+ "developer": [
+  "Sculptured Software"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "behind",
+  "cartoon",
+  "horizontal",
+  "intoscreen",
+  "platform",
+  "racing",
+  "sideways"
+ ],
+ "description": "Bart Simpson travels through a series of six virtual worlds after visiting Martin's virtual reality exhibition.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.68,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/3a0b8294-07b4-4d2a-841f-154123e95cf2.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/9/4/48094_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/9/4/48094_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/9/2/48092_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/9/3/48093_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "title": "Chester Cheetah: Wild Wild Quest",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "March 1, 1994",
+  "usa": "March 1994"
+ },
+ "developer": [
+  "Kaneko"
+ ],
+ "publisher": [
+  "Kaneko"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "Chester Cheetah: Wild Wild Quest is the sequel to Chester Cheetah: Too Cool to Fool in the series based on the Frito-Lay mascot: Chester Cheetah.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/9/2/47192_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

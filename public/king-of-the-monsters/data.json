@@ -1,0 +1,57 @@
+{
+ "title": "King of the Monsters",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "October 1992",
+  "north_america": "October 1, 1992",
+  "pal": "1992",
+  "first_release": "1992-10",
+  "usa": "October 1992",
+  "europe": "October 1992"
+ },
+ "developer": [
+  "SNK",
+  "Genki"
+ ],
+ "publisher": [
+  "TAKARA"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "fighting",
+  "horizontal",
+  "sideways",
+  "wrestling"
+ ],
+ "description": "Giant beasts demolish Japanese cities while grappling each other in this kaiju-themed arcade game by SNK.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 2.95,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/832dc384-c5ef-4666-94d9-739fbf751294.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/8/2/47682_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/8/3/47683_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/8/3/47683_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/8/1/47681_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

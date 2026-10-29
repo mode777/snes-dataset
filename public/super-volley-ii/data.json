@@ -1,0 +1,30 @@
+{
+ "title": "Super Volley II",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "June 1994"
+ },
+ "developer": [
+  "Video System"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Volleyball"
+ ],
+ "tags": [],
+ "description": "Hyper V-Ball is a Sports game, developed and published by Video System,which was released in Japan in 1992.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/7/3/50773_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

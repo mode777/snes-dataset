@@ -1,0 +1,45 @@
+{
+ "title": "Dun Quest: Majin Fuuin no Densetsu",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jul 21, 1995"
+ },
+ "developer": [
+  "Technos",
+  "Technos Japan"
+ ],
+ "publisher": [
+  "Technos"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "fantasy",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "A top-down action RPG for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/1/0/307110_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "title": "Romancing Sa-Ga 3",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Nov 11, 1995"
+ },
+ "developer": [
+  "SquareSoft"
+ ],
+ "publisher": [],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [],
+ "description": "Romancing Sa-Ga 3 is a Role-Playing game, developed and published by SquareSoft,which was released in Japan in 1995.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/9/4/51094_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/9/4/51094_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

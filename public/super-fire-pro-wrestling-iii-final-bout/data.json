@@ -1,0 +1,37 @@
+{
+ "title": "Super Fire Pro Wrestling III - Final Bout",
+ "aliases": [
+  "Super Fire Pro Wrestling III: Final Bout"
+ ],
+ "year": 1993,
+ "release_dates": {},
+ "developer": [
+  "HUMAN"
+ ],
+ "publisher": [
+  "HUMAN"
+ ],
+ "genre": [],
+ "tags": [
+  "isometric",
+  "sports",
+  "wrestling"
+ ],
+ "description": "The third Super Famicom game in Human's highly technical wrestling series. It was re-released the following year with easier controls as \"Super Fire Pro Wrestling III: Easytype\".",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

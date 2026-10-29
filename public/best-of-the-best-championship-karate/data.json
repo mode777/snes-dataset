@@ -1,0 +1,52 @@
+{
+ "title": "Best of the Best Championship Karate",
+ "aliases": [
+  "Best of the Best: Championship Karate"
+ ],
+ "year": 1992,
+ "release_dates": {
+  "europe": "November 1992",
+  "usa": "November 1992"
+ },
+ "developer": [
+  "Futura",
+  "Loriciels"
+ ],
+ "publisher": [
+  "Electro Brain Corp."
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "fighting",
+  "kickboxing",
+  "martialarts",
+  "sideways",
+  "singlescreen",
+  "sports"
+ ],
+ "description": "A martial arts fighting game released early in the SNES/Genesis era. It is known in Japan as Super Kick Boxing, and in Europe as Andre Panza Kick Boxing.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/4/1/22541_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/1/22541_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/0/22540_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

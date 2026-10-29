@@ -1,0 +1,50 @@
+{
+ "title": "Magical Taruruuto-kun - Magic Adventure",
+ "aliases": [
+  "Magical Taruruuto-kun: Magic Adventure"
+ ],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Mar 28, 1992"
+ },
+ "developer": [
+  "Game Freak",
+  "Tose"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "jumper",
+  "manga",
+  "platform",
+  "sideways"
+ ],
+ "description": "Action platformer and one of several games based on a serialized comedy manga named Magical Taluluto. It was published by Bandai on the Super Famicom in 1992.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/5/3/31653_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/3/31653_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

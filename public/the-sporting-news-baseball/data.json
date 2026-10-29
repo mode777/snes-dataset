@@ -1,0 +1,46 @@
+{
+ "title": "The Sporting News Baseball",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "June 1995"
+ },
+ "developer": [
+  "Hudson Soft",
+  "Now Production"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "baseball",
+  "behind",
+  "sports"
+ ],
+ "description": "Baseball game published by Hudson Soft. A popular newspaper/magazine company 'The Sporting News' invested in the game",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/7/1/51171_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

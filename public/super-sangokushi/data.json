@@ -1,0 +1,46 @@
+{
+ "title": "Super Sangokushi",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Aug 12, 1994"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "book",
+  "historical",
+  "mapbased",
+  "strategy",
+  "topdown",
+  "war"
+ ],
+ "description": "The first game in Koei's long-running strategy game series, based on the Chinese historical novel of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/6/3/306963_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

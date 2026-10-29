@@ -1,0 +1,44 @@
+{
+ "title": "Super Jinsei Game 2",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep8, 1995"
+ },
+ "developer": [
+  "KID Corp.",
+  "Takara",
+  "Kid"
+ ],
+ "publisher": [
+  "TAKARA"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame"
+ ],
+ "description": "A virtual adaptation of The Game of Life board game. The second of three official adaptations made for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/0/7/312007_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/0/7/312007_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

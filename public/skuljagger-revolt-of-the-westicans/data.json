@@ -1,0 +1,46 @@
+{
+ "title": "Sküljagger: Revolt of the Westicans",
+ "aliases": [
+  "Skuljagger: Revolt of the Westicans"
+ ],
+ "year": 1992,
+ "release_dates": {
+  "north_america": "October 1, 1992",
+  "usa": "October 1992"
+ },
+ "developer": [
+  "Realtime Associates"
+ ],
+ "publisher": [
+  "American Softworks Corporation",
+  "American Softworks"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "pirates",
+  "platform",
+  "sideways"
+ ],
+ "description": "In hack and slash platformer Sküljagger: Revolt of the Westicans, rebel leader Storm Jaxon steals Captain Sküljagger's prized sword and uses it against him and his oppressive island regime to liberate his nation.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/4/3/51143_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

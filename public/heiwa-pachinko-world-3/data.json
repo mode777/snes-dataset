@@ -1,0 +1,46 @@
+{
+ "title": "Heiwa Pachinko World 3",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Apr 26, 1996"
+ },
+ "developer": [
+  "Office Koukan",
+  "Shouei"
+ ],
+ "publisher": [
+  "Shouei System",
+  "Shouei"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "pachinko"
+ ],
+ "description": "The third game in Shouei's series of pachinko simulators that focuses on the machines produced by Heiwa.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/7/4/306074_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/7/4/306074_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

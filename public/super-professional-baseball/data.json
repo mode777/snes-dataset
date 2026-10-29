@@ -1,0 +1,31 @@
+{
+ "title": "Super Professional Baseball",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "September 1991"
+ },
+ "developer": [
+  "TOSE"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [],
+ "description": "Super Bases Loaded is a Sports game, developed by TOSE and published by Jaleco Entertainment,which was released in Japan in 1991.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/2/4/51224_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

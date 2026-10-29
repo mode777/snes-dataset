@@ -1,0 +1,44 @@
+{
+ "title": "Super Real Mahjong PIV",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Mar 25, 1994"
+ },
+ "developer": [
+  "SETA",
+  "Affect"
+ ],
+ "publisher": [
+  "SETA"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boargame",
+  "mahjong"
+ ],
+ "description": "A mahjong game released for the Super Famicom, Sharp X68000, 3DO, Turbo CD, PC-98, FM Towns and Windows.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/7/1/296271_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/7/1/296271_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

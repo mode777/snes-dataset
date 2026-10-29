@@ -1,0 +1,53 @@
+{
+ "title": "Battle Blaze",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "December 1993",
+  "north_america": "October 19, 1993",
+  "usa": "December 1993"
+ },
+ "developer": [
+  "Aicom Corporation, Electronics Application Co., Ltd.",
+  "Aicom",
+  "Electronics Application"
+ ],
+ "publisher": [
+  "Sammy",
+  "American Sammy"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "beatemup",
+  "fantasy",
+  "fighting",
+  "sideways"
+ ],
+ "description": "Battle Blaze is a 2D fighting game for the Arcade and SNES with an armed barbarian warrior theme similar to Conan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/5/7/27957_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/5/6/27956_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/5/6/27956_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

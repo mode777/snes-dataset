@@ -1,0 +1,47 @@
+{
+ "title": "War 3010: The Revolution",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "October 1996",
+  "usa": "October 1996"
+ },
+ "developer": [
+  "Advanced Productions"
+ ],
+ "publisher": [
+  "Advanced Productions"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Sci-Fi"
+ ],
+ "tags": [
+  "mech",
+  "strategy",
+  "tactic",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A sci-fi strategy game and the follow-up to War 2410. Centuries after the last conflict, humanity faces a new enemy in the indomitable Kyllen Empire.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/7/3/51473_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

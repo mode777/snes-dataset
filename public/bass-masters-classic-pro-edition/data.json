@@ -1,0 +1,50 @@
+{
+ "title": "BASS Masters Classic: Pro Edition",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "July 23, 1996",
+  "pal": "November 1, 1996",
+  "europe": "July 1996",
+  "usa": "July 1996"
+ },
+ "developer": [
+  "Black Pearl Software",
+  "Black Pearl"
+ ],
+ "publisher": [
+  "Black Pearl Software"
+ ],
+ "genre": [
+  "Sports",
+  "Nature",
+  "Fishing"
+ ],
+ "tags": [
+  "fishing",
+  "simulation",
+  "sports"
+ ],
+ "description": "Tournament fishing for Super Nintendo. Gameplay takes place in top-down \"boat\" sections, as well as side perspective underwater view.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/7/4/47074_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/7/4/47074_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/7/3/47073_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

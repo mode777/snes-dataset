@@ -1,0 +1,41 @@
+{
+ "title": "Kishin Kourinden Oni",
+ "aliases": [
+  "Kishin Korinden Oni"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "August 5, 1994"
+ },
+ "developer": [
+  "Pandora Box",
+  "Pandora's Box"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [],
+ "tags": [
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "The first Super Famicom game (and the fifth game overall) in an RPG series based on Japanese mythology.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

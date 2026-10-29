@@ -1,0 +1,30 @@
+{
+ "title": "Bobby's World",
+ "aliases": [],
+ "year": null,
+ "release_dates": {
+  "usa": "Canceled"
+ },
+ "developer": [
+  "RSP"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Bobby's World is an Action game, developed by RSP and published by Hi Tech Expressions,which was cancelled before it was released.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/5/6/56056_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

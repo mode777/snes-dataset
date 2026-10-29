@@ -1,0 +1,50 @@
+{
+ "title": "Metal Warriors",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "April 1995",
+  "first_release": "1995-04",
+  "usa": "April 1995"
+ },
+ "developer": [
+  "LucasArts"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "horizontal",
+  "mech",
+  "platform",
+  "scifi",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Metal Warriors is mech combat 2-d Side scroller in which the player pilots several mecha in either single player or 2 player versus player mode.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.78,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/bae9c45a-092a-4cd0-96cd-cec0dca53cce.png",
+  "https://gamefaqs.gamespot.com/a/box/8/4/0/20840_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

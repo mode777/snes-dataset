@@ -1,0 +1,45 @@
+{
+ "title": "Chibi Maruko-chan: Harikiri 365-nichi no Maki",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "Dec 13, 1991"
+ },
+ "developer": [
+  "Epoch",
+  "SAS Sakata"
+ ],
+ "publisher": [
+  "Epoch",
+  "Epoch Co., Ltd."
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "manga"
+ ],
+ "description": "A Chibi Maruko-Chan boardgame for Super Nintendo.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/5/6/311556_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/6/311556_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

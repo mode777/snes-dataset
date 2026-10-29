@@ -1,0 +1,55 @@
+{
+ "title": "Super Bomberman 5",
+ "aliases": [
+  "Super Bomber Man 5"
+ ],
+ "year": 1997,
+ "release_dates": {
+  "japan": "Feb 28, 1997",
+  "first_release": "1997-02-28"
+ },
+ "developer": [
+  "Hudson Soft",
+  "Hudson"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Puzzle",
+  "Miscellaneous",
+  "Action"
+ ],
+ "tags": [
+  "bomberman",
+  "competitive",
+  "cute",
+  "horizontal",
+  "levelcodes",
+  "scrolling",
+  "topdown"
+ ],
+ "description": "The Japan-exclusive 5th and final entry into the Super Bomberman series on the Super Nintendo.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.0,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/1b51f381-efbd-4f62-8389-bfd2fcfbfe0b.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/7/0/20270_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/7/0/20270_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

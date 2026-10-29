@@ -1,0 +1,55 @@
+{
+ "title": "Mr. Do!",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "December 1996",
+  "north_america": "December 1, 1996",
+  "pal": "March 27, 1997",
+  "europe": "December 1996",
+  "usa": "December 1996"
+ },
+ "developer": [
+  "Universal",
+  "C-Lab"
+ ],
+ "publisher": [
+  "Imagineer",
+  "Black Pearl Software"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "arcade",
+  "avoid",
+  "collect",
+  "sideways",
+  "singlescreen"
+ ],
+ "description": "Mr. Do! is an Arcade style game similar to Dig Dug and Pac-Man, in which a clown is charged with the mission to either collect all cherries or kill all enemies.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/4/4/50944_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/4/50944_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/3/50943_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/3/50943_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/5/50945_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "title": "FIFA 97",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "europe": "1996"
+ },
+ "developer": [
+  "Rage Software"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [],
+ "description": "FEATURES 27 Fully rendered players using Motion Blending technology Motion Capture using professional soccer players Full play-by-play with 3 International commentators Indoor & outdoor game modes Arcade, action & simulation modes Pro, semi pro & beginner modes More realistic & detailed players More moves and animation than ever before Team styles &#8211; teams play like their real life counterparts Accurate targeting & clear break-aways Player Transfers 12 International leagues, 255 teams and over 4,200 players",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/5/6/3556_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/6/3556_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "title": "The Smurfs",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "pal": "1994",
+  "europe": "1994"
+ },
+ "developer": [
+  "Infogrames"
+ ],
+ "publisher": [
+  "Infogrames"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cartoon",
+  "comic",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A platformer based on the Belgian comic book of the same name about a tribe of peaceful tiny blue creatures and their frequent run-ins with the evil wizard Gargamel. It was released on multiple consoles in 1993.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French, Italian"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/6/9/7269_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/6/9/7269_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

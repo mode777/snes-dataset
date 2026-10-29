@@ -1,0 +1,45 @@
+{
+ "title": "Operation Europe: Path to Victory 1939-45",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "June 1994"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Historic"
+ ],
+ "tags": [
+  "historical",
+  "strategy",
+  "tactic",
+  "wargame",
+  "ww2"
+ ],
+ "description": "A World War II strategy game from Koei that is part of their series of in-depth war strategy games. The player can assume either the Allies or the Axis in six different campaigns across Europe.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/4/8/25648_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

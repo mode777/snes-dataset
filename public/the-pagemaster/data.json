@@ -1,0 +1,55 @@
+{
+ "title": "The Pagemaster",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 1994",
+  "pal": "May 1995",
+  "first_release": "1994-11",
+  "usa": "November 1994",
+  "europe": "November 1994"
+ },
+ "developer": [
+  "Probe",
+  "Probe Entertainment",
+  "Probe Entertainment Limited"
+ ],
+ "publisher": [
+  "Fox Interactive"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "Help a virtual Macaulay Culkin summon the Pagemaster in this licensed platformer, but don't forget the library card.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.54,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d6b0268d-e1e0-418b-86d7-02743d44d75f.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/2/46572_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/3/46573_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

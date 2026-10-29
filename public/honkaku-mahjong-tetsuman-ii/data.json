@@ -1,0 +1,44 @@
+{
+ "title": "Honkaku Mahjong - Tetsuman II",
+ "aliases": [
+  "Honkaku Mahjong: Tetsuman II"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Oct 21, 1994"
+ },
+ "developer": [
+  "Khaos"
+ ],
+ "publisher": [
+  "Naxat Soft"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A competitive mahjong game and the second game in Naxat Soft's Tetsuman (All-Night) Mahjong series.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/7/7/43377_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

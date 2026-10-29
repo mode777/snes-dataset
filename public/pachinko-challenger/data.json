@@ -1,0 +1,45 @@
+{
+ "title": "Pachinko Challenger",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jul7, 1995"
+ },
+ "developer": [
+  "Carrozzeria"
+ ],
+ "publisher": [
+  "Carrozzeria",
+  "Carozzeria"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "Pachinko game developed by Carrozzeria Japan in 1995.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/0/1/307101_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

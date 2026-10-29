@@ -1,0 +1,46 @@
+{
+ "title": "Zenkoku Juudan Ultra Shinri Game",
+ "aliases": [
+  "Zenkoku Juudan: Ultra Shinri Game"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Nov 10, 1995"
+ },
+ "developer": [
+  "Ukiyotei Company",
+  "Ukiyotei"
+ ],
+ "publisher": [
+  "Visit"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [
+  "educationnal",
+  "quiz"
+ ],
+ "description": "Zengoku Juudan Ultra Shinri Game (\"National Longitudinal Slice Ultra Psychology Game\", referring to how the in-game game show selects a region for a question by picking its longitude) is a quiz show for the Super Famicom that opts for questions of a more personality-test nature. With every Shinri Game, these questions are presented with a distinct framing device: in Zengoku Juudan's case, the game is presented as if it was a TV game show that pulls its questions from specific regions and prefectures of Japan.  It follows three previous Shinri Games for the system, but isn't a true sequel - The Shinri Game IV, released on PlayStation in 1998, is the \"true\" fourth The Shinri Game.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/5/2/307152_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/5/2/307152_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

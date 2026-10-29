@@ -1,0 +1,49 @@
+{
+ "title": "King Arthur's World",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-03",
+  "usa": "March 1993",
+  "europe": "March 1993"
+ },
+ "developer": [
+  "Argonaut Software",
+  "Argonaut Games"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [
+  "Strategy",
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "realtime",
+  "sideways",
+  "strategy",
+  "tactic"
+ ],
+ "description": "King Arthur's World is a side-scrolling strategy game where the player must utilise various units and their abilities to help King Arthur safely reach the end of each level.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.28,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/5dd3e583-a8bb-40ad-9b01-f6353864764b.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/1/9/50819_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/2/0/50820_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/2/0/50820_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

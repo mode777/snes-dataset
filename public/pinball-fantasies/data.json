@@ -1,0 +1,54 @@
+{
+ "title": "Pinball Fantasies",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "February 1995",
+  "pal": "February 1995",
+  "europe": "February 1995",
+  "usa": "February 1995"
+ },
+ "developer": [
+  "Digital Illusions",
+  "Spidersoft"
+ ],
+ "publisher": [
+  "GameTek"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Pinball"
+ ],
+ "tags": [
+  "competitive",
+  "hotseat",
+  "pinball",
+  "realistic",
+  "scrolling",
+  "topdown",
+  "vertical"
+ ],
+ "description": "The sequel to Pinball Dreams, this pinball game offers four different tables with four unique themes.",
+ "description_source": "snes_csv",
+ "players": "1 - 8 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/9/2/39492_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/2/39492_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/1/39491_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

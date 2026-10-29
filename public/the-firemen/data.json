@@ -1,0 +1,55 @@
+{
+ "title": "The Firemen",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Canceled",
+  "pal": "March 1995",
+  "first_release": "Canceled",
+  "europe": "Canceled",
+  "usa": "Canceled"
+ },
+ "developer": [
+  "Human Entertainment"
+ ],
+ "publisher": [
+  "Human Entertainment"
+ ],
+ "genre": [
+  "Action Adventure",
+  "Modern"
+ ],
+ "tags": [
+  "action",
+  "firefighting",
+  "multidirectional",
+  "shooter",
+  "topdown"
+ ],
+ "description": "An action game in which a team of two firemen fight fires (including \"boss\" fires) and save injured civilians throughout an ablaze New York building. It was released in Japan and Europe in 1994.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": 3.78,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/cb73f011-9091-4bf0-b038-1f8213e24585.png",
+  "https://gamefaqs.gamespot.com/a/box/7/8/6/88786_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/8/6/88786_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/8/5/88785_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/8/5/88785_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/8/8/88788_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

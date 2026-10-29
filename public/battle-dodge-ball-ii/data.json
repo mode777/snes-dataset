@@ -1,0 +1,44 @@
+{
+ "title": "Battle Dodge Ball II",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Jul 23, 1993"
+ },
+ "developer": [
+  "Nova",
+  "Nova Games",
+  "Nova Games Ltd."
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Sports",
+  "General"
+ ],
+ "tags": [
+  "dodgeball",
+  "sports"
+ ],
+ "description": "A dodgeball game and part of the Compati Heroes Series that was released in 1993 for the Super Famicom. It is the sequel to 1991's Battle Dodge Ball from Sun L.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/4/1/26741_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Nigel Mansell's World Championship Racing",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-07",
+  "europe": "July 1993",
+  "usa": "July 1993"
+ },
+ "developer": [
+  "Gremlin",
+  "Gremlin Graphics"
+ ],
+ "publisher": [
+  "GameTek"
+ ],
+ "genre": [
+  "Racing",
+  "Driving",
+  "Formula One"
+ ],
+ "tags": [
+  "car",
+  "cockpit",
+  "formulaone",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "A Formula One racing simulator endorsed by F-1 star, Nigel Mansell.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.39,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/f0999fab-b17f-4952-8c7e-2a00ad755127.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/8/46518_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/8/46518_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/7/46517_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/7/46517_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

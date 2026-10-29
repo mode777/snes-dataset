@@ -1,0 +1,33 @@
+{
+ "title": "Clockwerx",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "Callisto Corporation / Axes Art Amuse"
+ ],
+ "publisher": [
+  "Spectrum Holobyte / Tokuma Shoten Publishing"
+ ],
+ "genre": [],
+ "tags": [
+  "puzzle"
+ ],
+ "description": "A puzzle game in which players walk around clockwise or anti-clockwise around nodes and must reach the end by weaving through obstacles.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

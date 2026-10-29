@@ -1,0 +1,48 @@
+{
+ "title": "Jissen! Pachi-Slot Hisshouhou! Yamasa Densetsu",
+ "aliases": [
+  "Jissen Pachi-Slot Hisshouhou! Yamasa Densetsu"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Apr5, 1996"
+ },
+ "developer": [
+  "Sammy",
+  "Sammy Studios"
+ ],
+ "publisher": [
+  "Sammy",
+  "Sammy Corporation"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "slotmachine"
+ ],
+ "description": "Slots game developed by Sammy Corporation in 1996.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/1/2/307212_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/1/2/307212_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

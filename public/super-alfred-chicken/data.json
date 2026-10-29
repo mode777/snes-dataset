@@ -1,0 +1,49 @@
+{
+ "title": "Super Alfred Chicken",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "February 1994"
+ },
+ "developer": [
+  "Twilight",
+  "Twilight Games"
+ ],
+ "publisher": [
+  "Mindscape International Ltd."
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "animalprotagonist",
+  "cartoonish",
+  "cute",
+  "jumponthings",
+  "multidirectional",
+  "platform",
+  "scrolling",
+  "sideways"
+ ],
+ "description": "The last game developed by Twilight, Alfred Chicken (a wordplay on \"chicken alfredo\") is an early-'90s platformer where players control a red chicken as he pecks and dive-bombs at things.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/0/7/50507_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

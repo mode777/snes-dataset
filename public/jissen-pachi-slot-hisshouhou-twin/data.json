@@ -1,0 +1,44 @@
+{
+ "title": "Jissen Pachi-Slot Hisshouhou! Twin",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "japan": "Mar 15, 1997"
+ },
+ "developer": [
+  "Sammy",
+  "Sammy Studios"
+ ],
+ "publisher": [
+  "Sammy",
+  "Sammy Corporation"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "slotmachine"
+ ],
+ "description": "Slots game spin-off of the Jissen Pachi-Slot Hisshouhou series that only features two machines, hence the \"twin\".",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/5/9/307259_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

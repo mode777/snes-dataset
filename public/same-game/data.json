@@ -1,0 +1,35 @@
+{
+ "title": "Same Game",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Mar1, 1996"
+ },
+ "developer": [
+  "Hudson Soft",
+  "Hudson"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [],
+ "description": "Same Game is a Miscellaneous game, developed and published by Hudson,which was released in Japan in 1996.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/5/3/306453_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/5/3/306453_back.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "openvgdb"
+ ]
+}

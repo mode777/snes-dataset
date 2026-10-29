@@ -1,0 +1,59 @@
+{
+ "title": "Wild Guns",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "July 1995",
+  "north_america": "Q1/Q2 2022",
+  "pal": "Q1/Q2 2022",
+  "first_release": "1995-07-01",
+  "usa": "July 1995",
+  "europe": "July 1995"
+ },
+ "developer": [
+  "Natsume"
+ ],
+ "publisher": [
+  "Natsume",
+  "Strictly Limited Games"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Static"
+ ],
+ "tags": [
+  "action",
+  "behind",
+  "crosshair",
+  "shooter"
+ ],
+ "description": "A bounty hunter and a skilled shooter bring a wild vendetta against a vast gang of outlaws and robots in this third-person rail shooter for the SNES that mixes American Westerns with futuristic sci-fi.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.07,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d86cbd63-da55-471f-b240-f4b2b8c32ea6.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/5/51485_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/5/51485_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/4/51484_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/4/51484_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/6/51486_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/6/51486_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "wikipedia_unlicensed",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "title": "Inindo: Way of the Ninja",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-03",
+  "usa": "March 1993"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "historical",
+  "rpg",
+  "strategy",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A a fantasy RPG set in feudal Japan. The player takes control of a band of warriors on a quest to stop Nobunaga Oda before he can conquer all of Japan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.38,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/01e552a4-8f7f-4521-8cdc-c07dc464c2ea.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/9/1/50791_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/9/1/50791_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

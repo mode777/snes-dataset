@@ -1,0 +1,44 @@
+{
+ "title": "Super Nichibutsu Mahjong",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Dec 18, 1992"
+ },
+ "developer": [
+  "Nihon Bussan",
+  "Nichibutsu"
+ ],
+ "publisher": [
+  "Nihon Bussan",
+  "Nichibutsu"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A Mahjong simulator that allows players to create their own mahjong player and play games against two, three, or four CPU opponents.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/1/9/306819_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

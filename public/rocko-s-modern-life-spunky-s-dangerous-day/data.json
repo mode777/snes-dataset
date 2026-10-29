@@ -1,0 +1,46 @@
+{
+ "title": "Rocko's Modern Life: Spunky's Dangerous Day",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "April 1, 1994",
+  "first_release": "1994-04",
+  "usa": "April 1994"
+ },
+ "developer": [
+  "Viacom New Media"
+ ],
+ "publisher": [
+  "Viacom New Media"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cartoon",
+  "horizontal",
+  "platform",
+  "puzzlesolve",
+  "sideways"
+ ],
+ "description": "Based on the '90s Nickelodeon cartoon Rocko's Modern Life, players control the anthropomorphic wallaby Rocko as he escorts his fathful (but dim-witted) canine companion to his goal.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.54,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d0ff45c8-63e7-4e09-a94c-8648af19a03d.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/7/9/51079_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

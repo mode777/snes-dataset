@@ -1,0 +1,53 @@
+{
+ "title": "Tecmo Super Bowl III: Final Edition",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "October 1995",
+  "north_america": "October 1995",
+  "first_release": "1995-10",
+  "usa": "October 1995"
+ },
+ "developer": [
+  "Tecmo"
+ ],
+ "publisher": [
+  "Tecmo"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [
+  "americanfootball",
+  "horizontal",
+  "sideways",
+  "sports"
+ ],
+ "description": "The final Tecmo football game to be released on the Super Nintendo Entertainment System. Features the NFL license and updated gameplay, such as create-a-player and increased playbook options.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.76,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/8e2a90eb-161b-4e34-8650-e5c47543c83b.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/4/1/48241_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/4/0/48240_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/4/0/48240_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

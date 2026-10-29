@@ -1,0 +1,45 @@
+{
+ "title": "Last Bible III",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar4, 1995"
+ },
+ "developer": [
+  "Multimedia Intelligence Transfer"
+ ],
+ "publisher": [
+  "ATLUS"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "The third and final entry in the Last Bible series, released in 1995 for the Super Famicom. This title was the first to be available for home consoles.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/8/0/36680_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/8/0/36680_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "title": "Dig & Spike Volleyball",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "December 1993"
+ },
+ "developer": [
+  "Tose"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Volleyball"
+ ],
+ "tags": [
+  "beachvolley",
+  "sideways",
+  "sports",
+  "volleyball"
+ ],
+ "description": "Dig & Spike Volleyball is a Volleyball video game developed by TOSE and published by Hudson Soft in North America. In Japan the game is known as \"Volleyball Twin\" and was published by Tonkin House in 1992.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/1/3/50613_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

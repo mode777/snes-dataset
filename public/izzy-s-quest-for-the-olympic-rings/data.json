@@ -1,0 +1,44 @@
+{
+ "title": "Izzy's Quest for the Olympic Rings",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "November 1, 1995",
+  "pal": "1995",
+  "europe": "November 1995",
+  "usa": "November 1995"
+ },
+ "developer": [
+  "Alexandria"
+ ],
+ "publisher": [
+  "U.S. Gold"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Izzy's Quest for the Olympic Rings is the official game of the mascot of the 1996 Olympic Games in Atlanta. As the name suggests, Izzy must find the five Olympic rings, hidden by the guardians so that Izzy does not take them to his world.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/9/8/50798_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

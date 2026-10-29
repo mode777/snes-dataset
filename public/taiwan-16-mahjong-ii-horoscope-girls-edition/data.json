@@ -1,0 +1,35 @@
+{
+ "title": "Taiwan 16 Mahjong II: Horoscope Girls Edition",
+ "aliases": [],
+ "year": null,
+ "release_dates": {},
+ "developer": [
+  "?"
+ ],
+ "publisher": [
+  "?"
+ ],
+ "genre": [],
+ "tags": [
+  "boardgame",
+  "mahjong",
+  "unlicensed"
+ ],
+ "description": "?",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "zh"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "title": "The 7th Saga",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-09",
+  "usa": "September 1993"
+ },
+ "developer": [
+  "Produce"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "angle",
+  "fantasy",
+  "rpg",
+  "wanderer"
+ ],
+ "description": "Seven heroes on a quest to collect seven runes to save the world.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.38,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d956d08b-2151-4e9d-8466-486de1aed90e.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/0/22400_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/0/22400_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

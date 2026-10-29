@@ -1,0 +1,36 @@
+{
+ "title": "Jaleco Rally: Big Run",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {},
+ "developer": [
+  "Jaleco"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [],
+ "tags": [
+  "behind",
+  "intoscreen",
+  "racing",
+  "rally",
+  "sports"
+ ],
+ "description": "A Paris-Dakar rally racing game released for the Arcade (1989) and later ported to the Super Famicom (1991).",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

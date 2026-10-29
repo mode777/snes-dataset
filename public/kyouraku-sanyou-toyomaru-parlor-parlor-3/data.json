@@ -1,0 +1,33 @@
+{
+ "title": "Kyouraku Sanyou Toyomaru Parlor! Parlor! 3",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {},
+ "developer": [
+  "Telenet Japan"
+ ],
+ "publisher": [
+  "Telenet Japan"
+ ],
+ "genre": [],
+ "tags": [
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "Gambling game developed by Nippon Telenet in 1996. Though the third numbered game in its series, it was actually the fourth to be released.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "title": "Super 3D Baseball",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "February 1994"
+ },
+ "developer": [
+  "TOSE"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [],
+ "description": "Super Bases Loaded 2 is a Sports game, developed by TOSE and published by Jaleco Entertainment,which was released in Japan in 1992.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/2/6/51226_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

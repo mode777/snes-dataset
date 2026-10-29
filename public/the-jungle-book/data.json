@@ -1,0 +1,56 @@
+{
+ "title": "The Jungle Book",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "August 1994",
+  "north_america": "August 1994",
+  "pal": "September 1994",
+  "usa": "August 1994",
+  "europe": "August 1994"
+ },
+ "developer": [
+  "Virgin Interactive Entertainment",
+  "Eurocom",
+  "Virgin Interactive"
+ ],
+ "publisher": [
+  "Virgin Interactive Entertainment",
+  "Virgin Interactive"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "disney",
+  "horizontal",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "A 2D platformer based on the 1967 animated Disney movie and released on multiple platforms. It was one of four Virgin Interactive platformers based on Disney movies, along with The Lion King, Aladdin and Pinocchio.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/9/4/31094_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/9/5/31095_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/9/5/31095_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

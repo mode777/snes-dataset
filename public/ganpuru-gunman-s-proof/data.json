@@ -1,0 +1,47 @@
+{
+ "title": "Ganpuru - Gunman's Proof",
+ "aliases": [
+  "Ganpuru: Gunman's Proof"
+ ],
+ "year": 1997,
+ "release_dates": {
+  "japan": "January 31, 1997",
+  "first_release": "1997-01-31"
+ },
+ "developer": [
+  "Lenar"
+ ],
+ "publisher": [
+  "ASCII",
+  "ASCII Entertainment"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "action",
+  "adventure",
+  "shooter",
+  "topdown"
+ ],
+ "description": "A Legend of Zelda style action-adventure game released for the Super Famicom in 1997 featuring top-down shooting and a unique sci-fi/western motif.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.05,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/c27360e3-83bb-46eb-972b-986cd5942bb6.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/7/2/31972_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/7/2/31972_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

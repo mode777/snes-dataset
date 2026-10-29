@@ -1,0 +1,62 @@
+{
+ "title": "Revolution X",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "December 1995",
+  "north_america": "December 1995",
+  "pal": "1995",
+  "first_release": "1995-12",
+  "europe": "December 1995",
+  "germany": "December 1995",
+  "usa": "December 1995"
+ },
+ "developer": [
+  "Midway",
+  "Software Creations",
+  "Rage Software"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Light Gun"
+ ],
+ "tags": [
+  "action",
+  "aerosmith",
+  "arcade",
+  "crosshair",
+  "firstperson",
+  "shooter"
+ ],
+ "description": "In Revolution X, music is the weapon in this bleak future where Aerosmith is on repeat. Shoot down government helicopters and hurl explosive CDs all during the most bitchin'est night of all time.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, Japanese"
+ ],
+ "gf_score": 2.7,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/6/4/9/24649_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/0/24650_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/0/24650_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/4/9/24649_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/4/8/24648_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/4/8/24648_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

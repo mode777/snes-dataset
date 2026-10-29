@@ -1,0 +1,39 @@
+{
+ "title": "Koutetsu no Kishi 2 - Sabaku no Rommel Gundan",
+ "aliases": [
+  "Koutetsu no Kishi 2: Sabaku no Rommel Gundan"
+ ],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Dual"
+ ],
+ "publisher": [
+  "Asmik"
+ ],
+ "genre": [],
+ "tags": [
+  "historical",
+  "strategy",
+  "topdown",
+  "turnbased",
+  "ww2"
+ ],
+ "description": "World War 2 turn-based strategy game developed by Dual in 1994 for the Super Famicom. It is the second game in the Koutetsu no Kishi (Steel Knight) franchise of tank-oriented strategy games.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

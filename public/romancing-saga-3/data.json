@@ -1,0 +1,47 @@
+{
+ "title": "Romancing SaGa 3",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "November 11, 1995",
+  "first_release": "1995-11-11"
+ },
+ "developer": [
+  "Squaresoft",
+  "Square"
+ ],
+ "publisher": [
+  "Squaresoft",
+  "Square"
+ ],
+ "genre": [
+  "Role-Playing"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A Super Famicom RPG that is part of the popular (in Japan) SaGa series. It follows the non-linear structure of previous games in the series as well as after.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.09,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/5dc4678b-98cf-48e5-8fe8-b9c2c11e0c11.png"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

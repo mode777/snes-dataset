@@ -1,0 +1,51 @@
+{
+ "title": "The Brainies",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "April 2, 1996",
+  "pal": "1996",
+  "europe": "April 1996",
+  "usa": "April 1996"
+ },
+ "developer": [
+  "Atreid Concept SA",
+  "Titus Software"
+ ],
+ "publisher": [
+  "Titus",
+  "Titus Software"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "angle",
+  "puzzle"
+ ],
+ "description": "A mid-90s puzzle game involves odd little creatures called the Brainies. The player has to direct the Brainies around a number of grids, making sure each is standing on the right spot before times runs out.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/4/6/50546_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/6/50546_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/5/50545_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/5/50545_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

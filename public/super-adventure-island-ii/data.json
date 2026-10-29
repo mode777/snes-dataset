@@ -1,0 +1,51 @@
+{
+ "title": "Super Adventure Island II",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-10",
+  "europe": "October 1994",
+  "usa": "October 1994"
+ },
+ "developer": [
+  "Hudson Soft",
+  "Make"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "The second Adventure Island game for the SNES. Unlike its predecessors, it mixed platforming with non-linear exploration similar to Super Metroid or Wonder Boy.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.66,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/05ded2fb-6cf6-4c8e-8973-5255554ca329.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/1/6/51216_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/1/5/51215_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/1/5/51215_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

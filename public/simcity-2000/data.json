@@ -1,0 +1,55 @@
+{
+ "title": "SimCity 2000",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "November 1996",
+  "north_america": "November 1996",
+  "pal": "December 19, 1996",
+  "first_release": "1996-11"
+ },
+ "developer": [
+  "Imagineer",
+  "THQ",
+  "Hal"
+ ],
+ "publisher": [
+  "Black Pearl Software"
+ ],
+ "genre": [
+  "Strategy",
+  "City Building",
+  "Modern"
+ ],
+ "tags": [
+  "isometric",
+  "management",
+  "multidirectional",
+  "scrolling",
+  "simulation",
+  "strategy"
+ ],
+ "description": "SimCity 2000 is a city simulation game where players can build cities from small and neat to large and dirty, or anything in between.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.24,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/2/1/2/7212_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/1/0/7210_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/1/0/7210_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

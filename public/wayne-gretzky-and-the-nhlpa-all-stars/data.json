@@ -1,0 +1,49 @@
+{
+ "title": "Wayne Gretzky and the NHLPA All-Stars",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "December 1995",
+  "usa": "December 1995"
+ },
+ "developer": [
+  "Semi Logic Entertainments",
+  "Time Warner Interactive",
+  "Sculptured Software"
+ ],
+ "publisher": [
+  "Time Warner Interactive"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Ice Hockey",
+  "Arcade"
+ ],
+ "tags": [
+  "horizontal",
+  "icehockey",
+  "sideways",
+  "sports"
+ ],
+ "description": "Hockey game released on the Super Nintendo and Sega Genesis in 1995. Released in the year of the NHL lockout this game featured only the NHLPA license, with no NHL teams or logos.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/8/1/48381_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

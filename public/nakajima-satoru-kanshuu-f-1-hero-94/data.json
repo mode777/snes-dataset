@@ -1,0 +1,33 @@
+{
+ "title": "Nakajima Satoru Kanshuu - F-1 Hero '94",
+ "aliases": [
+  "Nakajima Satoru Kanshuu: F-1 Hero '94"
+ ],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Varie"
+ ],
+ "publisher": [
+  "Varie"
+ ],
+ "genre": [],
+ "tags": [
+  "formulaone",
+  "racing",
+  "topdown"
+ ],
+ "description": "Formula One driving game developed by Varie in 1994. It was the last of many F1 games to be endorsed by Japanese F1 driver Satoru Nakajima.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

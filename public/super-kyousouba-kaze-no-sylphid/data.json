@@ -1,0 +1,40 @@
+{
+ "title": "Super Kyousouba - Kaze no Sylphid",
+ "aliases": [
+  "Super Kyousouba: Kaze no Sylphid"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "October 8, 1993"
+ },
+ "developer": [
+  "Magical Company"
+ ],
+ "publisher": [
+  "King Records"
+ ],
+ "genre": [],
+ "tags": [
+  "gambling",
+  "horseracing",
+  "sports"
+ ],
+ "description": "A horse racing simulation game based on the manga Kaze no Sylphid. The player manages a ranch of racehorses and can also race them as a jockey.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

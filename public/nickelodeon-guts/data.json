@@ -1,0 +1,47 @@
+{
+ "title": "Nickelodeon GUTS",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Viacom New Media"
+ ],
+ "publisher": [
+  "Viacom New Media"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "gameshow",
+  "multievent",
+  "sports",
+  "trivia",
+  "tv"
+ ],
+ "description": "A video game based from the TV game show of the same name and released in November 1994.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/7/0/50970_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "title": "BASS Masters Classic",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "June 1995",
+  "north_america": "June 6, 1995",
+  "usa": "June 1995"
+ },
+ "developer": [
+  "Black Pearl Software",
+  "Malibu Games",
+  "Malibu"
+ ],
+ "publisher": [
+  "Malibu Games"
+ ],
+ "genre": [
+  "Sports",
+  "Nature",
+  "Fishing"
+ ],
+ "tags": [
+  "fishing",
+  "simulation",
+  "sports"
+ ],
+ "description": "Tournament fishing for the Game Boy Color, Genesis, and Super Nintendo. Gameplay takes place in top-down \"boat\" sections, as well as side perspective underwater view.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/6/7/47067_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/7/47067_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/8/47068_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

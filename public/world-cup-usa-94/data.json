@@ -1,0 +1,59 @@
+{
+ "title": "World Cup USA 94",
+ "aliases": [
+  "World Cup USA '94"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "europe": "June 1994",
+  "japan": "July 29, 1994",
+  "usa": "June 1994",
+  "north_america": "June 1994",
+  "pal": "May 26, 1994"
+ },
+ "developer": [
+  "Tiertex",
+  "Tiertex Design Studios",
+  "U.S. Gold"
+ ],
+ "publisher": [
+  "U.S. Gold"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "A soccer game based on the 1994 FIFA World Cup tournament hosted by the USA.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, Spanish, French, Italian, Dutch, Portuguese, Swedish"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/6/8/30468_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/8/30468_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/7/30467_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/7/30467_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/9/30469_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

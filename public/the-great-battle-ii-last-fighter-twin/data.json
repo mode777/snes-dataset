@@ -1,0 +1,49 @@
+{
+ "title": "The Great Battle II: Last Fighter Twin",
+ "aliases": [
+  "Great Battle II, The - Last Fighter Twin"
+ ],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Mar 27, 1992"
+ },
+ "developer": [
+  "Banpresto"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "anime",
+  "beatemup",
+  "fighter",
+  "horizontal",
+  "manga",
+  "sideways"
+ ],
+ "description": "Beat-'Em-Up game developed by Banpresto in 1992. It features characters from Gundam, Ultraman and Kamen Rider and is the sequel to SD Great Battle.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/8/4/306784_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/8/4/306784_back.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "openvgdb",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

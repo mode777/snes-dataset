@@ -1,0 +1,38 @@
+{
+ "title": "Shin Nihon Pro Wrestling - Chou Senshi in Tokyo Dome - Fantastic Story",
+ "aliases": [
+  "Shin Nihon Pro Wrestling: Chou Senshi in Tokyo Dome: Fantastic Story"
+ ],
+ "year": 1993,
+ "release_dates": {},
+ "developer": [
+  "Varie"
+ ],
+ "publisher": [
+  "Varie"
+ ],
+ "genre": [],
+ "tags": [
+  "horizontal",
+  "sideways",
+  "sports",
+  "wrestling"
+ ],
+ "description": "A wrestling game based on the New Japan (Shin Nippon) Pro-Wrestling circuit. It is the first game in the Shin Nippon Pro Wrestling series.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

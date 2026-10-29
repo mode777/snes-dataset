@@ -1,0 +1,58 @@
+{
+ "title": "Secret of Evermore",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "October 1, 1995",
+  "pal": "February 22, 1995",
+  "first_release": "1995-10",
+  "spain": "October 1995",
+  "usa": "October 1995",
+  "europe": "October 1995",
+  "france": "October 1995",
+  "germany": "October 1995"
+ },
+ "developer": [
+  "Square",
+  "Square USA"
+ ],
+ "publisher": [
+  "Square",
+  "Square (NA)Nintendo (EU)"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "action",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "When a boy and his dog stumble into an abandoned house, they are accidentally transported to the world of Evermore. They must work together to discover its secret and find their way home.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French"
+ ],
+ "gf_score": 3.98,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/e71ff1bc-03b1-4dfb-ad3c-31896d5dc334.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/4/51114_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/4/51114_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/5/51115_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/5/51115_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

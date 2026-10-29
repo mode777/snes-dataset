@@ -1,0 +1,62 @@
+{
+ "title": "T2: The Arcade Game",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "February 1994",
+  "north_america": "February 1994",
+  "pal": "January 1994",
+  "first_release": "1994-02",
+  "europe": "February 1994",
+  "usa": "February 1994"
+ },
+ "developer": [
+  "Midway",
+  "Probe Entertainment",
+  "Probe Entertainment Limited"
+ ],
+ "publisher": [
+  "LJN"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Light Gun"
+ ],
+ "tags": [
+  "arcade",
+  "crosshair",
+  "cyborgs",
+  "firstperson",
+  "horizontal",
+  "operationwolf",
+  "scifi",
+  "shooter",
+  "superscope"
+ ],
+ "description": "An on-rails light-gun shooter produced for the Arcade by Midway, based on the 1991 film of the same name. The home versions were titled \"T2: The Arcade Game\" to distance themselves from the LJN/Ocean side-scroller action game.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 2.99,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/1/7/5/21175_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/6/21176_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/4/21174_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/4/21174_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/5/21175_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "title": "ABC Monday Night Football",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "December 1993",
+  "usa": "December 1993"
+ },
+ "developer": [
+  "Data East",
+  "Kuusou Kagaku"
+ ],
+ "publisher": [
+  "Data East"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Arcade"
+ ],
+ "tags": [
+  "americanfootball",
+  "behind",
+  "football",
+  "sports",
+  "topdown"
+ ],
+ "description": "A football game based on the long-running TV show of the same name. The game lacked any NFL licensing, so the team names are all fictitious.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/8/7/50487_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/8/50488_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/8/50488_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

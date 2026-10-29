@@ -1,0 +1,50 @@
+{
+ "title": "Mickey no Tokyo Disneyland Daibouken",
+ "aliases": [
+  "Mickey no Tokyo Disneyland Daibōken"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "December 16, 1994"
+ },
+ "developer": [
+  "Tomy",
+  "Graphic Research"
+ ],
+ "publisher": [
+  "Tomy"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "cartoon",
+  "disney",
+  "horizontal",
+  "jumper",
+  "platofrm",
+  "sideways"
+ ],
+ "description": "A Disney-themed platformer featuring Mickey Mouse. The stages are built around areas of the Tokyo Disneyland.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/3/4/50934_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/3/4/50934_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

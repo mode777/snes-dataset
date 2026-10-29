@@ -1,0 +1,45 @@
+{
+ "title": "Head-On Soccer",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "usa": "September 1995"
+ },
+ "developer": [
+  "U.S. Gold"
+ ],
+ "publisher": [
+  "U.S. Gold"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Arcade"
+ ],
+ "tags": [
+  "football",
+  "isometric",
+  "multidirectional",
+  "sports"
+ ],
+ "description": "This is the USA release of Fever Pitch Soccer",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, Spanish, French, Italian"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/5/8/47558_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

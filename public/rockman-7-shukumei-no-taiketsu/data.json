@@ -1,0 +1,31 @@
+{
+ "title": "Rockman 7: Shukumei no Taiketsu!",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "September 1995"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Mega Man 7 is an Action game, developed and published by Capcom,which was released in Japan in 1995.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/1/6/50916_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/6/50916_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

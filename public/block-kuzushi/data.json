@@ -1,0 +1,47 @@
+{
+ "title": "Block Kuzushi",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Nov 17, 1995"
+ },
+ "developer": [
+  "Oersted"
+ ],
+ "publisher": [
+  "Planning Office Wada"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "batandball",
+  "breakout",
+  "navigation",
+  "reaction",
+  "singlescreen",
+  "topdown"
+ ],
+ "description": "A block-breaking game for the Super Famicom. Has a distinct feature where the player is able to switch out the paddle they're using.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/1/2/31912_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/2/31912_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

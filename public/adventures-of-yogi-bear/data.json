@@ -1,0 +1,47 @@
+{
+ "title": "Adventures of Yogi Bear",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "October 1994"
+ },
+ "developer": [
+  "Blue Turtle"
+ ],
+ "publisher": [
+  "Empire"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cartoon",
+  "collect",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A licensed platformer based on the famous Hanna Barbera picnic basket-loving bear. It was released on Super Nintendo and Genesis.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/3/8/22438_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/8/22438_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

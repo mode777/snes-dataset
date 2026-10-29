@@ -1,0 +1,47 @@
+{
+ "title": "SD Gundam G Next",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec 22, 1995"
+ },
+ "developer": [
+  "Japan Art Media",
+  "Japan Art Media (JAM)"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "anime",
+  "strategy",
+  "tactic",
+  "turnbased",
+  "wargame"
+ ],
+ "description": "A strategy game based on Mobile Suit Gundam's Universal Century universe, though some machines from G Gundam and Gundam Wing are featured. It received an updated revision named \"SD Gundam G Next: Unit & Map Collection.\"",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/4/2/38142_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/4/2/38142_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

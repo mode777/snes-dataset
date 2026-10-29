@@ -1,0 +1,46 @@
+{
+ "title": "Go! Go! Dodge League",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Sep 24, 1993"
+ },
+ "developer": [
+  "Mebio Software",
+  "Now Production/Mebio Software"
+ ],
+ "publisher": [
+  "Pack-In-Video"
+ ],
+ "genre": [
+  "Sports",
+  "General"
+ ],
+ "tags": [
+  "cute",
+  "dodgeball",
+  "sports",
+  "topdown"
+ ],
+ "description": "A Super Famicom dodgeball game featuring anime-styled characters.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/1/8/43418_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/8/43418_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

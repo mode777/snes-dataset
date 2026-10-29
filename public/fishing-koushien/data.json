@@ -1,0 +1,37 @@
+{
+ "title": "Fishing Koushien",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "May 31, 1996"
+ },
+ "developer": [
+  "A-Wave"
+ ],
+ "publisher": [
+  "King Records"
+ ],
+ "genre": [],
+ "tags": [
+  "fishing",
+  "topdown"
+ ],
+ "description": "A fishing game for Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

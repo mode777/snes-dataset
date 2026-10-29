@@ -1,0 +1,55 @@
+{
+ "title": "Paperboy 2",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "north_america": "November 1, 1991",
+  "pal": "1992",
+  "first_release": "1991-11",
+  "europe": "November 1991",
+  "usa": "November 1991"
+ },
+ "developer": [
+  "Tengen",
+  "Eastridge Technology"
+ ],
+ "publisher": [
+  "Mindscape"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "bicyles",
+  "hotseat",
+  "isometic",
+  "reaction",
+  "scrolling",
+  "vertical"
+ ],
+ "description": "Like in the original Paperboy, Paperboy 2 features a boy who delivers papers.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.15,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/f8c0c7a6-c3c8-4ad0-a581-994b90bb6014.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/6/0/22160_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/6/0/22160_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/5/9/22159_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

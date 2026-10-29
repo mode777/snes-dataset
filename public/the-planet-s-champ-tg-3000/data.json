@@ -1,0 +1,30 @@
+{
+ "title": "The Planet's Champ TG 3000",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "February 1995"
+ },
+ "developer": [
+  "Gremlin Interactive"
+ ],
+ "publisher": [],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [],
+ "description": "Top Gear 3000 is a Driving game, developed by Gremlin Interactive and published by Kemco,which was released in 1995.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/2/7/51427_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

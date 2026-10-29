@@ -1,0 +1,41 @@
+{
+ "title": "Momotarou Dentetsu Happy",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Dec6, 1996"
+ },
+ "developer": [
+  "Make"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame"
+ ],
+ "description": "The fifth and final Super Famicom game in Hudson's series of railroad magnate simulators.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/5/0/307250_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

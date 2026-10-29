@@ -1,0 +1,31 @@
+{
+ "title": "Wild Trax",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "July 1994"
+ },
+ "developer": [
+  "Argonaut Games"
+ ],
+ "publisher": [],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [],
+ "description": "The updated Super FX chip allows you to shift into high gear! Get behind the wheel of a formula racer, a 4WD monster truck, a subcompact or a motorcycle. Each will provide a unique driving experience. Choose from over 20 pedal-to-the-metal Trax. There are the no-holds-barred Speed Trax where you hone your skills and progress from a novice to a master. Stunt Trax provides an obstacle course rally complete with ups, downs and jumps. Battle Trax means head-to-head conflict in surprising terrain. For speed, variety, action and fun, Stunt Race FX finishes far ahead of the competition!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/0/4/51204_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/0/4/51204_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

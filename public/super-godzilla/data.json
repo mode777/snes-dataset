@@ -1,0 +1,48 @@
+{
+ "title": "Super Godzilla",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-07",
+  "japan": "July 1994",
+  "usa": "July 1994"
+ },
+ "developer": [
+  "Advance Communication Company"
+ ],
+ "publisher": [
+  "Toho"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "fighter",
+  "movie",
+  "sideways",
+  "tactic"
+ ],
+ "description": "A strategic action game and the first Godzilla licensed game for the Super Nintendo. Take control of Godzilla and defend the world against alien invaders and classic Toho monsters.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.08,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/c84290de-3693-4b9e-97fd-602c272800bc.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/6/51286_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

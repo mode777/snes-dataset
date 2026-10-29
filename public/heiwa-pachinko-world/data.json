@@ -1,0 +1,45 @@
+{
+ "title": "Heiwa Pachinko World",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Feb 24, 1995"
+ },
+ "developer": [
+  "Office Koukan"
+ ],
+ "publisher": [
+  "Shouei System",
+  "Shouei"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "pachinko"
+ ],
+ "description": "A pachinko simulator for the Super Famicom that features virtual facsimiles of Heiwa-brand pachinko machines.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/7/3/306073_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/7/3/306073_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

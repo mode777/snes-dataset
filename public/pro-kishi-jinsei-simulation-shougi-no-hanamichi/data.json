@@ -1,0 +1,45 @@
+{
+ "title": "Pro Kishi Jinsei Simulation - Shougi no Hanamichi",
+ "aliases": [
+  "Pro Kishi Jinsei Simulation: Shougi no Hanamichi"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Feb 16, 1996"
+ },
+ "developer": [
+  "Access"
+ ],
+ "publisher": [
+  "ATLUS"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Party"
+ ],
+ "tags": [
+  "boardgame",
+  "shogi"
+ ],
+ "description": "Shogi game released in 1996 for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/3/3/31933_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/3/3/31933_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

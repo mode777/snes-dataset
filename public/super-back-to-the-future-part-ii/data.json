@@ -1,0 +1,47 @@
+{
+ "title": "Super Back to the Future Part II",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Jul 23, 1993"
+ },
+ "developer": [
+  "Toshiba-EMI",
+  "Daft"
+ ],
+ "publisher": [
+  "Toshiba-EMI"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "basher",
+  "horizontal",
+  "jumper",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "A Japanese platformer game based on the second Back to the Future movie that was published by Toshiba-EMI for the Super Famicom. No official English version exists, but it does have a fan translation.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/6/0/20560_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/0/20560_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

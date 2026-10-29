@@ -1,0 +1,47 @@
+{
+ "title": "Albert Odyssey 2 - Jashin no Taidou",
+ "aliases": [
+  "Albert Odyssey 2: Jashin no Taidou"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 22, 1994"
+ },
+ "developer": [
+  "SUNSOFT"
+ ],
+ "publisher": [
+  "SUNSOFT"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "Japan-only sequel to Albert Odyssey for the Super Famicom. A young warrior, Dean, follows in Albert's footsteps when an evil god threatens to resurface.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/5/1/37651_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/1/37651_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

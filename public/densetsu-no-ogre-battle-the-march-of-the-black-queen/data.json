@@ -1,0 +1,31 @@
+{
+ "title": "Densetsu no Ogre Battle: The March of the Black Queen",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "May 1995"
+ },
+ "developer": [
+  "Quest"
+ ],
+ "publisher": [],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Fantasy"
+ ],
+ "tags": [],
+ "description": "It's been nearly a quarter of a century since the Zetegenian Empire first conqured the Kingdoms of Zenobia with a wrath of fear and bloodshed. You are the leader of a band of rebels who have fought to preserve the last shred of honor in this desperate time of treachery. This sets the somber scene for Ogre Battle, the first in the superb line of fantasy, roleplaying and simulation sagas from Enix. Manage the ranks of a full-blown rebel army complete with hundreds of characters, magic items, weapons, and mystical Tarot cards. You must succeed in ousting the evil usurpers, as your fate, and that of the entire population, depends on it!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/8/0/50980_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/0/50980_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

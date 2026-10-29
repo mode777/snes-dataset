@@ -1,0 +1,31 @@
+{
+ "title": "Space Invaders: The Original Game",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "japan": "November 1997"
+ },
+ "developer": [
+  "Taito Corporation"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Static"
+ ],
+ "tags": [],
+ "description": "The unrelenting alien invasion now returns in its original format. Old-timers will delight in finding their favorite screen-type to play once more. Novices can quickly get the hang of it and show them 'how-it's-done.' Intense competitors will delight in the new VS. mode that offers a fast, fierce, furious contest of itchy-trigger-finger satisfying action.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/2/7/7427_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/2/7/7427_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

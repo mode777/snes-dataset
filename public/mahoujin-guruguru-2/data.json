@@ -1,0 +1,50 @@
+{
+ "title": "Mahoujin Guruguru 2",
+ "aliases": [
+  "Mahoujin Guru Guru 2"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "April 12, 1996"
+ },
+ "developer": [
+  "TamTam",
+  "Enix Corporation",
+  "Tam Tam"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "anime",
+  "fantasy",
+  "manga",
+  "rpg",
+  "topdown"
+ ],
+ "description": "An action-RPG and sequel that is based on the surreal fantasy parody manga and anime of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/4/0/312540_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

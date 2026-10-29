@@ -1,0 +1,51 @@
+{
+ "title": "The Flintstones",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "February 1, 1995",
+  "pal": "April 1995",
+  "europe": "February 1995",
+  "usa": "February 1995"
+ },
+ "developer": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "publisher": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "jumper",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "The Flintstones is based on the live-action motion picture but the levels and controls differ from the Game Boy version.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English, German, Spanish, French, Italian"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/2/1/50721_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

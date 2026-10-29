@@ -1,0 +1,49 @@
+{
+ "title": "Ruin Arm",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jun 23, 1995"
+ },
+ "developer": [
+  "Plex",
+  "Tose"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "aventure",
+  "coop",
+  "fantasy",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "A futuristic role-playing game starring the titular Arm. In the game, Arm is sent to investigate a mysterious attack on his kingdom.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/9/4/307094_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/9/4/307094_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

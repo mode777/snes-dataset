@@ -1,0 +1,48 @@
+{
+ "title": "Dragon Slayer: Eiyuu Densetsu",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Feb 14, 1992"
+ },
+ "developer": [
+  "Nihon Falcom",
+  "Falcom"
+ ],
+ "publisher": [
+  "Epoch",
+  "Epoch Co."
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A turn-based fantasy RPG from Falcom released for home computers and ported to various consoles, including the TurboGrafx-CD. It is the first game in The Legend of Heroes series as well as the sixth in the Dragon Slayer series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/5/1/31651_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/1/31651_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

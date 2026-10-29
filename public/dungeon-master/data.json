@@ -1,0 +1,54 @@
+{
+ "title": "Dungeon Master",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "June 1993",
+  "north_america": "June 1, 1993",
+  "pal": "1993",
+  "europe": "June 1993",
+  "usa": "June 1993"
+ },
+ "developer": [
+  "FTL",
+  "Software Heaven / FTL Games",
+  "FTL Games"
+ ],
+ "publisher": [
+  "JVC Musical Industries"
+ ],
+ "genre": [
+  "Role-Playing",
+  "First-Person"
+ ],
+ "tags": [
+  "dungeoncrawler",
+  "fantasy",
+  "firstperson",
+  "rpg"
+ ],
+ "description": "Dungeon Master launched a genre into the mainstream - the real-time dungeon RPG. An elaborate mix of combat and puzzles, the game was incredibly popular the world over. The player took control of a party of up to four adventurers on a quest to retrieve the firestaff and destroy Lord Chaos.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/6/2/50662_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/6/1/50661_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/6/1/50661_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/6/3/50663_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/6/3/50663_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

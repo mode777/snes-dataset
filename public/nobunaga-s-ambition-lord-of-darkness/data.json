@@ -1,0 +1,32 @@
+{
+ "title": "Nobunaga's Ambition: Lord of Darkness",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [],
+ "tags": [
+  "historical",
+  "strategy",
+  "tactic",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A Koei strategy war sim set in the Sengoku era of Japan. It is the fourth game in the Nobunaga's Ambition series.",
+ "description_source": "snes_csv",
+ "players": "1 - 8 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ]
+}

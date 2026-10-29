@@ -1,0 +1,47 @@
+{
+ "title": "Love Quest",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 17, 1995"
+ },
+ "developer": [
+  "Tokuma Shoten Publishing",
+  "C-Lab"
+ ],
+ "publisher": [
+  "Tokuma Shoten Publishing",
+  "Tokuma Shoten"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "dating",
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "As a young man, players attempt to woo women in this Japanese-exclusive RPG.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/0/4/312404_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/4/312404_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

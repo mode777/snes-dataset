@@ -1,0 +1,30 @@
+{
+ "title": "Kouryuuki",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "February 1995"
+ },
+ "developer": [
+  "Koei"
+ ],
+ "publisher": [],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Historic"
+ ],
+ "tags": [],
+ "description": "Rise of the Phoenix is a Strategy game, developed and published by Koei,which was released in Japan in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/6/2/51062_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

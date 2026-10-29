@@ -1,0 +1,52 @@
+{
+ "title": "Dirt Trax FX",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "June 16, 1995",
+  "pal": "1995",
+  "europe": "November 1995",
+  "usa": "November 1995"
+ },
+ "developer": [
+  "Sculptured Software"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [
+  "behind",
+  "intoscreen",
+  "motocross",
+  "motorcycle",
+  "racing",
+  "sports"
+ ],
+ "description": "A polygonal motocross game for the SNES. It utilizes the Super FX chip to render the tracks in 3D.",
+ "description_source": "snes_csv",
+ "players": "1 - 8 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/3/0/50630_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/2/9/50629_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

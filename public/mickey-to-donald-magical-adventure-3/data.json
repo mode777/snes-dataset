@@ -1,0 +1,54 @@
+{
+ "title": "Mickey to Donald - Magical Adventure 3",
+ "aliases": [
+  "Mickey to Donald: Magical Adventure 3",
+  "Mickey to Donald Magical Adventure 3"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec8, 1995",
+  "first_release": "1995-12-08"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cartoon",
+  "disney",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "The final installment of Disney's \"Magical Quest\" trilogy follows Mickey Mouse and Donald Duck as they traverse Storybook Land to rescue Huey, Dewey and Louie from the evil King Pete.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.7,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/9d3346f2-0b21-4773-94f3-586df44a13c2.png",
+  "https://gamefaqs.gamespot.com/a/box/9/1/7/31917_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/7/31917_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

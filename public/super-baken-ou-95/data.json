@@ -1,0 +1,42 @@
+{
+ "title": "Super Baken Ou '95",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 24, 1995"
+ },
+ "developer": [
+  "Copya System",
+  "Techiku"
+ ],
+ "publisher": [
+  "Teichiku / Asmik Ace",
+  "Techiku"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Horse Racing"
+ ],
+ "tags": [
+  "gambling",
+  "horseracing",
+  "management"
+ ],
+ "description": "Unlike many other horseracing sims, which have a horse-raising element, this game's focus is on using real-life horse data to predict race outcomes.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/6/5/307065_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "title": "BattleTech",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "May 1993"
+ },
+ "developer": [
+  "Beam Software"
+ ],
+ "publisher": [],
+ "genre": [
+  "Simulation",
+  "Sci-Fi",
+  "Mech"
+ ],
+ "tags": [],
+ "description": "MechWarrior is a Simulation game, developed by Beam Software and published by Victor Interactive Software,which was released in Japan in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/2/3/24723_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/3/24723_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

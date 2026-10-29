@@ -1,0 +1,49 @@
+{
+ "title": "Zombies Ate My Neighbors",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-09-24",
+  "usa": "September 1993"
+ },
+ "developer": [
+  "LucasArts"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "angle",
+  "horror",
+  "multidirectional",
+  "shooter",
+  "zombie"
+ ],
+ "description": "Play as Zeke or Julie through 55 deadly levels of Zombies Ate My Neighbors! Destroy zombies with a squirt gun full of holy water!",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.88,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/1e4df275-c1f1-4083-9b19-912d7cc08c31.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/7/20847_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/7/20847_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

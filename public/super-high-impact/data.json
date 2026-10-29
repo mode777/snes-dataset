@@ -1,0 +1,53 @@
+{
+ "title": "Super High Impact",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "June 1993",
+  "north_america": "June 1993",
+  "usa": "June 1993"
+ },
+ "developer": [
+  "Midway",
+  "Iguana Entertainment",
+  "Beam Software"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Arcade"
+ ],
+ "tags": [
+  "americanfootball",
+  "arcade",
+  "horizontal",
+  "sideways",
+  "sports"
+ ],
+ "description": "Super High Impact is an arcade-style football game that is essentially the predecessor to NFL Blitz. It is the sequel to High Impact Football.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/9/0/51290_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/9/1/51291_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

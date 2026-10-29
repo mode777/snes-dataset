@@ -1,0 +1,53 @@
+{
+ "title": "Super Formation Soccer 95 - della Serie A",
+ "aliases": [
+  "Super Formation Soccer 95: della Serie A",
+  "Super Formation Soccer 95 della Serie A"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 31, 1995"
+ },
+ "developer": [
+  "Human",
+  "Human Entertainment"
+ ],
+ "publisher": [
+  "Human",
+  "Human Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "behind",
+  "football",
+  "intoscreen",
+  "soccer",
+  "sports"
+ ],
+ "description": "Soccer video game produced by Human Entertainment, released in 1995. It is the fourth title from the \"Super Formation Soccer\" franchise.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/7/2/307072_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/7/2/307072_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

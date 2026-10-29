@@ -1,0 +1,49 @@
+{
+ "title": "Bonkers",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-10",
+  "usa": "October 1994"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cartoon",
+  "disney",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Video games based on Disney's Bonkers, a TV show that ran between 1993-94.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.34,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d1e86499-ae77-402a-8c98-fab16b690add.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/4/50544_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

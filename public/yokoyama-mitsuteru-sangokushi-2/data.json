@@ -1,0 +1,43 @@
+{
+ "title": "Yokoyama Mitsuteru Sangokushi 2",
+ "aliases": [
+  "Yokoyama Mitsuteru: Sangokushi 2"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "December 29, 1993"
+ },
+ "developer": [
+  "TOSE"
+ ],
+ "publisher": [
+  "Angel"
+ ],
+ "genre": [],
+ "tags": [
+  "anime",
+  "manga",
+  "strategy",
+  "tactic",
+  "turnbased",
+  "wargame"
+ ],
+ "description": "A strategy game sequel based on the Romance of the Three Kingdoms novel, specifically Mitsuteru Yokoyama's manga adaptation.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

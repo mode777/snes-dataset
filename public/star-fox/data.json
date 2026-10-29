@@ -1,0 +1,52 @@
+{
+ "title": "Star Fox",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-03-01",
+  "japan": "March 1993",
+  "usa": "March 1993"
+ },
+ "developer": [
+  "Argonaut Software / Nintendo",
+  "Argonaut Games"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Rail"
+ ],
+ "tags": [
+  "behind",
+  "scifi",
+  "shooter",
+  "simulation"
+ ],
+ "description": "As the leader of an elite squad of anthropomorphic animal pilots, fly throughout the Lylat star system in the prototype Arwing spacecraft to prevent the galactic conquest of a mad scientist in this 3D shooter for the SNES (with real-time polygonal graphics powered by the new Super FX chip).",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Japanese"
+ ],
+ "gf_score": 3.85,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/8c1a9e22-0d0d-4e44-a32e-b50199df8a55.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/5/51175_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/5/51175_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/6/51176_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/6/51176_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

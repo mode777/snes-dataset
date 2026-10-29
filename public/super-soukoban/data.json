@@ -1,0 +1,47 @@
+{
+ "title": "Super Soukoban",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Jan 29, 1993"
+ },
+ "developer": [
+  "Thinking Rabbit"
+ ],
+ "publisher": [
+  "Pack-In-Video"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "maze",
+  "movingboxes",
+  "puzzle",
+  "singlescreen",
+  "topdown"
+ ],
+ "description": "A Super Famicom adaptation of Sokoban, the box-pushing game best known in the west as Boxxle or Boxyboy. A new feature is a hard limit on the number of moves the player can use.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/2/6/306826_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/2/6/306826_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "title": "Kevin Keegan's Player Manager",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "europe": "1993"
+ },
+ "developer": [
+  "Anco"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Management"
+ ],
+ "tags": [
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports",
+  "topdown"
+ ],
+ "description": "A Football Manager sim on the Super Nintendo, released in 1993. Kevin Keegan is a former England striker, and in more recent years the manager of league teams Fulham, Newcastle United and Manchester City.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/7/5/92675_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/7/5/92675_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

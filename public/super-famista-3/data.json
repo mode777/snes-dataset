@@ -1,0 +1,45 @@
+{
+ "title": "Super Famista 3",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Mar4, 1994"
+ },
+ "developer": [
+  "Namco"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "baseball",
+  "sports"
+ ],
+ "description": "A Super Famicom baseball sim and the third of Namco's Famista (Family Stadium) games for the system.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/0/9/306909_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/0/9/306909_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "title": "Mr. Nutz",
+ "aliases": [
+  "Mr Nutz"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "August 1994",
+  "north_america": "August 1994",
+  "pal": "1993",
+  "first_release": "1994-08",
+  "usa": "August 1994",
+  "europe": "August 1994"
+ },
+ "developer": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "publisher": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "jumper",
+  "multidirectional",
+  "platform",
+  "sonic"
+ ],
+ "description": "A 2D platformer created by Ocean Software and released on various platforms. Mr. Nutz is a red squirrel who wears shoes, a glove, and a cap. Like other platformers of that era, he must jump on the enemies to defeat them.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, French"
+ ],
+ "gf_score": 3.53,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/38f34c3d-d425-4e09-b4b4-20f2fbe38f61.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/4/7/37147_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/4/6/37146_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/4/6/37146_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/4/8/37148_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/4/8/37148_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

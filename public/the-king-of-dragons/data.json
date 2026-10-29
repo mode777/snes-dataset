@@ -1,0 +1,36 @@
+{
+ "title": "The King of Dragons",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "April 1994",
+  "north_america": "April 1994",
+  "pal": "August 1994"
+ },
+ "developer": [
+  "Capcom",
+  "Prism Kikaku"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [],
+ "description": "King of Dragons is an Action game, developed by Prism Kikaku and published by Capcom,which was released in Japan in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/2/1/50821_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/2/1/50821_back.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "title": "Battle Cars",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "December 1993",
+  "usa": "December 1993"
+ },
+ "developer": [
+  "Malibu Interactive",
+  "Malibu"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "behind",
+  "car",
+  "intoscreen",
+  "racing",
+  "shooter"
+ ],
+ "description": "A futuristic racing game with car combat and Mode 7 graphics. It was released on an 8-Meg cart.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/2/3/50523_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "title": "Table Game Daishuugou!!",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {},
+ "developer": [
+  "Natsu System"
+ ],
+ "publisher": [
+  "Varie"
+ ],
+ "genre": [],
+ "tags": [
+  "boardgame",
+  "hanafuda",
+  "mahjong",
+  "reversi",
+  "shogi"
+ ],
+ "description": "A board game compilation for the Super Famicom. Features virtual versions of mahjong, shogi, reversi and two hanafuda variants.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

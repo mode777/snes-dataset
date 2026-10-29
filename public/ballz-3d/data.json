@@ -1,0 +1,41 @@
+{
+ "title": "Ballz 3D",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-11"
+ },
+ "developer": [
+  "PF Magic"
+ ],
+ "publisher": [
+  "Accolade"
+ ],
+ "genre": [
+  "Action"
+ ],
+ "tags": [
+  "action",
+  "fighting",
+  "sideways"
+ ],
+ "description": "A unique fighting game that gives the illusion of 3D by having all fighters composed of nothing but pre-rendered balls of various colors and sizes.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 1.91,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/5aa62013-121c-4695-9379-1284b54bf114.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "title": "Pachinko Wars II",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "December 17, 1993"
+ },
+ "developer": [
+  "Oersted"
+ ],
+ "publisher": [
+  "Coconuts Japan"
+ ],
+ "genre": [],
+ "tags": [
+  "gambling",
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "Pachinko game published by Coconuts Japan in 1993 for the Super Famicom. It is the sequel to the 1992 Super Famicom game Pachinko Wars.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

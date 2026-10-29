@@ -1,0 +1,62 @@
+{
+ "title": "NBA Jam: Tournament Edition",
+ "aliases": [
+  "NBA Jam Tournament Edition †"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Feb 23, 1995",
+  "north_america": "February 23, 1995",
+  "pal": "May 23, 1995",
+  "first_release": "1995-02-23",
+  "usa": "Feb 23, 1995",
+  "europe": "Feb 23, 1995"
+ },
+ "developer": [
+  "Midway",
+  "Iguana Entertainment"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Arcade"
+ ],
+ "tags": [
+  "arcade",
+  "basketball",
+  "horizontal",
+  "sideways",
+  "sports"
+ ],
+ "description": "NBA Jam Tournament Edition is a two-on-two Arcade basketball game, adding updated rosters and new game modes to the original.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.99,
+ "metascore": null,
+ "cover_urls": [
+  "https://i.postimg.cc/q7MQV68R/4fb5fcc7-30d5-4733-9bc6-e1b7b1b0ee0c.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/6/4/11164_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/6/5/11165_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/6/5/11165_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/6/6/11166_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/6/6/11166_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

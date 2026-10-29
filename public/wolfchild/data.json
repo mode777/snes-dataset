@@ -1,0 +1,50 @@
+{
+ "title": "Wolfchild",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "June 1993",
+  "usa": "June 1993"
+ },
+ "developer": [
+  "Core",
+  "Core Design",
+  "Core Design Ltd."
+ ],
+ "publisher": [
+  "Virgin",
+  "Virgin Interactive"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "basher",
+  "multidirectional",
+  "platform",
+  "sideways"
+ ],
+ "description": "Wolfchild is a scrolling shooter with platforming elements. The object of the game is to defeat the the evil Chimera organization, while using guns and the ability to transform into a wolf monster.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/1/5/48415_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/5/48415_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

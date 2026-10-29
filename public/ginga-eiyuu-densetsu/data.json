@@ -1,0 +1,44 @@
+{
+ "title": "Ginga Eiyuu Densetsu",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Sep 25, 1992"
+ },
+ "developer": [
+  "Advance Communication Company"
+ ],
+ "publisher": [
+  "Tokuma Shoten"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "anime",
+  "manga",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "The Super Famicom incarnation of the dense strategy sim series, based on the space opera anime and manga of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/0/0/306800_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/0/0/306800_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

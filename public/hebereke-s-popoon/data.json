@@ -1,0 +1,43 @@
+{
+ "title": "Hebereke's Popoon",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "December 22, 1993",
+  "pal": "February 22, 1994",
+  "europe": "1994"
+ },
+ "developer": [
+  "Sunsoft"
+ ],
+ "publisher": [
+  "Sunsoft"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "puzzle",
+  "realtime",
+  "singlescreen"
+ ],
+ "description": "A Super Puyo Puyo type game starring the characters of NES cult favorite Ufouria: The Saga.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/8/8/306888_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/8/8/306888_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

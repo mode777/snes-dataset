@@ -1,0 +1,53 @@
+{
+ "title": "Taekwon-Do",
+ "aliases": [
+  "Taekwon-Do †"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jun 28, 1994",
+  "korea": "Jun 28, 1994"
+ },
+ "developer": [
+  "Human",
+  "Human Club"
+ ],
+ "publisher": [
+  "Human",
+  "Human Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "fighting",
+  "horizontal",
+  "martialarts",
+  "sideways",
+  "sports",
+  "taekwondo"
+ ],
+ "description": "Taekwon-Do is a Super Famicom fighting game that attempts to capture the realistic tone of Taekwondo tournament fighting. It was developed and published by Human Entertainment.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese, ko"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/5/8/36558_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/8/36558_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

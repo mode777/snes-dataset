@@ -1,0 +1,45 @@
+{
+ "title": "Miracle Casino Paradise",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jan 27, 1995"
+ },
+ "developer": [
+  "Ancient",
+  "Carrozzeria"
+ ],
+ "publisher": [
+  "Carrozzeria"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "boardgame",
+  "gambling"
+ ],
+ "description": "Combination gambling simulator and board game published by Carrozzeria in 1995.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/3/9/307039_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/9/307039_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

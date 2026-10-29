@@ -1,0 +1,30 @@
+{
+ "title": "Super Drakkhen",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "November 1994"
+ },
+ "developer": [
+  "Kemco"
+ ],
+ "publisher": [],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [],
+ "description": "Dragon View is a Role-Playing game, developed and published by Kemco,which was released in Japan in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/5/1/50651_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/1/50651_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

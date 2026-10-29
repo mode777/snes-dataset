@@ -1,0 +1,43 @@
+{
+ "title": "Ancient Magic: Bazoe! Mahou Sekai",
+ "aliases": [
+  "Ancient Magic: Bazoo! Mahou Sekai"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "July 23, 1993"
+ },
+ "developer": [
+  "Hot-B Co",
+  "Hot-B"
+ ],
+ "publisher": [
+  "Hot-B Co",
+  "Hot-B"
+ ],
+ "genre": [],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A Super Famicom fantasy JRPG developed by Hot-B. The player assumes the role of the son or daughter of a powerful magician who is determined to follow in their father's famous footsteps.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

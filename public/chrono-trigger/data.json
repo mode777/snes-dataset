@@ -1,0 +1,53 @@
+{
+ "title": "Chrono Trigger",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "August 1995",
+  "north_america": "August 11, 1995",
+  "first_release": "1995-08-22",
+  "usa": "August 1995"
+ },
+ "developer": [
+  "Square",
+  "SquareSoft"
+ ],
+ "publisher": [
+  "Square"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "Take control of the lovable but silent protagonist Crono in this time-spanning collaborative effort from Squaresoft's \"Dream Team.\" Chrono Trigger follows the exploits of Crono as he and his friends attempt to save the world from a planet-devouring alien creature.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.58,
+ "metascore": 92,
+ "cover_urls": [
+  "https://images.launchbox-app.com/5db08b42-02db-4a10-b073-6a44abf60720.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/1/20301_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/1/20301_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/2/20302_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/2/20302_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

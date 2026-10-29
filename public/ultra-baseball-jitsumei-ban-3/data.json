@@ -1,0 +1,45 @@
+{
+ "title": "Ultra Baseball Jitsumei Ban 3",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Oct 27, 1995"
+ },
+ "developer": [
+  "Culture Brain"
+ ],
+ "publisher": [
+  "Culture Brain"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "baseball",
+  "behind",
+  "sports"
+ ],
+ "description": "The final game in Culture Brain's superpowered baseball simulation series for Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/4/7/307147_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/4/7/307147_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

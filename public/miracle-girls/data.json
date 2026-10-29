@@ -1,0 +1,48 @@
+{
+ "title": "Miracle Girls",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Oct 22, 1993"
+ },
+ "developer": [
+  "Takara",
+  "Now Production"
+ ],
+ "publisher": [
+  "Takara"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "cute",
+  "femaleprotagonist",
+  "jumper",
+  "manga",
+  "minigames",
+  "platform"
+ ],
+ "description": "One of few games to use weaponized candy, Miracle Girls is a side-scrolling platformer based on the manga of the same name.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/0/8/312008_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/0/8/312008_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

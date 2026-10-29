@@ -1,0 +1,31 @@
+{
+ "title": "Fever Pitch Soccer",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "europe": "September 1995"
+ },
+ "developer": [
+  "U.S. Gold"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Arcade"
+ ],
+ "tags": [],
+ "description": "Experience intense hi-speed soccer action as you compete boot-to-boot against the world's greatest teams. Recruit star players like Barger, Tricky and Striker and use their arsenal of awesome special moves to destroy your opponents.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/6/0/47560_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

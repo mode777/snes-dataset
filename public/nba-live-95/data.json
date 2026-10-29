@@ -1,0 +1,58 @@
+{
+ "title": "NBA Live 95",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "October 1994",
+  "north_america": "October 1994",
+  "pal": "1994",
+  "first_release": "1994-10",
+  "usa": "October 1994",
+  "europe": "October 1994"
+ },
+ "developer": [
+  "Hitmen Productions",
+  "Electronic Arts"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "EA Sports"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Sim"
+ ],
+ "tags": [
+  "basketball",
+  "isometric",
+  "sports"
+ ],
+ "description": "The 1994-1995 edition of the Electronic Arts NBA-licensed franchise.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.61,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/7/5/6/25756_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/6/25756_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/6/25756_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/5/25755_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/7/25757_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/7/25757_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

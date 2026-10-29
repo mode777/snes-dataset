@@ -1,0 +1,50 @@
+{
+ "title": "Super Mad Champ",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar4, 1995"
+ },
+ "developer": [
+  "Tsukuda Original",
+  "Givro"
+ ],
+ "publisher": [
+  "Givro",
+  "Tsukuda Original"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [
+  "action",
+  "behind",
+  "fighting",
+  "intoscreen",
+  "racing",
+  "sideways"
+ ],
+ "description": "Motorcycle racing game released in 1995 for the Super Famicom. It uses some assets from Shin Nekketsu Kouha Kunio-kun: Kunio-tachi no Banka.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/1/1/307311_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/1/1/307311_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

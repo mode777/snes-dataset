@@ -1,0 +1,47 @@
+{
+ "title": "Star Ocean",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Jul 19, 1996",
+  "first_release": "1996-07-19"
+ },
+ "developer": [
+  "tri-Ace"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "The first game in the real-time RPG series. A human starship crashes into an alien planet and works with the natives to cure a deadly extra-terrestrial disease.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.05,
+ "metascore": 74,
+ "cover_urls": [
+  "https://images.launchbox-app.com/0c37d64d-a3ba-45e9-8666-f86f3fb47e5e.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/8/51178_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/8/51178_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "title": "Lufia & The Fortress of Doom",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-12-04",
+  "usa": "Dec4, 1993"
+ },
+ "developer": [
+  "Neverland"
+ ],
+ "publisher": [
+  "Taito"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "Lufia & the Fortress of Doom is a role-playing game and the first installment in the Lufia series. The game follows a young boy who is on a quest to save the world from the evil Sinistrals.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.7,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/7e28c69a-79dd-44dd-84ce-7055d7c3a11d.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/8/5/50885_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/8/5/50885_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

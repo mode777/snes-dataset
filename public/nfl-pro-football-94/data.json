@@ -1,0 +1,31 @@
+{
+ "title": "NFL Pro Football '94",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "October 1993"
+ },
+ "developer": [
+  "Visual Concepts"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [],
+ "description": "He's All pro tight end. He's big and pretty. Big as a dump truck. Runs like a gazelle. But hey. Come across the middle and I send him to another zip code. C.O.D. Next trip through my zone he'll remember. It's a long season.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/3/7/10937_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

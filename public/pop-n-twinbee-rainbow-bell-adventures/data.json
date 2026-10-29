@@ -1,0 +1,47 @@
+{
+ "title": "Pop'n TwinBee: Rainbow Bell Adventures",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1994-",
+  "europe": "1994",
+  "germany": "1994"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "cute",
+  "plateform",
+  "powerup",
+  "shooter",
+  "sideways"
+ ],
+ "description": "The platforming sequel to the TwinBee shoot'em up games.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, Japanese"
+ ],
+ "gf_score": 3.67,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/5d9c6fb8-cfba-4ca2-b7bb-abee929a3b3b.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/8/20558_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/8/20558_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

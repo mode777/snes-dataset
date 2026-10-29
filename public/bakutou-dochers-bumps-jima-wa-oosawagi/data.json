@@ -1,0 +1,38 @@
+{
+ "title": "Bakutou Dochers: Bumps-jima wa Oosawagi",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Genki"
+ ],
+ "publisher": [
+  "Bullet-Proof Software"
+ ],
+ "genre": [],
+ "tags": [
+  "bomberman",
+  "competitive",
+  "cute",
+  "horizontal",
+  "scrolling",
+  "topdown"
+ ],
+ "description": "A competitive party grid game from Bullet-Point Software. Features single-player and multiplayer modes.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

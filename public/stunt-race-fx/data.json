@@ -1,0 +1,52 @@
+{
+ "title": "Stunt Race FX",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-07",
+  "europe": "July 1994",
+  "usa": "July 1994"
+ },
+ "developer": [
+  "Nintendo",
+  "Argonaut Games"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Racing",
+  "Driving",
+  "Arcade"
+ ],
+ "tags": [
+  "behind",
+  "intoscreen",
+  "monstertrucks",
+  "racing"
+ ],
+ "description": "A SNES-exclusive racing game that utilizes the Super FX chip to bring stylized vehicles to life in polygonal 3D.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.39,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/f9e622ad-3b40-4ac8-a147-207a5466ee6a.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/0/6/51206_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/0/6/51206_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/0/5/51205_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/0/5/51205_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

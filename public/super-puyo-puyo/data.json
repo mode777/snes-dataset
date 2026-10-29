@@ -1,0 +1,46 @@
+{
+ "title": "Super Puyo Puyo",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Dec 10, 1993"
+ },
+ "developer": [
+  "Compile"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "Matching"
+ ],
+ "tags": [
+  "fallingblocks",
+  "puzzle",
+  "singlescreen",
+  "tilearrangement"
+ ],
+ "description": "Puyo Puyo is a competitive puzzle game. Pieces drop from above a la Tetris and players must connect four contiguous pieces to for them to pop.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/0/6/43406_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/6/43406_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

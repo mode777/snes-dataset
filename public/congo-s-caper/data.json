@@ -1,0 +1,47 @@
+{
+ "title": "Congo's Caper",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-05",
+  "usa": "May 1993",
+  "europe": "May 1993"
+ },
+ "developer": [
+  "DE Act Team",
+  "Data East"
+ ],
+ "publisher": [
+  "Data East"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "A prehistoric action-platformer starring a caveman named Congo. Originally a sequel to the Japanese version of Joe & Mac.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.55,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/7cabe9ec-8688-4317-8461-8914e42ff2ca.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/0/6/22606_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/0/6/22606_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/0/8/22608_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "title": "Arcade's Greatest Hits: The Atari Collection 1",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "north_america": "August 30, 1997"
+ },
+ "developer": [
+  "Digital Eclipse Software, Inc.",
+  "Digital Eclipse Software"
+ ],
+ "publisher": [
+  "Midway",
+  "Midway Games"
+ ],
+ "genre": [],
+ "tags": [
+  "arcade",
+  "compilation"
+ ],
+ "description": "A collection of six Atari Arcade games, rereleased for consoles.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

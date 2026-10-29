@@ -1,0 +1,47 @@
+{
+ "title": "Ryuuko no Ken 2",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 21, 1994"
+ },
+ "developer": [
+  "SNK",
+  "Monolith Corporation",
+  "Monolith (Japan)"
+ ],
+ "publisher": [
+  "Saurus"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "competitive",
+  "fighting",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "The direct sequel to the original Art of Fighting, adding a more traditional single-player mode (where any character can be chosen) and an improved character roster.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/4/7/19847_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

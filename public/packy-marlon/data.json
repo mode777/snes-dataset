@@ -1,0 +1,38 @@
+{
+ "title": "Packy & Marlon",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "WaveQuest"
+ ],
+ "publisher": [
+  "raya systems"
+ ],
+ "genre": [],
+ "tags": [
+  "educational",
+  "health",
+  "horizontal",
+  "nutrion",
+  "platform",
+  "sideways"
+ ],
+ "description": "A SNES game meant to educate kids about diabetes via the adventures of a couple of elephants trying to take back their Summer camp.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Spanish, French"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

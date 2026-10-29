@@ -1,0 +1,47 @@
+{
+ "title": "Kidou Senshi Z Gundam - Away to the Newtype",
+ "aliases": [
+  "Kidou Senshi Z Gundam: Away to the NewType"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Mar1, 1996"
+ },
+ "developer": [
+  "Bandai"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Strategy",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "mech",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "The spiritual sequel to the Gundam games Hot Scramble and Cross Dimension 0079, this licensed isometric Super Famicom strategy mecha game offers the best of both worlds.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/4/9/37649_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/4/9/37649_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

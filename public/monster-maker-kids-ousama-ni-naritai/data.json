@@ -1,0 +1,44 @@
+{
+ "title": "Monster Maker Kids - Ousama ni Naritai",
+ "aliases": [
+  "Monster Maker Kids: Ousama ni Naritai"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Nov 18, 1994"
+ },
+ "developer": [
+  "SOFEL"
+ ],
+ "publisher": [
+  "SOFEL"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame"
+ ],
+ "description": "Board game adaptation of the long-running monster-raising video and table-top game franchise that plays similarly to Dokapon Kingdom. It was created by Sofel in 1994.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/0/2/307002_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/0/2/307002_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

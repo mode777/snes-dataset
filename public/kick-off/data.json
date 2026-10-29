@@ -1,0 +1,47 @@
+{
+ "title": "Kick Off",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "europe": "Jul 22, 1993"
+ },
+ "developer": [
+  "Anco"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports",
+  "topdown"
+ ],
+ "description": "A sequel in the popular Atari ST/Amiga soccer game series Kick Off, developed for consoles.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/8/4/31684_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/8/4/31684_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

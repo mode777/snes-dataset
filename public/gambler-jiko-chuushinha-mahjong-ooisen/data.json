@@ -1,0 +1,33 @@
+{
+ "title": "Gambler Jiko Chuushinha - Mahjong Ooisen",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {},
+ "developer": [
+  "Bits Laboratory"
+ ],
+ "publisher": [
+  "PalSoft"
+ ],
+ "genre": [],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A Mahjong game based on a manga about a prolific gambler. It's the first Super Famicom game in a long-running series, and was never released outside of Japan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

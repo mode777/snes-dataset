@@ -1,0 +1,45 @@
+{
+ "title": "Nobunaga no Yabou - Haouden",
+ "aliases": [
+  "Nobunaga no Yabou: Haouden"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Dec9, 1993"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "General"
+ ],
+ "tags": [
+  "historical",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "A strategy game developed by Koei in 1992 and the fifth game in their Nobunaga no Yabou, or Nobunaga's Ambition, series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/4/0/296740_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "title": "Sunset Riders",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "October 1993",
+  "pal": "October 1993",
+  "first_release": "1993-10-01",
+  "europe": "October 1993",
+  "usa": "October 1993"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami",
+  "Konami (NA)Palcom Software (EU)"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "action",
+  "arcade",
+  "horizontal",
+  "shooter",
+  "sideways"
+ ],
+ "description": "A 2D side-scrolling, action game set in the Wild West that features four bounty hunters collecting awards on targeted outlaws.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 4.0,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/1115c77e-63ec-40b0-9497-57f8faaec186.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/3/44723_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/3/44723_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/2/44722_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/2/44722_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

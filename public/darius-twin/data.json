@@ -1,0 +1,58 @@
+{
+ "title": "Darius Twin",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "November 1991",
+  "north_america": "November 30, 1991",
+  "pal": "April 22, 1993",
+  "first_release": "1991-11",
+  "europe": "November 1991",
+  "usa": "November 1991"
+ },
+ "developer": [
+  "Taito",
+  "Taito Corporation"
+ ],
+ "publisher": [
+  "Taito"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "scifi",
+  "shootemup",
+  "shooter",
+  "sideways"
+ ],
+ "description": "An aquatic themed side-scrolling shooter from 1991. It is the first SNES title in the Darius franchise.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.49,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d5973371-b002-4032-8bab-1f3e3171ab68.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/0/1/50601_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/9/50599_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/9/50599_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/0/0/50600_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "title": "Super Mario World",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "first_release": "1991-08-13",
+  "europe": "Aug 13, 1991",
+  "usa": "Aug 13, 1991"
+ },
+ "developer": [
+  "Nintendo"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "cute",
+  "fantasy",
+  "horizontal",
+  "jumponthings",
+  "powerup",
+  "scrolling"
+ ],
+ "description": "One of the few launch titles of the SNES (and bundled with the system in North America), the fifth main game in the Super Mario series brings the Mario brothers into the mysterious Dinosaur Land. It marks the first appearance of Mario's dinosaur companions, known as Yoshi.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.55,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/00fb4aca-c22f-4ca9-84d0-90cf8c22d4af.png",
+  "https://gamefaqs.gamespot.com/a/box/6/2/6/14626_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/2/6/14626_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/2/5/14625_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/2/5/14625_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

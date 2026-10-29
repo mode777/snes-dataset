@@ -1,0 +1,50 @@
+{
+ "title": "Frogger",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "north_america": "October 6, 1998",
+  "first_release": "1998-",
+  "usa": "1998"
+ },
+ "developer": [
+  "Konami",
+  "Morning Star Multimedia"
+ ],
+ "publisher": [
+  "Majesco Sales",
+  "Majesco Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "arcade",
+  "avoid",
+  "jumper",
+  "singlescreen"
+ ],
+ "description": "Frogger is a classic arcade game with a simple objective: safely maneuver your frog across a busy highway and a deadly river without getting squished!",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.23,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/7/0/2/659702_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/4/0/340_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

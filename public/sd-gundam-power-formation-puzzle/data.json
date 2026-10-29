@@ -1,0 +1,51 @@
+{
+ "title": "SD Gundam - Power Formation Puzzle",
+ "aliases": [
+  "SD Gundam Power Formation Puzzle",
+  "SD Gundam: Power Formation Puzzle"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Jan 26, 1996"
+ },
+ "developer": [
+  "Bandai",
+  "Tom Create"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "movintiles",
+  "puzzle",
+  "realtime",
+  "singlescreen",
+  "tilearrangement"
+ ],
+ "description": "SD Gundam Power Formation Puzzle is a Tetris-like puzzle game, except that the main goal is to AVOID destroying blocks.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/6/7/37367_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

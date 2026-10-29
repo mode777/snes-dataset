@@ -1,0 +1,60 @@
+{
+ "title": "Mortal Kombat 3",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "October 13, 1995",
+  "pal": "October 20, 1995",
+  "first_release": "1995-10-13",
+  "europe": "October 1995",
+  "usa": "October 1995"
+ },
+ "developer": [
+  "Midway",
+  "Sculptured Software"
+ ],
+ "publisher": [
+  "Williams Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "competitive",
+  "fantasy",
+  "fighting",
+  "gore",
+  "horizontal",
+  "oriental",
+  "scrolling",
+  "sideways"
+ ],
+ "description": "Set in a post-apocalyptic Earthrealm (invaded by Shao Kahn's army of Outworld), Mortal Kombat 3 is the third installment of one of the most violent fighting game franchises of all time.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.89,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/1/8/2/11182_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/3/11183_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/3/11183_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/2/11182_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/2/11182_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

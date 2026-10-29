@@ -1,0 +1,55 @@
+{
+ "title": "Ultraman",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "first_release": "1991-10",
+  "japan": "October 1991",
+  "europe": "October 1991",
+  "usa": "October 1991"
+ },
+ "developer": [
+  "BEC",
+  "Nova Games Ltd."
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "fighting",
+  "horizontal",
+  "scifi",
+  "sideways",
+  "tv"
+ ],
+ "description": "1-player arcade fighter starring the tokusatsu sensation, \"Ultraman\".",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 2.26,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/b253f4ab-23db-4eff-8081-2f248a1c34ed.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/5/6/51456_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/5/6/51456_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/5/7/51457_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/5/7/51457_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

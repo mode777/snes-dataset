@@ -1,0 +1,47 @@
+{
+ "title": "Ushio to Tora",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Jan 25, 1993"
+ },
+ "developer": [
+  "Kazuhiro Fujita / Shogakukan",
+  "Yutaka"
+ ],
+ "publisher": [
+  "Yutaka"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "fighter",
+  "horizontal",
+  "manga",
+  "sideways"
+ ],
+ "description": "A brawler action game from Yutaka, Ushio to Tora is based on the manga and anime of the same name about a spear-wielding warrior and a demonic tiger youkai he unwillingly freed.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/6/8/312568_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/8/312568_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

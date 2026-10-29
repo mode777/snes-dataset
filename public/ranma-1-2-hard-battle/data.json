@@ -1,0 +1,48 @@
+{
+ "title": "Ranma ½: Hard Battle",
+ "aliases": [
+  "Ranma 1/2: Hard Battle",
+  "Ranma 1-2: Hard Battle"
+ ],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1993-11",
+  "usa": "November 1993"
+ },
+ "developer": [
+  "NCS Corporation",
+  "Atelier Double"
+ ],
+ "publisher": [
+  "DTMC"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "anime",
+  "fighting",
+  "horizontal",
+  "manga",
+  "sideways"
+ ],
+ "description": "The second SNES fighting game based on the comedic martial arts manga and anime series Ranma ½. Also known as the only game in the series to be localized intact for the U.S. and Europe.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, French, Japanese"
+ ],
+ "gf_score": 3.13,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/0/5/0/51050_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/5/0/51050_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

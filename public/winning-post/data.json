@@ -1,0 +1,45 @@
+{
+ "title": "Winning Post",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Sep 10, 1993"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Horse Racing"
+ ],
+ "tags": [
+  "gambling",
+  "horseracing",
+  "management"
+ ],
+ "description": "Winning Post is the first title in a long running series of horse racing simulation games. It was developed by Koei and first released for the X68000 in Japan on May 28, 1993.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/5/3/296853_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/3/296853_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

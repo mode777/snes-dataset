@@ -1,0 +1,34 @@
+{
+ "title": "Hebereke no Oishii Puzzle wa Irimasenka",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "SUNSOFT"
+ ],
+ "publisher": [
+  "SUNSOFT"
+ ],
+ "genre": [],
+ "tags": [
+  "boardgame",
+  "partygame"
+ ],
+ "description": "A Super Famicom board/mini-game collection featuring SunSoft's Hebereke characters. The multiplayer supports up to five players.",
+ "description_source": "snes_csv",
+ "players": "1 - 5 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

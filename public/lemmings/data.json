@@ -1,0 +1,61 @@
+{
+ "title": "Lemmings",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "March 1992",
+  "north_america": "March 1, 1992",
+  "pal": "August 1992",
+  "first_release": "1992-03",
+  "usa": "March 1992",
+  "europe": "March 1992"
+ },
+ "developer": [
+  "Psygnosis",
+  "SunSoft"
+ ],
+ "publisher": [
+  "Sunsoft"
+ ],
+ "genre": [
+  "Puzzle",
+  "Miscellaneous",
+  "Action"
+ ],
+ "tags": [
+  "competitive",
+  "cute",
+  "horizontal",
+  "humour",
+  "levelcodes",
+  "puzzle",
+  "scrolling",
+  "sideways"
+ ],
+ "description": "Guide hordes of helpless green-haired rodents away from peril in this landmark puzzle game.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.52,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com//553a83cf-384e-4ead-b81c-d7960bd9e630.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/1/0/23610_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/1/0/23610_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/0/9/23609_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/0/9/23609_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/1/1/23611_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

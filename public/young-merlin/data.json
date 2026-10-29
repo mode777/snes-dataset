@@ -1,0 +1,54 @@
+{
+ "title": "Young Merlin",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "March 18, 1994",
+  "pal": "1994",
+  "first_release": "1994-03",
+  "usa": "March 1994",
+  "europe": "March 1994"
+ },
+ "developer": [
+  "Westwood",
+  "Westwood Studios"
+ ],
+ "publisher": [
+  "Virgin",
+  "Virgin Interactive"
+ ],
+ "genre": [
+  "Action Adventure",
+  "Fantasy"
+ ],
+ "tags": [
+  "action",
+  "fantasy",
+  "puzzlesolve",
+  "wanderer"
+ ],
+ "description": "A top-down action-adventure SNES game in which Merlin, as a young man, must save a fantasy kingdom from the Shadow King.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.09,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/506d7d8c-bccf-480c-86a4-542c1b5f41c2.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/0/51520_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/1/51521_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/1/51521_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

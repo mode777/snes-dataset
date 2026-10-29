@@ -1,0 +1,44 @@
+{
+ "title": "Thoroughbred Breeder III",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Oct 18, 1996"
+ },
+ "developer": [
+  "Hect"
+ ],
+ "publisher": [
+  "Hector",
+  "Hect"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Horse Racing"
+ ],
+ "tags": [
+  "horseracing",
+  "management"
+ ],
+ "description": "Thoroughbred Breeder returns to the Super Famicom for the final time.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/5/9/31959_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

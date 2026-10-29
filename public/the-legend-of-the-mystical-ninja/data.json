@@ -1,0 +1,52 @@
+{
+ "title": "The Legend of the Mystical Ninja",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1992-02",
+  "usa": "February 1992",
+  "germany": "February 1992",
+  "europe": "February 1992"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action Adventure",
+  "Adventure",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "anime",
+  "plateform",
+  "sideways"
+ ],
+ "description": "Players take on the role of Kid Ying (or Goemon) and Dr. Yang (Ebisumaru) as they traverse Japan searching for a kidnapped princess. The game features two distinct modes - traditional action platforming and town exploration.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, Japanese"
+ ],
+ "gf_score": 3.78,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/7af4b21f-6b1c-413a-b983-dda33143c653.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/6/5/50865_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/6/5/50865_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/7/0/50870_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/7/0/50870_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

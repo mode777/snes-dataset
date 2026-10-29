@@ -1,0 +1,49 @@
+{
+ "title": "Fatal Fury 2",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-04",
+  "europe": "April 1994",
+  "usa": "April 1994"
+ },
+ "developer": [
+  "SNK"
+ ],
+ "publisher": [
+  "TAKARA"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "fighting",
+  "sideways",
+  "singlescreen"
+ ],
+ "description": "The hot-blooded sequel to the original Fatal Fury, heavily improving the fighting mechanics of the original while adding a bigger cast of playable characters and worldwide locales.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.31,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/e2d2bbad-6c50-4c2b-a81e-5a60f1f91601.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/2/0/26820_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/2/0/26820_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

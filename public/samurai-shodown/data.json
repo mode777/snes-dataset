@@ -1,0 +1,50 @@
+{
+ "title": "Samurai Shodown",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-11",
+  "europe": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "SNK",
+  "Monolith (Japan)"
+ ],
+ "publisher": [
+  "Takara"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "competitive",
+  "fighting",
+  "sideways"
+ ],
+ "description": "Twelve of the fiercest warriors of the late 18th century engage in duels to the death as a dark power rises over Japan in the first weapon-based fighting game.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.56,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/5/4/3/21543_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/3/21543_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/3/21543_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

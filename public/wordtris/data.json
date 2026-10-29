@@ -1,0 +1,48 @@
+{
+ "title": "Wordtris",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "north_america": "November 1992",
+  "usa": "November 1992"
+ },
+ "developer": [
+  "Spectrum Holobyte",
+  "Bullet-Proof Software",
+  "Sphere"
+ ],
+ "publisher": [
+  "Nintendo",
+  "Spectrum HoloByte"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "puzzle",
+  "singlescreen"
+ ],
+ "description": "This installment of the extended Tetris franchise asked players to spell words using falling letter tiles.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/2/0/25320_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/2/0/25320_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

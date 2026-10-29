@@ -1,0 +1,50 @@
+{
+ "title": "Wakuwaku Ski Wonder Spur",
+ "aliases": [
+  "Waku Waku Ski Wonder Spur"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "January 13, 1995"
+ },
+ "developer": [
+  "Human",
+  "Human Club"
+ ],
+ "publisher": [
+  "Human",
+  "Human Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Skiing"
+ ],
+ "tags": [
+  "behind",
+  "intoscreen",
+  "racing",
+  "ski"
+ ],
+ "description": "Racing/Skiing video game released in 1995 for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/7/6/306076_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/7/6/306076_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

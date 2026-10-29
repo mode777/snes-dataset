@@ -1,0 +1,50 @@
+{
+ "title": "Saturday Night Slam Masters",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-06",
+  "usa": "June 1994",
+  "europe": "June 1994"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Sports",
+  "Action",
+  "Fighting",
+  "Wrestling"
+ ],
+ "tags": [
+  "arcade",
+  "horizontal",
+  "sideways",
+  "sports",
+  "wrestling"
+ ],
+ "description": "Capcom's main entry into pro-wrestling video games, Saturday Night Slam Masters blends a colorful cast of fictional characters with unique mechanics based on fighting games.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.78,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/65bb96aa-bf3b-416b-a799-aeecb69c371f.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/5/44575_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "title": "Time Trax",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "April 1994",
+  "pal": "July 1994",
+  "usa": "April 1994",
+  "europe": "April 1994"
+ },
+ "developer": [
+  "Malibu Interactive",
+  "Malibu Games",
+  "THQ"
+ ],
+ "publisher": [
+  "Malibu",
+  "Malibu Games"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "futuristic",
+  "horizontal",
+  "platform",
+  "sideways",
+  "tv"
+ ],
+ "description": "A side-scrolling action game based on the TV show of the same name. The player, as future cop Darien Lambert, must capture criminals that have escaped to 1993.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/1/3/51413_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/4/51414_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/4/51414_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

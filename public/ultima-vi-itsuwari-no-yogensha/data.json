@@ -1,0 +1,30 @@
+{
+ "title": "Ultima VI: Itsuwari no Yogensha",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "April 1994"
+ },
+ "developer": [
+  "Infinity"
+ ],
+ "publisher": [],
+ "genre": [
+  "Role-Playing",
+  "PC-style RPG"
+ ],
+ "tags": [],
+ "description": "Ultima: The False Prophet is a Role-Playing game, developed by Infinity and published by Pony Canyon,which was released in Japan in 1992.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/5/4/51454_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/5/4/51454_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

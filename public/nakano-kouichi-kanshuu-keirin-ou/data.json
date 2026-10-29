@@ -1,0 +1,46 @@
+{
+ "title": "Nakano Kouichi Kanshuu Keirin Ou",
+ "aliases": [
+  "Nakano Koichi Kanshuu: Keirin-Ou"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "November 18, 1994"
+ },
+ "developer": [
+  "C-Lab"
+ ],
+ "publisher": [
+  "Coconuts Japan"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Biking"
+ ],
+ "tags": [
+  "bike",
+  "gambling",
+  "racing"
+ ],
+ "description": "Cycling simulator/racing game for the Super Famicom developed by C-Lab in 1994.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/2/9/312529_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

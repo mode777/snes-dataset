@@ -1,0 +1,47 @@
+{
+ "title": "Accele Brid",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Nov 26, 1993"
+ },
+ "developer": [
+  "Genki",
+  "Tomy"
+ ],
+ "publisher": [
+  "Tomy"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "behind",
+  "intoscreen",
+  "mech",
+  "scifi",
+  "shooter"
+ ],
+ "description": "Accele Brid is a behind-the-back shooter starring three large robots, released only in Japan for the SNES in 1993.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/4/0/31740_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/0/31740_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

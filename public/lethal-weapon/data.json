@@ -1,0 +1,54 @@
+{
+ "title": "Lethal Weapon",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "north_america": "December 31, 1992",
+  "pal": "1992",
+  "europe": "December 1992",
+  "usa": "December 1992"
+ },
+ "developer": [
+  "Ocean",
+  "Ocean Software",
+  "Eurocom Entertainment Software"
+ ],
+ "publisher": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "movie",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "The movie license Lethal Weapon on the SNES is broadly similar to the game on computers, but features unique levels and different gameplay mechanics.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/0/1/4801_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/0/0/4800_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/0/0/4800_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

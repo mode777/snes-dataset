@@ -1,0 +1,35 @@
+{
+ "title": "World Cup Striker",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "August 1994",
+  "europe": "August 1994"
+ },
+ "developer": [
+  "Rage Software"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [],
+ "description": "Elite Soccer is a Sports game, developed by Rage Software and published by Coconuts Japan,which was released in Japan in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/6/6/46166_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/6/6/46166_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/6/8/46168_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/6/8/46168_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

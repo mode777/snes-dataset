@@ -1,0 +1,32 @@
+{
+ "title": "Rockman's Soccer",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "April 1994"
+ },
+ "developer": [
+  "Sun L"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Arcade"
+ ],
+ "tags": [],
+ "description": "Dr. Wily will stop at nothing to control the world and who would have thought his next move would be to attack the world's most popular sport? Dr. Light is ready and he's preparing Mega Man for a new type of battle.As the two best soccer teams in the nation took the field for the championship, suddenly the stadium was pelted with blasts of fire and the field was engulfed in smoke. The smoke cleared and some very familiar robots replaced the players on the field. Dr. Wily had sent his greatest robot creations like Skull Man, Cut Man, Wood Man, Needle Man and Pharaoh Man to rule the soccer world.But Dr. Light was prepared for this new tactic. Almost instantly a reserve of Mega Man robots appeared to take on the evil forces in the strangest game of soccer ever seen. No matter where evil appears, Mega Man willbe there to kick one past Dr. Wily and hist robot master.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/2/0/50920_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/0/50920_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

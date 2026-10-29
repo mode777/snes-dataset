@@ -1,0 +1,45 @@
+{
+ "title": "Sankyo Fever! Fever!",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Oct 28, 1994"
+ },
+ "developer": [
+  "?",
+  "Nippon Telenet"
+ ],
+ "publisher": [
+  "Telenet Japan",
+  "Nippon Telenet"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "Pachinko simulator. Released in 1994 for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/9/8/306998_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

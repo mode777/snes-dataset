@@ -1,0 +1,55 @@
+{
+ "title": "Super Battleship",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "November 1993",
+  "pal": "1994",
+  "first_release": "1993-11",
+  "usa": "November 1993",
+  "europe": "November 1993"
+ },
+ "developer": [
+  "Synergistic Software",
+  "World Builders Synergistic"
+ ],
+ "publisher": [
+  "Mindscape"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Strategy",
+  "General"
+ ],
+ "tags": [
+  "boardgame",
+  "naval",
+  "strategy",
+  "tactic",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "The Genesis/SNES version of battleship contained the classic battleship game along with a \"super\" version that played out a realistic naval strategy simulation.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.04,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d97ff127-4f75-4969-bcde-1fdc0ae34903.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/2/0/21620_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/2/0/21620_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

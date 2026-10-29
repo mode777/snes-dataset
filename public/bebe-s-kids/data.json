@@ -1,0 +1,49 @@
+{
+ "title": "Bebe's Kids",
+ "aliases": [
+  "Bébé's Kids"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "April 19, 1994",
+  "first_release": "1994-04",
+  "usa": "April 1994"
+ },
+ "developer": [
+  "Radical Entertainment"
+ ],
+ "publisher": [
+  "Motown Software"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "action",
+  "beatemup",
+  "cartoon",
+  "horizontal",
+  "movie",
+  "sideways"
+ ],
+ "description": "A brawler for the Super Nintendo, based on the 1992 animated movie. It is often listed as one of the console's worst games.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 0.97,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/a978edc2-a1bc-4645-8ba2-8bb74e477524.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/6/50526_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/6/50526_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

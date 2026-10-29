@@ -1,0 +1,46 @@
+{
+ "title": "Stealth",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Dec 18, 1992"
+ },
+ "developer": [
+  "Axes Art Amuse"
+ ],
+ "publisher": [
+  "Hector",
+  "Hect"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Modern"
+ ],
+ "tags": [
+  "strategy",
+  "tactic",
+  "turnbased"
+ ],
+ "description": "A turn-based military tactics game in which the player controls a squad of soldiers moving through enemy territory. It was released on the Super Famicom in Japan only.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/2/0/306820_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/2/0/306820_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

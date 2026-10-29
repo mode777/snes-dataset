@@ -1,0 +1,47 @@
+{
+ "title": "Itadaki Street 2 - Neon Sign wa Barairo ni",
+ "aliases": [
+  "Itadaki Street 2: Neon Sign wa Barairo ni",
+  "Itadaki Street 2: Neon Sign wa Bara Iro ni"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "February 26, 1994"
+ },
+ "developer": [
+  "Tomcat",
+  "Tomcat System"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "gambling"
+ ],
+ "description": "Following up on the original Itadaki Street, Itadaki Street 2 features more complex Monopoly-esque gameplay and new gambling elements. Released for the Super Famicom on Feb. 26, 1994 in Japan, and again on Sep. 26, 1997.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/9/1/43391_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/1/43391_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

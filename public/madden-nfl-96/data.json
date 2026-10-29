@@ -1,0 +1,53 @@
+{
+ "title": "Madden NFL 96",
+ "aliases": [
+  "Madden NFL '96"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-11-10",
+  "usa": "November 1995",
+  "north_america": "November 10, 1995"
+ },
+ "developer": [
+  "Tiburon Entertainment",
+  "High Score Productions"
+ ],
+ "publisher": [
+  "Electronic Arts"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [
+  "americanfootball",
+  "angle",
+  "sports"
+ ],
+ "description": "The 1995 edition of the yearly EA football franchise. It was the first version to feature create-a-player.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.38,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/8f6032be-a248-407b-96b6-83895ce462e9.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/5/2/10952_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/5/2/10952_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

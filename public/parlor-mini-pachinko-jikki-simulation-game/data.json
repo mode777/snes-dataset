@@ -1,0 +1,41 @@
+{
+ "title": "Parlor! Mini - Pachinko Jikki Simulation Game",
+ "aliases": [
+  "Parlor! Mini: Pachinko Jikki Simulation Game"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "April 26, 1996"
+ },
+ "developer": [
+  "Telenet Japan"
+ ],
+ "publisher": [
+  "Telenet Japan",
+  "Nippon Telenet"
+ ],
+ "genre": [],
+ "tags": [
+  "gambling",
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "Pachinko game developed by Telenet Japan in 1996. The first in a spin-off series of Telenet's \"Parlor! Parlor!\" franchise that focuses on fewer machines per game.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

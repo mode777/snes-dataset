@@ -1,0 +1,54 @@
+{
+ "title": "Super Bomberman 4",
+ "aliases": [
+  "Super Bomber Man 4"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Apr 26, 1996",
+  "first_release": "1996-04-26"
+ },
+ "developer": [
+  "Produce"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Puzzle",
+  "Miscellaneous",
+  "Action"
+ ],
+ "tags": [
+  "bomberman",
+  "competitive",
+  "cute",
+  "horizontal",
+  "levelcodes",
+  "scrolling",
+  "topdown"
+ ],
+ "description": "The fourth SNES game in Hudson's explosive multiplayer series sends White Bomber and Black Bomber hurtling through time.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.78,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/43cd0565-87f4-4e5f-a50f-a737e10218c6.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/5/0/37250_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/5/0/37250_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

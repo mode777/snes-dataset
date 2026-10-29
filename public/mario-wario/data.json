@@ -1,0 +1,37 @@
+{
+ "title": "Mario & Wario",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "August 27, 1993",
+  "north_america": "Cancelled"
+ },
+ "developer": [
+  "Game Freak"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [],
+ "tags": [
+  "puzzle",
+  "sideways"
+ ],
+ "description": "Guide Mario safely through obstacles using the SNES Mouse in this 1993 Super Famicom game.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "title": "Disney's Aladdin",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "November 26, 1993",
+  "north_america": "November 21, 1993",
+  "pal": "January 27, 1994",
+  "first_release": "1993-11-01"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action"
+ ],
+ "tags": [],
+ "description": "Disney's Aladdin is a platform game based on the 1992 film of the same namedeveloped by Virgin Gamesand Disney Software. The game was released by Segafor the Sega Genesis on November 11, 1993 as one of several games based on the film, including another gamethat was released in the same month by Capcom for the Super NES.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 3.74,
+ "metascore": 59,
+ "cover_urls": [
+  "https://images.launchbox-app.com/22e4a114-96c6-4a01-acc9-63e73e9916fc.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "opengamedb"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Tadaima Yuusha Boshuuchuu Okawari",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Nov 25, 1994"
+ },
+ "developer": [
+  "HUMAN",
+  "Human Entertainment"
+ ],
+ "publisher": [
+  "HUMAN",
+  "Human Entertainment"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "rpg",
+  "turnbased"
+ ],
+ "description": "A fantasy-themed virtual board game with RPG elements for the Super Famicom. Multiple heroes from all walks of life are summoned to save a kingdom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/8/1/312581_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/1/312581_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

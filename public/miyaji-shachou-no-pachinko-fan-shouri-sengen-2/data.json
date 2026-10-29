@@ -1,0 +1,47 @@
+{
+ "title": "Miyaji Shachou no Pachinko Fan - Shouri Sengen 2",
+ "aliases": [
+  "Miyaji Shachou no Pachinko Fan: Shouri Sengen 2"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Apr 21, 1995"
+ },
+ "developer": [
+  "?",
+  "Pow"
+ ],
+ "publisher": [
+  "Planning Office Wada"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "pachinko"
+ ],
+ "description": "Pachinko/gambling game published by Planning Office Wada in 1995 and the sequel to the 1994 Pachinko Fan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/4/7/31847_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/7/31847_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

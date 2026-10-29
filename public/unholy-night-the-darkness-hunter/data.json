@@ -1,0 +1,37 @@
+{
+ "title": "Unholy Night - The Darkness Hunter",
+ "aliases": [
+  "Unholy Night: The Darkness Hunter"
+ ],
+ "year": 2017,
+ "release_dates": {},
+ "developer": [
+  "Foxbat",
+  "Blazepro"
+ ],
+ "publisher": [
+  "Retroism"
+ ],
+ "genre": [],
+ "tags": [
+  "fighting",
+  "sideways"
+ ],
+ "description": "A group of Ex-SNK developers have teamed up to produce this 2D fighting game for release in 2017 on the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia_unlicensed"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

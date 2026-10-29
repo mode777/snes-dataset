@@ -1,0 +1,39 @@
+{
+ "title": "Sailor Moon",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {},
+ "developer": [
+  "Angel"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [],
+ "tags": [
+  "anime",
+  "beatemup",
+  "cute",
+  "femaleprotagonist",
+  "fighter",
+  "horizontal",
+  "manga",
+  "sideways"
+ ],
+ "description": "A side-scrolling beat 'em up based on the anime and manga Sailor Moon. Released for the SNES and Genesis.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "French, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

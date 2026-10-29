@@ -1,0 +1,49 @@
+{
+ "title": "SimCity Jr.",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Jul 26, 1996"
+ },
+ "developer": [
+  "Maxis",
+  "Imagineer"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [
+  "Strategy",
+  "City Building",
+  "Modern"
+ ],
+ "tags": [
+  "isometric",
+  "management",
+  "multidirectional",
+  "scrolling",
+  "simulation",
+  "strategy"
+ ],
+ "description": "One of the many \"spin-off\" Sim titles by Maxis. The game is aimed at a younger audience, giving players the means to build a small town with limited options as opposed to similar titles, like SimCity 2000, which provided more options and more complex gameplay.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/5/1/31951_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/5/1/31951_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

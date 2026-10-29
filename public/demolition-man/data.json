@@ -1,0 +1,58 @@
+{
+ "title": "Demolition Man",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "August 1, 1995",
+  "pal": "September 28, 1995",
+  "first_release": "1995-08",
+  "usa": "August 1995",
+  "europe": "August 1995"
+ },
+ "developer": [
+  "Alexandria",
+  "Virgin Interactive"
+ ],
+ "publisher": [
+  "Acclaim / Virgin",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "comic",
+  "horizontal",
+  "movie",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "This movie license game has the player assume the role of John Spartan in his quest to hunt down madman Simon Phoenix.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.1,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d33b29ed-fc9b-4dcd-bdcd-9266e6308f30.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/4/45064_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/5/45065_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/5/45065_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

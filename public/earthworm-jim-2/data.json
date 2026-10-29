@@ -1,0 +1,58 @@
+{
+ "title": "Earthworm Jim 2",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "November 15, 1995",
+  "pal": "January 25, 1996",
+  "first_release": "1995-11",
+  "europe": "November 1995",
+  "usa": "November 1995"
+ },
+ "developer": [
+  "Shiny Entertainment,",
+  "Shiny Entertainment"
+ ],
+ "publisher": [
+  "Playmates Interactive Entertainment",
+  "Playmates Interactive"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "animalprotagonist",
+  "horizontal",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "The even more unhinged sequel to the original Earthworm Jim, which was known for its surreal graphical style and frantic run-and-gun gameplay.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.82,
+ "metascore": 45,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/0/8/3/18083_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/4/18084_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/4/18084_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/3/18083_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/3/18083_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

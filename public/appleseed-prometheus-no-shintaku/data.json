@@ -1,0 +1,42 @@
+{
+ "title": "Appleseed - Prometheus no Shintaku",
+ "aliases": [
+  "Appleseed: Prometheus no Shintaku"
+ ],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Kan's"
+ ],
+ "publisher": [
+  "Visit"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "anime",
+  "horiztontal",
+  "jumper",
+  "manga",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "A 1994 side-scrolling shooter game for the Super Famicom published by Visit based on the Appleseed manga/anime.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

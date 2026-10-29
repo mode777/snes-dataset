@@ -1,0 +1,40 @@
+{
+ "title": "Super Real Mahjong PV Paradise - All-Star 4-nin Uchi",
+ "aliases": [
+  "Super Real Mahjong PV: Paradise: All-Star 4 Nin Uchi",
+  "Super Real Mahjong PV Paradise: All-Star 4-nin Uchi"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "April 21, 1995"
+ },
+ "developer": [
+  "SETA"
+ ],
+ "publisher": [
+  "SETA"
+ ],
+ "genre": [],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "Part of SETA Corporation's series of mahjong games featuring a recurring cast of anime women. PV Paradise is a Super Famicom-exclusive entry.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

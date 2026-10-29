@@ -1,0 +1,45 @@
+{
+ "title": "Kawa no Nushi Tsuri 2",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Apr 28, 1995"
+ },
+ "developer": [
+  "Natsume",
+  "Pack-In-Video"
+ ],
+ "publisher": [
+  "Pack-In-Video"
+ ],
+ "genre": [
+  "Sports",
+  "Nature",
+  "Fishing"
+ ],
+ "tags": [
+  "fishing",
+  "rpg",
+  "topdown"
+ ],
+ "description": "A 1995 Super Famicom fishing RPG. It is the sequel to the Famicom game Kawa no Nushi Tsuri and the second game in Natsume's \"River King\" franchise.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/8/1/307081_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

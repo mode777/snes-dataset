@@ -1,0 +1,39 @@
+{
+ "title": "International Sensible Soccer: World Champions",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "pal": "1994"
+ },
+ "developer": [
+  "Sensible Software"
+ ],
+ "publisher": [
+  "Sony Imagesoft",
+  "Renegade Software"
+ ],
+ "genre": [],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "sports"
+ ],
+ "description": "Otherwise known as Sensible Soccer: International Edition. Slightly improved version of Sensible Soccer 92/93 with an additional World Cup mode and visible referees.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, French, Italian"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Elite Soccer",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "August 1994"
+ },
+ "developer": [
+  "Rage Software"
+ ],
+ "publisher": [
+  "GameTek"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "Elite Soccer (also known as \"World Cup Striker\" in Japan and Europe) is a soccer game developed by Rage Software for the SNES. It is an updated version of Denton Designs' Striker, released to coincide with the 1994 World Cup.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/6/7/46167_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

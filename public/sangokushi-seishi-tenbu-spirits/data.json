@@ -1,0 +1,46 @@
+{
+ "title": "Sangokushi Seishi - Tenbu Spirits",
+ "aliases": [
+  "Sangokushi Seishi: Tenbu Spirits"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Jun 25, 1993"
+ },
+ "developer": [
+  "Wolf Team"
+ ],
+ "publisher": [
+  "Telenet Japan",
+  "Wolf Team"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "strategy",
+  "turnbased"
+ ],
+ "description": "A 1993 Super Famicom strategy game based around the Three Kingdoms era of Ancient China. It was developed by Wolf Team and is an enhanced port of their 1991 PC-9801 game Tenbu: Sangokushi Seishi.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/5/2/306852_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/2/306852_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "title": "The Adventures of Kid Kleets",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "August 1994"
+ },
+ "developer": [
+  "Krisalis Software"
+ ],
+ "publisher": [
+  "Ocean"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "basher",
+  "multidirectional",
+  "platform",
+  "sideways"
+ ],
+ "description": "An action-platformer for various platforms, inspired by Sonic and Mario. The titular soccer-loving lad must travel the world to recover a World Cup trophy stolen by aliens.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French, Italian, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/9/4/50494_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/4/50494_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "title": "Wizardry VI - Kindan no Mahitsu",
+ "aliases": [
+  "Wizardry VI: Kindan no Mahitsu"
+ ],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "Sir-tech Software"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [],
+ "tags": [
+  "dungeoncrawler",
+  "fantasy",
+  "firstperson",
+  "intoscreen",
+  "rpg",
+  "swordsandsorcery"
+ ],
+ "description": "The sixth game of the Wizardry series of fantasy roleplaying games sends a fresh party of adventurers on a quest to rediscover the Cosmic Forge, a pen said to make real anything that was written with it.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

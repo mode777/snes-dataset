@@ -1,0 +1,42 @@
+{
+ "title": "Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki",
+ "aliases": [
+  "Super Nazo Puyo Tsuu: Rulue no Tetsuwan Hanjouki",
+  "Super Nazo Puyo Tsuu: Ruruu no Tetsuwan Hanjouki"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "June 28, 1996"
+ },
+ "developer": [
+  "Compile"
+ ],
+ "publisher": [
+  "Compile"
+ ],
+ "genre": [],
+ "tags": [
+  "fallingblocks",
+  "puzzle",
+  "rpg",
+  "tilearrangement"
+ ],
+ "description": "A Puyo Puyo spin-off game featuring Arle's rival Rulue as its protagonist. Like the first Super Nazo Puyo, it combines Puyo Puyo puzzle gameplay with RPG trappings.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

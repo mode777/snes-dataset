@@ -1,0 +1,34 @@
+{
+ "title": "Ogre Battle: The March of the Black Queen",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-05",
+  "usa": "May 1995"
+ },
+ "developer": [
+  "Quest"
+ ],
+ "publisher": [],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Fantasy"
+ ],
+ "tags": [],
+ "description": "Ogre Battle: The March of the Black Queen is a real-time tactical role-playing video game developed by Quest and released in Japan in 1993, and in 1995 in North America for the Super Nintendo Entertainment System. It is the first installment of the Ogre Battle series. It was directed by Yasumi Matsunoand designed by Matsuno and Akihiko Yoshida. The story of Ogre Battle focuses on a band of rebels as they lead a revolution against a corrupt reigning Empire, ruled by an evil Empress.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 4.08,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/r2_d5ba77da-5382-448a-942d-378811e170a9.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/1/50981_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/1/50981_back.jpg"
+ ],
+ "sources": [
+  "opengamedb",
+  "openvgdb"
+ ]
+}

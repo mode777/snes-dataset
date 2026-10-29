@@ -1,0 +1,42 @@
+{
+ "title": "Saibara Rieko no Mahjong Hourouki",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Feb 10, 1995"
+ },
+ "developer": [
+  "Natsume"
+ ],
+ "publisher": [
+  "TAITO"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A Super Famicom mahjong game featuring the distinctive art style of manga artist Rieko Saibara.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/8/8/312588_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

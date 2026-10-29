@@ -1,0 +1,44 @@
+{
+ "title": "J.League Excite Stage '96",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Apr 26, 1996"
+ },
+ "developer": [
+  "A-Max"
+ ],
+ "publisher": [
+  "Epoch"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "A soccer game created by A-Max and released in 1996. It is the third in their J-League Excite Stage series that focuses on Japan's top national league.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/1/5/307215_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/1/5/307215_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

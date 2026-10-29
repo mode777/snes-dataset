@@ -1,0 +1,39 @@
+{
+ "title": "Fire Pro Joshi: All Star Dream Slam",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "July 22, 1994"
+ },
+ "developer": [
+  "HUMAN"
+ ],
+ "publisher": [
+  "HUMAN",
+  "Human Entertainment"
+ ],
+ "genre": [],
+ "tags": [
+  "isometric",
+  "sports",
+  "wrestling"
+ ],
+ "description": "An all-women wrestling game using the Fire Pro engine and based on the Zen-Nippon Joshi (AJW) Pro Wrestling circuit.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

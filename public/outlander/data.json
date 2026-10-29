@@ -1,0 +1,51 @@
+{
+ "title": "Outlander",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "April 1993",
+  "pal": "1993",
+  "usa": "April 1993",
+  "europe": "April 1993"
+ },
+ "developer": [
+  "Mindscape",
+  "Mindscape Inc."
+ ],
+ "publisher": [
+  "Mindscape"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "behind",
+  "car",
+  "driving",
+  "postapocalyptic",
+  "racing"
+ ],
+ "description": "With just a car and a shotgun, players travel across a wasteland to survive.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/5/9/47859_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/6/0/47860_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "title": "Oscar",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "October 1996",
+  "pal": "December 1996",
+  "usa": "October 1996",
+  "europe": "October 1996"
+ },
+ "developer": [
+  "Flair",
+  "Flair Software"
+ ],
+ "publisher": [
+  "Titus",
+  "Titus Software"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "An Amiga platformer that was later ported to PC and SNES. Oscar is on a quest to recover his namesake trophies from the sets of various Hollywood movies.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/9/4/50994_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/9/4/50994_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

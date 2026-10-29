@@ -1,0 +1,55 @@
+{
+ "title": "Tactics Ogre - Let Us Cling Together",
+ "aliases": [
+  "Tactics Ogre: Let Us Cling Together"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Oct6, 1995",
+  "first_release": "1995-10-06"
+ },
+ "developer": [
+  "Quest Corporation",
+  "Quest"
+ ],
+ "publisher": [
+  "Quest Corporation"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Fantasy"
+ ],
+ "tags": [
+  "fantasy",
+  "isometric",
+  "rpg",
+  "strategy",
+  "tactic",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "Tactics Ogre: Let Us Cling Together is the second game in the Ogre Battle Series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.22,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/e8b26f7a-8de5-4fd2-8e20-5948d600a94d.png",
+  "https://gamefaqs.gamespot.com/a/box/3/8/7/51387_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/7/51387_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

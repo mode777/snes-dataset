@@ -1,0 +1,43 @@
+{
+ "title": "Wheel of Fortune: Deluxe Edition",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "April 1994"
+ },
+ "developer": [
+  "Imagitec Design",
+  "Imagitec Design, Inc."
+ ],
+ "publisher": [
+  "GameTek"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Trivia / Game Show"
+ ],
+ "tags": [
+  "gameshow",
+  "quiz",
+  "tv"
+ ],
+ "description": "An updated version of the SNES/Genesis game Wheel of Fortune released only on the SNES.",
+ "description_source": "snes_csv",
+ "players": "1 - 3 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/7/5/51475_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

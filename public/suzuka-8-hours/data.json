@@ -1,0 +1,52 @@
+{
+ "title": "Suzuka 8 Hours",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "May 1994",
+  "north_america": "May 1994",
+  "usa": "May 1994"
+ },
+ "developer": [
+  "Arc System Works"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Motorcycle",
+  "Street"
+ ],
+ "tags": [
+  "arcade",
+  "behind",
+  "intoscreen",
+  "motorcycle",
+  "racing",
+  "sports"
+ ],
+ "description": "An Arcade motorcycle racing game by Namco, based on the titular endurance race. A SNES version was developed by Arc System Works.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/8/6/51386_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/5/51385_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/5/51385_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

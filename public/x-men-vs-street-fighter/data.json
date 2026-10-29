@@ -1,0 +1,36 @@
+{
+ "title": "X-Men vs. Street Fighter",
+ "aliases": [],
+ "year": 1998,
+ "release_dates": {},
+ "developer": [
+  "?"
+ ],
+ "publisher": [
+  "DVS Electronic"
+ ],
+ "genre": [],
+ "tags": [
+  "comic",
+  "fighting",
+  "sideways",
+  "unlicensed"
+ ],
+ "description": "X-Men vs. Street Fighter is an unlicensed one-on-one fighting game for the SNES developed by an unknown company. Although it uses the name of the arcade title, it does not have a tag feature and has some characters that were not used in the original game.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

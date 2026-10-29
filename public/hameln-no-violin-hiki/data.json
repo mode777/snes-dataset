@@ -1,0 +1,46 @@
+{
+ "title": "Hameln no Violin Hiki",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep 29, 1995"
+ },
+ "developer": [
+  "Daft"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "cute",
+  "manga",
+  "platform",
+  "sideways"
+ ],
+ "description": "A game based off the popular 90s manga \"Hameln no Violin Hiki\". It was only released in Japan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/6/4/43364_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/6/4/43364_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

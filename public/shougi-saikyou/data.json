@@ -1,0 +1,43 @@
+{
+ "title": "Shougi Saikyou",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jul 21, 1995"
+ },
+ "developer": [
+  "Magical Company",
+  "Magical Company (Mahou)"
+ ],
+ "publisher": [
+  "Magical Company"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Party"
+ ],
+ "tags": [
+  "boardgame",
+  "shogi"
+ ],
+ "description": "A shogi game for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/3/9/306339_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

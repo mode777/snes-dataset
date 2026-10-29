@@ -1,0 +1,43 @@
+{
+ "title": "Down the World: Mervil's Ambition",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Sep 30, 1994"
+ },
+ "developer": [
+  "ASCII",
+  "ASCII Entertainment"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "isometric",
+  "rpg",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A Super Famicom strategy JRPG featuring a time-travelling hero named Mervil. Elfaria's Susumu Matsushita was responsible for the character design and art direction.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/7/8/306978_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/7/8/306978_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

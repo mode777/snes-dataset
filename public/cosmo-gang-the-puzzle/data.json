@@ -1,0 +1,47 @@
+{
+ "title": "Cosmo Gang: The Puzzle",
+ "aliases": [
+  "Cosmo Gang the Puzzle"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Feb 26, 1993"
+ },
+ "developer": [
+  "Namco"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "fallingblocks",
+  "puzzle",
+  "singlescreen"
+ ],
+ "description": "A falling block-matching puzzle title from Namco created for the Arcades and ported to the Super Famicom in 1993. It was not released outside of Japan.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/3/4/306834_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/3/4/306834_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

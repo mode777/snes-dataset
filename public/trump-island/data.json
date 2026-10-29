@@ -1,0 +1,30 @@
+{
+ "title": "Trump Island",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "January 1994"
+ },
+ "developer": [
+  "Beam Software"
+ ],
+ "publisher": [],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [],
+ "description": "Super Solitaire is a Miscellaneous game, developed by Beam Software and published by Extreme Entertainment Group,which was released in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/6/1/51361_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/6/1/51361_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

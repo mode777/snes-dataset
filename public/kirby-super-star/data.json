@@ -1,0 +1,49 @@
+{
+ "title": "Kirby Super Star",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "first_release": "1996-09-20",
+  "usa": "Sep 20, 1996"
+ },
+ "developer": [
+  "HAL Laboratory",
+  "Hal"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Take control of the the famous pink puffball and his new \"Helper\" friends as they trek through a collection of platforming adventures and minigames.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.31,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/89061c05-83f1-4ca4-8f05-c150e43224d1.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/0/50840_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/0/50840_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "title": "Go Go Ackman 3",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec 15, 1995"
+ },
+ "developer": [
+  "Aspect"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "jumpersideways",
+  "manga",
+  "platform"
+ ],
+ "description": "In this third installment of Go Go Ackman series, Ackman, the 200 year old demon child, faces against a flamboyantly gay pedophile police officer.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/1/6/43416_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/6/43416_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

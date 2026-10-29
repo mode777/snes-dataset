@@ -1,0 +1,47 @@
+{
+ "title": "Tiny Toon Adventures: Wacky Sports Challenge",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-12",
+  "usa": "December 1994"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Other"
+ ],
+ "tags": [
+  "cartoon",
+  "multievent",
+  "sideways",
+  "sports"
+ ],
+ "description": "The cast of Tiny Toon Adventures compete to win a million dollars in a series of wacky takes on sport events like marathons, bungee jumping, soccer, golf, and more.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.66,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/734f4402-342f-4d94-97d8-6ebabc9ee023.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/6/5/46865_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

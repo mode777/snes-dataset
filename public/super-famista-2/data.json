@@ -1,0 +1,45 @@
+{
+ "title": "Super Famista 2",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Mar 12, 1993"
+ },
+ "developer": [
+  "Namco"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "baseball",
+  "sports"
+ ],
+ "description": "A baseball game in Namco's Famista, or Family Stadium, series. It is the second Famista for the Super Famicom, following Super Batter Up.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/3/9/306839_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/3/9/306839_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

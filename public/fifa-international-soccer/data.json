@@ -1,0 +1,60 @@
+{
+ "title": "FIFA International Soccer",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "May 1994",
+  "north_america": "May 1, 1994",
+  "pal": "June 23, 1994",
+  "first_release": "1994-05",
+  "usa": "May 1994",
+  "europe": "May 1994"
+ },
+ "developer": [
+  "Extended Play Productions",
+  "EA Sports"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "EA Sports"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "football",
+  "isometric",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "The first entry in the popular gaming franchise about the most popular sport in the world. Staring only international teams it is virtually unrecognizable compared to the modern FIFA games.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.41,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/1/9/2/31192_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/9/2/31192_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/9/1/31191_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/9/1/31191_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/9/3/31193_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/9/3/31193_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

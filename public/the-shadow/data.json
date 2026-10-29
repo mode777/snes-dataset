@@ -1,0 +1,29 @@
+{
+ "title": "The Shadow",
+ "aliases": [],
+ "year": null,
+ "release_dates": {
+  "usa": "Canceled"
+ },
+ "developer": [
+  "Ocean"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [],
+ "description": "The Shadow is an Action game, developed and published by Ocean,which was released in Europe in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/6/4/312364_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

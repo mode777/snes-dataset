@@ -1,0 +1,38 @@
+{
+ "title": "Oekaki Logic 2",
+ "aliases": [],
+ "year": 1999,
+ "release_dates": {
+  "japan": "November 1, 1999"
+ },
+ "developer": [
+  "Marigul Management"
+ ],
+ "publisher": [
+  "Sekai Bunka Publishing",
+  "Sekaibunka Publishing"
+ ],
+ "genre": [],
+ "tags": [
+  "picross",
+  "puzzle"
+ ],
+ "description": "Picross game developed by Sekaibunka Publishing, Inc. in 1999 released exclusively on the Nintendo Power cart-writing service. The second of two Oekaki Logic games for the system.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "title": "Exertainment Mountain Bike Rally + Speed Racer",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "europe": "October 1994",
+  "usa": "October 1994"
+ },
+ "developer": [
+  "Life Fitness"
+ ],
+ "publisher": [],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Other"
+ ],
+ "tags": [],
+ "description": "Exertainment Mountain Bike Rally/Speed Racer is a Driving game, developed and published by Life Fitness,which was released in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/9/5/84495_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

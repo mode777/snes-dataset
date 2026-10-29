@@ -1,0 +1,46 @@
+{
+ "title": "Derby Stallion III",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jan 20, 1995"
+ },
+ "developer": [
+  "ASCII",
+  "ASCII Entertainment"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Horse Racing"
+ ],
+ "tags": [
+  "horseracing",
+  "management",
+  "sports"
+ ],
+ "description": "A horse-racing simulation game from ASCII. The second of four games in the series to be released on the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/3/7/307037_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/7/307037_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

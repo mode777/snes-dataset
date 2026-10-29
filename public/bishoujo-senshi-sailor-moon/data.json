@@ -1,0 +1,33 @@
+{
+ "title": "Bishoujo Senshi Sailor Moon",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-",
+  "japan": "1994"
+ },
+ "developer": [
+  "Bandai"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [],
+ "description": "Sailor Moon R is the sequel to the first Sailor Moon and introduced a new playable character, Chibiusa. The sprites from the previous game were redesigned with more detail and more animation frames for this game and the later games.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 3.52,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/5d01c909-3fb2-45b6-b4c7-dc672508a304.png",
+  "https://gamefaqs.gamespot.com/a/box/7/5/3/23753_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/3/23753_back.jpg"
+ ],
+ "sources": [
+  "opengamedb",
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Panic in Nakayoshi World",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Nov 18, 1994"
+ },
+ "developer": [
+  "Tom Create"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "anime",
+  "manga",
+  "puzzle",
+  "topdown"
+ ],
+ "description": "Action puzzle game developed by Tom Create in 1994. The player must save the many anime universes from the Nakayoshi magazine from destruction.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/1/0/31810_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/1/0/31810_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

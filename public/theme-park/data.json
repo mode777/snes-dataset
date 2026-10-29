@@ -1,0 +1,54 @@
+{
+ "title": "Theme Park",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Nov 11, 1996",
+  "north_america": "Cancelled",
+  "pal": "November 11, 1994",
+  "europe": "Nov 11, 1996"
+ },
+ "developer": [
+  "Bullfrog",
+  "Bullfrog Productions"
+ ],
+ "publisher": [
+  "Ocean",
+  "Electronic Arts"
+ ],
+ "genre": [
+  "Strategy",
+  "Tycoon"
+ ],
+ "tags": [
+  "cute",
+  "isometric",
+  "management",
+  "multidirection",
+  "scrolling",
+  "shop",
+  "strategy"
+ ],
+ "description": "A management simulation game from Bullfrog in which the goal is to take control of an amusement park and try to make it as successful as possible.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/4/7/21647_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/4/7/21647_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/4/6/21646_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Big Ichigeki! Pachi-Slot Daikouryaku 2: Universal Collection",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jul 21, 1995"
+ },
+ "developer": [
+  "Syscom Entertainment",
+  "Syscom"
+ ],
+ "publisher": [
+  "Ask Kodansha"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gamble",
+  "game",
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "Return to the one-armed bandits in this Super Famicom pachi-slots sequel.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/1/1/307111_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/1/307111_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

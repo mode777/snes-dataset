@@ -1,0 +1,42 @@
+{
+ "title": "Houkago in Beppin Jogakuin",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Feb3, 1995"
+ },
+ "developer": [
+  "Access"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "management",
+  "simulation"
+ ],
+ "description": "A simulation game in which the player determines the extracurricular activities of a schoolgirl of their choice.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/4/9/306549_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

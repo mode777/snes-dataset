@@ -1,0 +1,55 @@
+{
+ "title": "Kid Klown in Crazy Chase",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "October 21, 1994",
+  "north_america": "September 1994",
+  "pal": "1995",
+  "first_release": "1994-09-10",
+  "europe": "September 1994",
+  "usa": "September 1994"
+ },
+ "developer": [
+  "Kemco"
+ ],
+ "publisher": [
+  "Kotobuki System",
+  "Kemco"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "isometric",
+  "jumper",
+  "platform"
+ ],
+ "description": "The klutziest clown Kid Klown must rescue the princess of Klown Planet from the villainous and bomb-happy Blackjack in a series of trap-filled chase levels.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.34,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/a30d1d29-9d65-4455-8beb-c5ef494d5a75.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/6/50586_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/6/50586_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/4/50584_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "title": "Princess Minerva",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jun 23, 1995"
+ },
+ "developer": [
+  "Riverhill Soft",
+  "Atelier Double"
+ ],
+ "publisher": [
+  "Vic Tokai"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "manga",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "RPG based on the manga series of the same name by Maisaka Kou.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/8/7/39787_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Shougi Saikyou II - Jissen Taikyoku Hen",
+ "aliases": [
+  "Shougi Saikyou II: Jissen Taikyoku Hen",
+  "Shougi Saikyou 2: Jissen Taikyoku Hen"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "February 9, 1996"
+ },
+ "developer": [
+  "Magical Company",
+  "Magical Company (Mahou)"
+ ],
+ "publisher": [
+  "Magical Company"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Party"
+ ],
+ "tags": [
+  "boardgame",
+  "shogi"
+ ],
+ "description": "A shogi game for the Super Famicom and a sequel to the 1995 game Shogi Saikyou.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/9/3/307193_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Micro Machines 2: Turbo Tournament",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "pal": "February 22, 1996",
+  "europe": "Feb 22, 1996"
+ },
+ "developer": [
+  "Merit Studios",
+  "Codemasters"
+ ],
+ "publisher": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [
+  "car",
+  "multidirectional",
+  "racing",
+  "sports",
+  "topdown"
+ ],
+ "description": "Micro Machines 2: Turbo tournament is the sequel to Micro Machines. It features a top down perspective in which you race tiny cars around familiar locations such as the breakfast table or the garden.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/5/8/65658_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/8/65658_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

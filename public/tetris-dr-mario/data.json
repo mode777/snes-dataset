@@ -1,0 +1,52 @@
+{
+ "title": "Tetris & Dr. Mario",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-12",
+  "europe": "December 1994",
+  "usa": "December 1994"
+ },
+ "developer": [
+  "Nintendo"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Compilation"
+ ],
+ "tags": [
+  "compilation",
+  "fallingblocks",
+  "puzzle",
+  "realtime",
+  "singlescreen",
+  "tilearrangement"
+ ],
+ "description": "?",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 4.0,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/cf9b67fd-23c1-4c8c-b9f3-4a77b7c78b4f.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/5/37745_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/5/37745_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/4/37744_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/4/37744_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

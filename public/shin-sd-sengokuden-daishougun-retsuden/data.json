@@ -1,0 +1,38 @@
+{
+ "title": "Shin SD Sengokuden - Daishougun Retsuden",
+ "aliases": [
+  "Shin SD Sengokuden: Daishougun Retsuden"
+ ],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "BEC"
+ ],
+ "publisher": [
+  "BEC"
+ ],
+ "genre": [],
+ "tags": [
+  "anime",
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A turn-based strategy game based on Shin SD Sengokuden, an anime spin-off of an anime spin-off.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

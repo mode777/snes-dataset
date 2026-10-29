@@ -1,0 +1,49 @@
+{
+ "title": "Bakukyuu Renpatsu!! Super B-Daman",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "japan": "Dec 19, 1997"
+ },
+ "developer": [
+  "Amble"
+ ],
+ "publisher": [
+  "Hudson",
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "bomberman",
+  "competitive",
+  "cute",
+  "horizontal",
+  "scrolling",
+  "topdown"
+ ],
+ "description": "The second B-Daman game for the Super Famicom and the first to feature original characters.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/7/1/307271_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/7/1/307271_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

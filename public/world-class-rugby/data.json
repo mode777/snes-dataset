@@ -1,0 +1,52 @@
+{
+ "title": "World Class Rugby",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "1993",
+  "pal": "1993",
+  "france": "1993",
+  "europe": "1993"
+ },
+ "developer": [
+  "Denton Designs",
+  "Audiogenic"
+ ],
+ "publisher": [
+  "Audiogenic",
+  "Imagineer"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Rugby"
+ ],
+ "tags": [
+  "behind",
+  "rugby",
+  "sports",
+  "vertical"
+ ],
+ "description": "Rugby game released to coincide with the 1991 Rugby World Cup.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, French"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/2/5/306825_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/2/5/306825_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/2/4/306824_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

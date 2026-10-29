@@ -1,0 +1,46 @@
+{
+ "title": "Stardust Suplex",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jan 20, 1995"
+ },
+ "developer": [
+  "Varie"
+ ],
+ "publisher": [
+  "Varie"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "Wrestling"
+ ],
+ "tags": [
+  "femaleprotagonist",
+  "horizontal",
+  "sideways",
+  "sports",
+  "wrestling"
+ ],
+ "description": "All-women wrestling game by Varie for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/3/8/307038_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

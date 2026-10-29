@@ -1,0 +1,45 @@
+{
+ "title": "Pieces",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "December 1994"
+ },
+ "developer": [
+  "Prism Kikaku"
+ ],
+ "publisher": [
+  "Atlus"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "competitive",
+  "puzzle",
+  "puzzlesolving",
+  "singlescreen"
+ ],
+ "description": "A competitive jigsaw game developed by Prism Kikaku in 1994. Compete against the timer or a second player to complete a series of jigsaw puzzles. It is known as Jigsaw Party in Japan.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/1/0/51010_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/1/0/51010_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

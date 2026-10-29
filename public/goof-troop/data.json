@@ -1,0 +1,49 @@
+{
+ "title": "Goof Troop",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "germany": "July 1993",
+  "usa": "July 1993",
+  "france": "July 1993",
+  "europe": "July 1993"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "cartoon",
+  "disney",
+  "puzzlesolving",
+  "wanderer"
+ ],
+ "description": "Goofy and his son Max were enjoying a peaceful day of fishing, when Keelhaul Pete absconds with Pete and PJ.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/5/1/50751_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/2/50752_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/2/50752_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "title": "Super Battletank 2",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "January 1994",
+  "north_america": "January 11, 1994",
+  "pal": "August 8, 1994",
+  "usa": "January 1994",
+  "spain": "January 1994",
+  "europe": "January 1994"
+ },
+ "developer": [
+  "Imagineering",
+  "Absolute Entertainment",
+  "Imagineering Inc"
+ ],
+ "publisher": [
+  "Absolute Entertainment"
+ ],
+ "genre": [
+  "Simulation",
+  "Tank"
+ ],
+ "tags": [
+  "cockpit",
+  "intoscreen",
+  "simulation",
+  "tanks",
+  "wargame"
+ ],
+ "description": "A first-person tank simulator and the third game in Garry Kitchen's Battletank franchise.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Spanish, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/6/51236_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/4/51234_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/4/51234_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/5/51235_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/5/51235_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "title": "RPG Tsukuru 2",
+ "aliases": [
+  "RPG Tsukuuru 2"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "January 31, 1996"
+ },
+ "developer": [
+  "Kuusou Kagaku"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "creativity",
+  "rpgmaker"
+ ],
+ "description": "Second Super Famicom incarnation of RPG Tsukuru.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/6/1/43361_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/6/1/43361_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

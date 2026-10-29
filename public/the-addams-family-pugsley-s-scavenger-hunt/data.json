@@ -1,0 +1,51 @@
+{
+ "title": "The Addams Family: Pugsley's Scavenger Hunt",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "February 23, 1993",
+  "pal": "1992",
+  "first_release": "1993-02",
+  "europe": "February 1993",
+  "usa": "February 1993"
+ },
+ "developer": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "publisher": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "cartoon",
+  "jumper",
+  "platform"
+ ],
+ "description": "Action platformer based on the 1992 Addams Family cartoon series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.79,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/5715bf3f-5bc2-4bd8-aa2d-2ce7a09e4b37.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/2/22432_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/2/22432_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/1/22431_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

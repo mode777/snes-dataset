@@ -1,0 +1,49 @@
+{
+ "title": "Kunio no Oden",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "May 27, 1994"
+ },
+ "developer": [
+  "Technos",
+  "Technos Japan"
+ ],
+ "publisher": [
+  "Technos",
+  "Technōs Japan"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "fallingblocks",
+  "puzzle",
+  "singlescreen",
+  "tilearrangement",
+  "tileremoval"
+ ],
+ "description": "A Puyo Puyo and Columns type puzzle game with Kunio-kun characters.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/6/3/312563_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/3/312563_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

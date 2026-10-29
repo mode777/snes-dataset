@@ -1,0 +1,54 @@
+{
+ "title": "Shin Nekketsu Kouha - Kunio-tachi no Banka",
+ "aliases": [
+  "Shin Nekketsu Kouha: Kunio-tachi no Banka",
+  "Shin Nekketsu Kouha: Kunio Tachi no Banka"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Apr 29, 1994",
+  "first_release": "1994-04-29"
+ },
+ "developer": [
+  "Almanic Corp.",
+  "Almanic"
+ ],
+ "publisher": [
+  "Technos",
+  "Technōs Japan"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "action",
+  "beatemup",
+  "fighter",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "Edgy grittiness rules in this Super Famicom pseudo-sequel to the NES classics Renegade and River City Ransom, once again featuring Kunio-kun.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.79,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/94846419-edc0-4f31-90e8-921d2514c543.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/0/41180_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/0/41180_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

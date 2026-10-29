@@ -1,0 +1,33 @@
+{
+ "title": "Super Mario RPG: Legend of the Seven Stars",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "first_release": "1996-05-13",
+  "usa": "May 13, 1996"
+ },
+ "developer": [
+  "SquareSoft"
+ ],
+ "publisher": [],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [],
+ "description": "Super Mario RPG: Legend of the Seven Stars is a role-playing video game(RPG) developed by Square and published by Nintendo for the Super Nintendo Entertainment System in 1996. It is the first RPG in the Mario franchise, with major elements drawn from Square's RPG franchises and action-based game play reminiscent of the Super Mario series.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 4.46,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/e0495ddd-046e-4ea9-847b-dc069edd01b5.png",
+  "https://gamefaqs.gamespot.com/a/box/3/0/9/51309_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/9/51309_back.jpg"
+ ],
+ "sources": [
+  "opengamedb",
+  "openvgdb"
+ ]
+}

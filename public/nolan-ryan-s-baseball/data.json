@@ -1,0 +1,41 @@
+{
+ "title": "Nolan Ryan's Baseball",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "usa": "February 1992"
+ },
+ "developer": [
+  "Affect"
+ ],
+ "publisher": [
+  "Romstar"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "baseball",
+  "behind",
+  "sports"
+ ],
+ "description": "Baseball sim developed by Affect and released for the Super Famicom in mid-1991 and the US SNES in early 1992, recognizable by its cartoonish characters. Known in Japan as \"Super Stadium\".",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/7/6/50976_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

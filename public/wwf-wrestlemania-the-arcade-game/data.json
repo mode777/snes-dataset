@@ -1,0 +1,61 @@
+{
+ "title": "WWF WrestleMania: The Arcade Game",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "November 1995",
+  "north_america": "November 1995",
+  "pal": "January 25, 1996",
+  "first_release": "1995-11",
+  "europe": "November 1995",
+  "usa": "November 1995"
+ },
+ "developer": [
+  "Midway",
+  "Iguana Entertainment",
+  "Sculptured Software"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Action",
+  "Fighting",
+  "Wrestling"
+ ],
+ "tags": [
+  "arcade",
+  "horizontal",
+  "sideways",
+  "sports",
+  "wrestling"
+ ],
+ "description": "Throw reality out the window as WWF stars fight for the gold in WWF WrestleMania: The Arcade Game.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.28,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/0/4/0/20040_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/4/1/20041_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/4/1/20041_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/3/9/20039_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/4/0/20040_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/4/0/20040_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

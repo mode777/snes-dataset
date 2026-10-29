@@ -1,0 +1,49 @@
+{
+ "title": "Brutal: Paws of Fury",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-12",
+  "europe": "December 1994",
+  "usa": "December 1994"
+ },
+ "developer": [
+  "Eurocom Developments Ltd",
+  "Eurocom Entertainment Software"
+ ],
+ "publisher": [
+  "Cybersoft, Inc."
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "fighting",
+  "sideways"
+ ],
+ "description": "A light-hearted 2D fighting game starring anthropomorphic animals as martial arts fighters of various disciplines.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": 2.55,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/a2319a7b-1c45-431a-b658-2e17ee8bfe4d.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/2/22572_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/2/22572_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/3/22573_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

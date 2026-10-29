@@ -1,0 +1,49 @@
+{
+ "title": "Little Master - Nijiiro no Maseki",
+ "aliases": [
+  "Little Master: Nijiiro no Maseki"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jun 30, 1995"
+ },
+ "developer": [
+  "Tokuma Shoten Publishing",
+  "Tokuma Shoten"
+ ],
+ "publisher": [
+  "Tokuma Shoten Publishing",
+  "Tokuma Shoten"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "rpg",
+  "strategu",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "Turn-based strategy RPG developed by Tokuma Shoten in 1995. It is the third and final game in the Little Master trilogy.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/1/306231_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/1/306231_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

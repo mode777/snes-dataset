@@ -1,0 +1,51 @@
+{
+ "title": "The Chaos Engine",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "europe": "December 1993"
+ },
+ "developer": [
+  "Bitmap Brothers, The",
+  "Bitmap Brothers"
+ ],
+ "publisher": [
+  "Microprose"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "action",
+  "cooperative",
+  "gauntlet",
+  "levelcodes",
+  "scrolling",
+  "shooter",
+  "shop",
+  "steampunk",
+  "topdown"
+ ],
+ "description": "Also known as Soldiers of Fortune, this game features solo and co-op top-down shooting action, where players choose one of six hired guns to fight their way through all manner of mutants and beasts in their quest to deactivate the monstrous Chaos Engine.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/0/5/48105_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/0/5/48105_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

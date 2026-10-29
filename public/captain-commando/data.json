@@ -1,0 +1,58 @@
+{
+ "title": "Captain Commando",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "August 1995",
+  "north_america": "August 1, 1995",
+  "pal": "1995",
+  "first_release": "1995-08",
+  "usa": "August 1995",
+  "europe": "August 1995"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "action",
+  "arcade",
+  "beatemup",
+  "fighter",
+  "flipscreen",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "Take control of one of four heroes, led by the titular superhero Captain Commando, and take on super-powered criminals in this futuristic 2D brawler by Capcom.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.64,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/3e4d95af-99c7-4097-a0b3-ba66313ba6ba.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/6/44556_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/7/44557_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/7/44557_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/5/44555_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/5/44555_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "title": "Wizap! - Ankoku no Ou",
+ "aliases": [
+  "Wizap!: Ankoku no Ou"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Sep 22, 1994"
+ },
+ "developer": [
+  "SAS Sakata",
+  "Pop House/SAS Sakata"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "rpg",
+  "strategy",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A strategy RPG for the Super Famicom developed by SAS Sakata and published by ASCII Corp. It is the middle chapter of ASCII's Dark Lord trilogy, sitting between Dark Lord and Dark Law.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/7/5/306975_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/7/5/306975_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

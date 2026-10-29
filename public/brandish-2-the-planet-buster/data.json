@@ -1,0 +1,41 @@
+{
+ "title": "Brandish 2: The Planet Buster",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "August 11, 1995"
+ },
+ "developer": [
+  "Nihon Falcom",
+  "Koei"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [],
+ "tags": [
+  "adventure",
+  "dungeoncrawler",
+  "fantasy",
+  "firstperson",
+  "rpg"
+ ],
+ "description": "The sequel to top-down dungeon crawler Brandish. Ares and Dela decide to hunt down the powerful Planet Buster sword before it falls into the wrong hands.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

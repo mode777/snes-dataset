@@ -1,0 +1,45 @@
+{
+ "title": "Super Fire Pro Wrestling - Queen's Special",
+ "aliases": [
+  "Super Fire Pro Wrestling: Queen's Special"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jun 30, 1995"
+ },
+ "developer": [
+  "HUMAN",
+  "Human Club"
+ ],
+ "publisher": [
+  "HUMAN",
+  "Human Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "Wrestling"
+ ],
+ "tags": [
+  "isometric",
+  "sports",
+  "wrestling"
+ ],
+ "description": "An all-women (Joshi) wrestling game in Human's long-running wrestling series Fire Pro Wrestling.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/1/8/311618_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/1/8/311618_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

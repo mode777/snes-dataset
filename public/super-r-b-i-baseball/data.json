@@ -1,0 +1,49 @@
+{
+ "title": "Super R.B.I. Baseball",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "June 1995",
+  "usa": "June 1995"
+ },
+ "developer": [
+  "Tengen",
+  "Gray Matter"
+ ],
+ "publisher": [
+  "Time Warner Interactive"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "baseball",
+  "behind",
+  "sports"
+ ],
+ "description": "A late-release SNES entry in the popular R.B.I. franchise.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/4/6/51346_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/4/6/51346_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

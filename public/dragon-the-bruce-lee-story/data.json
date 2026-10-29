@@ -1,0 +1,56 @@
+{
+ "title": "Dragon: The Bruce Lee Story",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "July 1, 1995",
+  "pal": "February 23, 1995",
+  "first_release": "1995-07",
+  "europe": "July 1995",
+  "usa": "July 1995"
+ },
+ "developer": [
+  "Virgin",
+  "Virgin Interactive"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "beatemup",
+  "movie",
+  "oriental",
+  "powerup",
+  "sideways"
+ ],
+ "description": "A fighter game based on Rob Cohen's motion picture depicting a semi-fictional retelling of Bruce Lee's life.",
+ "description_source": "snes_csv",
+ "players": "1 - 3 (3 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.93,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/925c3a99-e0d2-4ae6-9172-a2a9d6c85320.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/0/4/31004_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/0/5/31005_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

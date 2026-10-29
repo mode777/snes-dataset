@@ -1,0 +1,40 @@
+{
+ "title": "Heiwa Parlor! Mini 8 - Pachinko Jikki Simulation Game",
+ "aliases": [
+  "Heiwa Parlor! Mini 8: Pachinko Jikki Simulation Game"
+ ],
+ "year": 1998,
+ "release_dates": {
+  "japan": "January 30, 1998"
+ },
+ "developer": [
+  "Telenet Japan"
+ ],
+ "publisher": [
+  "Telenet Japan",
+  "Nippon Telenet"
+ ],
+ "genre": [],
+ "tags": [
+  "gambling",
+  "pachinko"
+ ],
+ "description": "Pachinko game developed by Telenet Japan in 1998. The last of eight games in the Mini series, which focuses on two pachinko machines apiece.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

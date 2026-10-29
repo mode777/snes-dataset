@@ -1,0 +1,56 @@
+{
+ "title": "ClayFighter",
+ "aliases": [
+  "Clay Fighter"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "November 30, 1993",
+  "pal": "May 26, 1994",
+  "first_release": "1993-11",
+  "usa": "November 1993",
+  "europe": "November 1993"
+ },
+ "developer": [
+  "Visual Concepts Entertainment",
+  "Visual Concepts"
+ ],
+ "publisher": [
+  "Interplay",
+  "Interplay Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "fighting",
+  "sideways"
+ ],
+ "description": "Crazy clay-based characters beat the clay out of each other in the first-ever claymation fighting game.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.97,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/0a88a80f-6fbe-4245-8cee-f64f5e9f57a4.png",
+  "https://gamefaqs.gamespot.com/a/box/5/9/8/22598_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/8/22598_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/9/22599_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/9/22599_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

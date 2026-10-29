@@ -1,0 +1,45 @@
+{
+ "title": "Tsuri Tarou",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jul8, 1994"
+ },
+ "developer": [
+  "A fishing sim released in 1994 for the Super Famicom.",
+  "Pack-In-Video"
+ ],
+ "publisher": [
+  "Pack-In-Video"
+ ],
+ "genre": [
+  "Sports",
+  "Nature",
+  "Fishing"
+ ],
+ "tags": [
+  "behind",
+  "cute",
+  "fishing"
+ ],
+ "description": "A fishing sim released in 1994 for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/8/9/311589_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

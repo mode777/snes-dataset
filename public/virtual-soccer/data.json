@@ -1,0 +1,48 @@
+{
+ "title": "Virtual Soccer",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "europe": "1994",
+  "usa": "1994"
+ },
+ "developer": [
+  "Probe",
+  "Probe Entertainment Limited"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "SNES soccer game published by Hudson in 1994. Originally released in Japan as J-League Super Soccer.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/1/5/43515_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

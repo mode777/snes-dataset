@@ -1,0 +1,30 @@
+{
+ "title": "Super Casino: Caesars Palace",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "October 1993"
+ },
+ "developer": [
+  "Illusions Gaming Company"
+ ],
+ "publisher": [],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [],
+ "description": "Super Caesars Palace is a Miscellaneous game, developed by Illusions Gaming Company and published by Coconuts Japan,which was released in Japan in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/5/7/51257_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

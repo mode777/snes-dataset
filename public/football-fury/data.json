@@ -1,0 +1,46 @@
+{
+ "title": "Football Fury",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "October 1993"
+ },
+ "developer": [
+  "Sammy",
+  "Aicom"
+ ],
+ "publisher": [
+  "American Sammy"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [
+  "americanfootball",
+  "angle",
+  "sports",
+  "vertical"
+ ],
+ "description": "A side-scrolling football game from Aicom and Sammy for the Super Nintendo. It is known in Japan as Ultimate Football.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/2/2/50722_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

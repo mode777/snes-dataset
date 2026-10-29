@@ -1,0 +1,56 @@
+{
+ "title": "Populous",
+ "aliases": [],
+ "year": 1990,
+ "release_dates": {
+  "japan": "September 1991",
+  "north_america": "September 30, 1991",
+  "pal": "1992",
+  "first_release": "1991-09",
+  "usa": "September 1991",
+  "europe": "September 1991"
+ },
+ "developer": [
+  "Bullfrog",
+  "Bullfrog Productions",
+  "Infinity"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Strategy",
+  "General"
+ ],
+ "tags": [
+  "isometric",
+  "multidirectional",
+  "strategy"
+ ],
+ "description": "Commonly cited as the founding title in the god game genre, Populous is a computer game from Bullfrog Productions in which the player is a deity that must help its followers become prosperous enough to overcoming rival deities and their followers.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.03,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/ecfc7ba6-b32c-4592-acb7-d829df8a85ef.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/3/8/25338_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/3/9/25339_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/3/7/25337_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/3/7/25337_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

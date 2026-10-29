@@ -1,0 +1,51 @@
+{
+ "title": "Super Tennis",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "first_release": "1991-11",
+  "europe": "November 1991",
+  "usa": "November 1991"
+ },
+ "developer": [
+  "Tokyo Shoseki",
+  "TOSE"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Tennis"
+ ],
+ "tags": [
+  "angle",
+  "behind",
+  "sports",
+  "tennis"
+ ],
+ "description": "Super Tennis, a 1991 tennis game for the SNES, features a Circuit mode that lets players compete to end the year at number one by accumulating ranking points on eight different tournaments.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.58,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/22914e0a-07be-4c7f-bc93-0f61f144eddc.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/7/5/51375_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/7/4/51374_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/7/4/51374_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

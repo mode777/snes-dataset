@@ -1,0 +1,39 @@
+{
+ "title": "C2 - Clay Fighter 2: Judgment Clay",
+ "aliases": [
+  "Clay Fighter 2: Judgment Clay"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-01",
+  "europe": "January 1995",
+  "usa": "January 1995"
+ },
+ "developer": [
+  "Interplay"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [],
+ "description": "ClayFighter 2: Judgment Clay is a one-on-one fightingvideo game released exclusively for the SNES in 1995. It is Interplay's sequel to their 1993 game ClayFighter. The game's name is a parody of the 1991 film Terminator 2: Judgment Day. ClayFighter 2 revolves around the town of Mudville, where the clay meteor crashed in ClayFighter. Learning of the spectacle that took place in \"Clayland\", the evil Dr. Generic Kiln (who is only mentioned in the booklet and does not make a visual appearance until ClayFighter 63⅓ in 1997) flies in on his aircraft containing the residue he collected from the meteor and spreads it to the rest of Mudville in order to create more fighters. He declares himself grand master of Mudville after the fall of N. Boss, the end boss of the original ClayFighter. He holds the C-2 tournament to see who can become next grandmaster of Mudville.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 2.96,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/5/7/6/50576_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/7/50577_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/7/50577_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/6/50576_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/6/50576_back.jpg"
+ ],
+ "sources": [
+  "opengamedb",
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "title": "The Incredible Hulk",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "August 1, 1994",
+  "pal": "1993",
+  "first_release": "1994-08",
+  "europe": "August 1994",
+  "usa": "August 1994"
+ },
+ "developer": [
+  "Probe",
+  "Probe Entertainment",
+  "Probe Entertainment Limited"
+ ],
+ "publisher": [
+  "U.S. Gold"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "comic",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "Dr. Bruce Banner's green alter-ego rampages across various levels in search of his nemesis Leader in this 16-bit side-scrolling brawler game.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.61,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/0/4/0/31040_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/4/1/31041_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/4/1/31041_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/4/0/31040_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

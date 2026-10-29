@@ -1,0 +1,47 @@
+{
+ "title": "Jissen! Pachi-Slot Hisshouhou! 2",
+ "aliases": [
+  "Jissen Pachi-Slot Hisshouhou! 2"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Sep 16, 1994"
+ },
+ "developer": [
+  "Sammy",
+  "Sammy Studios"
+ ],
+ "publisher": [
+  "Sammy",
+  "Sammy Corporation"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "slotmachine"
+ ],
+ "description": "Slots game developed by Sammy Studios for the Super Famicom in 1994.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/7/3/306973_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

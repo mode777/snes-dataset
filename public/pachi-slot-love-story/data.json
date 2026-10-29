@@ -1,0 +1,43 @@
+{
+ "title": "Pachi-Slot Love Story",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Nov 19, 1993"
+ },
+ "developer": [
+  "Coconuts Japan"
+ ],
+ "publisher": [
+  "Coconuts Japan"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "slotmachine"
+ ],
+ "description": "A 1993 pachi-slot game developed by Coconuts Japan for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/7/3/306873_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

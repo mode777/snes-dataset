@@ -1,0 +1,51 @@
+{
+ "title": "Cannon Fodder",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "pal": "January 1, 1994",
+  "first_release": "1994-",
+  "europe": "1994"
+ },
+ "developer": [
+  "Sensible Software"
+ ],
+ "publisher": [
+  "Virgin",
+  "Virgin Interactive"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "multidirectional",
+  "scrolling",
+  "shooter",
+  "war"
+ ],
+ "description": "A top-down strategic shooter in which a team of soldiers complete missions of increasing difficulty, destroying all of their enemies in order to progress. The game was notable for having a huge number of levels and a very high skill requirement from the player.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.55,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/8/8/6/23886_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/8/6/23886_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/8/6/23886_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "title": "Classic Road II",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "February 24, 1995"
+ },
+ "developer": [
+  "Opera House"
+ ],
+ "publisher": [
+  "Victor Entertainment",
+  "Victor Interactive Software"
+ ],
+ "genre": [],
+ "tags": [
+  "gambling",
+  "horseracing",
+  "management"
+ ],
+ "description": "A Super Famicom horseracing sequel from Opera House.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

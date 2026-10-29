@@ -1,0 +1,54 @@
+{
+ "title": "Super Smash T.V.",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "first_release": "1992-02",
+  "usa": "February 1992",
+  "europe": "February 1992"
+ },
+ "developer": [
+  "Williams",
+  "Beam Software"
+ ],
+ "publisher": [
+  "Acclaim"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Static"
+ ],
+ "tags": [
+  "arcade",
+  "cooperative",
+  "flipscreen",
+  "powerup",
+  "shooter",
+  "topdown"
+ ],
+ "description": "A dual-joystick Arcade shooter ported to nearly every contemporary system. Contestants gear up to win fantastic prizes on the most violent game show on TV.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.56,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/8a77f29b-70ed-43d8-89ad-a9d82bd2de7b.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/7/29287_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/7/29287_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/8/29288_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/8/29288_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

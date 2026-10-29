@@ -1,0 +1,44 @@
+{
+ "title": "Super Pachinko Taisen",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Apr 28, 1995"
+ },
+ "developer": [
+  "Kan's",
+  "Banpresto"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "pachinko"
+ ],
+ "description": "A competitive two-player pachinko game in the Compati Hero Series, which combines the universes of Kamen Rider, Ultraman and SD Gundam.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/8/9/306389_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/9/306389_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

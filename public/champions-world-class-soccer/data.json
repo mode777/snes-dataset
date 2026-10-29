@@ -1,0 +1,58 @@
+{
+ "title": "Champions World Class Soccer",
+ "aliases": [
+  "Champions: World Class Soccer"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "April 1994",
+  "north_america": "April 1994",
+  "pal": "1994",
+  "europe": "April 1994",
+  "usa": "April 1994"
+ },
+ "developer": [
+  "Park Place Productions"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "A 1993 soccer game for both the Sega Genesis and Super Nintendo. It features 32 national teams and features three separate endorsements for its European release: Ryan Giggs in the UK, Sepp Maier in Germany and the French team Paris Saint-Germain in France.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English, German, Spanish, French, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/8/3/47183_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/3/47183_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/1/47181_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/1/47181_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/2/47182_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

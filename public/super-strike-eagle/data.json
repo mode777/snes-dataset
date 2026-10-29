@@ -1,0 +1,46 @@
+{
+ "title": "Super Strike Eagle",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "March 1993",
+  "europe": "March 1993"
+ },
+ "developer": [
+  "MicroProse"
+ ],
+ "publisher": [
+  "MicroProse"
+ ],
+ "genre": [
+  "Simulation",
+  "Flight",
+  "Modern Jet"
+ ],
+ "tags": [
+  "combatplane",
+  "flight",
+  "flightsimulator",
+  "simulation"
+ ],
+ "description": "SNES exclusive entry to Microprose's F15 Strike Eagle series of jet fighter simulators.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/7/0/51370_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/7/0/51370_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

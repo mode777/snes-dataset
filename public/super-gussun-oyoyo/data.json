@@ -1,0 +1,44 @@
+{
+ "title": "Super Gussun Oyoyo",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Aug 11, 1995"
+ },
+ "developer": [
+  "Kan's"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "block",
+  "puzzle"
+ ],
+ "description": "Originating as an arcade title but spanning many consoles, Gusson Oyoyo combines the traditional falling block puzzle of Tetris with a wandering Lemming-like character. Build a path to the exit while keeping Gussun or Oyoyo safe from enemies or the player's own negligence.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/9/9/43399_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/9/43399_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

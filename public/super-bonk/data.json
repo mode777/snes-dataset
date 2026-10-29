@@ -1,0 +1,49 @@
+{
+ "title": "Super Bonk",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-11",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "A.I",
+  "RED Entertainment"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "basher",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "The fourth game in the Bonk franchise, and the first to be released on the SNES. It borrows elements from the previous three games and many off-beat additions.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.65,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/ac48ef1b-cdbf-4eda-b63a-22a4719b17cd.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/4/0/51240_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "title": "Super Family Gelaende",
+ "aliases": [
+  "Super Family Gelände"
+ ],
+ "year": 1998,
+ "release_dates": {
+  "japan": "February 1, 1998"
+ },
+ "developer": [
+  "Namco"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [],
+ "tags": [
+  "ski",
+  "sports"
+ ],
+ "description": "A Super Famicom skiing game from Namco and a late entry in their \"Family\" series of sports games they created for Nintendo consoles.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

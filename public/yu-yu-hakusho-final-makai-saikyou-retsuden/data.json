@@ -1,0 +1,51 @@
+{
+ "title": "Yu Yu Hakusho Final - Makai Saikyou Retsuden",
+ "aliases": [
+  "Yu Yu Hakusho Final: Makai Saikyou Retsuden",
+  "Yuu Yuu Hakusho Final: Makai Saikyou Retsuden"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "March 24, 1995"
+ },
+ "developer": [
+  "Tose",
+  "Namco"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "anime",
+  "fighting",
+  "horizontal",
+  "manga",
+  "sideways"
+ ],
+ "description": "The game is based on the Saga of the Three Kings, though some characters from the Chapter Black Saga and from the movie appear.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/8/5/25385_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/5/25385_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

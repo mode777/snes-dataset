@@ -1,0 +1,44 @@
+{
+ "title": "Ranma ½ - Chounai Gekitou Hen",
+ "aliases": [
+  "Ranma 1-2: Chounai Gekitou Hen"
+ ],
+ "year": 1992,
+ "release_dates": {
+  "japan": "April 1993"
+ },
+ "developer": [
+  "NCS"
+ ],
+ "publisher": [
+  "Masaya"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "anime",
+  "fighting",
+  "horizontal",
+  "manga",
+  "sideways"
+ ],
+ "description": "Ranma 1/2: Chounai Gekitou Hen is a generic fighting game, typical to the early nineties. He was reskinned under the name \"Stree Combat\" for the US market.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/1/4/43414_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/1/4/43414_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

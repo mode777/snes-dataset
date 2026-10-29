@@ -1,0 +1,52 @@
+{
+ "title": "Earth Defense Force",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1992-01",
+  "usa": "January 1992",
+  "europe": "January 1992"
+ },
+ "developer": [
+  "Jaleco",
+  "Jaleco Entertainment"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "horizontal",
+  "shootemup",
+  "shooter",
+  "sideways"
+ ],
+ "description": "\"A super saga of 23rd century satellite warfare!\" A Super Nintendo horizontal shoot 'em up developed and published by Jaleco.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.64,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/e2870601-1d0f-42f6-a4cd-bc67736bad5a.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/7/3/51273_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/7/3/51273_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/7/4/51274_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/7/4/51274_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

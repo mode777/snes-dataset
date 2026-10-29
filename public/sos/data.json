@@ -1,0 +1,42 @@
+{
+ "title": "SOS",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "April 1994"
+ },
+ "developer": [
+  "Human Entertainment"
+ ],
+ "publisher": [
+  "Vic Tokai"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "adventure",
+  "platform",
+  "puzzlesolve"
+ ],
+ "description": "Escape the Lady Crithania before it fills with water! It is an early survival adventure game, developed by Human Entertainment and released in 1993.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/4/9/41249_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

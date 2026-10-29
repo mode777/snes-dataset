@@ -1,0 +1,52 @@
+{
+ "title": "NBA Live 97",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "December 1996",
+  "pal": "1996",
+  "europe": "December 1996",
+  "usa": "December 1996"
+ },
+ "developer": [
+  "NuFX",
+  "Electronic Arts"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "EA Sports"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Sim"
+ ],
+ "tags": [
+  "basketball",
+  "isometric",
+  "sports"
+ ],
+ "description": "NBA Live '97 featured Mitch Richmond of the Sacramento Kings on the cover, the first in the series to dedicate the cover to a single player.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/4/0/5540_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/0/5540_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/3/9/5539_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

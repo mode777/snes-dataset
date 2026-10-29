@@ -1,0 +1,48 @@
+{
+ "title": "Battle Zeque Den",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jul 15, 1994"
+ },
+ "developer": [
+  "Arsys Software",
+  "Arsys Software Inc."
+ ],
+ "publisher": [
+  "Asmik",
+  "Asmik Ace Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "beatemup",
+  "fighter",
+  "horizontal",
+  "progressive",
+  "sideways"
+ ],
+ "description": "A Super Famicom brawler with an all-female cast.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/8/4/304784_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/8/4/304784_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "title": "Mahjong Hishouden - Shin Naki no Ryuu",
+ "aliases": [
+  "Mahjong Hishouden: Shin Naki no Ryuu"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Oct 27, 1995"
+ },
+ "developer": [
+  "?",
+  "Bec"
+ ],
+ "publisher": [
+  "BEC"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "anime",
+  "boardgame",
+  "mahjong",
+  "manga"
+ ],
+ "description": "Licensed mahjong game published by Bec in 1995.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/4/6/307146_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/4/6/307146_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

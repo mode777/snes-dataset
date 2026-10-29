@@ -1,0 +1,31 @@
+{
+ "title": "Drift King Shutokou Battle '94: Tsuchiya Keiichi & Bandou Masaaki",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Genki"
+ ],
+ "publisher": [
+  "Bullet-Proof Software"
+ ],
+ "genre": [],
+ "tags": [
+  "behind",
+  "drift",
+  "racing"
+ ],
+ "description": "A Super Famicom stock car racing game and the first in the long-running Tokyo Xtreme Racer series, known in Japan as Shutokou Battle.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "title": "Hokuto no Ken 5 - Tenma Ryuuseiden Ai Zetsu Shou",
+ "aliases": [
+  "Hokuto no Ken 5: Tenma Ryuuseiden Ai Zetsu Shou"
+ ],
+ "year": 1992,
+ "release_dates": {},
+ "developer": [
+  "Toei"
+ ],
+ "publisher": [
+  "Toei"
+ ],
+ "genre": [],
+ "tags": [
+  "anime",
+  "manga",
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A RPG based on the Fist of the North Star franchise. It is the fifth game in Toei's series of Fist of the North Star games and the first of three for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

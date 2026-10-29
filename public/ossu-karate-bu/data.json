@@ -1,0 +1,36 @@
+{
+ "title": "Ossu!! Karate-bu",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Culture Brain"
+ ],
+ "publisher": [
+  "Culture Brain"
+ ],
+ "genre": [],
+ "tags": [
+  "fighting",
+  "horizontal",
+  "manga",
+  "sideways"
+ ],
+ "description": "A Super Famicom fighter game based on the delinquent martial arts manga of the same name. It was developed and published by Culture Brain in 1994.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

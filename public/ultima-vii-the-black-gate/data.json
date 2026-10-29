@@ -1,0 +1,35 @@
+{
+ "title": "Ultima VII: The Black Gate",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "November 1994",
+  "north_america": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Origin Systems",
+  "Origin"
+ ],
+ "publisher": [
+  "FCI"
+ ],
+ "genre": [
+  "Role-Playing",
+  "PC-style RPG"
+ ],
+ "tags": [],
+ "description": "Ultima: The Black Gate is a Role-Playing game, developed by Origin and published by Pony Canyon,which was released in Japan in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/5/0/51450_front.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "openvgdb"
+ ]
+}

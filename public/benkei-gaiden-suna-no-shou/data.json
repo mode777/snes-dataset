@@ -1,0 +1,44 @@
+{
+ "title": "Benkei Gaiden: Suna no Shou",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Dec 11, 1992"
+ },
+ "developer": [
+  "SUNSOFT"
+ ],
+ "publisher": [
+  "SUNSOFT"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "An RPG set in Ancient Japan for the Super Famicom. It belongs to the same series as the PC Engine RPG Benkei Gaiden.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/1/5/306815_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/1/5/306815_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

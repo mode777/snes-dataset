@@ -1,0 +1,52 @@
+{
+ "title": "Human Grand Prix III - F1 Triple Battle",
+ "aliases": [
+  "Human Grand Prix III: F1 Triple Battle"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Sep 30, 1994"
+ },
+ "developer": [
+  "Human",
+  "Human Entertainment"
+ ],
+ "publisher": [
+  "Human",
+  "Human Entertainment"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Formula One"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "formulaone",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "Human Grand Prix III: F1 Triple Battle is the third title of the Human Grand Prix series released on the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/8/0/306980_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/0/306980_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "title": "Super Hockey",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "europe": "November 1993",
+  "france": "November 1993"
+ },
+ "developer": [
+  "Sculptured Software"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Ice Hockey",
+  "Arcade"
+ ],
+ "tags": [],
+ "description": "The Montreal Canadians, LA Kings, Toronto Maple Leafs. Detroit Red Wings. These are just a few of hocker's elite teams that hit the ice in a quest for sport's most prestigious trophy in NHL Stanley Cup. This is the game as it's meant to be played: hard-hitting and lightning fast; bone-jarring yet graceful. NHL Stanley Cup's unique, super-realistic, three-dimensional viewpoint on the action puts you in centre ice, always on the puck, always in the play. The Stanley Cup is waiting to be won - do you have the guts to take the glory?",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/6/7/50967_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/7/50967_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

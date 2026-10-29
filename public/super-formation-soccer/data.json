@@ -1,0 +1,31 @@
+{
+ "title": "Super Formation Soccer",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "May 1992"
+ },
+ "developer": [
+  "Human Entertainment"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [],
+ "description": "Super Soccer is a Sports game, developed and published by Human Entertainment,which was released in Japan in 1991.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/6/6/51366_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

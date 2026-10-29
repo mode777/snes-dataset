@@ -1,0 +1,35 @@
+{
+ "title": "Tekken 2",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {},
+ "developer": [
+  "Gamtec"
+ ],
+ "publisher": [
+  "?"
+ ],
+ "genre": [],
+ "tags": [
+  "fighting",
+  "sideways",
+  "unlicensed"
+ ],
+ "description": "Tekken 2 is a bootleg port of Tekken 2 for the SNES. It is the SNES counterpart to Tekken Special.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

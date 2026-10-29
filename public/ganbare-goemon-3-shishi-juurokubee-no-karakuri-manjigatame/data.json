@@ -1,0 +1,41 @@
+{
+ "title": "Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame",
+ "aliases": [
+  "Ganbare Goemon 3: Shishi Juurokubee no Karakuri Manjigatame"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "December 16, 1994"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "plateform",
+  "scrolling",
+  "sideways"
+ ],
+ "description": "The third Super Famicom game to feature Goemon, Ebisumaru and their friends. This game would break away from the linear stages of the earlier games and provide a larger interconnected world like those found in the N64 games.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

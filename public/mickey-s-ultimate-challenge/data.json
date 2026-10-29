@@ -1,0 +1,45 @@
+{
+ "title": "Mickey's Ultimate Challenge",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "February 1994",
+  "usa": "February 1994"
+ },
+ "developer": [
+  "Designer Software / WayForward Technologies",
+  "Designer Software"
+ ],
+ "publisher": [
+  "Hi-Tech Expressions",
+  "Hi Tech Expressions"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "cartoon",
+  "disney",
+  "puzzle",
+  "puzzlesolving",
+  "strategy",
+  "tactic"
+ ],
+ "description": "A 1994 Disney mini-game collection for youngsters that drops Mickey (or Minnie) into the fantasy land of Beanwick.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/6/5/46465_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

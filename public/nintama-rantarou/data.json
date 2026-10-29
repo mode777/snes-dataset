@@ -1,0 +1,46 @@
+{
+ "title": "Nintama Rantarou",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jul 28, 1995"
+ },
+ "developer": [
+  "Culture Brain"
+ ],
+ "publisher": [
+  "Culture Brain"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "horizontal",
+  "jumper",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "The first game based on the Nintama Rantarou anime developed by Culture Brain in 1995. Followed by numerous sequels on multiple systems.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/1/2/307112_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

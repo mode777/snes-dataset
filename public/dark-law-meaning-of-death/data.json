@@ -1,0 +1,46 @@
+{
+ "title": "Dark Law: Meaning of Death",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "japan": "Mar 28, 1997"
+ },
+ "developer": [
+  "Sakata SAS",
+  "SAS Sakata"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "rpg",
+  "strategy",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "A strategy RPG that was released late in the Super Famicom's lifespan. Players create their own party and explore a medieval world beleaguered by war.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/1/8/42818_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/1/8/42818_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "title": "HardBall III",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "June 1, 1994",
+  "usa": "June 1994"
+ },
+ "developer": [
+  "MindSpan",
+  "Accolade"
+ ],
+ "publisher": [
+  "Accolade"
+ ],
+ "genre": [
+  "Sports",
+  "General"
+ ],
+ "tags": [
+  "angle",
+  "baseball",
+  "sports"
+ ],
+ "description": "The third game in the HardBall series of baseball simulators. HardBall III is the only game in the series to see a SNES version.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/4/5/47545_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

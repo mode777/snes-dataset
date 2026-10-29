@@ -1,0 +1,60 @@
+{
+ "title": "Super Off Road",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "December 1991",
+  "north_america": "December 1, 1991",
+  "pal": "June 24, 1993",
+  "first_release": "1991-12",
+  "europe": "December 1991",
+  "usa": "December 1991"
+ },
+ "developer": [
+  "Leland Corporation",
+  "Software Creations"
+ ],
+ "publisher": [
+  "Tradewest"
+ ],
+ "genre": [
+  "Racing",
+  "Driving",
+  "Rally / Offroad"
+ ],
+ "tags": [
+  "arcade",
+  "car",
+  "competitive",
+  "racing",
+  "shop",
+  "single",
+  "topdown"
+ ],
+ "description": "Super Off Road is an isometric off-road racer that featured upgradeable vehicles as well as tracks that could be raced in any direction.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.48,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/9/4/4/30944_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/5/30945_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/5/30945_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/3/30943_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/3/30943_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/4/4/30944_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

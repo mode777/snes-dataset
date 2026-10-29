@@ -1,0 +1,52 @@
+{
+ "title": "Super Adventure Island",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1992-04",
+  "europe": "April 1992",
+  "usa": "April 1992"
+ },
+ "developer": [
+  "Hudson Soft",
+  "Produce"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Super Adventure Island is the first Adventure Island game for the SNES.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.26,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/73af120d-1566-4252-a0ff-4180becbd16d.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/0/9/51209_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/0/9/51209_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/0/8/51208_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/0/8/51208_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

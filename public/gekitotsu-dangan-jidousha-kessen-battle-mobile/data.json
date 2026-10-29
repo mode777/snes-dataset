@@ -1,0 +1,49 @@
+{
+ "title": "Gekitotsu Dangan Jidousha Kessen - Battle Mobile",
+ "aliases": [
+  "Gekitotsu Dangan Jidousha Kessen: Battle Mobile",
+  "Gekitotsu Dangan Jidōsha Kessen: Battle Mobile"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "June 25, 1993"
+ },
+ "developer": [
+  "System Sacom"
+ ],
+ "publisher": [
+  "System Sacom"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "car",
+  "racing",
+  "shooter",
+  "topdown",
+  "vertical"
+ ],
+ "description": "A vertically-scrolling vehicular combat game set in the near future. A widower takes his revenge on the bandits that took his new bride's life with a sports car modified for combat.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/5/1/306851_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/1/306851_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

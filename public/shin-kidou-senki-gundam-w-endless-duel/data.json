@@ -1,0 +1,48 @@
+{
+ "title": "Shin Kidou Senki Gundam W - Endless Duel",
+ "aliases": [
+  "Shin Kidou Senki Gundam W: Endless Duel",
+  "Shin Kidou Senshi Gundam W: Endless Duel"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "first_release": "1996-03-29"
+ },
+ "developer": [
+  "Natsume"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action"
+ ],
+ "tags": [
+  "anime",
+  "fighting",
+  "horizontal",
+  "mech",
+  "robot",
+  "sideways"
+ ],
+ "description": "A 2D fighting game adaptation of the anime Mobile Suit Gundam Wing.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.05,
+ "metascore": null,
+ "cover_urls": [
+  "https://i.postimg.cc/900TfyL8/196bc665-f417-47a9-b3f1-b30e95db0b61.png"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "opengamedb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "title": "Kawasaki Superbike Challenge",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "December 1995",
+  "pal": "1995",
+  "europe": "December 1995",
+  "usa": "December 1995"
+ },
+ "developer": [
+  "Lankhor",
+  "Domark"
+ ],
+ "publisher": [
+  "Time Warner Interactive"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Motorcycle",
+  "Street"
+ ],
+ "tags": [
+  "behind",
+  "intoscreen",
+  "motorcycle",
+  "racing",
+  "sports"
+ ],
+ "description": "A Kawasaki-sponsored motorcycle racing game for Genesis, SNES and Game Gear.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/5/6/47656_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

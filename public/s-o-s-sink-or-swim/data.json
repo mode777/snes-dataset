@@ -1,0 +1,37 @@
+{
+ "title": "S.O.S - Sink or Swim",
+ "aliases": [
+  "S.O.S: Sink or Swim"
+ ],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Zeppelin"
+ ],
+ "publisher": [
+  "Titus"
+ ],
+ "genre": [],
+ "tags": [
+  "platform",
+  "puzzle",
+  "sideways"
+ ],
+ "description": "A puzzle-platformer in which the hero Kevin Cordner has to rescue various people on a sinking ship. By moving blocks and activating conveyor belts paths to the exit can be created for the panicky passengers and crew.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

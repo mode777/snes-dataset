@@ -1,0 +1,48 @@
+{
+ "title": "Robotrek",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-10",
+  "usa": "October 1994"
+ },
+ "developer": [
+  "Ancient",
+  "Quintet"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "rpg",
+  "scifi",
+  "sideways",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "An action RPG that lets the player build and upgrade robots to do battle against foes! Oh, and there's an Einstein lookalike.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.8,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/ced96682-f69e-4431-9b5d-6fde19d65779.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/7/7/51077_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

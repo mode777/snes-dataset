@@ -1,0 +1,62 @@
+{
+ "title": "ActRaiser",
+ "aliases": [],
+ "year": 1990,
+ "release_dates": {
+  "japan": "November 1991",
+  "north_america": "November 1, 1991",
+  "pal": "March 18, 1993",
+  "first_release": "1991-11",
+  "europe": "November 1991",
+  "france": "November 1991",
+  "germany": "November 1991",
+  "usa": "November 1991"
+ },
+ "developer": [
+  "Quintet"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Action Adventure",
+  "Fantasy"
+ ],
+ "tags": [
+  "action",
+  "fantasy",
+  "platform",
+  "rpg",
+  "sideways",
+  "strategy",
+  "tactic",
+  "topdown"
+ ],
+ "description": "ActRaiser is a hybrid of two genres: city-building and action platformer. The player takes control of the powerful entity known as the Master in his quest to rebuild civilization.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": 3.96,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/4383a7c2-46b5-4d20-a2b8-54c07bc18f65.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/4/22404_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/4/22404_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/2/22402_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/2/22402_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/3/22403_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/3/22403_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

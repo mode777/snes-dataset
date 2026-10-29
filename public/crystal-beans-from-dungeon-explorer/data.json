@@ -1,0 +1,49 @@
+{
+ "title": "Crystal Beans from Dungeon Explorer",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Oct 27, 1995"
+ },
+ "developer": [
+  "Birthday / Hudson Soft",
+  "Birthday",
+  "Hudson"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "action",
+  "adventure",
+  "fantasy",
+  "rpg",
+  "swordandsorcery",
+  "topdown"
+ ],
+ "description": "A heavily reworked port of Dungeon Explorer II for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/5/0/37650_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/0/37650_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "title": "Sotsugyou Bangai Hen - Nee Mahjong Shiyo!",
+ "aliases": [
+  "Sotsugyou Bangai Hen: Nee Mahjong Shiyo!"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Oct 28, 1994"
+ },
+ "developer": [
+  "Headroom",
+  "KSS"
+ ],
+ "publisher": [
+  "KSS"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A Super Famicom mahjong game featuring highschool girls published by KSS. A spin-off from the \"Sotsugyou Graduation\" series of simulation games.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/8/7/312487_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

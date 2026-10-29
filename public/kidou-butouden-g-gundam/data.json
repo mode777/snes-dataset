@@ -1,0 +1,41 @@
+{
+ "title": "Kidou Butouden G Gundam",
+ "aliases": [
+  "Kidou Butouden G-Gundam"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "December 27, 1994"
+ },
+ "developer": [
+  "Pandora Box"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [],
+ "tags": [
+  "anime",
+  "fighting",
+  "mech",
+  "sideways"
+ ],
+ "description": "A 2D fighting game adaptation of the anime Mobile Fighter G Gundam.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

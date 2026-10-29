@@ -1,0 +1,47 @@
+{
+ "title": "Romancing SaGa",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "January 28, 1992",
+  "first_release": "1992-01-28"
+ },
+ "developer": [
+  "Squaresoft",
+  "Square"
+ ],
+ "publisher": [
+  "Squaresoft",
+  "Square"
+ ],
+ "genre": [
+  "Role-Playing"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "An RPG with eight characters whose stories are played sequentially (instead of simultaneously and together like other RPGs) and where one character's play will alter subsequent story and play.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.63,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/0/9/2/51092_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

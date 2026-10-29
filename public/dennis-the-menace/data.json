@@ -1,0 +1,30 @@
+{
+ "title": "Dennis the Menace",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "December 1993"
+ },
+ "developer": [
+  "Ocean"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Dennis the Menace is an Action game, developed and published by Ocean,which was released in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/4/2/46142_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "title": "Wario's Woods",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "December 1994",
+  "pal": "1995",
+  "first_release": "1994-12",
+  "europe": "December 1994",
+  "usa": "December 1994"
+ },
+ "developer": [
+  "Nintendo",
+  "Intelligent Systems"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Puzzle",
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [
+  "fallingblocks",
+  "puzzle",
+  "realtime",
+  "singlescreen",
+  "tilearrangement"
+ ],
+ "description": "Wario's Woods is a match-3 puzzle game released for the SNES and NES in 1994, making it the last game to be released for the NES in North America.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.61,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/2a8fe1d7-6157-4ba0-8d6f-3417932ac932.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/0/3/49903_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/0/3/49903_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/0/2/49902_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/0/2/49902_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

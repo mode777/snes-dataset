@@ -1,0 +1,41 @@
+{
+ "title": "Civilization",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "October 7, 1994",
+  "north_america": "June 30, 1995"
+ },
+ "developer": [
+  "MicroProse"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [],
+ "tags": [
+  "epic",
+  "historical",
+  "multidirectional",
+  "strategy",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "?",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "title": "PGA Tour 96",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "January 31, 1996",
+  "pal": "1996",
+  "europe": "January 1996",
+  "usa": "January 1996"
+ },
+ "developer": [
+  "High Score Entertainment / Polygames",
+  "Electronic Arts",
+  "Halestorm"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "Black Pearl Software"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Golf",
+  "Sim"
+ ],
+ "tags": [
+  "behind",
+  "golf",
+  "intoscreen",
+  "sports"
+ ],
+ "description": "The 1996 version of Electronic Arts' seminal golfing franchise adds a variety of graphical and gameplay changes.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/8/5/40085_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/5/40085_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/4/40084_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

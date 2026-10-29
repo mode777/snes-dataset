@@ -1,0 +1,48 @@
+{
+ "title": "Super Power League",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Aug6, 1993"
+ },
+ "developer": [
+  "Now Production"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "baseball",
+  "behind",
+  "intoscreen",
+  "sports"
+ ],
+ "description": "A baseball game from Hudson Soft, and the originator of the Super Power League series.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/5/7/306857_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/5/7/306857_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

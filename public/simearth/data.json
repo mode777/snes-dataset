@@ -1,0 +1,37 @@
+{
+ "title": "SimEarth",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {},
+ "developer": [
+  "Maxis"
+ ],
+ "publisher": [
+  "FCI"
+ ],
+ "genre": [],
+ "tags": [
+  "management",
+  "multidirectional",
+  "scrolling",
+  "simulation",
+  "strategy",
+  "topdown"
+ ],
+ "description": "Somewhat similar to the hit Maxis game SimCity, SimEarth: The Living Planet gives the player complete control of a planet, and must find a way to develop sentient life.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

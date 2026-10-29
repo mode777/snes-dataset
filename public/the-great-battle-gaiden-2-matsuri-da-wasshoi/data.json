@@ -1,0 +1,50 @@
+{
+ "title": "The Great Battle Gaiden 2: Matsuri da Wasshoi",
+ "aliases": [
+  "Great Battle Gaiden 2, The - Matsuri da Wasshoi"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jan 28, 1994"
+ },
+ "developer": [
+  "Banpresto"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "basher",
+  "horizontal",
+  "jumper",
+  "manga",
+  "platform",
+  "sideways"
+ ],
+ "description": "A Super Famicom platformer/shoot 'em up from Banpresto. It is a spin-off of The Great Battle games from the Compati Hero Series and the sequel to the Game Boy game Tekkyu Fight! The Great Battle Gaiden.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/9/8/306898_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/8/306898_back.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "openvgdb",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

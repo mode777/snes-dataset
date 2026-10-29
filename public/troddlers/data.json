@@ -1,0 +1,50 @@
+{
+ "title": "Troddlers",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "October 1993",
+  "pal": "1993",
+  "europe": "October 1993",
+  "usa": "October 1993"
+ },
+ "developer": [
+  "Atod Design",
+  "Atod",
+  "The Sales Curve"
+ ],
+ "publisher": [
+  "Seika",
+  "Seika Corporation"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "puzzlesolve",
+  "strategyy",
+  "tactic"
+ ],
+ "description": "A puzzle game for the Amiga and Super Nintendo. The player controls a pair of mischievous apprentices as they recover tiny creatures known as Troddlers for their master",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/3/7/51437_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/6/51436_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

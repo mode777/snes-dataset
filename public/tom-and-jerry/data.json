@@ -1,0 +1,44 @@
+{
+ "title": "Tom and Jerry",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "June 25, 1993",
+  "north_america": "April 1993",
+  "pal": "1993",
+  "first_release": "1993-04",
+  "europe": "April 1993",
+  "usa": "April 1993"
+ },
+ "developer": [
+  "Riedel Software Productions",
+  "RSP"
+ ],
+ "publisher": [
+  "Hi Tech Expressions"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "A Tom and Jerry video game was released for the Super NES by Hi Tech Expressions in 1992 in the US and by Altron in 1993 in Japan. The player controls Jerry, the mouse, as he traverses through four different themed worlds – a movie theater, a junkyard, a toy store, and a house. Tuffy is playable through second player. Jerry or Tuffy use marbles as weapons. At the end of each world, Jerry goes into a battle with Tom, the cat.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 2.75,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/f80e5c2b-42d4-4a49-82ea-0601b7bc8db7.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/3/21183_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/3/21183_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/2/21182_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/8/2/21182_back.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

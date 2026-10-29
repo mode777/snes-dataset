@@ -1,0 +1,44 @@
+{
+ "title": "Coron Land",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Aug 25, 1995"
+ },
+ "developer": [
+  "Aroma"
+ ],
+ "publisher": [
+  "Yumedia"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "singlescreen",
+  "topdown"
+ ],
+ "description": "A Japanese exclusive action game that sends Hyou and Kiyu on an adventure to bring back the snow goddess statue to Snowia in order to end the eternal winter.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/0/0/311700_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/0/311700_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

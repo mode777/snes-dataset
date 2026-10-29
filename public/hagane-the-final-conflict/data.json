@@ -1,0 +1,50 @@
+{
+ "title": "Hagane: The Final Conflict",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "europe": "June 1995",
+  "usa": "June 1995"
+ },
+ "developer": [
+  "CAProduction / Red Company Corporation",
+  "CAProduction"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "platform",
+  "scifi",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Hagane is a side-scrolling beat 'em up with a ninja/cyberpunk theme and setting.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/6/0/50760_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/0/50760_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/9/50759_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

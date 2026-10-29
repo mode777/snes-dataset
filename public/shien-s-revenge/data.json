@@ -1,0 +1,41 @@
+{
+ "title": "Shien's Revenge",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "October 1994"
+ },
+ "developer": [
+  "Almanic",
+  "Almanic Corp."
+ ],
+ "publisher": [
+  "Vic Tokai"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "crosshair",
+  "firstperson",
+  "horizontal",
+  "ninja"
+ ],
+ "description": "An on-rails ninja action game for the SNES. Shien must rescue his kidnapped partner Aska from an army of masked ninja using his kunai and shuriken.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/3/0/51130_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

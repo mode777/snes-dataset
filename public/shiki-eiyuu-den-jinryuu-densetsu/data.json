@@ -1,0 +1,39 @@
+{
+ "title": "Shiki Eiyuu Den - Jinryuu Densetsu",
+ "aliases": [
+  "Shiki Eiyuu Den: Jinryuu Densetsu"
+ ],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "?"
+ ],
+ "publisher": [
+  "Outrigger Koubou"
+ ],
+ "genre": [],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A turn-based RPG based on Ancient China.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

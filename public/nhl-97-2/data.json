@@ -1,0 +1,57 @@
+{
+ "title": "NHL 97",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "October 31, 1996",
+  "pal": "November 28, 1996",
+  "first_release": "1996-10",
+  "europe": "October 1996",
+  "usa": "October 1996"
+ },
+ "developer": [
+  "Ceris Software",
+  "Black Pearl Software",
+  "Al Baker and Associates"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "EA Sports"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Ice Hockey",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "icehockey",
+  "sports",
+  "vertical"
+ ],
+ "description": "The 6th game of the NHL franchise from EA Sports",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.78,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/7/1/6/5716_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/7/5717_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/7/5717_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/6/5716_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

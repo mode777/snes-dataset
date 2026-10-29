@@ -1,0 +1,48 @@
+{
+ "title": "Slayers",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jun 24, 1994"
+ },
+ "developer": [
+  "BEC"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "fantasy",
+  "manga",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A turn-based RPG for the Super Famicom based on the fantasy-comedy anime/manga series of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/2/6/36926_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/6/36926_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

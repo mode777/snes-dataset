@@ -1,0 +1,31 @@
+{
+ "title": "Super Family Tennis",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "1994"
+ },
+ "developer": [
+  "Namco"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Tennis"
+ ],
+ "tags": [],
+ "description": "Super Family Tennis is a Sports game, developed and published by Namco,which was released in Japan in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/1/1/31711_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/1/31711_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "title": "Super Slam Dunk",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "July 1993"
+ },
+ "developer": [
+  "Park Place Productions"
+ ],
+ "publisher": [
+  "Virgin"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "basketball",
+  "horizontal",
+  "sideways",
+  "sports",
+  "vertical"
+ ],
+ "description": "A basketball game for the SNES starring Magic Johnson.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/6/0/51360_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

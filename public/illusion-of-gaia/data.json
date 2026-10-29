@@ -1,0 +1,49 @@
+{
+ "title": "Illusion of Gaia",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-09-01",
+  "usa": "September 1994"
+ },
+ "developer": [
+  "Quintet"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action Adventure",
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "action",
+  "angle",
+  "fantasy",
+  "rpg",
+  "wanderer"
+ ],
+ "description": "An action-RPG that tells the story of a boy named Will and his quest to stop a comet from destroying the Earth.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French, Japanese"
+ ],
+ "gf_score": 3.99,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/30890e91-5d78-46f5-bd00-67f6a6b9d6e0.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/7/4/50774_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/7/4/50774_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

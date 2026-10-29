@@ -1,0 +1,35 @@
+{
+ "title": "Super Robot Taisen Gaiden - Masoukishin - The Lord of Elemental",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {},
+ "developer": [
+  "Winky Soft"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [],
+ "tags": [
+  "mech",
+  "rpg",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "The final Super Robot Wars on the Super Famicom, and the first SRW with no anime series. Covers events before Super Robot Wars 2 and after Super Robot Wars 4.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

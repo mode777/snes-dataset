@@ -1,0 +1,49 @@
+{
+ "title": "College Slam",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "January 31, 1996",
+  "usa": "February 1996"
+ },
+ "developer": [
+  "Iguana",
+  "Iguana Entertainment"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Arcade"
+ ],
+ "tags": [
+  "basketball",
+  "horizontal",
+  "sideways",
+  "sports"
+ ],
+ "description": "?",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/5/9/2459_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

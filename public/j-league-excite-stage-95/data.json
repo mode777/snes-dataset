@@ -1,0 +1,44 @@
+{
+ "title": "J.League Excite Stage '95",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Apr 28, 1995"
+ },
+ "developer": [
+  "A-Max"
+ ],
+ "publisher": [
+  "Epoch"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "A four-player soccer game created by A-Max and released in 1995. The second game in the Excite Stage series.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/8/3/307083_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/3/307083_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

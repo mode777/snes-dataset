@@ -1,0 +1,48 @@
+{
+ "title": "Flying Hero: Bugyuru no Daibouken",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Dec 18, 1992"
+ },
+ "developer": [
+  "Sofel",
+  "Sting Entertainment",
+  "Sting"
+ ],
+ "publisher": [
+  "Sofel"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "cute",
+  "shootemup",
+  "shooter",
+  "topdown",
+  "vertical"
+ ],
+ "description": "A \"cute 'em up\" vertical shooter starring a flying ball in an aviator cap called Bugyuru.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/7/9/31679_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

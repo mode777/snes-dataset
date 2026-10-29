@@ -1,0 +1,47 @@
+{
+ "title": "Brawl Brothers",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-04",
+  "usa": "April 1993"
+ },
+ "developer": [
+  "Jaleco",
+  "Jaleco Entertainment"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "action",
+  "beatemup",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "Brawl Brothers is a walk along beat em up developed and published by Jaleco.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.36,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/e4d545fc-32bf-43e1-83bd-df3338795cbf.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/2/50552_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

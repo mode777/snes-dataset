@@ -1,0 +1,40 @@
+{
+ "title": "Zool",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {},
+ "developer": [
+  "Gremlin"
+ ],
+ "publisher": [
+  "Gremlin"
+ ],
+ "genre": [],
+ "tags": [
+  "cute",
+  "jumpnrun",
+  "multidirection",
+  "ninja",
+  "platform",
+  "scrolling",
+  "sideways",
+  "stomp"
+ ],
+ "description": "A very colorful fast paced platformer. Like Superfrog, Zool was destined to rival Mario and Sonic as the Amiga's own icon. The game features extensive product placement from Chupa Chups.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

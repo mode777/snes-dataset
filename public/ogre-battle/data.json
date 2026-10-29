@@ -1,0 +1,37 @@
+{
+ "title": "Ogre Battle",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Quest"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [],
+ "tags": [
+  "fantasy",
+  "realtime",
+  "rpg",
+  "strategy",
+  "tactics",
+  "turnbased"
+ ],
+ "description": "In Ogre Battle the conquered peoples of the old kingdoms live under constant persecution by the Zetegenian Empire. Take control of the rebel army and face the Black Queen and her legions.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "title": "Kyuuyaku Megami Tensei",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 31, 1995",
+  "first_release": "1995-03-31"
+ },
+ "developer": [
+  "ATLUS",
+  "Opera House"
+ ],
+ "publisher": [
+  "ATLUS"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Compilation"
+ ],
+ "tags": [
+  "dungeoncrawler",
+  "fantasy",
+  "firstperson",
+  "rpg"
+ ],
+ "description": "Japanese-only remake of the two original Megami Tensei games, released for the Super Famicom in 1995.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.45,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/972df361-3b87-45b2-825a-8c8b65646efa.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/2/6/43026_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/2/6/43026_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

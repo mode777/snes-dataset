@@ -1,0 +1,42 @@
+{
+ "title": "Leading Company",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Feb 26, 1993"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "management",
+  "simulation"
+ ],
+ "description": "Corporate construction simulation game developed by Koei in 1993. The player must ensure their VCR company remains the most profitable corporation, building new structures and researching new video technology whenever possible.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/4/2/296242_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

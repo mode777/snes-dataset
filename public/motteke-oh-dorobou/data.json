@@ -1,0 +1,42 @@
+{
+ "title": "Motteke Oh! Dorobou",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec 15, 1995"
+ },
+ "developer": [
+  "Data East"
+ ],
+ "publisher": [
+  "Data East"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame"
+ ],
+ "description": "A heist-themed board game published by Data East in 1995.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/9/4/312594_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/4/312594_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

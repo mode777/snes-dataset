@@ -1,0 +1,46 @@
+{
+ "title": "Super Tetris 3",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 16, 1994"
+ },
+ "developer": [
+  "Tose"
+ ],
+ "publisher": [
+  "Bullet-Proof Software"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "Stacking"
+ ],
+ "tags": [
+  "fallingblocks",
+  "puzzle",
+  "realtime",
+  "tilearrangement"
+ ],
+ "description": "A sequel in the Super Tetris series featuring multiple play modes. The play modes include Standard, Magicaliss, Sparkliss, and Famliss.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/2/8/42828_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/2/8/42828_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

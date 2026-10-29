@@ -1,0 +1,48 @@
+{
+ "title": "SD Kidou Senshi Gundam 2",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Sep 23, 1993"
+ },
+ "developer": [
+  "Tose"
+ ],
+ "publisher": [
+  "Bandai",
+  "Angel"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "horizontal",
+  "mech",
+  "shootemup",
+  "shooter",
+  "sideways"
+ ],
+ "description": "A shoot 'em up sequel to the first SD Mobile Suit Gundam. This game features machines from Mobile Suit Zeta Gundam.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/7/2/303872_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/7/2/303872_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

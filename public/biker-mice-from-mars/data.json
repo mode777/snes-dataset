@@ -1,0 +1,56 @@
+{
+ "title": "Biker Mice from Mars",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "December 1, 1994",
+  "pal": "January 1, 1995",
+  "first_release": "1994-12",
+  "europe": "December 1994",
+  "usa": "December 1994"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Racing",
+  "Driving",
+  "Arcade"
+ ],
+ "tags": [
+  "angle",
+  "cartoon",
+  "futuristic",
+  "motorcycle",
+  "racing",
+  "sports"
+ ],
+ "description": "Isometric cartoon racing/combat game based on the popular TV series.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.91,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/a6a32aff-96e5-4f18-b8c4-c4c4b45cc361.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/9/50529_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/9/50529_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/8/50528_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/8/50528_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

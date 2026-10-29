@@ -1,0 +1,56 @@
+{
+ "title": "FIFA Soccer 96",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "July 1, 1995",
+  "pal": "November 23, 1995",
+  "usa": "November 1995",
+  "europe": "November 1995"
+ },
+ "developer": [
+  "Extended Play Productions",
+  "Extended Play Productions / Probe Entertainment",
+  "Probe Entertainment Limited"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "EA Sports"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "football",
+  "isometric",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "The third entry in EA Sports's long-running licensed soccer series. Features two distinct versions depending on whether the player has a 16-bit system or a 32-bit system.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, Spanish, French, Italian, Swedish"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/4/3/3543_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/3/3543_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/4/3544_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/4/3544_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

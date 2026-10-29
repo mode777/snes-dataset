@@ -1,0 +1,60 @@
+{
+ "title": "The Lion King",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "October 1994",
+  "north_america": "December 8, 1994",
+  "pal": "December 8, 1994",
+  "first_release": "1994-10-01",
+  "usa": "October 1994",
+  "europe": "October 1994"
+ },
+ "developer": [
+  "Westwood Studios"
+ ],
+ "publisher": [
+  "Virgin",
+  "Virgin Interactive"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "animalprotagonist",
+  "basher",
+  "disney",
+  "movie",
+  "multidirectional",
+  "platform",
+  "sideways"
+ ],
+ "description": "The Lion King is a platformer released in 1994 for a wide array of systems by Virgin Interactive.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.5,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/9c225424-1848-4870-a957-fda2d191d34f.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/4/31114_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/4/31114_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/3/31113_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/5/31115_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/5/31115_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

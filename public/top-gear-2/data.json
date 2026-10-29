@@ -1,0 +1,52 @@
+{
+ "title": "Top Gear 2",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-09-01",
+  "europe": "September 1993",
+  "usa": "September 1993"
+ },
+ "developer": [
+  "Gremlin",
+  "Gremlin Interactive"
+ ],
+ "publisher": [
+  "Kemco"
+ ],
+ "genre": [
+  "Racing",
+  "Driving",
+  "Arcade"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "Top Gear 2, sequel to Top Gear, is a racing game that features purchasable vehicle upgrades, weather, nitro boosts, and 64 playable tracks.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.84,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/0e199874-0ac5-467d-be2d-76c4c44c4618.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/2/51432_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/2/51432_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/1/51431_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

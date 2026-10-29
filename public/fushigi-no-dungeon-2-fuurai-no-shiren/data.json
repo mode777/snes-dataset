@@ -1,0 +1,45 @@
+{
+ "title": "Fushigi no Dungeon 2: Fuurai no Shiren",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec1, 1995"
+ },
+ "developer": [
+  "Chunsoft"
+ ],
+ "publisher": [
+  "Chunsoft"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "adventure",
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "Shiren and his pet weasel Koppa have set out to find golden city El Dorado and the lair of the legendary Golden Condor. Along the way they'll make new friends, visit caves and dungeons, and kill the heck out of a myriad of monsters in this turn-based roguelike.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/0/3/42803_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/0/3/42803_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

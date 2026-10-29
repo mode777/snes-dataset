@@ -1,0 +1,54 @@
+{
+ "title": "Mega Man 7",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-09-18",
+  "europe": "September 1995",
+  "usa": "September 1995"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "jumper",
+  "platform",
+  "scifi",
+  "shooter",
+  "sideways"
+ ],
+ "description": "The seventh installment of the Mega Man series brings Mega Man's antics to Nintendo's 16-bit console, as our robotic hero sets out to find the whereabouts of Dr. Wily (who recently escaped from prison) while encountering a mysterious new robotic ally Bass.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.84,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/593c3f39-4008-41f6-879d-e9244c004e3e.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/8/50918_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/8/50918_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/7/50917_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/7/50917_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

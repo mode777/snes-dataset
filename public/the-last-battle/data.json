@@ -1,0 +1,50 @@
+{
+ "title": "The Last Battle",
+ "aliases": [
+  "Last Battle, The"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec2, 1994"
+ },
+ "developer": [
+  "Atelier Double",
+  "Atelier Double / Powwow"
+ ],
+ "publisher": [
+  "Techiku",
+  "Techiko"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "strategy",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A Super Famicom turn-based RPG from Teichiku with a heavy strategy element. Kurt, Mei, Borg and Regina fight to ensure the long peace between two kingdoms remains intact.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/1/3/31813_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/1/3/31813_back.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "openvgdb",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

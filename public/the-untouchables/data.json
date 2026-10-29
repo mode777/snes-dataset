@@ -1,0 +1,50 @@
+{
+ "title": "The Untouchables",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "August 1994",
+  "usa": "August 1994"
+ },
+ "developer": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "publisher": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "multitype",
+  "sideways",
+  "topdown",
+  "tv",
+  "vertical"
+ ],
+ "description": "A video game adaptation regarding Eliot Ness, notorious gangster Al Capone and the Prohibition era. The SNES version is based on the 1993 TV series instead.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/1/2/33312_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

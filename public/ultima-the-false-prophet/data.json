@@ -1,0 +1,44 @@
+{
+ "title": "Ultima: The False Prophet",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "April 1994"
+ },
+ "developer": [
+  "ORIGIN Systems",
+  "Infinity"
+ ],
+ "publisher": [
+  "FCI / Pony Canyon"
+ ],
+ "genre": [
+  "Role-Playing",
+  "PC-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "Ultima VI is the final entry in the Age of Enlightenment. Its icon- and text-based interface was new to computer RPGs at the time.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/5/5/51455_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

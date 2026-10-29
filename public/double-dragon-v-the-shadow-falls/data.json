@@ -1,0 +1,53 @@
+{
+ "title": "Double Dragon V: The Shadow Falls",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "August 5, 1994",
+  "pal": "July 10, 1994",
+  "first_release": "1994-08",
+  "usa": "August 1994",
+  "europe": "August 1994"
+ },
+ "developer": [
+  "Leland Interactive Media"
+ ],
+ "publisher": [
+  "Tradewest"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "cartoon",
+  "fighting",
+  "sideways"
+ ],
+ "description": "The sole video game adaptation of the cartoon spin-off of the Double Dragon game series. Rather than base itself on the original series' beat-'em-up roots, this game capitalizes on the popularity of the 2D fighting game genre.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.3,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/06a3f158-28ac-455a-93f2-ab7722690422.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/0/47300_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/0/47300_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/1/47301_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/1/47301_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

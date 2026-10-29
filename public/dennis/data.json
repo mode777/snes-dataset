@@ -1,0 +1,46 @@
+{
+ "title": "Dennis",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "europe": "December 1993"
+ },
+ "developer": [
+  "Ocean"
+ ],
+ "publisher": [
+  "Ocean"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "jumper",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "Platformer released for the Amiga, SNES, and Game Boy based on the 1993 movie based on the syndicated comic strip. Known in Europe only as \"Dennis\".",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/4/3/46143_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/4/3/46143_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

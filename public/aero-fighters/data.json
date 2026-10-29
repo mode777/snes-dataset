@@ -1,0 +1,50 @@
+{
+ "title": "Aero Fighters",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-11",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Video System Co., Ltd.",
+  "Video System"
+ ],
+ "publisher": [
+  "Video System Co., Ltd."
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "arcade",
+  "shootemup",
+  "shooter",
+  "topdown",
+  "vertical"
+ ],
+ "description": "Aero Fighters is a vertical-scrolling shooter. The player gets to pick which nation they want to fight as and then proceeds to fight an onslaught of enemies and bosses.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.78,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/803a35c2-0c5c-4831-9984-214ac258acf5.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/9/50499_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/9/50499_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

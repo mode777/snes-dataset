@@ -1,0 +1,31 @@
+{
+ "title": "Rockman X2",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "January 1995"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Just when Mega Man X thought he had brought down all the X-Hunters, several months later an uprising moves from within an abandoned factory. While 8 all-new X-Hunters occupy Mega Man X, a triple threat plots to resurrect a secret weapon that is all too familiar!The good Dr. Light supplies Mega man X with incredible new abilities hidden in capsules buried deep below the surface. And with new vehicles like the mobile attack cycle plus powers he gains from the X-Hunters, Mega Man X will be ready to face his destiny as a Maverick Hunter. Now it's all or Zero for Mega Man X!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/2/2/50922_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/2/2/50922_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

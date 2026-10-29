@@ -1,0 +1,54 @@
+{
+ "title": "Cutthroat Island",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "March 1, 1996",
+  "pal": "1996",
+  "europe": "March 1996",
+  "usa": "March 1996"
+ },
+ "developer": [
+  "Acclaim",
+  "Software Creations (UK)",
+  "Software Creations"
+ ],
+ "publisher": [
+  "LJN",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "beatemup",
+  "horizontal",
+  "pirates",
+  "sideways"
+ ],
+ "description": "An action platformer based on the 1995 movie. Female pirate captain Morgan Adams attempts to beat her villainous uncle Dawg to the treasure of Cutthroat Island.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/2/2/46122_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/2/46122_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/1/46121_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/1/46121_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

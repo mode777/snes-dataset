@@ -1,0 +1,39 @@
+{
+ "title": "Hokuto no Ken 7 - Seiken Retsuden Denshousha e no Michi",
+ "aliases": [
+  "Hokuto no Ken 7: Seiken Retsuden Denshousha e no Michi"
+ ],
+ "year": 1993,
+ "release_dates": {},
+ "developer": [
+  "Toei"
+ ],
+ "publisher": [
+  "Toei"
+ ],
+ "genre": [],
+ "tags": [
+  "anime",
+  "fighting",
+  "horizontal",
+  "manga",
+  "sideways"
+ ],
+ "description": "A fighting game based on the Fist of the North Star franchise. It is the third of three FoNS games for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

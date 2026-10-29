@@ -1,0 +1,46 @@
+{
+ "title": "Nage Libre - Seijaku no Suishin",
+ "aliases": [
+  "Nage Libre: Seijaku no Suishin"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Feb 24, 1995"
+ },
+ "developer": [
+  "Varie"
+ ],
+ "publisher": [
+  "Varie"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "cards",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "Strategy game developed by Varie in 1995. Five teenage nymphs attempt to leave a mysterious island via a series of strategic card battles.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/8/1/303681_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/8/1/303681_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

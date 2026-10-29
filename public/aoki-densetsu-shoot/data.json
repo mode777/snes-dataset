@@ -1,0 +1,47 @@
+{
+ "title": "Aoki Densetsu Shoot!",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 16, 1994"
+ },
+ "developer": [
+  "Affect"
+ ],
+ "publisher": [
+  "KSS"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "anime",
+  "football",
+  "multidirectional",
+  "sports"
+ ],
+ "description": "Aoki Densetsu Shoot! is a soccer sim/management game on the Game Boy and SNES.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/6/2/311662_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/6/2/311662_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

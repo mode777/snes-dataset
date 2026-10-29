@@ -1,0 +1,48 @@
+{
+ "title": "The Amazing Spider-Man: Lethal Foes",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 17, 1995"
+ },
+ "developer": [
+  "Argent, Epoch Co., Ltd.",
+  "Agenda"
+ ],
+ "publisher": [
+  "Epoch Co., Ltd.",
+  "Epoch Co."
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "beatemup",
+  "comic",
+  "multidirectional",
+  "sideways"
+ ],
+ "description": "Side-scrolling Spider-Man game only released in Japan for the Super Famicom. Loosely based on a 1993 Marvel Comics storyline called \"The Lethal Foes of Spider-Man.\"",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/4/3/31843_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/3/31843_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

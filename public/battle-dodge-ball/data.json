@@ -1,0 +1,38 @@
+{
+ "title": "Battle Dodge Ball",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "July 20, 1991",
+  "north_america": "Cancelled"
+ },
+ "developer": [
+  "Sun L",
+  "Banpresto"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [],
+ "tags": [
+  "dodgeball",
+  "sports"
+ ],
+ "description": "A crossover combat dodgeball game featuring characters from Mobile Suit Gundam, Ultraman and Kamen Rider. It was released by Banpresto for the Super Famicom (1991) and Game Boy (1992).",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

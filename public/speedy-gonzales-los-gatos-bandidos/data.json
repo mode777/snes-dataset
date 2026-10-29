@@ -1,0 +1,39 @@
+{
+ "title": "Speedy Gonzales: Los Gatos Bandidos",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "August 1995",
+  "pal": "Cancelled",
+  "first_release": "1995-08",
+  "usa": "August 1995"
+ },
+ "developer": [
+  "Sunsoft",
+  "Majesco Games"
+ ],
+ "publisher": [
+  "Acclaim Entertainment / Sunsoft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Speedy Gonzales: Los Gatos Bandidos is a Super Nintendo Entertainment System video game that was released in 1995 in North American audience. In a small Mexican village, all the mice are enjoying a fiesta until Los Gatos Bandidos, a group of cats, come and kidnap them. Only Slowpoke Rodriguez escapes and sends for his cousin, Speedy Gonzales. Speedy enters each level and tries to rescue as many mice as possible while chasing after cheese and avoiding natural hazards. The gameplay in Speedy Gonzales resembles the Sonic the Hedgehog series.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 3.12,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/b615736a-f8f3-420e-833b-cd2675ba221c.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/6/7/51167_front.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

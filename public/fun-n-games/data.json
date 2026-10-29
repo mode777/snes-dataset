@@ -1,0 +1,44 @@
+{
+ "title": "Fun 'n Games",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "August 1, 1994",
+  "pal": "May 25, 1994",
+  "usa": "August 1994",
+  "europe": "August 1994"
+ },
+ "developer": [
+  "Leland Interactive Media"
+ ],
+ "publisher": [
+  "Tradewest"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Compilation"
+ ],
+ "tags": [
+  "creativity",
+  "partygame"
+ ],
+ "description": "A compilation of games and \"applications\" aimed at children for the Genesis, Super Nintendo and 3DO.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/4/7/47447_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/4/7/47447_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/4/8/47448_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/4/8/47448_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

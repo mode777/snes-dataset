@@ -1,0 +1,45 @@
+{
+ "title": "Super Keiba",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Aug 10, 1993"
+ },
+ "developer": [
+  "?",
+  "I'Max"
+ ],
+ "publisher": [
+  "I'MAX"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Horse Racing"
+ ],
+ "tags": [
+  "horseracing",
+  "sports"
+ ],
+ "description": "A horse racing simulator for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/6/0/306860_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/6/0/306860_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

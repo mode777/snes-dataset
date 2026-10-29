@@ -1,0 +1,29 @@
+{
+ "title": "Super Game Boy 2",
+ "aliases": [],
+ "year": 1998,
+ "release_dates": {
+  "japan": "1998"
+ },
+ "developer": [
+  "Nintendo"
+ ],
+ "publisher": [],
+ "genre": [
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [],
+ "description": "Play all your Game Boy games on your Super NES in color! Insert your Game Boy Game Pak into the Super Game Boy accessory and watch your game appear on TV, in brilliant colors. Play more than 350 Game Boy titles on your Super NES! Paint your own custom border and choose from 9 pre-programmed designs. Stereo sound on any TV with stereo speakers! Maximize your play control using the Super NES controller.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/8/2/51282_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

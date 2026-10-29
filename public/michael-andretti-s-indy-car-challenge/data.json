@@ -1,0 +1,37 @@
+{
+ "title": "Michael Andretti's Indy Car Challenge",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "January 20, 1994",
+  "north_america": "September 1994"
+ },
+ "developer": [
+  "Genki"
+ ],
+ "publisher": [
+  "Bullet-Proof Software"
+ ],
+ "genre": [],
+ "tags": [
+  "behind",
+  "car",
+  "indycar",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "A racing game that is sponsored by Micheal Andretti and was released for the SNES. The game is representative of Indy car racing and was developed by Genki and published by Bullet Proof Software.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Rex Ronan: Experimental Surgeon",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "May 1994",
+  "usa": "May 1994"
+ },
+ "developer": [
+  "Sculptured Software"
+ ],
+ "publisher": [
+  "raya systems"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "educational",
+  "horizontal",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Rex Ronan's job is to save the life of Jake Westboro, by shrinking down to near microscopic size and removing the effects of his smoking habit.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Spanish"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/6/4/51064_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

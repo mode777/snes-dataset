@@ -1,0 +1,43 @@
+{
+ "title": "Mahjong Taikai II",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Sep 30, 1994"
+ },
+ "developer": [
+  "KOEI / ChatNoir",
+  "Koei"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "Mahjong game developed by Koei in 1994.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/9/9/31799_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

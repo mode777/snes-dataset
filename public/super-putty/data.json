@@ -1,0 +1,46 @@
+{
+ "title": "Super Putty",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "europe": "November 1993",
+  "usa": "November 1993"
+ },
+ "developer": [
+  "System 3"
+ ],
+ "publisher": [
+  "U.S. Gold"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Whoever thought that a ball of putty could be so tough?",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/4/9/51349_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/4/9/51349_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/4/7/51347_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

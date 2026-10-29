@@ -1,0 +1,46 @@
+{
+ "title": "Magical Pop'n",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 10, 1995",
+  "first_release": "1995-03-10"
+ },
+ "developer": [
+  "Polestar"
+ ],
+ "publisher": [
+  "Pack-In-Video"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A side-scrolling action platformer game released in 1995 for the Super Famicom. The protagonist is a magically-inclined girl named Princess who sets out to fight an enemy known as the Demon King.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.75,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/2b54da53-5b69-477f-a0b8-c286edf4dce6.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/6/7/43367_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/6/7/43367_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Super Pinball: Behind the Mask",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "November 1994",
+  "north_america": "May 1994",
+  "pal": "August 8, 1994",
+  "usa": "November 1994",
+  "europe": "November 1994"
+ },
+ "developer": [
+  "KAZe",
+  "KaZe / Meldac"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Pinball"
+ ],
+ "tags": [
+  "angle",
+  "pinball"
+ ],
+ "description": "The first of two Super Pinball games released on the Super Nintendo, this game has three different pinball tables.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/4/3/51343_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/4/2/51342_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/4/2/51342_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

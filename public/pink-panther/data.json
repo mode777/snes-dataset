@@ -1,0 +1,31 @@
+{
+ "title": "Pink Panther",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "November 1993"
+ },
+ "developer": [
+  "Manley and Associates Inc."
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Pink Panther, MGM's too-cool cat, hits Hollywood to audition for his next big movie role. But Pink's big break may be foiled by Inspector Clouseau! Pink wreaks havoc on acres of pantherized movie sets, like Polterpink, Pinkenstein and Jungle Pink. With props like stoplights and jackhammers, Pink's bag of tricks is never empty!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/9/2/21492_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/2/21492_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

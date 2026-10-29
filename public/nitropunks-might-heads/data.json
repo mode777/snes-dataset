@@ -1,0 +1,31 @@
+{
+ "title": "Nitropunks: Might Heads",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "September 1993"
+ },
+ "developer": [
+  "Irem"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Rocky Rodent is an Action game, developed and published by Irem,which was released in Japan in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/8/1/51081_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/1/51081_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

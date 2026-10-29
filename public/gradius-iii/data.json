@@ -1,0 +1,54 @@
+{
+ "title": "Gradius III",
+ "aliases": [],
+ "year": 1990,
+ "release_dates": {
+  "japan": "Aug 13, 1991",
+  "north_america": "August 23, 1991",
+  "first_release": "1991-13-08",
+  "usa": "Aug 13, 1991"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "horizontal",
+  "powerup",
+  "shootemup",
+  "shooter",
+  "sideways"
+ ],
+ "description": "The now widely available third installment to the Gradius franchise was the first to introduce customizable weapon sets and brief 2.5D action.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.81,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/cd1606ef-c205-48e9-975e-72d9392ceed2.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/7/42547_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/7/42547_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/6/42546_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/6/42546_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

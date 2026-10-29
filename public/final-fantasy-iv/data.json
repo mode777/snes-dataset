@@ -1,0 +1,33 @@
+{
+ "title": "Final Fantasy IV",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "first_release": "1991-07-19",
+  "japan": "Jul 19, 1991"
+ },
+ "developer": [
+  "SquareSoft"
+ ],
+ "publisher": [],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [],
+ "description": "Final Fantasy IV, known as Final Fantasy II for its initial North American release, is a role-playing video game developed and published by Square (now Square Enix) for the Super Nintendo Entertainment System. Released in 1991, it is the fourth main installment of the Final Fantasy series. The game's story follows Cecil, a dark knight, as he tries to prevent the sorcerer Golbez from seizing powerful crystals and destroying the world. He is joined on this quest by a frequently changing group of allies.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 4.16,
+ "metascore": 85,
+ "cover_urls": [
+  "https://i.postimg.cc/j2HbrTvX/71bb8774-c771-430f-b23d-d9e91d9034ea.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/2/7/28027_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/2/7/28027_back.jpg"
+ ],
+ "sources": [
+  "opengamedb",
+  "openvgdb"
+ ]
+}

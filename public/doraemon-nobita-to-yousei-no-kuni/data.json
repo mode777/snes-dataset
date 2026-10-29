@@ -1,0 +1,48 @@
+{
+ "title": "Doraemon: Nobita to Yousei no Kuni",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Feb 19, 1993"
+ },
+ "developer": [
+  "Sakata SAS",
+  "Pop House/SAS Sakata",
+  "SAS Sakata"
+ ],
+ "publisher": [
+  "Epoch",
+  "Epoch Co."
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "manga",
+  "platform",
+  "sideways"
+ ],
+ "description": "An adventure game with action levels based on the Doraemon license, about a robotic cat and his human friends. It's the first of several Super Famicom adaptations of Doraemon.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/8/8/296488_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/8/296488_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

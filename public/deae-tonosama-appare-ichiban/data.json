@@ -1,0 +1,48 @@
+{
+ "title": "Deae Tonosama Appare Ichiban",
+ "aliases": [
+  "Deae Tonosama: Appare Ichiban"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 31, 1995"
+ },
+ "developer": [
+  "Tokyo Design Center",
+  "Sunsoft"
+ ],
+ "publisher": [
+  "SUNSOFT"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "multiderictionnal",
+  "shooter",
+  "topdown"
+ ],
+ "description": "This quirky top-down shooter offers one or two players the choice of a Japanese character that wields a fan or a French character that shoots flowers. It was only released in Japan.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/7/1/311371_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/7/1/311371_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

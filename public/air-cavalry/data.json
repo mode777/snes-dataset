@@ -1,0 +1,50 @@
+{
+ "title": "Air Cavalry",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "June 20, 1995",
+  "pal": "1995",
+  "europe": "June 1995",
+  "usa": "June 1995"
+ },
+ "developer": [
+  "Synergistic Software"
+ ],
+ "publisher": [
+  "Cybersoft"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "behind",
+  "intoscreen",
+  "shooter"
+ ],
+ "description": "Air Cavalry is a helicopter action game for the SNES.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/0/1/50501_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/1/50501_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/0/50500_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/0/50500_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

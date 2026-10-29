@@ -1,0 +1,53 @@
+{
+ "title": "Treasure Hunter G",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "May 24, 1996",
+  "first_release": "1996-06-24"
+ },
+ "developer": [
+  "Sting",
+  "Sting Entertainment"
+ ],
+ "publisher": [
+  "Squaresoft",
+  "Square"
+ ],
+ "genre": [
+  "Strategy",
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "strategu",
+  "tactic",
+  "topdow",
+  "turnbased"
+ ],
+ "description": "A strategy RPG developed by Sting and published by Square. Two brothers set off on a journey to find their missing adventurer father.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.04,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/633afff2-0a3f-4029-8643-b872cb5630a5.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/8/51438_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/8/51438_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

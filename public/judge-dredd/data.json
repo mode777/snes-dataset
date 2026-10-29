@@ -1,0 +1,63 @@
+{
+ "title": "Judge Dredd",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "June 1995",
+  "north_america": "June 16, 1995",
+  "pal": "August 24, 1995",
+  "first_release": "1995-06",
+  "europe": "June 1995",
+  "usa": "June 1995"
+ },
+ "developer": [
+  "Probe",
+  "Probe Entertainment",
+  "Probe Software"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "comic",
+  "futuristic",
+  "movie",
+  "multidirectional",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "A side-scrolling action game featuring the 2000AD comic book character Judge Dredd. Loosely based on the 1995 movie adaptation.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.78,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/6/3/0/24630_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/3/1/24631_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/3/1/24631_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/2/9/24629_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/2/9/24629_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/3/0/24630_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/3/0/24630_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

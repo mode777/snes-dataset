@@ -1,0 +1,46 @@
+{
+ "title": "Dream TV",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "north_america": "April 1, 1994",
+  "usa": "April 1994"
+ },
+ "developer": [
+  "Rollogame",
+  "Triffix"
+ ],
+ "publisher": [
+  "Triffix Entertainment",
+  "Triffix"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "This 1994 two-player action platformer has two young boys scrambling to gather puzzle pieces throughout different \"worlds\".",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/6/0/50660_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Nintama Rantarou Special",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Aug9, 1996"
+ },
+ "developer": [
+  "Culture Brain"
+ ],
+ "publisher": [
+  "Culture Brain"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "horizontal",
+  "jumper",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Licensed ninja game developed by Culture Brain in 1996. Is a little more story-centric than the other Nintama Rantarou games for Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/5/307235_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

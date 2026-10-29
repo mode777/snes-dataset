@@ -1,0 +1,50 @@
+{
+ "title": "Uncharted Waters",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-01",
+  "usa": "January 1993"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Strategy",
+  "Turn-Based",
+  "Historic"
+ ],
+ "tags": [
+  "exploration",
+  "naval",
+  "newworld",
+  "simulation",
+  "topdown"
+ ],
+ "description": "Uncharted Waters is a strategy sim from Koei that featured world exploration, naval combat, swordfighting and the other duties of a sea captain.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.7,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/06297d7e-04b1-411c-a4db-90697100b780.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/3/9/48339_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/3/9/48339_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

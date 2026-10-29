@@ -1,0 +1,46 @@
+{
+ "title": "Conveni Wars Barcode Battler Senki: Super Senshi Shutsugeki seyo!",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "May 14, 1993"
+ },
+ "developer": [
+  "SAS Sakata"
+ ],
+ "publisher": [
+  "Epoch",
+  "Epoch Co."
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Sci-Fi"
+ ],
+ "tags": [
+  "isometric",
+  "rpg",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "A strategy RPG that operated in tandem with Epoch's Barcode Battler. A special version of the game came with a Super Famicom adapter for the device.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/9/5/309595_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

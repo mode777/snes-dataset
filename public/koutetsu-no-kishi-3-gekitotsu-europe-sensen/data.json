@@ -1,0 +1,49 @@
+{
+ "title": "Koutetsu no Kishi 3 - Gekitotsu Europe Sensen",
+ "aliases": [
+  "Koutetsu no Kishi 3: Gekitotsu Europe Sensen"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jan 27, 1995"
+ },
+ "developer": [
+  "Dual"
+ ],
+ "publisher": [
+  "Asmik",
+  "Asmik Ace Entertainment, Inc"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "historical",
+  "strategy",
+  "topdown",
+  "turnbased",
+  "ww2"
+ ],
+ "description": "World War 2 strategy game developed by Dual in 1995 and the final game in the Koutetsu no Kishi trilogy. Take control of the Axis or Allies in tank battles across Europe.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/7/6/312476_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/7/6/312476_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

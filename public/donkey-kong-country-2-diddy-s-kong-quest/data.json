@@ -1,0 +1,48 @@
+{
+ "title": "Donkey Kong Country 2: Diddy's Kong Quest",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-12-04",
+  "germany": "December 1995",
+  "usa": "December 1995",
+  "europe": "December 1995"
+ },
+ "developer": [
+  "Rare",
+  "Rare Ltd."
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "platform",
+  "sideways"
+ ],
+ "description": "When Donkey Kong is kong-napped by the evil Kaptain K. Rool, it's up to nephew Diddy (and his girlfriend Dixie) to traverse Crocodile Isle to rescue him!",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": 4.41,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/56bb5da5-504b-4414-bde2-ffc83a05aafc.png",
+  "https://gamefaqs.gamespot.com/a/box/6/1/8/50618_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/1/8/50618_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/1/9/50619_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/1/9/50619_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

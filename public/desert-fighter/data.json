@@ -1,0 +1,31 @@
+{
+ "title": "Desert Fighter",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "europe": "January 1995"
+ },
+ "developer": [
+  "Opus"
+ ],
+ "publisher": [],
+ "genre": [
+  "Simulation",
+  "Flight",
+  "Modern Jet"
+ ],
+ "tags": [],
+ "description": "A.S.P. Air Strike Patrol is a Simulation game, developed by Opus and published by Seta Corporation,which was released in Japan in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/0/3/50503_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/3/50503_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

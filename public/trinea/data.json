@@ -1,0 +1,48 @@
+{
+ "title": "Trinea",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Oct1, 1993"
+ },
+ "developer": [
+  "A SNES action RPG developed by JAM with art by Masamune Shirow.",
+  "Japan Art Media",
+  "Japan Art Media (JAM)"
+ ],
+ "publisher": [
+  "Yanoman Corporation",
+  "Yanoman"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "scrolling",
+  "shooter",
+  "topdown"
+ ],
+ "description": "A SNES action RPG developed by JAM with art by Masamune Shirow.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/2/9/31729_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/2/9/31729_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

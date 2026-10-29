@@ -1,0 +1,56 @@
+{
+ "title": "James Bond Jr",
+ "aliases": [
+  "James Bond Jr."
+ ],
+ "year": 1992,
+ "release_dates": {
+  "north_america": "October 1, 1992",
+  "pal": "1992",
+  "usa": "October 1992",
+  "europe": "October 1992"
+ },
+ "developer": [
+  "Gray Matter"
+ ],
+ "publisher": [
+  "THQ"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "cartoon",
+  "horizontal",
+  "platform",
+  "shootemup",
+  "shooter",
+  "sideways"
+ ],
+ "description": "James Bond Jr. was also a 1991 video game developed by Eurocom for the Nintendo Entertainment System and the Super Nintendo Entertainment System",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/8/0/49280_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/0/49280_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/1/49281_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/1/49281_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

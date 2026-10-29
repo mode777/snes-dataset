@@ -1,0 +1,48 @@
+{
+ "title": "Final Fight 3",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "first_release": "1996-01",
+  "europe": "January 1996",
+  "usa": "January 1996"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "beatemup",
+  "horizontal",
+  "progressive",
+  "sideways"
+ ],
+ "description": "The last installment of the Fatal Fury beat-'em-up trilogy has Metro City under riot by a new threat, forcing Haggar and Guy to take action alongside two new allies.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.93,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/3520080d-7542-44b0-8fd3-284624928991.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/2/50702_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/9/7/50697_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

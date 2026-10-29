@@ -1,0 +1,51 @@
+{
+ "title": "Final Fantasy V",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Dec6, 1992",
+  "first_release": "1992-12-06"
+ },
+ "developer": [
+  "Squaresoft",
+  "Square"
+ ],
+ "publisher": [
+  "Squaresoft",
+  "Square"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "Join Bartz and his friends on an epic journey spanning the globe in an attempt to stop four mystical crystals from shattering, with a character-customizing Job system that some consider to be the \"father\" of similar RPGs to come.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.09,
+ "metascore": 83,
+ "cover_urls": [
+  "https://images.launchbox-app.com/816a1723-175b-4fd7-aa64-842051262eb8.png",
+  "https://gamefaqs.gamespot.com/a/box/0/6/9/20069_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/9/20069_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

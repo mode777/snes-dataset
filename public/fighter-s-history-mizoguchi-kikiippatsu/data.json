@@ -1,0 +1,40 @@
+{
+ "title": "Fighter's History: Mizoguchi Kikiippatsu!!",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Feb 17, 1995"
+ },
+ "developer": [
+  "Data East"
+ ],
+ "publisher": [
+  "Data East"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "arcade",
+  "fighting",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "A Super Famicom exclusive sequel to Data East's arcade fighting game series, featuring a story mode where Mizoguchi travels throughout the world to battle a mysterious masked figure (who Data East fans probably already know).",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/4/7/26647_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

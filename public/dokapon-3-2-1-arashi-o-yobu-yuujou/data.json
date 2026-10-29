@@ -1,0 +1,43 @@
+{
+ "title": "Dokapon 3-2-1: Arashi o Yobu Yuujou",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec2, 1994"
+ },
+ "developer": [
+  "Asmik",
+  "Asmik Ace Entertainment, Inc"
+ ],
+ "publisher": [
+  "Asmik"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "boardgame",
+  "rpg"
+ ],
+ "description": "The second entry in the Dokapon series of RPG styled boardgames. It was released on the Super Famicom in Japan only.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/1/1/31811_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/1/1/31811_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

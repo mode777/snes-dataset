@@ -1,0 +1,47 @@
+{
+ "title": "Jikkyou Powerful Pro Yakyuu 3",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Feb 29, 1996"
+ },
+ "developer": [
+  "Diamond Head"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "baseball",
+  "behind",
+  "intoscreen",
+  "sports"
+ ],
+ "description": "The third iteration in the main Power Pro series for the Super Nintendo. This game retains the gameplay of its predecessors, and adds the Success Mode.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/9/6/307196_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

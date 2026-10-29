@@ -1,0 +1,40 @@
+{
+ "title": "Super Drift Out - World Rally Championships",
+ "aliases": [
+  "Super Drift Out: World Rally Championships"
+ ],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "RalliArt"
+ ],
+ "publisher": [
+  "Visco"
+ ],
+ "genre": [],
+ "tags": [
+  "car",
+  "multidirectional",
+  "racing",
+  "rally",
+  "sports",
+  "topdown"
+ ],
+ "description": "A rally car game released in 1995 exclusively for the Super Famicom and the third game in Visco's Drift Out series. A North American version of the game was planned but cancelled.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

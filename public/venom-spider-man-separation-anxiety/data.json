@@ -1,0 +1,53 @@
+{
+ "title": "Venom & Spider-Man: Separation Anxiety",
+ "aliases": [
+  "Venom/Spider-Man: Separation Anxiety",
+  "Venom - Spider-Man: Separation Anxiety",
+  "Venom-Spider-Man: Separation Anxiety"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "November 1995",
+  "pal": "1995",
+  "first_release": "1995-11"
+ },
+ "developer": [
+  "Software Creations"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Action"
+ ],
+ "tags": [
+  "beatemup",
+  "brawler",
+  "comic",
+  "fighter",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "A side-scrolling brawler for the SNES, Genesis and the PC which sees Marvel's webslinger joining up with his nemesis to fight a greater evil.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.6,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/0d3ceacd-588d-4466-82ee-ca91cffc11b2.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

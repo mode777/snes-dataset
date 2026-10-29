@@ -1,0 +1,54 @@
+{
+ "title": "Super Punch-Out!!",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "October 1994",
+  "north_america": "September 14, 1994",
+  "pal": "January 26, 1995",
+  "first_release": "1994-10-24",
+  "europe": "October 1994",
+  "usa": "October 1994"
+ },
+ "developer": [
+  "Nintendo"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Boxing"
+ ],
+ "tags": [
+  "behind",
+  "boxing",
+  "sports"
+ ],
+ "description": "Super Punch-Out!! drops Mike Tyson in favor of several new pugilistic opponents, some of whom use illegal boxing moves. Does Little Mac has what it takes to make it all the way to the championship?",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.03,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/8aa352d1-899d-4e1a-8236-d1caf2e50ed2.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/0/44750_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/0/44750_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/9/44749_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/9/44749_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

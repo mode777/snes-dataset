@@ -1,0 +1,46 @@
+{
+ "title": "Super Ninja-kun",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Aug5, 1994"
+ },
+ "developer": [
+  "Jaleco",
+  "Jaleco Entertainment"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "fighter",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A side-scrolling action game for the Super Famicom and part of Jaleco's Ninja-kun series. Released only in Japan in 1994.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/0/1/43401_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/1/43401_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "title": "Alien vs Predator",
+ "aliases": [
+  "Alien vs. Predator",
+  "Aliens vs. Predator"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-09",
+  "europe": "September 1993",
+  "usa": "September 1993",
+  "japan": "September 1993"
+ },
+ "developer": [
+  "Jorudan Co., Ltd.",
+  "Jorudan"
+ ],
+ "publisher": [
+  "Activision"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "action",
+  "beatemup",
+  "comic",
+  "progessive",
+  "scifi",
+  "sideways"
+ ],
+ "description": "A brawler game developed by Jorudan for the SNES. It is the first AvP game created, and is not connected to Capcom's arcade release.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 2.54,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/a57c5789-d0c5-4b0c-89e9-ab11f5b15c95.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/0/22480_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/0/22480_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/7/9/22479_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/7/9/22479_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

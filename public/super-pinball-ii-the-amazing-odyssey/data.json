@@ -1,0 +1,47 @@
+{
+ "title": "Super Pinball II - The Amazing Odyssey",
+ "aliases": [
+  "Super Pinball II: The Amazing Odyssey",
+  "Super Pinball II: Amazing Odyssey"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "March 17, 1995"
+ },
+ "developer": [
+  "KAZe"
+ ],
+ "publisher": [
+  "Meldac"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Pinball"
+ ],
+ "tags": [
+  "angle",
+  "pinball",
+  "reaction"
+ ],
+ "description": "The sequel to Super Pinball, this game has three different pinball tables. Unlike its predecessor, it was only released in Japan.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/5/8/307058_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

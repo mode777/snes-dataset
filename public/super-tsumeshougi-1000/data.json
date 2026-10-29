@@ -1,0 +1,42 @@
+{
+ "title": "Super Tsumeshougi 1000",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 16, 1994"
+ },
+ "developer": [
+  "?",
+  "Bottom Up"
+ ],
+ "publisher": [
+  "Bottom Up"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Party"
+ ],
+ "tags": [
+  "boardgame",
+  "shogi"
+ ],
+ "description": "A shogi game for the Super Famicom. Rather than standard matches, Super Tsumeshogi poses special shogi problems that can be solved with the limited number of pieces offered.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/1/9/307019_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

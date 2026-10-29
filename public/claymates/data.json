@@ -1,0 +1,54 @@
+{
+ "title": "Claymates",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "March 1994",
+  "pal": "November 20, 1993",
+  "first_release": "1994-03",
+  "europe": "March 1994",
+  "usa": "March 1994"
+ },
+ "developer": [
+  "Visual Concepts Entertainment",
+  "Visual Concepts"
+ ],
+ "publisher": [
+  "Interplay",
+  "Interplay Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "platform",
+  "puzzlesolving"
+ ],
+ "description": "Released in 1993, Claymates is a platformer game where the hero Clayton (pun unfortunately intended) has been turned into a ball of clay. He has to save his dad and, using power ups, can turn into various animals.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.3,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/0b11b1ac-1d7d-4c53-ada3-d114d20aaee0.png",
+  "https://gamefaqs.gamespot.com/a/box/5/8/0/50580_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/0/50580_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/9/50579_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

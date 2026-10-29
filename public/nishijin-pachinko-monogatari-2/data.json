@@ -1,0 +1,43 @@
+{
+ "title": "Nishijin Pachinko Monogatari 2",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Jun 28, 1996"
+ },
+ "developer": [
+  "Soft Machine"
+ ],
+ "publisher": [
+  "KSS"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "Gambling game published by KSS in 1996. The second of two Super Famicom pachinko games to feature the machines of Nishijin company.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/2/2/307222_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

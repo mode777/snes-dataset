@@ -1,0 +1,51 @@
+{
+ "title": "Seifuku Densetsu - Pretty Fighter",
+ "aliases": [
+  "Seifuku Densetsu: Pretty Fighter",
+  "Seifuku Densetsu Pretty Fighter"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec2, 1994"
+ },
+ "developer": [
+  "Genki"
+ ],
+ "publisher": [
+  "Imagineer",
+  "Imagineer Co., Ltd."
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "cute",
+  "femaleprotagonist",
+  "fighting",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "A 2D fighting game for the Super Famicom, featuring an all-girl roster with each fighter wearing a different cosplay-style uniform.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/8/3/309483_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/3/309483_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "title": "ESPN Baseball Tonight",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "May 1, 1994",
+  "pal": "November 1994",
+  "europe": "May 1994",
+  "usa": "May 1994"
+ },
+ "developer": [
+  "Park Place Productions"
+ ],
+ "publisher": [
+  "Sony Imagesoft"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "baseball",
+  "behind",
+  "sports"
+ ],
+ "description": "A baseball game that was released for the Sega Genesis, Sega CD, Super Nintendo and PC. It featured the MLB license but not the Player's Association license, so the team names are present but not the player names.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/7/9/50679_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/7/9/50679_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/7/8/50678_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

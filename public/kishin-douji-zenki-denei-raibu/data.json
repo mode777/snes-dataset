@@ -1,0 +1,50 @@
+{
+ "title": "Kishin Douji Zenki - Denei Raibu",
+ "aliases": [
+  "Kishin Douji Zenki: Denei Raibu"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Nov 24, 1995"
+ },
+ "developer": [
+  "Now Production",
+  "Hudson"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "fighter",
+  "plateform",
+  "shooter",
+  "sideways",
+  "turnbased"
+ ],
+ "description": "Licensed Super Famicom anime game that features two distinct modes: an active time battle RPG combat mode and a 2D side-scrolling platformer.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/5/4/307154_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/5/4/307154_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

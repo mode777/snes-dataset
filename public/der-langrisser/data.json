@@ -1,0 +1,51 @@
+{
+ "title": "Der Langrisser",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jun 30, 1995",
+  "first_release": "1995-06-30"
+ },
+ "developer": [
+  "Crosstalk / NCS",
+  "NCS"
+ ],
+ "publisher": [
+  "Masaya",
+  "NCS"
+ ],
+ "genre": [
+  "Strategy",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "strategy",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A remake of Langrisser II that was originally released on the SNES in Japan and was later ported to the PC-FX.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.0,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/074b9ecd-3656-41e9-8af6-70bcd33f243d.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/0/9/50609_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/0/9/50609_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

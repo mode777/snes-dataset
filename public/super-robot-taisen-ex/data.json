@@ -1,0 +1,46 @@
+{
+ "title": "Super Robot Taisen EX",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Mar 25, 1994"
+ },
+ "developer": [
+  "Winky Soft",
+  "Winkysoft"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Sci-Fi"
+ ],
+ "tags": [
+  "rpg",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "A side-story in the Super Robot Taisen (Wars) classic series. This game focuses on the Masou Kishin plotline.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/6/2/310162_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/6/2/310162_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

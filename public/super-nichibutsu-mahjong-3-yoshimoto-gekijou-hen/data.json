@@ -1,0 +1,46 @@
+{
+ "title": "Super Nichibutsu Mahjong 3 - Yoshimoto Gekijou Hen",
+ "aliases": [
+  "Super Nichibutsu Mahjong 3: Yoshimoto Gekijou Hen"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jul 29, 1994"
+ },
+ "developer": [
+  "Nihon Bussan",
+  "Nichibutsu"
+ ],
+ "publisher": [
+  "Nihon Bussan",
+  "Nichibutsu"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A mahjong game from Nihon Bussan and the third of four Super Famicom games in the series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/5/4/306954_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

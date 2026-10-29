@@ -1,0 +1,44 @@
+{
+ "title": "Sound Novel Tsukuru",
+ "aliases": [
+  "Sound Novel Tsukuuru"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "May 31, 1996"
+ },
+ "developer": [
+  "Success"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [
+  "firstperson",
+  "visualnovel"
+ ],
+ "description": "The first of two customizable interactive sound novel editors by ASCII and Success. It was released in the latter days of the Super Famicom on a large cartridge (SHVC-040) that takes memory paks compatible with the Satellaview system.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/1/9/307219_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

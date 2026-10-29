@@ -1,0 +1,52 @@
+{
+ "title": "Casper",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "north_america": "December 1, 1996",
+  "pal": "1997",
+  "usa": "December 1996",
+  "europe": "December 1996",
+  "japan": "March 1997"
+ },
+ "developer": [
+  "Absolute Entertainment",
+  "Imagineering",
+  "Imagineering Inc"
+ ],
+ "publisher": [
+  "Natsume"
+ ],
+ "genre": [
+  "Adventure",
+  "General"
+ ],
+ "tags": [
+  "horizontal",
+  "movie",
+  "puzzle",
+  "sideways"
+ ],
+ "description": "A licensed game based on the 1995 movie featuring Christina Ricci and Bill Pullman. Casper and his human friend Kat work together to foil the plans of an evil rich heiress and her assistant.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/6/6/2266_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/6/6/2266_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/9/600289_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

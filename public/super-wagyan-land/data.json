@@ -1,0 +1,49 @@
+{
+ "title": "Super Wagyan Land",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "Dec 13, 1991"
+ },
+ "developer": [
+  "Namco",
+  "Nova Games",
+  "Nova Games Ltd."
+ ],
+ "publisher": [
+  "Namco / Nova",
+  "Namco"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "collector",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A side-scrolling action game in the Wagyan Land series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/7/8/306778_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/7/8/306778_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

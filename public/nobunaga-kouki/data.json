@@ -1,0 +1,38 @@
+{
+ "title": "Nobunaga Kouki",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "January 29, 1993"
+ },
+ "developer": [
+  "Yanoman Corporation"
+ ],
+ "publisher": [
+  "Yanoman Corporation",
+  "Yanoman"
+ ],
+ "genre": [],
+ "tags": [
+  "historical",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "Strategy game developed by Yanoman in 1993. It's one of many turn-based strategy games to focus on Japan's tumultuous Sengoku period.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

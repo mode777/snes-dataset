@@ -1,0 +1,55 @@
+{
+ "title": "Zoop",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "September 15, 1995",
+  "pal": "1995",
+  "first_release": "1995-",
+  "europe": "1995",
+  "usa": "1995"
+ },
+ "developer": [
+  "Hookstone",
+  "Hookstone Productions"
+ ],
+ "publisher": [
+  "Viacom New Media"
+ ],
+ "genre": [
+  "Puzzle",
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [
+  "puzzlesolve",
+  "strategy",
+  "tactic",
+  "topdown"
+ ],
+ "description": "A real-time puzzle game released on many systems. Players must protect the center of the screen from encroaching colored pieces, \"zoop\"ing them all before they get too close.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.92,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/1/5/8/9158_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/5/9/9159_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/5/9/9159_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/5/8/9158_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/5/8/9158_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

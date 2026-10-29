@@ -1,0 +1,48 @@
+{
+ "title": "Rokudenashi Blues - Taiketsu! Tokyo Shitennou",
+ "aliases": [
+  "Rokudenashi Blues: Taiketsu! Tokyo Shitennou"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Apr 15, 1994"
+ },
+ "developer": [
+  "TOSE"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "fighter",
+  "manga",
+  "rpg",
+  "sideways"
+ ],
+ "description": "An RPG brawler released for the Family Computer and Super Famicom based on the anime and manga of the same name. Both were developed by TOSE and published by Bandai.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/0/0/31600_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/0/0/31600_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

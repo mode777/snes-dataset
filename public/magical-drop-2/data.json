@@ -1,0 +1,47 @@
+{
+ "title": "Magical Drop 2",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Sep 20, 1996"
+ },
+ "developer": [
+  "Data East"
+ ],
+ "publisher": [
+  "Data East"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "Matching"
+ ],
+ "tags": [
+  "arcade",
+  "puzzle",
+  "realtime",
+  "singlescreen",
+  "tileremoval"
+ ],
+ "description": "The sequel to Data East's entry into the tile-matching puzzle genre brings the fast-paced series to the Neo Geo, refining the art style and gameplay.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/1/8/21718_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/8/21718_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

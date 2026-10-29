@@ -1,0 +1,32 @@
+{
+ "title": "J.League Excite Stage '94",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "June 1994"
+ },
+ "developer": [
+  "A-Max"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [],
+ "description": "Capcom's Soccer Shootout is a Sports game, developed by A-Max and published by Epoch,which was released in Japan in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/5/6/51156_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/5/6/51156_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

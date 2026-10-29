@@ -1,0 +1,50 @@
+{
+ "title": "Shin Megami Tensei II",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Mar 18, 1994",
+  "first_release": "1994-03-18"
+ },
+ "developer": [
+  "ATLUS"
+ ],
+ "publisher": [
+  "ATLUS"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "adventure",
+  "dungeoncrawler",
+  "fantasy",
+  "firstperson",
+  "magic",
+  "rpg"
+ ],
+ "description": "A direct sequel to the original Shin Megami Tensei. It was released on the Super Famicom in 1994.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.77,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/b0f19843-3b8f-491f-b903-8837c221dded.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/5/28895_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/5/28895_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

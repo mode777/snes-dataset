@@ -1,0 +1,43 @@
+{
+ "title": "Daibakushou Jinsei Gekijou: Ooedo Nikki",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Nov 25, 1994"
+ },
+ "developer": [
+  "Act Japan",
+  "Taito"
+ ],
+ "publisher": [
+  "TAITO"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame"
+ ],
+ "description": "A Super Famicom board game adaptation that plays like The Game of Life. The twist is that the players are living the lives of Edo period (1603-1868CE) citizens.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/9/0/312490_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/9/0/312490_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

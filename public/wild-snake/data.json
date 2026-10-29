@@ -1,0 +1,42 @@
+{
+ "title": "Wild Snake",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "September 1994"
+ },
+ "developer": [
+  "Bullet-Proof Software",
+  "Manley and Associates Inc."
+ ],
+ "publisher": [
+  "Spectrum Holobyte"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "puzzle"
+ ],
+ "description": "A 1994 SNES/GB puzzle game that is endorsed by Tetris creator Alexey Pajitnov. The game is a mix of Tetris and Snake.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/1/0/8910_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

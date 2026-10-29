@@ -1,0 +1,56 @@
+{
+ "title": "X-Men: Mutant Apocalypse",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "November 1994",
+  "north_america": "November 1994",
+  "pal": "1995",
+  "first_release": "1994-11",
+  "europe": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "comic",
+  "fighter",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "A side-scrolling brawler-platformer game made by Capcom. Five members of the X-Men are sent to different parts of the island of Genosha each with a mission to accomplish.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.7,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/803f09d3-0fe8-4e0d-b6f0-196a643113dd.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/2/51512_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/2/51512_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/3/51513_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/3/51513_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

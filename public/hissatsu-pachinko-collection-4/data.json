@@ -1,0 +1,45 @@
+{
+ "title": "Hissatsu Pachinko Collection 4",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Aug 30, 1996"
+ },
+ "developer": [
+  "?",
+  "SunSoft"
+ ],
+ "publisher": [
+  "SUNSOFT"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gambling",
+  "pachinko"
+ ],
+ "description": "The final entry in the \"Hissatsu Pachinko Collection\" subseries, before SunSoft moved on to other games.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/8/307238_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/8/307238_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

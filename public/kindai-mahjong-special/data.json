@@ -1,0 +1,42 @@
+{
+ "title": "Kindai Mahjong Special",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 31, 1995"
+ },
+ "developer": [
+  "Outback"
+ ],
+ "publisher": [
+  "Imagineer"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "Mahjong game published by Imagineer in 1995.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/6/7/307067_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

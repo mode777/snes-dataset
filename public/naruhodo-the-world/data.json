@@ -1,0 +1,44 @@
+{
+ "title": "Naruhodo! The World",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Nov 25, 1994"
+ },
+ "developer": [
+  "CrossTalk",
+  "Tomy Corporation"
+ ],
+ "publisher": [
+  "Tomy"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Trivia / Game Show"
+ ],
+ "tags": [
+  "boardgame",
+  "quiz"
+ ],
+ "description": "An adaptation of the Japanese TV quiz show and travelogue of the same name. Published by Tomy in 1994 for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/1/8/312618_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/1/8/312618_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "title": "College Football USA 97",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "usa": "December 1996"
+ },
+ "developer": [
+  "Ceris Software"
+ ],
+ "publisher": [
+  "Electronic Arts"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [
+  "americanfootball",
+  "angle",
+  "behind",
+  "sports"
+ ],
+ "description": "The second edition of The spiritual sucessor to Bill Walsh College Football and the predecessor to EA Sport's successful NCAA Football franchise",
+ "description_source": "snes_csv",
+ "players": "1 - 16 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/8/2/50582_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

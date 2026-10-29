@@ -1,0 +1,47 @@
+{
+ "title": "Ace o Nerae!",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Dec 22, 1993"
+ },
+ "developer": [
+  "Telenet Japan",
+  "Nippon Telenet"
+ ],
+ "publisher": [
+  "Telenet Japan"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Tennis"
+ ],
+ "tags": [
+  "angle",
+  "behind",
+  "manga",
+  "sports",
+  "tennis"
+ ],
+ "description": "A tennis game for the Super Famicom based on the 1970s manga and anime of the same name.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/8/9/306889_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/8/9/306889_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "title": "Pro Mahjong Kiwame",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Jun 11, 1993"
+ },
+ "developer": [
+  "Athena"
+ ],
+ "publisher": [
+  "Athena"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A mahjong game for serious players created by Athena for the Super Famicom and Arcade. It is the first game in their Pro Mahjong Kiwame series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/3/2/305532_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "title": "Iron Commando: Koutetsu no Senshi",
+ "aliases": [
+  "Iron Commando: Kotetsu no Senshi"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "February 10, 1995",
+  "pal": "Cancelled"
+ },
+ "developer": [
+  "Arcade Zone"
+ ],
+ "publisher": [
+  "Poppo"
+ ],
+ "genre": [],
+ "tags": [
+  "beatemup",
+  "fighter",
+  "horizontal",
+  "progressive",
+  "sideways"
+ ],
+ "description": "Brawler developed by Arcade Zone LTD in 1995. Gung ho commandos Jack and Chang-Li are forced to fight across the world to destroy a radioactive meteorite before terrorists can claim its powers.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "wikipedia",
+  "openvgdb",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

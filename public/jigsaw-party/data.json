@@ -1,0 +1,30 @@
+{
+ "title": "Jigsaw Party",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "December 1994"
+ },
+ "developer": [
+  "Prism Kikaku"
+ ],
+ "publisher": [],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [],
+ "description": "Pieces is a Miscellaneous game, developed by Prism Kikaku and published by Hori,which was released in Japan in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/1/1/51011_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

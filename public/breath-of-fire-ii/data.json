@@ -1,0 +1,55 @@
+{
+ "title": "Breath of Fire II",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "December 2, 1994",
+  "north_america": "December 10, 1995",
+  "pal": "April 25, 1996",
+  "first_release": "1995-12-31",
+  "usa": "December 1995",
+  "europe": "December 1995"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom",
+  "Capcom (JP/NA)Laguna GmbH (EU)"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "The sequel to Breath of Fire, centering around a descendant of the Dragon Clan, Ryu. He has the ability to transform into a dragon and, together with his friends, must fight a powerful demon lord to save the world. The game was originally released in 1994.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.06,
+ "metascore": 81,
+ "cover_urls": [
+  "https://images.launchbox-app.com/b81423c5-3f3b-40b4-9329-7646a80bbe03.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/3/16383_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/3/16383_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/4/16384_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/8/4/16384_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

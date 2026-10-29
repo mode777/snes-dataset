@@ -1,0 +1,46 @@
+{
+ "title": "Heisei Shin Onigashima - Kouhen",
+ "aliases": [
+  "Heisei Shin Onigashima: Kouhen"
+ ],
+ "year": 1997,
+ "release_dates": {
+  "japan": "May 23, 1998"
+ },
+ "developer": [
+  "Nintendo / Pax Softnica",
+  "Pax Softonica"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Adventure",
+  "General"
+ ],
+ "tags": [
+  "adventure",
+  "firstperson",
+  "visualnovel"
+ ],
+ "description": "A graphically remastered version of the FDS adventure game Shin Onigashima. It was first released via Satellaview and later made available via Nintendo Power and in standard retail form.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/8/3/31983_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/8/3/31983_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

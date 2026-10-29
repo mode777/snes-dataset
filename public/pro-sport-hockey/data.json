@@ -1,0 +1,46 @@
+{
+ "title": "Pro Sport Hockey",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "February 1994"
+ },
+ "developer": [
+  "Jaleco",
+  "TOSE"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Ice Hockey",
+  "Arcade"
+ ],
+ "tags": [
+  "angle",
+  "icehockey",
+  "sports",
+  "vertical"
+ ],
+ "description": "A licensed NHL game developed by TOSE and released on both the NES and SNES.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/5/3/49553_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

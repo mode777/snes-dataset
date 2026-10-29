@@ -1,0 +1,31 @@
+{
+ "title": "Sangokushi III",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "December 1993",
+  "hong_kong": "December 1993"
+ },
+ "developer": [
+  "Koei"
+ ],
+ "publisher": [],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Historic"
+ ],
+ "tags": [],
+ "description": "Romance of the Three Kingdoms III: Dragon of Destiny is a Strategy game, developed and published by Koei,which was released in Japan in 1992.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/9/5/31395_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

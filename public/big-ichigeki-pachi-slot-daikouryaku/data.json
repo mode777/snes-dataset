@@ -1,0 +1,47 @@
+{
+ "title": "Big Ichigeki! Pachi-Slot Daikouryaku",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 16, 1994"
+ },
+ "developer": [
+  "Syscom Entertainment",
+  "Syscom"
+ ],
+ "publisher": [
+  "Ask Kodansha",
+  "Ask Koudansha"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "gamble",
+  "game",
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "A 1994 pachi-slot game for the Super Famicom. Like a number of serious pachi-slot sims it's meant to teach players how to win at the real thing.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/1/8/307018_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

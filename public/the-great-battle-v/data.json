@@ -1,0 +1,53 @@
+{
+ "title": "The Great Battle V",
+ "aliases": [
+  "Great Battle V, The"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Dec 22, 1995"
+ },
+ "developer": [
+  "Sun L",
+  "Banpresto"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "behind",
+  "crosshair",
+  "horizontal",
+  "intoscreen",
+  "jumper",
+  "manga",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "A side-scrolling shooter game that is part of Banpresto's Compati Hero Series. The fifth Great Battle adopts a Western theme, with some stages inspired by Natsume's Wild Guns.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/7/4/307174_front.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "openvgdb",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

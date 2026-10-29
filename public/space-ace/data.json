@@ -1,0 +1,52 @@
+{
+ "title": "Space Ace",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "May 1994",
+  "north_america": "May 1994",
+  "pal": "1994",
+  "europe": "May 1994",
+  "usa": "May 1994"
+ },
+ "developer": [
+  "Oxford Digital Enterprises",
+  "Entertainment International",
+  "O.D.E."
+ ],
+ "publisher": [
+  "Absolute Entertainment"
+ ],
+ "genre": [
+  "Adventure",
+  "Interactive Movie"
+ ],
+ "tags": [
+  "action",
+  "platform",
+  "scifi",
+  "sideways",
+  "topdown"
+ ],
+ "description": "Space Ace must save his girlfriend, Kimberly from the evil alien, Borf in this follow up to Dragon's Lair.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/1/0/11710_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/1/11711_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

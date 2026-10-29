@@ -1,0 +1,48 @@
+{
+ "title": "Rap Jam: Volume One",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "January 1995",
+  "usa": "January 1995"
+ },
+ "developer": [
+  "64WD Creation",
+  "64WD Corporation"
+ ],
+ "publisher": [
+  "Motown Software"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Arcade"
+ ],
+ "tags": [
+  "basketball",
+  "horizontal",
+  "sideways",
+  "sports"
+ ],
+ "description": "?",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Spanish, French"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/4/7/51047_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

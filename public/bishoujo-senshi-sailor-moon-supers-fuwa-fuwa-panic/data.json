@@ -1,0 +1,43 @@
+{
+ "title": "Bishoujo Senshi Sailor Moon SuperS: Fuwa Fuwa Panic",
+ "aliases": [
+  "Bishoujo Senshi Sailor Moon SuperS: Fuwafuwa Panic"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "December 8, 1995"
+ },
+ "developer": [
+  "Tom Create"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [],
+ "tags": [
+  "anime",
+  "manga",
+  "puzzle",
+  "singlescreen",
+  "strategy",
+  "tactic",
+  "tileremoval"
+ ],
+ "description": "A competitive balloon-bursting puzzle game featuring characters from Naoko Takeuchi's Sailor Moon universe.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "wikipedia",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

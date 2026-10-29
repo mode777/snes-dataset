@@ -1,0 +1,44 @@
+{
+ "title": "Mini Yonku Let's & Go!! - Power WGP 2",
+ "aliases": [
+  "Mini Yonku Let's & Go!!: Power WGP 2"
+ ],
+ "year": 1998,
+ "release_dates": {
+  "japan": "Oct1, 1998"
+ },
+ "developer": [
+  "Jupiter Corp.",
+  "Jupiter",
+  "Jupiter Multimedia"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Kart"
+ ],
+ "tags": [
+  "racing",
+  "topdown"
+ ],
+ "description": "A top-down racing game published by Nintendo in 1998. The game was released both through a normal retail release, and through the Japan-only Nintendo Power distribution service.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/8/1/307281_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/1/307281_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

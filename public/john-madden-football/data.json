@@ -1,0 +1,45 @@
+{
+ "title": "John Madden Football",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "usa": "November 1991"
+ },
+ "developer": [
+  "Park Place Productions"
+ ],
+ "publisher": [
+  "Electronic Arts"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [
+  "americanfootball",
+  "angle",
+  "sports"
+ ],
+ "description": "The first entry in the widely popular Madden franchise.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/0/4/35704_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/0/4/35704_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

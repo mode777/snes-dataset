@@ -1,0 +1,47 @@
+{
+ "title": "Super Fire Pro Wrestling",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "Dec 20, 1991"
+ },
+ "developer": [
+  "HUMAN",
+  "Human Club"
+ ],
+ "publisher": [
+  "HUMAN",
+  "Human Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "Wrestling"
+ ],
+ "tags": [
+  "isometric",
+  "sports",
+  "wrestling"
+ ],
+ "description": "The first of many Fire Pro Wrestling games for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/9/9/311599_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/9/311599_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

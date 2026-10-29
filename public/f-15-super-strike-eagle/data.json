@@ -1,0 +1,31 @@
+{
+ "title": "F-15 Super Strike Eagle",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "March 1993"
+ },
+ "developer": [
+  "MicroProse"
+ ],
+ "publisher": [],
+ "genre": [
+  "Simulation",
+  "Flight",
+  "Modern Jet"
+ ],
+ "tags": [],
+ "description": "Super Strike Eagle is a Simulation game, developed and published by MicroProse,which was released in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/6/9/51369_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/6/9/51369_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

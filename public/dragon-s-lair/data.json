@@ -1,0 +1,48 @@
+{
+ "title": "Dragon's Lair",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-02",
+  "europe": "February 1993",
+  "usa": "February 1993"
+ },
+ "developer": [
+  "Motivetime",
+  "MotiveTime, Ltd."
+ ],
+ "publisher": [
+  "Data East"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "fantasy",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "This version of Dragon's Lair is a departure from the earlier arcade titles of the same name. Instead of recreating the original arcade experience, the game now focuses on action/platforming elements, not dissimilar to Konami's Castlevania games.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French, Italian, Japanese, Dutch, Swedish"
+ ],
+ "gf_score": 2.13,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/6f637145-4b0b-440f-be60-a562d1750695.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/5/50655_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/5/50655_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/6/50656_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

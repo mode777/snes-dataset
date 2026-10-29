@@ -1,0 +1,26 @@
+{
+ "title": "Disney's Toy Story",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-12"
+ },
+ "developer": [],
+ "publisher": [],
+ "genre": [
+  "Action"
+ ],
+ "tags": [],
+ "description": "Toy Story is a side-scrollingplatform game released by Disney Interactive Studios in 1995 for the Sega Genesis, Super Nintendo Entertainment System, Game Boy, and Microsoft Windows. It is based on the film of the same name, and follows its plot. The game was followed by a sequel based on the second film, called Toy Story 2: Buzz Lightyear to the Rescue.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 3.28,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.akamaized.net/box/3/9/2/8392_front.jpg"
+ ],
+ "sources": [
+  "opengamedb"
+ ]
+}

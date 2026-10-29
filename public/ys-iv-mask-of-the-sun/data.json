@@ -1,0 +1,51 @@
+{
+ "title": "Ys IV - Mask of the Sun",
+ "aliases": [
+  "Ys IV: Mask of the Sun"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Nov 19, 1993",
+  "first_release": "1993-11-19"
+ },
+ "developer": [
+  "Tonkin House"
+ ],
+ "publisher": [
+  "Tonkin House"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "action",
+  "fantasy",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "The canonical fourth game in the Ys franchise. It was published on the Super Famicom by Tonkin House in Japan only and also received a PS2 remake in 2005. It remains one of the few Ys games to have never received an official English localization.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.57,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d4e9c1c4-7841-4863-a43d-4bcbf8dfbff9.png",
+  "https://gamefaqs.gamespot.com/a/box/3/7/9/25379_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/7/9/25379_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "title": "Might and Magic III: Isles of Terra",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "January 1995",
+  "usa": "January 1995"
+ },
+ "developer": [
+  "New World Computing",
+  "Iguana Entertainment"
+ ],
+ "publisher": [
+  "FCI"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "dungeoncrawler",
+  "fantasy",
+  "firstperson",
+  "rpg",
+  "turnbased"
+ ],
+ "description": "Following their adventures in Might and Magic II, the players take up the quest to save the Isles of Terra from complete destruction. Only by unearthing the secrets of the legendary wizard, Corak, and his nemesis hidden somewhere within the islands can they hope to save the land and themselves.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/8/4/24684_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

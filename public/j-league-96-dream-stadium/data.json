@@ -1,0 +1,45 @@
+{
+ "title": "J.League '96 Dream Stadium",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Jun1, 1996"
+ },
+ "developer": [
+  "AI",
+  "A.I."
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "Soccer game published by Hudson that features the sixteen teams of 1996's J-League season.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/2/0/307220_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/2/0/307220_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

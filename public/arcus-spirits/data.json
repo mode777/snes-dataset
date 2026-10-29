@@ -1,0 +1,44 @@
+{
+ "title": "Arcus Spirits",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Canceled"
+ },
+ "developer": [
+  "Wolf Team"
+ ],
+ "publisher": [
+  "Sammy"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "cooperative",
+  "isometric",
+  "scrolling",
+  "shooter"
+ ],
+ "description": "The third game in the Arcus Series of isometric action RPGs. Originally released on the Sharp X68000, the game was ported to the Sega Genesis and Super Nintendo.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/5/6/37556_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/6/37556_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

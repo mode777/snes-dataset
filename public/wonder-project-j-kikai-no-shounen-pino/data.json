@@ -1,0 +1,40 @@
+{
+ "title": "Wonder Project J - Kikai no Shounen Pino",
+ "aliases": [
+  "Wonder Project J: Kikai no Shounen Pīno",
+  "Wonder Project J: Kikai no Shounen Pino"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "December 9, 1994"
+ },
+ "developer": [
+  "Almanic Corp.",
+  "Almanic"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [],
+ "tags": [
+  "?"
+ ],
+ "description": "A raising sim for the Super Famicom where the player must raise a robot boy named Pino.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "title": "Chaos Seed: Fuusui Kairouki",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {},
+ "developer": [
+  "Neverland"
+ ],
+ "publisher": [
+  "Taito"
+ ],
+ "genre": [],
+ "tags": [
+  "action",
+  "rpg",
+  "strategy",
+  "topdown"
+ ],
+ "description": "An RPG mixed with dungeon crawling and simulation elements developed by Neverland for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "title": "Daze Before Christmas",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "Cancelled",
+  "pal": "November 1, 1994",
+  "europe": "Canceled"
+ },
+ "developer": [
+  "Funcom"
+ ],
+ "publisher": [
+  "Sunsoft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "christmas",
+  "cute",
+  "fantasy",
+  "multidirectional",
+  "platform",
+  "scrolling",
+  "shooter",
+  "sideways"
+ ],
+ "description": "A Christmas-themed platformer developed by Funcom and published by Sunsoft. It was originally released for the Sega Genesis, but was later ported to the Super Nintendo.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/6/2/40962_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/2/40962_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

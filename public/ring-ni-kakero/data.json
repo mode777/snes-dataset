@@ -1,0 +1,41 @@
+{
+ "title": "Ring ni Kakero",
+ "aliases": [],
+ "year": 1998,
+ "release_dates": {
+  "japan": "June 1, 1998"
+ },
+ "developer": [
+  "Earthly Soft"
+ ],
+ "publisher": [
+  "Masaya"
+ ],
+ "genre": [],
+ "tags": [
+  "boxing",
+  "fight",
+  "isometric",
+  "manga",
+  "simulation",
+  "sports"
+ ],
+ "description": "Boxing manga-based video game released for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

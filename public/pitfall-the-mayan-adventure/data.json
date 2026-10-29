@@ -1,0 +1,53 @@
+{
+ "title": "Pitfall: The Mayan Adventure",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-11",
+  "usa": "November 1994",
+  "europe": "November 1994"
+ },
+ "developer": [
+  "Activision",
+  "Redline Games"
+ ],
+ "publisher": [
+  "Activision"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "collect",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "Bringing the 1982 platforming classic to '90s home consoles, The Mayan Adventure puts players in the role of Harry Jr. as he searches the Mayan ruins for his father, the original Pitfall Harry.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.4,
+ "metascore": 58,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d8f593c6-c34a-4517-a7d4-53e17d762228.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/7/6/11076_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/7/7/11077_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/7/7/11077_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

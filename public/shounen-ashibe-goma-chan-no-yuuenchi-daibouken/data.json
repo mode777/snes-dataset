@@ -1,0 +1,41 @@
+{
+ "title": "Shounen Ashibe - Goma-chan no Yuuenchi Daibouken",
+ "aliases": [
+  "Shounen Ashibe: Goma-chan no Yuuenchi Daibouken"
+ ],
+ "year": 1992,
+ "release_dates": {},
+ "developer": [
+  "Nova"
+ ],
+ "publisher": [
+  "TAKARA"
+ ],
+ "genre": [],
+ "tags": [
+  "animalprotagonist",
+  "anime",
+  "horizontal",
+  "jumper",
+  "manga",
+  "platform",
+  "sideways"
+ ],
+ "description": "A Super Famicom platformer in which the playable character is a lovable seal creature. The game is based on a 90s slice of life manga and anime about the adventures of a boy (Ashibe) and a seal (Goma-chan).",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

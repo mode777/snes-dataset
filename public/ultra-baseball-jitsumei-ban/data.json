@@ -1,0 +1,45 @@
+{
+ "title": "Ultra Baseball Jitsumei Ban",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Aug 28, 1992"
+ },
+ "developer": [
+  "Culture Brain"
+ ],
+ "publisher": [
+  "Micro Academy"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "baseball",
+  "behind",
+  "sports"
+ ],
+ "description": "A baseball sim from Culture Brain and the Japan-only sequel to Super Baseball Simulator 1.000. It is licensed by the NPB and, like its predecessor, allows the athletes to occasionally perform superhuman feats.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/9/9/306799_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/9/9/306799_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

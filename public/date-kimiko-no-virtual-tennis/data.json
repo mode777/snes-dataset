@@ -1,0 +1,45 @@
+{
+ "title": "Date Kimiko no Virtual Tennis",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "May 13, 1994"
+ },
+ "developer": [
+  "Jorudan"
+ ],
+ "publisher": [
+  "B-AI",
+  "Yanoman"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Tennis"
+ ],
+ "tags": [
+  "behind",
+  "sports",
+  "tennis"
+ ],
+ "description": "A tennis game released in 1994 for the Super Famicom featuring female Japanese tennis star Kimiko Date.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/4/9/312449_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

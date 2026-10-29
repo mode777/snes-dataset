@@ -1,0 +1,32 @@
+{
+ "title": "Super James Pond II",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "europe": "July 1993",
+  "japan": "July 1993"
+ },
+ "developer": [
+  "Vectordean"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Dr. Maybe's dangerously fishy plans for world domination continue. In a slimy effort to sabotage the worlds largest toy factory, he has planted penguin-bombs in toy factories inside the North Pole! James Pond bubbles to the rescue in another massive oceanic adventure!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/8/7/51287_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/7/51287_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "title": "The Peace Keepers",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-03",
+  "usa": "March 1994"
+ },
+ "developer": [
+  "Jaleco",
+  "Jaleco Entertainment"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "action",
+  "beatemup",
+  "brawler",
+  "fighter",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "The third brawler in the Rushing Beat series by Jaleco.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.35,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/c27a1a15-d375-409e-96da-98b8393f2897.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/0/3/51003_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

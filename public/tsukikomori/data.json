@@ -1,0 +1,44 @@
+{
+ "title": "Tsukikomori",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Mar1, 1996"
+ },
+ "developer": [
+  "Pandora Box"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Adventure",
+  "General"
+ ],
+ "tags": [
+  "adventure",
+  "horror",
+  "visualnovel"
+ ],
+ "description": "A sound novel developed by Pandora Box and published by Banpresto.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/9/7/307197_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/9/7/307197_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

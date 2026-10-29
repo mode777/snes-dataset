@@ -1,0 +1,44 @@
+{
+ "title": "Hammer Lock Wrestling",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "October 1994"
+ },
+ "developer": [
+  "Jaleco",
+  "Jaleco Entertainment"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "Wrestling"
+ ],
+ "tags": [
+  "sideways",
+  "sports",
+  "wrestling"
+ ],
+ "description": "A professional wrestling game for the SNES. Known as \"Tenryu Genichiro no Pro Wrestling Revolution\" in Japan and carries the license of the Japanese \"Wrestle and Romance\" promotion",
+ "description_source": "snes_csv",
+ "players": "1 - 8 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/6/4/50764_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

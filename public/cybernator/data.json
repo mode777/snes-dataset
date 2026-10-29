@@ -1,0 +1,54 @@
+{
+ "title": "Cybernator",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-04",
+  "europe": "April 1993",
+  "usa": "April 1993"
+ },
+ "developer": [
+  "NCS Corporation",
+  "NCS"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "futuristic",
+  "horizontal",
+  "mech",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Side-scrolling mech action in space and on Earth. The game is known as Assault Suits Valken in Japan and is the second game in Masaya's Assault Suits series of mech run-and-gun shooters.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.93,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/ad4b1149-9beb-4249-aa89-db369e3cb60d.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/0/50590_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/0/50590_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/7/50587_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/7/50587_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

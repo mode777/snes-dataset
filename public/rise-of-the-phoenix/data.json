@@ -1,0 +1,46 @@
+{
+ "title": "Rise of the Phoenix",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "usa": "February 1995"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Historic"
+ ],
+ "tags": [
+  "historical",
+  "strategy",
+  "tactic",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "Historical strategy game developed by Koei in 1994. It is set in Ancient China during the Chu-Han Contention, which occurred 400 years before the war depicted in Koei's Romance of the Three Kingdoms series.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/6/3/51063_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/3/51063_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

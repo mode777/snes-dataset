@@ -1,0 +1,46 @@
+{
+ "title": "Battle Tycoon: Flash Hiders SFX",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "May 19, 1995"
+ },
+ "developer": [
+  "Right Stuff"
+ ],
+ "publisher": [
+  "Right Stuff"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "beatemup",
+  "fighter",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "An anime fighter game and sequel to the PC Engine CD game \"Flash Hiders\".",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/2/2/50522_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/2/50522_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

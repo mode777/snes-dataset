@@ -1,0 +1,56 @@
+{
+ "title": "Justice League Task Force",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "June 1995",
+  "north_america": "June 1995",
+  "pal": "July 1995",
+  "first_release": "1995-06",
+  "usa": "June 1995",
+  "europe": "June 1995"
+ },
+ "developer": [
+  "Blizzard Entertainment"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment / Sunsoft"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "comic",
+  "fighting",
+  "sideways",
+  "superheroes"
+ ],
+ "description": "Choose from six classic superheroes from the DC Universe and send them into battle against each other in this traditional 2D fighting game developed by Blizzard.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.74,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/8c2aa2d6-4ed2-4182-b1ca-863e43a4c917.png",
+  "https://gamefaqs.gamespot.com/a/box/6/4/9/47649_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/4/9/47649_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/4/8/47648_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/0/47650_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

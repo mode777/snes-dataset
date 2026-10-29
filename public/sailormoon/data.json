@@ -1,0 +1,27 @@
+{
+ "title": "Sailormoon",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "france": "1994"
+ },
+ "developer": [
+  "Bandai"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [],
+ "description": "Bishoujo Senshi Sailor Moon is an Action game, published by Angel (Bandai),which was released in Japan in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "openvgdb"
+ ]
+}

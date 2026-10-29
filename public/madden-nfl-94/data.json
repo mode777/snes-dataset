@@ -1,0 +1,52 @@
+{
+ "title": "Madden NFL '94",
+ "aliases": [
+  "Madden NFL 94"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-10",
+  "usa": "October 1993",
+  "europe": "October 1993"
+ },
+ "developer": [
+  "Visual Concepts",
+  "Visual Concepts Entertainment"
+ ],
+ "publisher": [
+  "Electronic Arts"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [
+  "americanfootball",
+  "angle",
+  "sports"
+ ],
+ "description": "Madden NFL '94 is the sixth game of the Madden NFL Franchise chronologically and introduced play-call mode, pass-catch mode, the bluff play, and the ability to flip the selected play.",
+ "description_source": "snes_csv",
+ "players": "1 - 5 (5 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.18,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/bbf065a3-90ff-482a-82ca-df3d8e0074b8.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/3/6/10936_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/3/6/10936_back.jpg"
+ ],
+ "sources": [
+  "opengamedb",
+  "openvgdb",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

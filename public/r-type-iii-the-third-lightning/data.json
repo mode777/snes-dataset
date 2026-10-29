@@ -1,0 +1,38 @@
+{
+ "title": "R-Type III: The Third Lightning",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "October 1994",
+  "north_america": "October 1994",
+  "pal": "1994",
+  "europe": "October 1994"
+ },
+ "developer": [
+  "Tamtex",
+  "Irem"
+ ],
+ "publisher": [
+  "Irem (JP/EU)Jaleco (NA)"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [],
+ "description": "It was believed on Earth that the deadly BYDO Empire had been destroyed--but now they've returned, as nasty as ever. Their ships and armies are more powerful than before, and Earth will surely be conquered unless the new R-90 ship can destroy them. Powered with engines that launch it into different dimensions, and armed with the Round, Shadow, and Cyclone Forces, R-90 has what it takes to wipe out the BYDO threat. Then, the BYDO mother ship must be found and destroyed to entirely erase the species from our galaxy.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/0/2/51102_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/0/2/51102_back.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "openvgdb"
+ ]
+}

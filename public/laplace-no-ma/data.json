@@ -1,0 +1,46 @@
+{
+ "title": "Laplace no Ma",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jul 14, 1995"
+ },
+ "developer": [
+  "Humming Bird Soft",
+  "Hummingbird Soft"
+ ],
+ "publisher": [
+  "Vic Tokai"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "adventure",
+  "horror",
+  "rpg",
+  "turnbased"
+ ],
+ "description": "A Japanese role-playing game originally released in 1987 where the player character must investigate the death of two boys who were found near the entrance of a mansion.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/7/2/304872_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/7/2/304872_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

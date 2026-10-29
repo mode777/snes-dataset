@@ -1,0 +1,52 @@
+{
+ "title": "Radical Rex",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "October 1994",
+  "pal": "September 1994",
+  "usa": "October 1994",
+  "europe": "October 1994"
+ },
+ "developer": [
+  "Beam Software",
+  "Laser Beam Entertainment"
+ ],
+ "publisher": [
+  "Activision"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "animalprotagonist",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways",
+  "skateboard"
+ ],
+ "description": "A platformer game featuring an attitude-ridden dinosaur. He must save his friends after they are turned violent by a human shaman.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/7/0/47970_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/7/0/47970_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

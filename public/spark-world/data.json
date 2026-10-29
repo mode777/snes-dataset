@@ -1,0 +1,47 @@
+{
+ "title": "Spark World",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "May 26, 1995"
+ },
+ "developer": [
+  "DenZ",
+  "Den'Z"
+ ],
+ "publisher": [
+  "DenZ",
+  "Den'Z"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "bomberman",
+  "reaction",
+  "singlescreen",
+  "topdown"
+ ],
+ "description": "Two intelligent cop cars, Beat and Barts come together to sort things out when they find out a dodgy casino operator is actually a drug dealer. The pair travel around the globe and blow up enemies by detonating fuel barrels.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/8/7/307087_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/7/307087_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

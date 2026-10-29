@@ -1,0 +1,46 @@
+{
+ "title": "Monstania",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Sep 27, 1996"
+ },
+ "developer": [
+  "Amccus / Bits Laboratory",
+  "Bits Laboratory"
+ ],
+ "publisher": [
+  "Pack-In-Video"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "isometric",
+  "rpg",
+  "strategy",
+  "turnbased"
+ ],
+ "description": "An isometric strategy RPG for the Super Famicom. A pair of young adventurers come across a fairy and uncover an evil plot to steal a valuable magical stone.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/5/4/42554_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/4/42554_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

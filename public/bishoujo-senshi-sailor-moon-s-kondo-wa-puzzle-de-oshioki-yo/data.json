@@ -1,0 +1,48 @@
+{
+ "title": "Bishoujo Senshi Sailor Moon S: Kondo wa Puzzle de Oshioki yo!",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jul 15, 1994"
+ },
+ "developer": [
+  "Tom Create"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "manga",
+  "puzzle",
+  "singlescreen",
+  "strategy",
+  "tactic",
+  "tileremoval"
+ ],
+ "description": "Super Famicom puzzle game featuring characters from the Sailor Moon S continuity. Clear the board of colored blocks by grouping them together by color and clicking to remove them.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/3/42233_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/3/42233_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

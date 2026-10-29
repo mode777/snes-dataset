@@ -1,0 +1,52 @@
+{
+ "title": "Indiana Jones' Greatest Adventures",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "October 1994",
+  "north_america": "October 11, 1994",
+  "pal": "July 27, 1995",
+  "first_release": "1994-10",
+  "usa": "October 1994",
+  "europe": "October 1994"
+ },
+ "developer": [
+  "Factor 5"
+ ],
+ "publisher": [
+  "JVC",
+  "JVC Musical Industries / LucasArts"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "A Super Nintendo game that recreates the classic Indiana Jones film trilogy. Players follow Indiana's steps from Raiders of the Lost Ark up until The Last Crusade in this platformer using Indy's famous whip as well as various guns and grenades.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.79,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d85a11cc-ef5c-45aa-a39f-14abcd276217.png",
+  "https://gamefaqs.gamespot.com/a/box/7/9/3/50793_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/9/4/50794_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/9/4/50794_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

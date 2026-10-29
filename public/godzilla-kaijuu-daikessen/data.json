@@ -1,0 +1,31 @@
+{
+ "title": "Godzilla: Kaijuu Daikessen",
+ "aliases": [],
+ "year": null,
+ "release_dates": {
+  "japan": "Canceled"
+ },
+ "developer": [
+  "Alfa System"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Godzilla: Kaijuu Daikessen is an Action game, developed by Alfa System and published by Toho,which was released in Japan in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/5/3/43353_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/5/3/43353_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

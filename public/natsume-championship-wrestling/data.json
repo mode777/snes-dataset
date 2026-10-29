@@ -1,0 +1,45 @@
+{
+ "title": "Natsume Championship Wrestling",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "June 1994",
+  "usa": "June 1994"
+ },
+ "developer": [
+  "Natsume"
+ ],
+ "publisher": [
+  "Natsume"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "Wrestling"
+ ],
+ "tags": [
+  "sideways",
+  "sports",
+  "wrestling"
+ ],
+ "description": "A wrestling game released on the SNES in 1994. It was adapted from Natsume's earlier All-Japan Pro Wrestling game \"Zen-Nippon Pro Wrestling Dash: Sekai Saikyou Tag\" and reworked to be more American.",
+ "description_source": "snes_csv",
+ "players": "1 - 6 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/5/2/50952_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

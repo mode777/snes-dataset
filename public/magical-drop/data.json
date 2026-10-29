@@ -1,0 +1,44 @@
+{
+ "title": "Magical Drop",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Oct 20, 1995"
+ },
+ "developer": [
+  "Data East"
+ ],
+ "publisher": [
+  "Data East"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "Matching"
+ ],
+ "tags": [
+  "arcade",
+  "puzzle"
+ ],
+ "description": "Featuring cute characters that are based on tarot cards and fast-paced action, Chain Reaction (better known as Magical Drop) is an arcade puzzle game by Data East.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/9/37239_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/9/37239_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

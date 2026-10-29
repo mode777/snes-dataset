@@ -1,0 +1,31 @@
+{
+ "title": "Sword Maniac",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "February 1994"
+ },
+ "developer": [
+  "Fupac"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "X-Kaliber 2097 is an Action game, developed by Fupac and published by Toshiba EMI,which was released in Japan in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/1/4/51514_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/4/51514_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

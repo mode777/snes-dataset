@@ -1,0 +1,51 @@
+{
+ "title": "Super Pang",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "europe": "October 1992",
+  "japan": "October 1992"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "arcade",
+  "cooperative",
+  "cute",
+  "reaction",
+  "shooter",
+  "sideways",
+  "single",
+  "timelimit"
+ ],
+ "description": "Super Buster Bros. is a shooter for SNES. The player shoots upwards to pop bubbles that bounce around the screen.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/8/1/44581_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/0/44580_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/0/44580_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

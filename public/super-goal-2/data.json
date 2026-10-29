@@ -1,0 +1,46 @@
+{
+ "title": "Super Goal! 2",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "April 1994"
+ },
+ "developer": [
+  "Tose"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "The second Super Goal! soccer game for the SNES. The Japanese version is licensed by professional player Nobuhiro Takeda.",
+ "description_source": "snes_csv",
+ "players": "1994",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/8/0/51280_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

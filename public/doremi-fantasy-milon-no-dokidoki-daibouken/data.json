@@ -1,0 +1,45 @@
+{
+ "title": "DoReMi Fantasy - Milon no Dokidoki Daibouken",
+ "aliases": [
+  "DoReMi Fantasy: Milon no Dokidoki Daibouken"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "japan": "March 22, 1996",
+  "first_release": "2008-03-10"
+ },
+ "developer": [
+  "Hudson Soft"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Action"
+ ],
+ "tags": [
+  "action",
+  "platform",
+  "sideways"
+ ],
+ "description": "Take control of Milon, a young boy determined to restore music to the forest and rescue the fairy Alis from the evil wizard Amon.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 3.76,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/0fa9fb3f-af69-40ef-884a-3cc086be764a.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

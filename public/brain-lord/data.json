@@ -1,0 +1,53 @@
+{
+ "title": "Brain Lord",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "August 1994",
+  "north_america": "October 1, 1994",
+  "first_release": "1994-08",
+  "usa": "August 1994"
+ },
+ "developer": [
+  "Produce Co., Ltd.",
+  "Produce"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "A fantasy RPG by Enix for the SNES with an emphasis on Legend of Zelda-style dungeon puzzles.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.56,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/af5811b8-0797-4d3d-80b7-a32dc9e546be.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/7/22557_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/7/22557_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/6/22556_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/6/22556_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

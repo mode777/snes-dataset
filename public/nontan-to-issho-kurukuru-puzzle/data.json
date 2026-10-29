@@ -1,0 +1,43 @@
+{
+ "title": "Nontan to Issho - Kurukuru Puzzle",
+ "aliases": [
+  "Nontan to Issho: Kurukuru Puzzle"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "November 25, 1994"
+ },
+ "developer": [
+  "Game Freak / Tao Human Systems",
+  "Game Freak"
+ ],
+ "publisher": [
+  "Victor",
+  "Victor Interactive Software"
+ ],
+ "genre": [],
+ "tags": [
+  "fallingblocks",
+  "puzzle",
+  "reaction",
+  "singlescreen"
+ ],
+ "description": "A puzzle game developed Game Freak for the Super Famicom. It features characters from the Japanese children's book series Nontan.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

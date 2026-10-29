@@ -1,0 +1,48 @@
+{
+ "title": "Dynamaite: The Las Vegas",
+ "aliases": [
+  "Dynamaite the Las Vegas",
+  "Dynamite: The Las Vegas"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "April 28, 1994"
+ },
+ "developer": [
+  "Micro Factory"
+ ],
+ "publisher": [
+  "Virgin Interactive"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "cards",
+  "casino",
+  "gambling",
+  "slotmachine"
+ ],
+ "description": "A 1994 casino gambling game for the Super Famicom. The stylish Mr. Dynamite must defeat the Las Vegas Dragon by making a lot of money at the craps tables.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/2/5/306925_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

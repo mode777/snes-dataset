@@ -1,0 +1,45 @@
+{
+ "title": "BreakThru!",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "June 1, 1994",
+  "usa": "June 1994"
+ },
+ "developer": [
+  "ZOO Corporation",
+  "Artech Digital Entertainment"
+ ],
+ "publisher": [
+  "Spectrum Holobyte"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "puzzle",
+  "singlescreen"
+ ],
+ "description": "Matching-tile puzzle game released in 1994 for the Windows, SNES, and Game Boy. In 1995 it was released exclusively in Japan for the Sega Saturn and PlayStation.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/4/8/50548_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

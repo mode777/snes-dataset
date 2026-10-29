@@ -1,0 +1,45 @@
+{
+ "title": "Tenchi o Kurau - Sangokushi Gunyuuden",
+ "aliases": [
+  "Tenchi o Kurau: Sangokushi Gunyuuden"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Aug 11, 1995"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "strategy",
+  "tactic",
+  "turnbased"
+ ],
+ "description": "A turn-based strategy sim based on the Tenchi o Kurau manga which covers events from the Three Kingdoms era of Ancient China.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/2/0/307120_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

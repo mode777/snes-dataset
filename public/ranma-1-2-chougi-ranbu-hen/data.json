@@ -1,0 +1,45 @@
+{
+ "title": "Ranma ½ - Chougi Ranbu Hen",
+ "aliases": [
+  "Ranma 1-2: Chougi Ranbu Hen"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Apr 28, 1994"
+ },
+ "developer": [
+  "Rumic Soft",
+  "Atelier Double"
+ ],
+ "publisher": [
+  "Rumic Soft"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "anime",
+  "fighting",
+  "horizontal",
+  "manga",
+  "sideways"
+ ],
+ "description": "A 2D fighting game based on the Ranma 1/2 anime/manga franchise. It is the fourth Super Famicom game to be based on Ranma 1/2, and the third to be a fighter.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/4/8/51048_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/4/8/51048_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ]
+}

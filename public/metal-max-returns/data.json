@@ -1,0 +1,48 @@
+{
+ "title": "Metal Max Returns",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep 29, 1995",
+  "first_release": "1995-09-29"
+ },
+ "developer": [
+  "Crea-Tech",
+  "Crea-Tech / Data East"
+ ],
+ "publisher": [
+  "Data East"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "rpg",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A remake of the original Metal Max for Famicom. The remake features new graphics, sound, and a decreased difficultly level.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.02,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/r2_d9838393-8023-4634-90a9-f20cd6923cfa.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/5/6/43356_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/5/6/43356_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

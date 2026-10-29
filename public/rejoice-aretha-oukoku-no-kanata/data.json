@@ -1,0 +1,51 @@
+{
+ "title": "Rejoice - Aretha Oukoku no Kanata",
+ "aliases": [
+  "Rejoice: Aretha Oukoku no Kanata",
+  "Rejoice: Aretha Ōkoku no Kanata"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "April 21, 1995"
+ },
+ "developer": [
+  "Japan Art Media",
+  "Japan Art Media (JAM)"
+ ],
+ "publisher": [
+  "Yanoman Corporation",
+  "Yanoman"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "adventure",
+  "fantasy",
+  "rpg",
+  "topdown"
+ ],
+ "description": "An action role-playing game from Japan Art Media and a spin-off of the Aretha series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/4/9/31849_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/9/31849_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "title": "Run Saber",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "June 8, 1993",
+  "pal": "1993",
+  "first_release": "1993-08-06",
+  "europe": "Jun8, 1993",
+  "usa": "Jun8, 1993"
+ },
+ "developer": [
+  "Hori Electric",
+  "Horisoft"
+ ],
+ "publisher": [
+  "Atlus"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "Run Sabre is a side-scrolling action game, much in the same vein of Strider. The player can assume the role of Allen or Sheena and fight through five stages through a futuristic Earth that has been conquered by genetic mutants and the evil scientist that created them.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.5,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/e8995cbf-5d8e-4915-985c-60ddcf2c5e6d.png",
+  "https://gamefaqs.gamespot.com/a/box/1/1/0/51110_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/1/0/51110_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/0/9/51109_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/0/9/51109_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

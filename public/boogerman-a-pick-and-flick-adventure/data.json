@@ -1,0 +1,56 @@
+{
+ "title": "Boogerman: A Pick and Flick Adventure",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "September 15, 1995",
+  "pal": "January 25, 1996",
+  "first_release": "1995-12",
+  "usa": "December 1995",
+  "europe": "December 1995"
+ },
+ "developer": [
+  "Interplay Entertainment Corp.",
+  "Interplay Entertainment",
+  "Interplay"
+ ],
+ "publisher": [
+  "Interplay Entertainment Corp.",
+  "Interplay Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A booger-flicking super hero must use his booger-flicking capabilities and farting powers in order to defeat evil mucus creatures.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.98,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/f05bbba1-a698-4bc2-b094-76400aa5e340.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/1/50541_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/2/50542_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/2/50542_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

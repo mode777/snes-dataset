@@ -1,0 +1,36 @@
+{
+ "title": "Dream Maze: Kigurumi Daibouken",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {},
+ "developer": [
+  "Axes Art Amuse"
+ ],
+ "publisher": [
+  "Hect"
+ ],
+ "genre": [],
+ "tags": [
+  "dungeoncrawler",
+  "firstperson",
+  "rpg",
+  "turnebased"
+ ],
+ "description": "A first-person dungeon crawling RPG with a cutesy theme.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "title": "FIFA: Road to World Cup 98",
+ "aliases": [
+  "FIFA 98: Road to World Cup"
+ ],
+ "year": 1997,
+ "release_dates": {
+  "pal": "September 3, 1997",
+  "first_release": "1998-",
+  "europe": "1998"
+ },
+ "developer": [
+  "Electronic Arts",
+  "EA Sports",
+  "Extended Play Productions, XYZ Productions"
+ ],
+ "publisher": [
+  "EA Sports",
+  "Electronic Arts"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "football",
+  "isometric",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "FIFA 98: Road to World Cup is a multiplatform instalment of the popular soccer video game series, allowing players to relive moments from the 1998 FIFA World Cup.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, Spanish, French, Italian, Swedish"
+ ],
+ "gf_score": 4.05,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/807abe47-4c77-4963-ad9d-ac989d760957.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/6/3526_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/2/6/3526_back.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "opengamedb",
+  "openvgdb",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

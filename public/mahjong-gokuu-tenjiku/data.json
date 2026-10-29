@@ -1,0 +1,43 @@
+{
+ "title": "Mahjong Gokuu Tenjiku",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Aug 19, 1994"
+ },
+ "developer": [
+  "Chat Noir"
+ ],
+ "publisher": [
+  "Chat Noir"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "Mahjong game developed by Chat Noir in 1994. It is themed around the Chinese novel Journey to the West and was released on multiple systems.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/6/0/295960_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/0/295960_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "title": "No Escape",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Bits Corporation",
+  "Bits Studios"
+ ],
+ "publisher": [
+  "Sony Imagesoft"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "platform",
+  "puzzlesovling",
+  "sideways"
+ ],
+ "description": "A side-scrolling action game based on the 1994 sci-fi dystopian movie.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/9/8/9598_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/9/8/9598_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

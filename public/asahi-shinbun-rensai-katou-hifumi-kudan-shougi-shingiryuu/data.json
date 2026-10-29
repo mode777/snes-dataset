@@ -1,0 +1,43 @@
+{
+ "title": "Asahi Shinbun Rensai - Katou Hifumi Kudan Shougi - Shingiryuu",
+ "aliases": [
+  "Asahi Shinbun Rensai: Katou Hifumi Kudan Shougi: Shingiryuu"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep 22, 1995"
+ },
+ "developer": [
+  "Varie"
+ ],
+ "publisher": [
+  "Varie"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "shogi"
+ ],
+ "description": "An educational shogi game for the Super Famicom endorsed by one of Japan's major national newspapers and a professional 9th Dan player.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/2/4/312524_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

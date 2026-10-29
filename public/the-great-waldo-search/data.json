@@ -1,0 +1,45 @@
+{
+ "title": "The Great Waldo Search",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "June 1, 1993",
+  "usa": "June 1993"
+ },
+ "developer": [
+  "Radiance Software",
+  "Radiance"
+ ],
+ "publisher": [
+  "THQ"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [
+  "hiddenobjects",
+  "puzzlesolving",
+  "strategy"
+ ],
+ "description": "Sega Genesis, Super Nintendo, and NES Waldo game based off the third book of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/7/6/21976_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "title": "Saikousoku Shikou Shougi Mahjong",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 31, 1995"
+ },
+ "developer": [
+  "?",
+  "Varie"
+ ],
+ "publisher": [
+  "Varie"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong",
+  "shogi"
+ ],
+ "description": "A dual shogi and mahjong game for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/6/9/307069_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

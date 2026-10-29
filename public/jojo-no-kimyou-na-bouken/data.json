@@ -1,0 +1,47 @@
+{
+ "title": "JoJo no Kimyou na Bouken",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Mar5, 1993"
+ },
+ "developer": [
+  "Cobra Team / Winky Soft",
+  "Winkysoft"
+ ],
+ "publisher": [
+  "Cobra Team"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "manga",
+  "rpg",
+  "sideways",
+  "turnbased"
+ ],
+ "description": "A video game adaptation of the JoJo's Bizarre Adventure manga and anime developed for the Super Famicom. The game is a combination of a point and click adventure game and a turn-based RPG.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/6/5/303465_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/6/5/303465_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

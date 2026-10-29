@@ -1,0 +1,44 @@
+{
+ "title": "Yu Yu Hakusho 2 - Kakutou no Shou",
+ "aliases": [
+  "Yu Yu Hakusho 2: Kakutou no Shou",
+  "Yuu Yuu Hakusho 2: Kakutou no Shou"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "June 10, 1994"
+ },
+ "developer": [
+  "Tose",
+  "Namco"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [],
+ "tags": [
+  "anime",
+  "fighting",
+  "horizontal",
+  "manga",
+  "sideways"
+ ],
+ "description": "The second YuYu Hakusho game for Super Famicom and, unlike the first, is a standard four-button one-on-one fighter. It takes place during the Dark Tournament arc of the anime.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

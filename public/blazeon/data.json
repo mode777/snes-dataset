@@ -1,0 +1,46 @@
+{
+ "title": "BlaZeon",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "October 1992"
+ },
+ "developer": [
+  "A.I",
+  "AI"
+ ],
+ "publisher": [
+  "Atlus"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "horizontal",
+  "shootemup",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Take possession of your enemy's body in this early Atlus scrolling shooter with an enemy-capture mechanic.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/3/6/50536_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/3/6/50536_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

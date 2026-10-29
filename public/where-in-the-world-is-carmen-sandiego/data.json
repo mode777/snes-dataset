@@ -1,0 +1,54 @@
+{
+ "title": "Where in the World Is Carmen Sandiego",
+ "aliases": [
+  "Where in the World Is Carmen Sandiego?"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "June 1993",
+  "pal": "October 1993",
+  "europe": "June 1993",
+  "usa": "June 1993"
+ },
+ "developer": [
+  "Brøderbund",
+  "EA Canada"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "Hi Tech Expressions"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "adventure",
+  "clicker",
+  "detective"
+ ],
+ "description": "Educational game in which you need to follow clues in order to find Carmen Sandiego. You will visit a lot of different locations all over the world.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, French, Italian"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/7/5/33575_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/5/33575_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/4/33574_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/4/33574_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

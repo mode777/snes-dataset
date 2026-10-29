@@ -1,0 +1,42 @@
+{
+ "title": "Kikuni Masahiko no Jantoushi Doraou",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Feb 19, 1993"
+ },
+ "developer": [
+  "C-Lab"
+ ],
+ "publisher": [
+  "POW"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A low-budget mahjong game released for the Super Famicom in 1993, it parodies the classic anime and manga series \"Saint Seiya\". It follows typical Japanese mahjong rules, although many characters can perform special moves. The game supports the Super Famicom Mouse peripheral.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/3/2/306832_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/3/2/306832_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "title": "World Class Rugby 2 - Kokunai Gekitou Hen '93",
+ "aliases": [
+  "World Class Rugby 2: Kokunai Gekitou Hen '93"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jan7, 1994"
+ },
+ "developer": [
+  "Denton Designs"
+ ],
+ "publisher": [
+  "Misawa Entertainment",
+  "Misawa"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Rugby"
+ ],
+ "tags": [
+  "behind",
+  "rugby",
+  "sports",
+  "vertical"
+ ],
+ "description": "A Super Famicom exclusive rugby game and the sequel to World Class Rugby.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/9/3/306893_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

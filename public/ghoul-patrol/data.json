@@ -1,0 +1,57 @@
+{
+ "title": "Ghoul Patrol",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "November 1994",
+  "north_america": "November 1, 1994",
+  "pal": "1994",
+  "first_release": "1994-11",
+  "usa": "November 1994",
+  "europe": "November 1994"
+ },
+ "developer": [
+  "LucasArts / Motion Pixel",
+  "LucasArts"
+ ],
+ "publisher": [
+  "JVC",
+  "JVC Musical Industries"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "horror",
+  "multidirectionnal",
+  "shooter",
+  "topdown"
+ ],
+ "description": "The 1994 sequel to LucasArts' Zombies Ate My Neighbors. Join Zeke and Julie once again as another horrible evil is unleashed upon their town.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.28,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/48f34e52-c4d2-40e8-84e7-444167c52532.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/2/2/45022_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/2/1/45021_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/2/3/45023_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/2/3/45023_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

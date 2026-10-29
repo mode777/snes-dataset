@@ -1,0 +1,60 @@
+{
+ "title": "Jurassic Park Part 2: The Chaos Continues",
+ "aliases": [
+  "Jurassic Park 2: The Chaos Continues"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-11",
+  "usa": "November 1994",
+  "europe": "November 1994",
+  "north_america": "January 1995",
+  "pal": "1995"
+ },
+ "developer": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "publisher": [
+  "Ocean",
+  "Ocean Software"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "dinosaurs",
+  "movie",
+  "platform",
+  "shooter",
+  "sideways"
+ ],
+ "description": "The Chaos Continues is the SNES and Game Boy sequel to the original Jurassic Park.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, French, Italian"
+ ],
+ "gf_score": 3.6,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/9195ff46-aeb2-4c82-97e1-c87ff525823d.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/5/8/46358_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/5/8/46358_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/5/9/46359_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/5/9/46359_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

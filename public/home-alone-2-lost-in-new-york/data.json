@@ -1,0 +1,53 @@
+{
+ "title": "Home Alone 2: Lost in New York",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "north_america": "October 1, 1992",
+  "pal": "January 1, 1993",
+  "first_release": "1992-10",
+  "europe": "October 1992",
+  "usa": "October 1992"
+ },
+ "developer": [
+  "Imagineering",
+  "Imagineering Inc"
+ ],
+ "publisher": [
+  "THQ"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "A video game adaptation loosely based on the 1992 movie Home Alone 2: Lost in New York. Kevin is accidentally flown to New York on his own and must avoid local perils as well as the persistent \"Sticky Bandits\" Harry and Marv.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.51,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/66c6bb45-75f7-4f46-ba46-f0068716e45f.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/9/46309_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/0/9/46309_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

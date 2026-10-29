@@ -1,0 +1,46 @@
+{
+ "title": "Cyber Knight",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Oct 30, 1992"
+ },
+ "developer": [
+  "Advance Communication Company"
+ ],
+ "publisher": [
+  "Tonkinhouse",
+  "Tonkin House"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "rpg",
+  "strategy",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A sci-fi RPG with strategy elements that was released on the PC Engine and Super Famicom. The game was not officially translated into English, though a fan translation exists.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/5/7/28457_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/5/7/28457_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Relief Pitcher",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "May 1994",
+  "usa": "May 1994"
+ },
+ "developer": [
+  "Atari",
+  "Eastridge Technology",
+  "Tengen"
+ ],
+ "publisher": [
+  "Left Field Productions",
+  "Left Field Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Arcade"
+ ],
+ "tags": [
+  "angle",
+  "baseball",
+  "behind",
+  "sports"
+ ],
+ "description": "A baseball game for the SNES and Arcade. It features precise controls for pitching.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/5/8/51058_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

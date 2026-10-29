@@ -1,0 +1,44 @@
+{
+ "title": "Cacoma Knight in Bizyland",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "June 1993"
+ },
+ "developer": [
+  "Affect"
+ ],
+ "publisher": [
+  "SETA"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "capture",
+  "navigation",
+  "qix",
+  "reaction"
+ ],
+ "description": "Cacoma Knight is a hybrid of action and puzzle elements. At the beginning you must choose between either Jack, Jean or RB93 as your character as you compete to purify the most land",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/8/1/22581_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/1/22581_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

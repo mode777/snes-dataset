@@ -1,0 +1,50 @@
+{
+ "title": "Syvalion",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Canceled",
+  "europe": "Canceled"
+ },
+ "developer": [
+  "Taito",
+  "Taito Corporation"
+ ],
+ "publisher": [
+  "Toshiba-EMI"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "shootemup",
+  "shooter",
+  "sideways"
+ ],
+ "description": "An arcade shoot 'em up from Taito featuring a golden dragon with a multi-segmented body. Released for the Arcade, Sharp X68000, and SNES.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/6/3/31663_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/6/3/31663_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/6/4/31664_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/6/4/31664_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

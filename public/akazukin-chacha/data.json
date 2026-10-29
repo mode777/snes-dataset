@@ -1,0 +1,47 @@
+{
+ "title": "Akazukin Chacha",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Aug9, 1996"
+ },
+ "developer": [
+  "TOMY",
+  "Landwarf"
+ ],
+ "publisher": [
+  "Landwarf"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A Super Famicom RPG based on the anime of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/7/307237_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/7/307237_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

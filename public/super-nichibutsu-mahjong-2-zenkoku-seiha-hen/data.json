@@ -1,0 +1,47 @@
+{
+ "title": "Super Nichibutsu Mahjong 2 - Zenkoku Seiha Hen",
+ "aliases": [
+  "Super Nichibutsu Mahjong 2: Zenkoku Seiha Hen"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Oct 29, 1993"
+ },
+ "developer": [
+  "Nihon Bussan",
+  "Nichibutsu"
+ ],
+ "publisher": [
+  "Nihon Bussan",
+  "Nichibutsu"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A Japanese mahjong game for the Super Famicom. It is the second entry in the Super Nichibutsu Mahjong series and also features a quiz mode.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/6/9/306869_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/6/9/306869_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

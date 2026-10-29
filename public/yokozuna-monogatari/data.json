@@ -1,0 +1,46 @@
+{
+ "title": "Yokozuna Monogatari",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Aug 26, 1994"
+ },
+ "developer": [
+  "?",
+  "KSS"
+ ],
+ "publisher": [
+  "KSS"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "Wrestling"
+ ],
+ "tags": [
+  "fighting",
+  "sideways",
+  "sumotori"
+ ],
+ "description": "A Super Famicom sumo wrestling management sim published by KSS.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/6/6/306966_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/6/306966_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

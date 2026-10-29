@@ -1,0 +1,47 @@
+{
+ "title": "Lufia II: Rise of the Sinistrals",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "first_release": "1996-08-01",
+  "usa": "August 1996"
+ },
+ "developer": [
+  "Neverland"
+ ],
+ "publisher": [
+  "Natsume"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "Lufia II: Rise of The Sinistrals is a 1995 RPG released late in the life cycle of the SNES. It acts as a prequel, filling in the plot leading up to the flashback at the beginning of Lufia & The Fortress of Doom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Spanish, Japanese, Dutch"
+ ],
+ "gf_score": 4.3,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/e73654b7-ec65-4438-970a-baaa5b07ebdf.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/8/8/50888_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/8/8/50888_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

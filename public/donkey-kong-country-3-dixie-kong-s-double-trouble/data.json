@@ -1,0 +1,49 @@
+{
+ "title": "Donkey Kong Country 3: Dixie Kong's Double Trouble",
+ "aliases": [
+  "Donkey Kong Country 3: Dixie Kong's Double Trouble!"
+ ],
+ "year": 1996,
+ "release_dates": {
+  "first_release": "1996-11-22",
+  "europe": "November 1996",
+  "usa": "November 1996"
+ },
+ "developer": [
+  "Rare",
+  "Rare Ltd."
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "platform",
+  "sideways"
+ ],
+ "description": "In the final chapter of the original Donkey Kong Country trilogy, both Donkey Kong and Diddy Kong are missing. It's up to Dixie Kong (and her younger cousin Kiddy Kong) to find them!",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": 4.13,
+ "metascore": 77,
+ "cover_urls": [
+  "https://images.launchbox-app.com/0c6a13ce-cfeb-4d21-9b80-e2bb53fd4c0a.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/3/5/50635_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/3/5/50635_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/3/4/50634_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/3/4/50634_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

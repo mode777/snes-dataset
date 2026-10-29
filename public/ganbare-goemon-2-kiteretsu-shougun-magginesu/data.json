@@ -1,0 +1,49 @@
+{
+ "title": "Ganbare Goemon 2 - Kiteretsu Shougun Magginesu",
+ "aliases": [
+  "Ganbare Goemon 2: Kiteretsu Shougun Magginesu",
+  "Ganbare Goemon 2: Kiteretsu Shougun McGuiness"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "December 22, 1993"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "plateform",
+  "scrolling",
+  "sideways"
+ ],
+ "description": "The second game in the Ganbare Goemon series for the SNES. Goemon and his companion Ebisumaru take a break after rescuing Princess Yuki only to be warned of the impending doom approaching Japan in the form of General Magginesu who is attempting to westernize everything.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/7/4/37574_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/7/4/37574_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

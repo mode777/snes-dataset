@@ -1,0 +1,39 @@
+{
+ "title": "Battle Commander - Hachibushuu, Shura no Heihou",
+ "aliases": [
+  "Battle Commander: Hachibushuu Shura no Heihou",
+  "Battle Commander: Hachibushuu, Shura no Heihou"
+ ],
+ "year": 1991,
+ "release_dates": {
+  "japan": "December 29, 1991"
+ },
+ "developer": [
+  "Arc System Works"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [],
+ "tags": [
+  "?"
+ ],
+ "description": "Japan-exclusive strategy video game developed by Arc System Works and published by Banpresto in 1991, for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "title": "Lupin III: Densetsu no Hihō o Oe",
+ "aliases": [
+  "Lupin III: Densetsu no Hihō o Oe!"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "December 27, 1994"
+ },
+ "developer": [
+  "Epoch",
+  "Pop House/SAS Sakata"
+ ],
+ "publisher": [
+  "Epoch",
+  "Epoch Co."
+ ],
+ "genre": [],
+ "tags": [
+  "anime",
+  "horizontal",
+  "manga",
+  "platform",
+  "puzzlesolve",
+  "sideways"
+ ],
+ "description": "A side-scrolling action game featuring Monkey Punch's gentleman thief Arsene Lupin III. It was released on the Super Famicom in 1994.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "title": "Lester the Unlikely",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-01",
+  "usa": "January 1994"
+ },
+ "developer": [
+  "Visual Concepts Entertainment",
+  "Visual Concepts"
+ ],
+ "publisher": [
+  "DTMC"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "A side-scrolling action-adventure game that used rotoscoped animation for its geeky main character. Released on the Super Nintendo Entertainment System in 1994.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 2.16,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/5d2b47ca-9928-4989-b621-28d1ae34246b.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/7/3/50873_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/7/3/50873_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

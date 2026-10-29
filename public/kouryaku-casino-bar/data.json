@@ -1,0 +1,45 @@
+{
+ "title": "Kouryaku Casino Bar",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jul 14, 1995"
+ },
+ "developer": [
+  "Nichibutsu"
+ ],
+ "publisher": [
+  "Nichibutsu"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Parlor",
+  "Gambling"
+ ],
+ "tags": [
+  "cards",
+  "casino",
+  "gamble",
+  "slotmachine"
+ ],
+ "description": "Gambling-themed mini-game collection created by Nichibutsu in 1995. Features poker, roulette, craps, blackjack and others.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/0/9/307109_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

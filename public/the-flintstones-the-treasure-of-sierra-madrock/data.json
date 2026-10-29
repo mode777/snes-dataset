@@ -1,0 +1,57 @@
+{
+ "title": "The Flintstones: The Treasure of Sierra Madrock",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "March 1994",
+  "north_america": "March 1, 1994",
+  "pal": "June 23, 1994",
+  "first_release": "1994-03",
+  "usa": "March 1994",
+  "europe": "March 1994"
+ },
+ "developer": [
+  "Taito",
+  "Taito/Sol Corporation",
+  "Sol"
+ ],
+ "publisher": [
+  "Taito"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "boardgame",
+  "cartoon",
+  "platform",
+  "sideways",
+  "topdown"
+ ],
+ "description": "?",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.4,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/de8c35e6-0376-4a3c-90ed-091f2beec160.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/5/47435_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/6/47436_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/3/7/47437_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

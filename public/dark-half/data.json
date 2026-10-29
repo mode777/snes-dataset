@@ -1,0 +1,49 @@
+{
+ "title": "Dark Half",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "first_release": "1996-05-31",
+  "japan": "May 31, 1996"
+ },
+ "developer": [
+  "Westone",
+  "West One"
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "fantasy",
+  "isometric",
+  "rpg",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "A grim RPG for the Super Famicom where the player alternates playing the hero and the villain during the final days of the world.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": 4.03,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/bd7864f5-114e-4796-a549-f115abf42c7f.png",
+  "https://gamefaqs.gamespot.com/a/box/7/6/8/39768_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/6/8/39768_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "title": "Sgt. Saunders' Combat!",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Sep 29, 1995"
+ },
+ "developer": [
+  "Play Avenue",
+  "Play Avenue Chickenhead"
+ ],
+ "publisher": [
+  "ASCII",
+  "ASCII Corporation"
+ ],
+ "genre": [
+  "Strategy",
+  "Wargame",
+  "Turn-Based"
+ ],
+ "tags": [
+  "historical",
+  "isometric",
+  "strategy",
+  "turnbased",
+  "ww2"
+ ],
+ "description": "Isometric WW2 strategy game released in 1995 for the Super Famicom. Based on the American TV series \"Combat!\".",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/4/0/307140_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/4/0/307140_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

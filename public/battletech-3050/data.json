@@ -1,0 +1,31 @@
+{
+ "title": "BattleTech 3050",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "October 1995"
+ },
+ "developer": [
+  "EA Tiburon"
+ ],
+ "publisher": [],
+ "genre": [
+  "Simulation",
+  "Sci-Fi",
+  "Mech"
+ ],
+ "tags": [],
+ "description": "MechWarrior 3050 is a Simulation game, developed by EA Tiburon and published by Activision,which was released in 1995.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/1/1/50911_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/1/50911_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

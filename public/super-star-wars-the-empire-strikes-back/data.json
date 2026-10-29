@@ -1,0 +1,60 @@
+{
+ "title": "Super Star Wars: The Empire Strikes Back",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "December 17, 1993",
+  "north_america": "October 1993",
+  "pal": "February 24, 1994",
+  "first_release": "1993-10-01",
+  "usa": "October 1993",
+  "europe": "October 1993"
+ },
+ "developer": [
+  "LucasArts / Sculptured Software",
+  "Sculptured Software"
+ ],
+ "publisher": [
+  "JVC",
+  "JVC Musical Industries"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "behind",
+  "horizontal",
+  "intoscreen",
+  "movie",
+  "platform",
+  "scifi",
+  "sideways"
+ ],
+ "description": "Following the events of the second Star Wars film (the Empire Strikes Back), this side-scrolling action platformer adds a variety of new abilities (including grenades and Force powers) and a password system (to compensate for its brutal difficulty).",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.56,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/c5218514-4dd6-41d6-93e6-3b508159e43a.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/6/0/20860_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/6/0/20860_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/6/1/20861_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

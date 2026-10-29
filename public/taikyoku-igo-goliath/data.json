@@ -1,0 +1,46 @@
+{
+ "title": "Taikyoku Igo - Goliath",
+ "aliases": [
+  "Taikyoku Igo: Goliath"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "May 14, 1993"
+ },
+ "developer": [
+  "Bullet-Proof Software",
+  "Bullet Proof Software"
+ ],
+ "publisher": [
+  "Bullet-Proof Software"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "go"
+ ],
+ "description": "A traditional Igo (Go) game from Bullet-Proof Software, based on Goliath software. It is the predecessor to Takyoku Igo: Idaten.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/0/3/312503_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/3/312503_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

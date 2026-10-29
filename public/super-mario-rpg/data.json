@@ -1,0 +1,45 @@
+{
+ "title": "Super Mario RPG",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "May 13, 1996"
+ },
+ "developer": [
+  "Square",
+  "SquareSoft"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "fantasy",
+  "isometric",
+  "rpg",
+  "wanderer"
+ ],
+ "description": "Join Mario in his first RPG adventure! Explore new and previously unseen areas of the Mushroom Kingdom on a quest to stop the mechanical Smithy on a path of conquest in this collaboration between Square and Nintendo.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/1/0/51310_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/1/0/51310_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

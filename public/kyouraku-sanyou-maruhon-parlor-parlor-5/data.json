@@ -1,0 +1,37 @@
+{
+ "title": "Kyouraku Sanyou Maruhon Parlor! Parlor! 5",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "March 29, 1996"
+ },
+ "developer": [
+  "Telenet Japan"
+ ],
+ "publisher": [
+  "Telenet Japan",
+  "Nippon Telenet"
+ ],
+ "genre": [],
+ "tags": [
+  "pachinko",
+  "slotmachine"
+ ],
+ "description": "Gambling game developed by Nippon Telenet in 1996.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

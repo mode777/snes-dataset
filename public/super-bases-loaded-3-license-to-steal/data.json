@@ -1,0 +1,45 @@
+{
+ "title": "Super Bases Loaded 3: License to Steal",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "usa": "February 1995"
+ },
+ "developer": [
+  "Tose"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "baseball",
+  "behind",
+  "sports"
+ ],
+ "description": "Jaleco's Bases Loaded series continues on the SNES in Super Bases Loaded 3.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/1/51231_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

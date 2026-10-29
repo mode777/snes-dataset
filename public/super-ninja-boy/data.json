@@ -1,0 +1,48 @@
+{
+ "title": "Super Ninja Boy",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1993-04",
+  "usa": "April 1993"
+ },
+ "developer": [
+  "Culture Brain"
+ ],
+ "publisher": [
+  "Culture Brain"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "action",
+  "fighter",
+  "futuristic",
+  "sideways",
+  "topdown"
+ ],
+ "description": "The first Super Nintendo entry in Culture Brain's martial arts-based beat 'em up series Super Chinese. It was renamed Super Ninja Boy for the US release.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.32,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/9848d8fe-438e-4014-85b2-bebbca650183.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/4/0/51340_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/4/0/51340_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

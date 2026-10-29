@@ -1,0 +1,58 @@
+{
+ "title": "Super R-Type",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "September 1991",
+  "north_america": "September 1, 1991",
+  "pal": "June 4, 1992",
+  "first_release": "1991-09",
+  "usa": "September 1991",
+  "europe": "September 1991"
+ },
+ "developer": [
+  "Irem"
+ ],
+ "publisher": [
+  "Irem"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "horizontal",
+  "powerup",
+  "shootemup",
+  "shooter",
+  "sideways"
+ ],
+ "description": "Irem's Arcade hit shoot 'em up R-Type made its debut on the Super Nintendo Entertainment System as a launch title.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.46,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/3db49b89-1bf8-4cf5-afa4-9a48251051a5.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/5/1/51351_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/5/1/51351_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/5/0/51350_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/5/0/51350_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/5/2/51352_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/5/2/51352_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

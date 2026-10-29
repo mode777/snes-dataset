@@ -1,0 +1,58 @@
+{
+ "title": "Magic Sword",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "August 1992",
+  "north_america": "August 14, 1992",
+  "pal": "March 18, 1993",
+  "first_release": "1992-08",
+  "usa": "August 1992",
+  "europe": "August 1992"
+ },
+ "developer": [
+  "Capcom",
+  "Minakuchi Engineering"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "fantasy",
+  "fighter",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "Magic Sword is a 2D action side-scroller with a fantasy theme. The hero and his chosen accomplice must battle their way through a wizard's tower in a lust for monster slaying and loot.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.39,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/b58af51b-6b80-44ff-bbdb-83e812152845.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/9/44569_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/9/44569_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/7/44567_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/7/44567_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/6/8/44568_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

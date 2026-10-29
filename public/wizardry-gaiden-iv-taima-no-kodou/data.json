@@ -1,0 +1,39 @@
+{
+ "title": "Wizardry Gaiden IV - Taima no Kodou",
+ "aliases": [
+  "Wizardry Gaiden IV: Taima no Kodou"
+ ],
+ "year": 1996,
+ "release_dates": {},
+ "developer": [
+  "Access"
+ ],
+ "publisher": [
+  "ASCII"
+ ],
+ "genre": [],
+ "tags": [
+  "dungeoncrawler",
+  "fantasy",
+  "firstperson",
+  "rpg",
+  "turnbased"
+ ],
+ "description": "The fourth of the Wizardy Gaiden games. Unlike its portable predecessors, it was released on the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

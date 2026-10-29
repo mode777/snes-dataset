@@ -1,0 +1,40 @@
+{
+ "title": "Sansara Naga 2",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "July 15, 1994"
+ },
+ "developer": [
+  "Production I.G / Victor Entertainment"
+ ],
+ "publisher": [
+  "Victor Entertainment",
+  "Victor Interactive Software"
+ ],
+ "genre": [],
+ "tags": [
+  "fantasy",
+  "rpg",
+  "topdown",
+  "turnbased",
+  "wanderer"
+ ],
+ "description": "Role-playing game released in 1994 for the Super Famicom that requires the player raise and fight alongside dragon companions. It is the sequel to Sansara Naga, a Family Computer game released in 1990.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

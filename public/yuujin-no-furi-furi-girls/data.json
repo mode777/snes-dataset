@@ -1,0 +1,45 @@
+{
+ "title": "Yuujin no Furi Furi Girls",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Jul1, 1994"
+ },
+ "developer": [
+  "POW",
+  "U-Jin"
+ ],
+ "publisher": [
+  "POW",
+  "Planning Office Wada"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "rpg",
+  "turnbased"
+ ],
+ "description": "A Super Famicom multiplayer RPG-board game hybrid featuring the art of Ube \"U-Jin\" Yamaguchi. Four anime ladies compete in mazes full of monsters and loot to find the exit first.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/3/6/306936_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

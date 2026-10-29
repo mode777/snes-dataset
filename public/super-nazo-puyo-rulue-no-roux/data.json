@@ -1,0 +1,38 @@
+{
+ "title": "Super Nazo Puyo - Rulue no Roux",
+ "aliases": [
+  "Super Nazo Puyo: Rulue no Roux"
+ ],
+ "year": 1996,
+ "release_dates": {},
+ "developer": [
+  "Compile"
+ ],
+ "publisher": [
+  "Compile"
+ ],
+ "genre": [],
+ "tags": [
+  "fallingblocks",
+  "puzzle",
+  "rpg",
+  "tilearrangement"
+ ],
+ "description": "A puzzle game in the Puyo Puyo series. This game, exclusive to the SNES, also mixes in RPG elements with the traditional puzzle style of the series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

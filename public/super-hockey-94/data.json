@@ -1,0 +1,31 @@
+{
+ "title": "Super Hockey '94",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "1994"
+ },
+ "developer": [
+  "Opera House"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Ice Hockey",
+  "Sim"
+ ],
+ "tags": [],
+ "description": "Super Hockey '94 is a Sports game, developed by Opera House and published by Yonezawa PR21,which was released in Japan in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/2/0/306920_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

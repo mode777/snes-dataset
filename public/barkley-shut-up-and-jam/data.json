@@ -1,0 +1,49 @@
+{
+ "title": "Barkley Shut Up and Jam!",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "June 1994",
+  "europe": "June 1994"
+ },
+ "developer": [
+  "Accolade"
+ ],
+ "publisher": [
+  "Accolade"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Basketball",
+  "Sim"
+ ],
+ "tags": [
+  "basketball",
+  "horizontal",
+  "sideways",
+  "sports"
+ ],
+ "description": "A basketball game that stars former NBA all-star Charles Barkley as he jams and slams in the downtown basketball courts of different NBA cities.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/6/3/47063_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/3/47063_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/4/47064_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/4/47064_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "title": "Shiroi Ring e - Twinkle Little Star",
+ "aliases": [
+  "Shiroi Ring e: Twinkle Little Star"
+ ],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "Opera House"
+ ],
+ "publisher": [
+  "Pony Canyon"
+ ],
+ "genre": [],
+ "tags": [
+  "simulation",
+  "sports",
+  "wrestling"
+ ],
+ "description": "A simulation game based on Joshi Puroresu, or Japanese Women's Professional Wrestling. The player builds an avatar and has her achieve fame and glory in the ring.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

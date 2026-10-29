@@ -1,0 +1,42 @@
+{
+ "title": "Capcom's MVP Football",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "north_america": "October 1, 1993",
+  "usa": "October 1993"
+ },
+ "developer": [
+  "Equilibrium"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [
+  "americanfootball",
+  "angle",
+  "sports"
+ ],
+ "description": "A football game released in 1993 for the Super Nintendo. The game is akin to many other football simulators at the time, although it includes the titular MVP mode, which contains preset conditions that the player must overcome.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/4/6/50946_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

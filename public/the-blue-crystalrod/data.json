@@ -1,0 +1,48 @@
+{
+ "title": "The Blue Crystalrod",
+ "aliases": [
+  "The Blue Crystal Rod"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "March 25, 1994"
+ },
+ "developer": [
+  "GAME STUDIO"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Adventure",
+  "General"
+ ],
+ "tags": [
+  "dungeoncrawler",
+  "fantasy",
+  "firstperson",
+  "intoscreen",
+  "rpg"
+ ],
+ "description": "The Blue Crystal Rod is the fourth game in the main The Tower of Druaga series, and was released only in Japan for the Super Nintendo Entertainment System in 1994.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/1/8/306918_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/1/8/306918_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "title": "Nosferatu",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "October 1995",
+  "north_america": "October 1995",
+  "first_release": "1995-10",
+  "usa": "October 1995"
+ },
+ "developer": [
+  "SETA",
+  "Seta Corporation"
+ ],
+ "publisher": [
+  "SETA"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "horror",
+  "platform",
+  "sideways"
+ ],
+ "description": "Nosferatu has taken Kyle's girlfriend and now she must be rescued before her soul sinks into darkness. Kyle will have to battle his way through the castle of the wicked vampire to and save his beloved Erin.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.7,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/4228095a-aa78-47e8-8c15-21b56e9c5c72.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/7/8/50978_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/7/8/50978_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/7/9/50979_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

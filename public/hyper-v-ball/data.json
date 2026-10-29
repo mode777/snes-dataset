@@ -1,0 +1,47 @@
+{
+ "title": "Hyper V-Ball",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "June 1994",
+  "europe": "June 1994"
+ },
+ "developer": [
+  "Video System"
+ ],
+ "publisher": [
+  "Mc O'RIVER"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Volleyball"
+ ],
+ "tags": [
+  "horizontal",
+  "sideways",
+  "sports",
+  "volleyball"
+ ],
+ "description": "Hyper V-Ball is a volleyball game for the Super Nintendo. It was developed by Video System.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/7/1/50771_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/7/2/50772_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/7/2/50772_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

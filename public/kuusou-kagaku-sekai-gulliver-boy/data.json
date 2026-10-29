@@ -1,0 +1,45 @@
+{
+ "title": "Kuusou Kagaku Sekai Gulliver Boy",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Jun 28, 1996"
+ },
+ "developer": [
+  "Amble"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "anime",
+  "rpg",
+  "topdown",
+  "wanderer"
+ ],
+ "description": "An action-adventure game adaptation of the Gulliver Boy anime series for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/4/3/31943_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

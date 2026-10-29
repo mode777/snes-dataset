@@ -1,0 +1,48 @@
+{
+ "title": "EarthBound",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-06-05",
+  "usa": "Jun5, 1995"
+ },
+ "developer": [
+  "Ape, HAL Laboratory",
+  "Ape Studios"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Console-style RPG"
+ ],
+ "tags": [
+  "angle",
+  "futuristic",
+  "rpg",
+  "turnbased"
+ ],
+ "description": "EarthBound is a sequel to Mother. It is a top-down role-playing game in which the heroes travel around Eagleland and various other, exotic countries, trying to end Giygas' evil influence.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.38,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/8c605e02-2c72-4956-9160-164630e3f786.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/6/5/50665_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/6/5/50665_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

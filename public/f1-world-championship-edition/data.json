@@ -1,0 +1,51 @@
+{
+ "title": "F1 World Championship Edition",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "pal": "January 1, 1995",
+  "europe": "1995"
+ },
+ "developer": [
+  "Peakstar Software",
+  "Domark"
+ ],
+ "publisher": [
+  "Domark",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Formula One"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "formulaone",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "Formula 1 racing with real teams and drivers from the '94 season.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/6/6/92966_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/6/6/92966_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

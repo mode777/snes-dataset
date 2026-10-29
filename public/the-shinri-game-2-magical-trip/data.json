@@ -1,0 +1,43 @@
+{
+ "title": "The Shinri Game 2: Magical Trip",
+ "aliases": [
+  "Shinri Game 2, The - Magical Trip"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Feb 10, 1995"
+ },
+ "developer": [
+  "Visit"
+ ],
+ "publisher": [
+  "Visit"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [
+  "quiz"
+ ],
+ "description": "The second in a series of quiz games that probe the player's sense of identity and morality.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/2/5/31825_front.jpg"
+ ],
+ "sources": [
+  "wikipedia",
+  "openvgdb",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

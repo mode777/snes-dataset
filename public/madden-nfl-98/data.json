@@ -1,0 +1,53 @@
+{
+ "title": "Madden NFL 98",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "north_america": "November 2, 1997",
+  "first_release": "1997-11",
+  "usa": "November 1997"
+ },
+ "developer": [
+  "Tiertex",
+  "Electronic Arts",
+  "Tiertex Design Studios"
+ ],
+ "publisher": [
+  "Electronic Arts",
+  "THQ"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [
+  "americanfootball",
+  "angle",
+  "sports"
+ ],
+ "description": "The annual addition of Madden for '97 NFL season. It was the last in the franchise to be released on the SNES, Genesis, and Saturn.",
+ "description_source": "snes_csv",
+ "players": "1 -  2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 4.04,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/c2542e3e-eb94-4692-a2bd-edd0946c1526.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/0/6/4906_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/0/6/4906_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

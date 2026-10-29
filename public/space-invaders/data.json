@@ -1,0 +1,50 @@
+{
+ "title": "Space Invaders",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "first_release": "1997-11",
+  "europe": "November 1997",
+  "usa": "November 1997"
+ },
+ "developer": [
+  "Taito",
+  "Taito Corporation"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Static"
+ ],
+ "tags": [
+  "arcade",
+  "shooter",
+  "singlescreen",
+  "topdown"
+ ],
+ "description": "A Space Invaders remake with many different options and a \"parody mode\" that includes many well-known Taito characters. The structure of Space Invaders DX serves as the template for many home versions thereafter.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.33,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/c6fc40b3-2e8f-4199-aabe-30d9c7138c57.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/2/8/7428_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/2/8/7428_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

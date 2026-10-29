@@ -1,0 +1,46 @@
+{
+ "title": "Exertainment Mountain Bike Rally",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Radical Entertainment Inc.",
+  "Radical Entertainment"
+ ],
+ "publisher": [
+  "American Softworks Corporation"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Biking"
+ ],
+ "tags": [
+  "behind",
+  "bicycle",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "A mountain bike racing game with an attitude, released for the Super Nintendo. Also known as Exertainment Mountain Bike Rally.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/6/4/50564_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

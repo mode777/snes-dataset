@@ -1,0 +1,48 @@
+{
+ "title": "Kirby's Dream Course",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-02",
+  "usa": "February 1995",
+  "europe": "February 1995"
+ },
+ "developer": [
+  "HAL Laboratory",
+  "Hal"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Golf",
+  "Arcade"
+ ],
+ "tags": [
+  "golf",
+  "isometric",
+  "sports"
+ ],
+ "description": "Kirby's Dream Course is a mini-golf simulator with a unique Kirby twist. It was released by HAL Laboratory for the SNES.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.57,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/a7f70151-a5bd-4101-ab03-dae4e3b9efce.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/2/6/50826_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/2/6/50826_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/2/7/50827_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/2/7/50827_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

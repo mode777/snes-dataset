@@ -1,0 +1,45 @@
+{
+ "title": "Super Zugan 2 - Tsukanpo Fighter",
+ "aliases": [
+  "Super Zugan 2: Tsukanpo Fighter"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 30, 1994"
+ },
+ "developer": [
+  "?",
+  "J-Wing"
+ ],
+ "publisher": [
+  "J-Wing"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "mahjong"
+ ],
+ "description": "A Super Famicom mahjong game based on the manga Super Zugan. The criminally unlucky Hideyoshi Toyotomi continues to lose at mahjong.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/8/9/311489_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

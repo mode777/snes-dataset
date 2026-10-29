@@ -1,0 +1,49 @@
+{
+ "title": "Krusty's Super Fun House",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "first_release": "1992-06",
+  "usa": "June 1992",
+  "europe": "June 1992"
+ },
+ "developer": [
+  "Audiogenic",
+  "Audiogenic Ltd."
+ ],
+ "publisher": [
+  "Acclaim"
+ ],
+ "genre": [
+  "Puzzle",
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [
+  "cartoon",
+  "platform",
+  "puzzle",
+  "sideways",
+  "simpsons"
+ ],
+ "description": "A puzzle strategy game in the Lemmings mold featuring characters from The Simpsons. Help Krusty rid himself of a rat infestation.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 2.89,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/7f45f09f-b95e-4ebe-85c5-6e6f368e830f.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/4/46404_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/4/46404_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/5/46405_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/5/46405_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

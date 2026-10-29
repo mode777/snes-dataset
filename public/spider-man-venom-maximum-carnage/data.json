@@ -1,0 +1,58 @@
+{
+ "title": "Spider-Man & Venom: Maximum Carnage",
+ "aliases": [
+  "Spider-Man-Venom: Maximum Carnage",
+  "Spider-Man and Venom: Maximum Carnage"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-09-16",
+  "usa": "September 1994",
+  "europe": "September 1994",
+  "north_america": "September 16, 1994",
+  "pal": "November 24, 1994"
+ },
+ "developer": [
+  "Software Creations"
+ ],
+ "publisher": [
+  "LJN"
+ ],
+ "genre": [
+  "Action",
+  "Beat-'Em-Up"
+ ],
+ "tags": [
+  "beatemup",
+  "brawler",
+  "comic",
+  "fighter",
+  "horizontal",
+  "sideways"
+ ],
+ "description": "Direct from the comic books to the 16-bit consoles, Spider-Man and Venom join forces against a greater evil: Carnage!",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.58,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/c549fc4d-9e07-4b2f-9bb9-7e255935d4d2.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/5/47755_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/5/47755_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/6/47756_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/6/47756_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

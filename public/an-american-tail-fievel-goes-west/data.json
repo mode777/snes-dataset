@@ -1,0 +1,53 @@
+{
+ "title": "An American Tail: Fievel Goes West",
+ "aliases": [
+  "Fievel Goes West: An American Tail"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "europe": "August 1994",
+  "usa": "August 1994"
+ },
+ "developer": [
+  "Shimada Kikaku",
+  "Hudson Soft"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "cartoon",
+  "jumper",
+  "movie",
+  "multidirectional",
+  "platform",
+  "sideways"
+ ],
+ "description": "A 1994 licensed platformer based on the 1991 Amblimation movie sequel. Fievel must save the Wild West from Cat R. Waul and T. R. Chula.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/1/2/50512_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/1/50511_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/1/50511_back.jpg"
+ ],
+ "sources": [
+  "openvgdb",
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

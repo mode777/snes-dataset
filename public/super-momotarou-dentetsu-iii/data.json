@@ -1,0 +1,43 @@
+{
+ "title": "Super Momotarou Dentetsu III",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec9, 1994"
+ },
+ "developer": [
+  "Make"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "partygame"
+ ],
+ "description": "The Super Dentetsu series leaves Game Boy and PC Engine behind (though it remains on Super Famicom) and migrates to a Sega system for the first time.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/4/2/306642_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/4/2/306642_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

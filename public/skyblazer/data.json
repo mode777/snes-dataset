@@ -1,0 +1,51 @@
+{
+ "title": "Skyblazer",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1994-01",
+  "usa": "January 1994",
+  "europe": "January 1994"
+ },
+ "developer": [
+  "Ukiyotei Company",
+  "Ukiyotei"
+ ],
+ "publisher": [
+  "Sony Imagesoft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "Skyblazer is an action platformer from Sony Imagesoft, released exclusively on the Super Nintendo.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.66,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/fe474236-a8de-4f9f-8efb-59694457104c.png",
+  "https://gamefaqs.gamespot.com/a/box/1/4/4/51144_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/4/6/51146_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/4/6/51146_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

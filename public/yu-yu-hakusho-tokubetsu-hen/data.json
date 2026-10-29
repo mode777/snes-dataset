@@ -1,0 +1,46 @@
+{
+ "title": "Yu Yu Hakusho - Tokubetsu Hen",
+ "aliases": [
+  "Yu Yu Hakusho: Tokubetsu Hen"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Dec 22, 1994"
+ },
+ "developer": [
+  "Namco"
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "anime",
+  "fighter",
+  "manga",
+  "tactical"
+ ],
+ "description": "A Super Famicom tactical fighter game based on the supernatural anime of the same name. It is an enhanced sequel of the original 1993 YuYu Hakusho game for Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/1/2/23712_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/1/2/23712_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Whirlo",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "europe": "1992"
+ },
+ "developer": [
+  "Nova",
+  "Nova Games Ltd."
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "platform",
+  "sideways"
+ ],
+ "description": "Whirlo is a prequel to the Legend of Valkyrie series, starring Valkyrie's sidekick.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/7/8/30078_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/7/8/30078_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

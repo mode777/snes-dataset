@@ -1,0 +1,48 @@
+{
+ "title": "Holy Umbrella - Dondera no Mubou!!",
+ "aliases": [
+  "Holy Umbrella: Dondera no Mubou!!",
+  "Holy Umbrella: Dondera no Mubo"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "September 25, 1995"
+ },
+ "developer": [
+  "Earthly Soft"
+ ],
+ "publisher": [
+  "Naxat Soft"
+ ],
+ "genre": [
+  "Role-Playing",
+  "Action RPG"
+ ],
+ "tags": [
+  "action",
+  "plateform",
+  "sideways",
+  "topdown"
+ ],
+ "description": "Japan-exclusive platformer. The player-named hero picks up an umbrella on his way to school and ends up transported to a fantasy world in danger.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/9/7/31897_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/9/7/31897_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "title": "Timecop",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "April 1995",
+  "north_america": "April 1995",
+  "pal": "1996",
+  "europe": "April 1995",
+  "usa": "April 1995"
+ },
+ "developer": [
+  "Cryo",
+  "Cryo Interactive"
+ ],
+ "publisher": [
+  "JVC",
+  "JVC Musical Industries"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "An action game based on the Jean-Claude Van Damme film of the same name.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/0/9/51409_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/9/51409_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/7/51407_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/7/51407_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/0/8/51408_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

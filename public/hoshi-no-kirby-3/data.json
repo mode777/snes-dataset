@@ -1,0 +1,31 @@
+{
+ "title": "Hoshi no Kirby 3",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "japan": "November 1997"
+ },
+ "developer": [
+  "HAL Labs"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [],
+ "description": "Kirby's Dream Land 3 is an Action game, developed by HAL Labs and published by Nintendo,which was released in 1997.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/2/7/19627_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/2/7/19627_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

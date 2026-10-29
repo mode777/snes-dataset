@@ -1,0 +1,44 @@
+{
+ "title": "Mario's Early Years: Fun with Numbers",
+ "aliases": [
+  "Mario's Early Years! Fun with Numbers"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "October 1994",
+  "usa": "September 1994"
+ },
+ "developer": [
+  "Software Toolworks",
+  "The Software Toolworks"
+ ],
+ "publisher": [
+  "Nintendo",
+  "The Software Toolworks"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Edutainment"
+ ],
+ "tags": [
+  "educational",
+  "logic",
+  "math"
+ ],
+ "description": "An educational game about numbers starring Mario.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/0/2/50902_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

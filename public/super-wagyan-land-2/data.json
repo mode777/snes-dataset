@@ -1,0 +1,48 @@
+{
+ "title": "Super Wagyan Land 2",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Mar 25, 1993"
+ },
+ "developer": [
+  "Namco / Nova",
+  "Nova Games",
+  "Nova Games Ltd."
+ ],
+ "publisher": [
+  "Namco"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "collector",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "A side-scrolling platformer and Wagyan's second outing on the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/4/1/306841_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/8/4/1/306841_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

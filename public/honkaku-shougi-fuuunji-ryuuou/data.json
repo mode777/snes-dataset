@@ -1,0 +1,39 @@
+{
+ "title": "Honkaku Shougi - Fuuunji Ryuuou",
+ "aliases": [
+  "Honkaku Shougi: Fuuunji Ryuuou"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "December 22, 1994"
+ },
+ "developer": [
+  "Aisystem Tokyo"
+ ],
+ "publisher": [
+  "Virgin Interactive"
+ ],
+ "genre": [],
+ "tags": [
+  "boardgame",
+  "shogi"
+ ],
+ "description": "A shogi game for the Super Famicom. It is notable for being published by UK company Virgin Games.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

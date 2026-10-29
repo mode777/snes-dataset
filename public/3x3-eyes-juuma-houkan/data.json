@@ -1,0 +1,50 @@
+{
+ "title": "3x3 Eyes - Juuma Houkan",
+ "aliases": [
+  "3x3 Eyes: Juuma Houkan",
+  "3×3 Eyes Juuma Houkan"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "December 22, 1995"
+ },
+ "developer": [
+  "Now Production / System Supply N-Tech",
+  "System Supply N-Tech"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "adventure",
+  "manga",
+  "scrolling",
+  "sideways"
+ ],
+ "description": "A side-scrolling action, adventure game for the Super Famicom based on the long-running manga 3x3 Eyes.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/7/1/307171_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/7/1/307171_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

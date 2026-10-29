@@ -1,0 +1,54 @@
+{
+ "title": "Scooby-Doo Mystery",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "north_america": "November 1995",
+  "first_release": "1995-11",
+  "usa": "November 1995"
+ },
+ "developer": [
+  "Argonaut Software / Sunsoft",
+  "Argonaut Games",
+  "SunSoft"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment / Sunsoft"
+ ],
+ "genre": [
+  "Action",
+  "Adventure",
+  "General"
+ ],
+ "tags": [
+  "adventure",
+  "cartoon",
+  "horizontal",
+  "puzzlesolve",
+  "sideways"
+ ],
+ "description": "A console adventure game based around the hit TV show. The Genesis version is a classic point-and-click graphic adventure, while the SNES version combines the adventure gameplay with action.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 3.23,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/4faa5483-f011-45b2-9df2-736a9cd83b2f.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/4/3/48043_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/4/3/48043_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

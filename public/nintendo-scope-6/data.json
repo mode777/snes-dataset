@@ -1,0 +1,31 @@
+{
+ "title": "Nintendo Scope 6",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "europe": "February 1992"
+ },
+ "developer": [
+  "Intelligent Systems"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Light Gun"
+ ],
+ "tags": [],
+ "description": "Super Scope 6 is an Action game, developed by Intelligent Systems and published by Nintendo,which was released in 1992.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/4/8/37248_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/4/8/37248_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

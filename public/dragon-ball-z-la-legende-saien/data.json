@@ -1,0 +1,43 @@
+{
+ "title": "Dragon Ball Z: La Legende Saien",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "france": "1994"
+ },
+ "developer": [
+  "Tose"
+ ],
+ "publisher": [
+  "Bandai"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "anime",
+  "fighting",
+  "manga",
+  "sideways"
+ ],
+ "description": "The second installment of the Super Butoden series improves the graphical and gameplay style of its predecessor and is one of the earliest games in the series to focus on storylines from the Dragon Ball animated films.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "French, Japanese",
+  "French, Japanese, ko"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

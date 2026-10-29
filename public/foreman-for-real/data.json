@@ -1,0 +1,52 @@
+{
+ "title": "Foreman for Real",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "September 1995",
+  "north_america": "September 1, 1995",
+  "pal": "September 28, 1995",
+  "europe": "September 1995",
+  "usa": "September 1995"
+ },
+ "developer": [
+  "Software Creations"
+ ],
+ "publisher": [
+  "Acclaim",
+  "Acclaim Entertainment"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Boxing"
+ ],
+ "tags": [
+  "behind",
+  "boxing",
+  "sports"
+ ],
+ "description": "A boxing game that stars the creator of the Foreman Grill himself. The player can fight or fight as Big George with nineteen other contenders.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/7/46237_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/7/46237_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/6/46236_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/3/8/46238_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

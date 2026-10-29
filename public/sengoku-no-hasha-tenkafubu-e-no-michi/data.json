@@ -1,0 +1,38 @@
+{
+ "title": "Sengoku no Hasha - Tenkafubu e no Michi",
+ "aliases": [
+  "Sengoku no Hasha: Tenkafubu e no Michi"
+ ],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "Bits Laboratory"
+ ],
+ "publisher": [
+  "Banpresto"
+ ],
+ "genre": [],
+ "tags": [
+  "historical",
+  "strategy",
+  "tactic",
+  "turnbased"
+ ],
+ "description": "A Sengoku-era strategy sim for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

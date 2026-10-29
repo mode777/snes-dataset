@@ -1,0 +1,50 @@
+{
+ "title": "Super Street Fighter II",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-06",
+  "usa": "June 1994",
+  "europe": "June 1994"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "competitive",
+  "fighting",
+  "sideways"
+ ],
+ "description": "Four new warriors enter the World Warrior tournament in the fourth main iteration of the classic Street Fighter II series.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.2,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/6fb9eb22-e4a1-4b9a-b0a4-b69e9bc7b8ef.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/9/2/24292_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/9/2/24292_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/9/3/24293_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/9/3/24293_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

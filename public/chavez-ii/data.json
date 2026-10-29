@@ -1,0 +1,31 @@
+{
+ "title": "Chavez II",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "usa": "September 1993"
+ },
+ "developer": [
+  "Sculptured Software"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Boxing"
+ ],
+ "tags": [],
+ "description": "Boxing Legends of the Ring is a Sports game, developed by Sculptured Software and published by Electro Brain,which was released in 1993.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/5/0/22550_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/5/0/22550_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

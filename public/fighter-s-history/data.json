@@ -1,0 +1,50 @@
+{
+ "title": "Fighter's History",
+ "aliases": [
+  "Fighter's History †"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "August 1994",
+  "north_america": "August 1, 1994",
+  "first_release": "1994-08",
+  "usa": "August 1994"
+ },
+ "developer": [
+  "Data East"
+ ],
+ "publisher": [
+  "Data East"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "2D"
+ ],
+ "tags": [
+  "fighting",
+  "sideways",
+  "singlescreen"
+ ],
+ "description": "Data East's first post-SF2 fighting game, infamous for being so similar to Street Fighter II that it triggered a lawsuit from Capcom USA.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.31,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/fc02c75c-8b5c-4841-a4e5-90b2f53d3187.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/5/9/44459_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/5/9/44459_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/5/8/44458_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/5/8/44458_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ]
+}

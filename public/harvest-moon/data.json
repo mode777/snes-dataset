@@ -1,0 +1,51 @@
+{
+ "title": "Harvest Moon",
+ "aliases": [],
+ "year": 1997,
+ "release_dates": {
+  "first_release": "1997-06",
+  "usa": "June 1997",
+  "germany": "June 1997",
+  "europe": "June 1997"
+ },
+ "developer": [
+  "Amccus"
+ ],
+ "publisher": [
+  "Natsume"
+ ],
+ "genre": [
+  "Strategy",
+  "Breeding/Constructing"
+ ],
+ "tags": [
+  "business",
+  "manager",
+  "simulation",
+  "topdown"
+ ],
+ "description": "A farming simulation game released on the SNES late in its lifespan and the first of its series. Inherit a farm, learn farming techniques, make money from selling produce, romance the women of the town, and eventually take a wife and have children.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Japanese"
+ ],
+ "gf_score": 4.01,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/2ae8b205-6051-4fba-b390-86637ab69b5d.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/2/19542_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/2/19542_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/3/19543_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/4/3/19543_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

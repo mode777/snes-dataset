@@ -1,0 +1,46 @@
+{
+ "title": "Ihatovo Monogatari",
+ "aliases": [
+  "Ihatov Monogatari"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Mar5, 1993"
+ },
+ "developer": [
+  "Hector",
+  "Hect"
+ ],
+ "publisher": [
+  "Hector",
+  "Hect"
+ ],
+ "genre": [
+  "Adventure",
+  "General"
+ ],
+ "tags": [
+  "adventure",
+  "topdown"
+ ],
+ "description": "An offbeat top-down adventure game for the Super Famicom. The player is a visitor to a place named Ihatovo who is there to track down books and information on fairy tales. There is little in the way of combat or RPG elements, despite being advertised as an RPG.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/9/2/31692_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

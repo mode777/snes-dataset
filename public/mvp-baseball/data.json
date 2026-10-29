@@ -1,0 +1,31 @@
+{
+ "title": "MVP Baseball",
+ "aliases": [],
+ "year": 1992,
+ "release_dates": {
+  "japan": "September 1992"
+ },
+ "developer": [
+  "Sculptured Software"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [],
+ "description": "Roger Clemens' MVP Baseball is a Sports game, developed by Sculptured Software and published by LJN Ltd.,which was released in 1992.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/7/3/46673_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

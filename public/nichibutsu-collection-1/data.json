@@ -1,0 +1,47 @@
+{
+ "title": "Nichibutsu Collection 1",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "japan": "Nov 29, 1996"
+ },
+ "developer": [
+  "Nihon Bussan",
+  "Nichibutsu"
+ ],
+ "publisher": [
+  "Nihon Bussan",
+  "Nichibutsu"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [
+  "casino",
+  "compilation",
+  "gambling",
+  "mahjong"
+ ],
+ "description": "Compilation of two Nichibutsu games released in 1996. It includes Gion Hana and Kyouraku Casino Bar, both of which had been earlier Super Famicom releases.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/4/7/307247_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/4/7/307247_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "title": "Pro Football",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "November 1991"
+ },
+ "developer": [
+  "Park Place Productions"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Football",
+  "Sim"
+ ],
+ "tags": [],
+ "description": "BIG, TOUGH, BONE-CRUSHING! Call plays with ease from Madden's playbook. Madden stacks up your stats against the competition. Grind it out in rain and mud before Super Sunday! Unique zoom camera zeroes in on receivers.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/0/5/35705_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

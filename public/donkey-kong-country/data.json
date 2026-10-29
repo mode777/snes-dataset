@@ -1,0 +1,54 @@
+{
+ "title": "Donkey Kong Country",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-11-25",
+  "europe": "Nov 25, 1994",
+  "usa": "Nov 25, 1994"
+ },
+ "developer": [
+  "Rare",
+  "Rare Ltd."
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "collect",
+  "horizontal",
+  "jumper",
+  "platform",
+  "sideways"
+ ],
+ "description": "For the first time in Nintendo history, take control of Mario's former adversary as he travels through the island (with his nephew Diddy Kong) to recover his stolen banana hoard in this side-scrolling platformer from Rare (now Rareware).",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English, German, French, Japanese"
+ ],
+ "gf_score": 4.26,
+ "metascore": 78,
+ "cover_urls": [
+  "https://images.launchbox-app.com/de45a6fe-0418-4b04-8c5f-5595f6a9bfa7.png",
+  "https://gamefaqs.gamespot.com/a/box/3/2/2/11322_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/2/2/11322_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/2/1/11321_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/2/1/11321_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

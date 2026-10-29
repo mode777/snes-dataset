@@ -1,0 +1,36 @@
+{
+ "title": "SM Choukyoushi Hitomi: Bangai Hen",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {},
+ "developer": [
+  "EJ Corporation"
+ ],
+ "publisher": [
+  "Seibu Kikaku"
+ ],
+ "genre": [],
+ "tags": [
+  "adult",
+  "hentai",
+  "unlicensed",
+  "visualnovel"
+ ],
+ "description": "SM Choukyoushi Hitomi Bangai Hen (SM調教師瞳 番外編) is an unlicensed adult Super Famicom game developed by EJ Corporation and published by Seibu Kikaku.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

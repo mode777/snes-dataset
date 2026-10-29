@@ -1,0 +1,46 @@
+{
+ "title": "Nice de Shot",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Apr 29, 1994"
+ },
+ "developer": [
+  "Magical Company",
+  "Magical Company (Mahou)"
+ ],
+ "publisher": [
+  "ASK"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Golf",
+  "Sim"
+ ],
+ "tags": [
+  "cute",
+  "golf",
+  "sports"
+ ],
+ "description": "Super Famicom golf sim developed by Magical Company in 1994. Distinctive for its unusual courses situated all over the globe.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/2/9/306929_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

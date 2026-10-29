@@ -1,0 +1,47 @@
+{
+ "title": "Cyber Knight II: Chikyuu Teikoku no Yabou",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Aug 26, 1994"
+ },
+ "developer": [
+  "Atelier Double",
+  "Group SNE"
+ ],
+ "publisher": [
+  "Tonkinhouse",
+  "Tonkin House"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "rpg",
+  "strategy",
+  "topdown",
+  "turnbased"
+ ],
+ "description": "A tactical RPG in a sci-fi setting filled with mechs and spaceships. The crew from the first game makes it back to Earth only to discover that a despotic empire has taken over. They must once again take to the stars to raise forces to thwart Earth's new dictators.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/7/0/306970_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/9/7/0/306970_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

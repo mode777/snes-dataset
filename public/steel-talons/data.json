@@ -1,0 +1,49 @@
+{
+ "title": "Steel Talons",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "north_america": "November 1993",
+  "usa": "November 1993"
+ },
+ "developer": [
+  "Atari",
+  "Panoramic"
+ ],
+ "publisher": [
+  "Left Field Entertainment / Tengen",
+  "Left Field Entertainment"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "behind",
+  "helicopter",
+  "multidirectional",
+  "shooter",
+  "simulation"
+ ],
+ "description": "A combat helicopter arcade game made by Atari in 1991.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (1 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/8/4/51184_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

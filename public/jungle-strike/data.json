@@ -1,0 +1,56 @@
+{
+ "title": "Jungle Strike",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "September 22, 1995",
+  "north_america": "June 1995",
+  "pal": "1995",
+  "first_release": "1995-06",
+  "europe": "June 1995",
+  "usa": "June 1995"
+ },
+ "developer": [
+  "High Score Productions",
+  "Gremlin Interactive"
+ ],
+ "publisher": [
+  "Electronic Arts"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [
+  "helicopter",
+  "isometric",
+  "multidirectional",
+  "shooter"
+ ],
+ "description": "An isometric action game in which the player controls a Comanche helicopter, a hovercraft, a F117 Nighthawk and an attack bike against the forces of the South American drug-lord Ortega and the Middle-Eastern 'Madman' Kilbaba.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.36,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/c1da8bcd-dea4-4cae-89bf-7869f37e2696.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/0/25750_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/5/0/25750_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/9/25749_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/4/9/25749_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

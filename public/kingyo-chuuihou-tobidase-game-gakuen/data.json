@@ -1,0 +1,47 @@
+{
+ "title": "Kingyo Chuuihou! - Tobidase! Game Gakuen",
+ "aliases": [
+  "Kingyo Chuuihou! Tobidase Game Gakuen",
+  "Kingyo Chuuihou!: Tobidase! Game Gakuen"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Mar 18, 1994"
+ },
+ "developer": [
+  "Jaleco",
+  "Jaleco Entertainment"
+ ],
+ "publisher": [
+  "Jaleco"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "cute",
+  "partygame"
+ ],
+ "description": "A Super Famicom multiplayer mini-game collection based on the manga and anime Kingyo Chuuihou!, known in English as Goldfish Warning!.",
+ "description_source": "snes_csv",
+ "players": "1 - 3 (3 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/9/0/43390_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/9/0/43390_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

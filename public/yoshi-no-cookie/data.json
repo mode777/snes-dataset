@@ -1,0 +1,30 @@
+{
+ "title": "Yoshi no Cookie",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "June 1993"
+ },
+ "developer": [
+  "TOSE"
+ ],
+ "publisher": [],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [],
+ "description": "Mario and Yoshi are filling in at the Cookie Factory, and the snacks are piling high! As fresh-baked cookies roll out of the ovens, it's up to Mario to sort and stack 'em before they pile too high!Line up a row of the same kind of cookies either vertically or horizontally, and they vanish! Clear the screen to move on to a new level of cookie chaos. Yoshi appears from time to time to stir things up. Play for high score or go head-to-head against a friend or the computer. The mouth-watering madness doesn't let up!",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/3/8/21238_front.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "title": "Zenkoku Koukou Soccer",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "Nov 25, 1994"
+ },
+ "developer": [
+  "Affect"
+ ],
+ "publisher": [
+  "Yojigen"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [
+  "angle",
+  "football",
+  "multidirectional",
+  "soccer",
+  "sports"
+ ],
+ "description": "Zenkoku Koukou Soccer (\"National High School Soccer\") is a 1994 soccer game from Affect and Yojigen and released exclusively in Japan for the Super Famicom. It is the first in its series of games that explores the world of high school-level competitive soccer: it was followed by 1995's Zenkoku Koukou Soccer 2.  The player picks a region of Japan and plays against local teams before they have a shot at the national competition. The pitch is depicted with a horizontal view.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/0/4/312504_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/0/4/312504_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

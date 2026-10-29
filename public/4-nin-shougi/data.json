@@ -1,0 +1,46 @@
+{
+ "title": "4-nin Shougi",
+ "aliases": [
+  "4 Nin Shougi"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Jul 14, 1995"
+ },
+ "developer": [
+  "Planning Office Wada",
+  "Pow"
+ ],
+ "publisher": [
+  "Planning Office Wada"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Board Games"
+ ],
+ "tags": [
+  "boardgame",
+  "shogi"
+ ],
+ "description": "Yonin shogi-based video game, released in 1995 for the Super Famicom.",
+ "description_source": "snes_csv",
+ "players": "1-4 (1 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/0/5/307105_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/0/5/307105_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

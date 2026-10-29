@@ -1,0 +1,49 @@
+{
+ "title": "Romance of the Three Kingdoms IV: Wall of Fire",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-07",
+  "usa": "July 1995"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Strategy",
+  "Turn-Based",
+  "Historic"
+ ],
+ "tags": [
+  "historical",
+  "mapbased",
+  "strategy",
+  "tactic",
+  "topdown"
+ ],
+ "description": "The fourth entry in Koei's Romance of the Three Kingdoms strategy game series.",
+ "description_source": "snes_csv",
+ "players": "1 - 8 (1 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.94,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/d19b87a7-12e3-4e34-9524-b503ac4b9712.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/5/51085_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/8/5/51085_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

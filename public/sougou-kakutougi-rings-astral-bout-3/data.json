@@ -1,0 +1,48 @@
+{
+ "title": "Sougou Kakutougi Rings - Astral Bout 3",
+ "aliases": [
+  "Sougou Kakutougi Rings: Astral Bout 3"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Oct 20, 1995"
+ },
+ "developer": [
+  "A-Wave"
+ ],
+ "publisher": [
+  "King Records"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "Wrestling"
+ ],
+ "tags": [
+  "fighting",
+  "horizontal",
+  "martialarts",
+  "sideways",
+  "sports"
+ ],
+ "description": "A Shoot/Hybrid fighting game featuring the Shoot fighting league known as RINGS fighting network, developed by A-Wave and published by King Records, it was released in Japan in 1995.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/1/9/311619_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

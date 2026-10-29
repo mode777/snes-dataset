@@ -1,0 +1,57 @@
+{
+ "title": "Lethal Enforcers",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "January 1994",
+  "north_america": "January 1994",
+  "pal": "1994",
+  "first_release": "1994-01",
+  "usa": "January 1994",
+  "europe": "January 1994"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Light Gun"
+ ],
+ "tags": [
+  "action",
+  "arcade",
+  "crosshair",
+  "firstperson",
+  "shooter",
+  "thejustifier"
+ ],
+ "description": "Enforce the law and protect the city from crime in this light-gun game.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.29,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/01bc03e1-b149-4314-a2ed-61632e35beff.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/8/9/23789_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/8/8/23788_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/8/8/23788_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/7/9/0/23790_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "title": "Castlevania: Dracula X",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "first_release": "1995-09-01",
+  "usa": "September 1995"
+ },
+ "developer": [
+  "Konami"
+ ],
+ "publisher": [
+  "Konami"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "horror",
+  "platform",
+  "sideways"
+ ],
+ "description": "A SNES remake of the PC Engine game Castlevania: Rondo of Blood, Dracula X details the original adventures of whip-bearing Richter Belmont, a century after the events of the original Castlevania.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 3.6,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/ab4828a1-482d-4b41-86e0-41b0100039be.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/3/22583_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/8/3/22583_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

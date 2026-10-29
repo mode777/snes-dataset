@@ -1,0 +1,47 @@
+{
+ "title": "Speed Racer in My Most Dangerous Adventures",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "November 1994",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Radical Entertainment"
+ ],
+ "publisher": [
+  "Accolade"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [
+  "anime",
+  "car",
+  "cockpit",
+  "racing",
+  "sports"
+ ],
+ "description": "A racing game based on the anime series Speed Racer. Win races using the Mach 5's unique gadgets.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/6/8/51168_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

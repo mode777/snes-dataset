@@ -1,0 +1,40 @@
+{
+ "title": "Power Lode Runner",
+ "aliases": [],
+ "year": 1999,
+ "release_dates": {
+  "japan": "January 1, 1999"
+ },
+ "developer": [
+  "T&E Soft",
+  "Atelier Double"
+ ],
+ "publisher": [
+  "Nintendo"
+ ],
+ "genre": [],
+ "tags": [
+  "avoid",
+  "collect",
+  "loderunner",
+  "platform"
+ ],
+ "description": "A Japan-only, digital-only release in the Lode Runner series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

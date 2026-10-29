@@ -1,0 +1,47 @@
+{
+ "title": "King Arthur & The Knights of Justice",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "July 1995",
+  "usa": "July 1995"
+ },
+ "developer": [
+  "Manley & Associates",
+  "Manley and Associates Inc."
+ ],
+ "publisher": [
+  "Enix"
+ ],
+ "genre": [
+  "Action",
+  "General"
+ ],
+ "tags": [
+  "action",
+  "adventure",
+  "cartoon",
+  "multidirectional",
+  "topdown"
+ ],
+ "description": "Join Arthur King and the football players of the New England Knights as they fight to rescue King Arthur from the evil sorceress Morgana.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/8/1/7/50817_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

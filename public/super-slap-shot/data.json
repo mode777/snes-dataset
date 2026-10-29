@@ -1,0 +1,50 @@
+{
+ "title": "Super Slap Shot",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "japan": "August 1993",
+  "north_america": "August 1993",
+  "usa": "August 1993"
+ },
+ "developer": [
+  "Ringler Studios"
+ ],
+ "publisher": [
+  "Virgin",
+  "Virgin Interactive"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Ice Hockey",
+  "Sim"
+ ],
+ "tags": [
+  "horizontal",
+  "icehockey",
+  "sideways",
+  "sports"
+ ],
+ "description": "Super Slap Shot is a hockey game released for the Super Nintendo in 1993. The game was known for having the endorsement of Gordie Howe.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/3/5/7/51357_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/3/5/8/51358_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

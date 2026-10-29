@@ -1,0 +1,35 @@
+{
+ "title": "Bomberman B-Daman",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {},
+ "developer": [
+  "Hudson Soft"
+ ],
+ "publisher": [
+  "Hudson Soft"
+ ],
+ "genre": [],
+ "tags": [
+  "bomberman",
+  "cute",
+  "puzzle",
+  "topdown"
+ ],
+ "description": "Bomberman loses his marbles in this timing-based ball-shooting game. The game also features a frantic competitive four-player mode.",
+ "description_source": "snes_csv",
+ "players": "1 - 4 (4 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [],
+ "sources": [
+  "snes_csv"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

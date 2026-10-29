@@ -1,0 +1,47 @@
+{
+ "title": "Kat's Run - Zen-Nihon K-Car Senshuken",
+ "aliases": [
+  "Kat's Run: Zen-Nihon K-Car Senshuken",
+  "Kat's Run: Zen-Nippon K Car Senshuken"
+ ],
+ "year": 1995,
+ "release_dates": {
+  "japan": "July 14, 1995"
+ },
+ "developer": [
+  "Atlus"
+ ],
+ "publisher": [
+  "Atlus"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Arcade"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "edcational",
+  "femaleprotagonist",
+  "intoscreen",
+  "racing"
+ ],
+ "description": "Kat's Run: Zen-Nippon K Car Senshuken is an arcade racing game somewhat similar to OutRun, because of its almost seamless location transfer without any pauses or menus.",
+ "description_source": "snes_csv",
+ "players": "1 -2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/1/0/8/307108_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/0/8/307108_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ]
+}

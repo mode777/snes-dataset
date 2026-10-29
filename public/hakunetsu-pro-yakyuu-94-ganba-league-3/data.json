@@ -1,0 +1,45 @@
+{
+ "title": "Hakunetsu Pro Yakyuu '94 - Ganba League 3",
+ "aliases": [
+  "Hakunetsu Pro Yakyuu '94: Ganba League 3"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "Dec 10, 1993"
+ },
+ "developer": [
+  "Sting",
+  "Epic Sony Record"
+ ],
+ "publisher": [
+  "Epic / Sony",
+  "Epic/Sony Records"
+ ],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Baseball",
+  "Sim"
+ ],
+ "tags": [
+  "baseball",
+  "behind",
+  "sports"
+ ],
+ "description": "A baseball game and the third and final game in the Hakunetsu Pro Yakyuu series, the first of which is known as Extra Innings in the US.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/7/3/4/301734_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ]
+}

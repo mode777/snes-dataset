@@ -1,0 +1,32 @@
+{
+ "title": "J.League Super Soccer",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "japan": "1994"
+ },
+ "developer": [
+  "Probe Entertainment Limited"
+ ],
+ "publisher": [],
+ "genre": [
+  "Sports",
+  "Traditional",
+  "Soccer",
+  "Sim"
+ ],
+ "tags": [],
+ "description": "Virtual Soccer is a Sports game, developed by Probe Entertainment Limited and published by Hudson,which was released in Japan in 1994.",
+ "description_source": "openvgdb",
+ "players": null,
+ "languages": [],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/1/4/43514_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/5/1/4/43514_back.jpg"
+ ],
+ "sources": [
+  "openvgdb"
+ ]
+}

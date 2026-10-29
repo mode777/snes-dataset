@@ -1,0 +1,58 @@
+{
+ "title": "Drakkhen",
+ "aliases": [],
+ "year": 1991,
+ "release_dates": {
+  "japan": "September 1991",
+  "north_america": "September 1, 1991",
+  "pal": "1992",
+  "first_release": "1991-09",
+  "germany": "September 1991",
+  "europe": "September 1991",
+  "usa": "September 1991"
+ },
+ "developer": [
+  "Infogrames",
+  "Kemco"
+ ],
+ "publisher": [
+  "Kemco/Seika",
+  "Kemco (JP/EU)Seika Corporation (NA)"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "behind",
+  "fantasy",
+  "realtime",
+  "rpg"
+ ],
+ "description": "A first-person RPG with third-person combat. It is notorious for being difficult and obfuscating for new players, requiring some degree of patience.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, German, Japanese"
+ ],
+ "gf_score": 2.64,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/abb778b3-2071-4402-bb4f-a04a1399169e.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/7/50657_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/7/50657_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/9/50659_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/9/50659_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/5/8/50658_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

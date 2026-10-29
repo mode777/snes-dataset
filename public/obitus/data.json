@@ -1,0 +1,46 @@
+{
+ "title": "Obitus",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "September 1994",
+  "usa": "September 1994"
+ },
+ "developer": [
+  "Scenario Developments",
+  "Psygnosis"
+ ],
+ "publisher": [
+  "Psygnosis",
+  "Bullet-Proof Software"
+ ],
+ "genre": [
+  "Role-Playing",
+  "First-Person"
+ ],
+ "tags": [
+  "dungeoncrawler",
+  "firstperson",
+  "rpg"
+ ],
+ "description": "A first-person RPG-adventure originally published by Psygnosis Software.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/9/8/6/50986_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

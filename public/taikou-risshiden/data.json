@@ -1,0 +1,46 @@
+{
+ "title": "Taikou Risshiden",
+ "aliases": [
+  "Taikou Rishinden"
+ ],
+ "year": 1993,
+ "release_dates": {
+  "japan": "April 7, 1993"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Role-Playing",
+  "General"
+ ],
+ "tags": [
+  "historical",
+  "strategy",
+  "tactic",
+  "turnbased"
+ ],
+ "description": "A turn-based historical strategy sim from Koei that allows the player to assume various different roles during the Sengoku era of Japan. It is the first in a long-running series.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/1/6/296216_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb",
+  "wikipedia"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

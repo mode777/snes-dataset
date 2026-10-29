@@ -1,0 +1,49 @@
+{
+ "title": "F1 ROC II: Race of Champions",
+ "aliases": [
+  "F1-ROC II: Race of Champions"
+ ],
+ "year": 1994,
+ "release_dates": {
+  "usa": "July 1994"
+ },
+ "developer": [
+  "SETA",
+  "Seta Corporation"
+ ],
+ "publisher": [
+  "SETA"
+ ],
+ "genre": [
+  "Driving",
+  "Racing",
+  "Formula One"
+ ],
+ "tags": [
+  "behind",
+  "car",
+  "intoscreen",
+  "racing",
+  "sports"
+ ],
+ "description": "Exhaust Heat is a Formula 1 racing game for the SNES based on the 1992 Formula 1 season. The Super Famicom version is named Exhaust Heat.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/6/8/8/50688_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/8/8/50688_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

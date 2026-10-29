@@ -1,0 +1,47 @@
+{
+ "title": "Pro Yakyuu Nettou Puzzle Stadium",
+ "aliases": [
+  "Pro Yakyuu Nettou: Puzzle Stadium"
+ ],
+ "year": 1997,
+ "release_dates": {
+  "japan": "Apr 25, 1997"
+ },
+ "developer": [
+  "Coconuts Japan"
+ ],
+ "publisher": [
+  "Coconuts Japan"
+ ],
+ "genre": [
+  "Miscellaneous",
+  "Puzzle",
+  "General"
+ ],
+ "tags": [
+  "fallingblocks",
+  "puzzle",
+  "singlescreen",
+  "tilearrangement"
+ ],
+ "description": "A baseball-themed block-stacking puzzle game starring Japanese baseball team mascots.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/2/6/5/307265_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

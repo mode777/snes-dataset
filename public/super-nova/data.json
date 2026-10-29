@@ -1,0 +1,34 @@
+{
+ "title": "Super Nova",
+ "aliases": [],
+ "year": 1993,
+ "release_dates": {
+  "first_release": "1993-12",
+  "usa": "December 1993"
+ },
+ "developer": [
+  "Act Japan"
+ ],
+ "publisher": [],
+ "genre": [
+  "Action",
+  "Shooter",
+  "Scrolling"
+ ],
+ "tags": [],
+ "description": "Super Nova is clone of Atari's Asteroids arcade game published by Big Five Software for the TRS-80 in 1980. Co-author Bill Hogue called Super Nova\"the game that started the company.\"",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 3.59,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/aad9acdd-c7ad-4963-8f82-15f686d9a5b6.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/1/0/25610_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/6/1/0/25610_back.jpg"
+ ],
+ "sources": [
+  "opengamedb",
+  "openvgdb"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "title": "Turn and Burn: No-Fly Zone",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "europe": "February 1994",
+  "spain": "February 1994",
+  "usa": "February 1994"
+ },
+ "developer": [
+  "Imagineering",
+  "Imagineering Inc"
+ ],
+ "publisher": [
+  "Absolute Entertainment"
+ ],
+ "genre": [
+  "Simulation",
+  "Flight",
+  "Modern Jet"
+ ],
+ "tags": [
+  "cockpit",
+  "combatplanes",
+  "flightsimulator",
+  "intoscreen",
+  "simulation"
+ ],
+ "description": "A modern flight combat simulator for the Super Nintendo in which the player flies an F-14 Tomcat fighter jet. The game is known as Super Dogfight in Japan.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Spanish, Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/4/4/5/51445_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/4/5/51445_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/4/4/51444_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/4/4/51444_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

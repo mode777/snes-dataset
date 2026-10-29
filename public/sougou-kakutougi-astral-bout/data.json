@@ -1,0 +1,49 @@
+{
+ "title": "Sougou Kakutougi - Astral Bout",
+ "aliases": [
+  "Sougou Kakutougi: Astral Bout"
+ ],
+ "year": 1992,
+ "release_dates": {
+  "japan": "Jun 26, 1992"
+ },
+ "developer": [
+  "A Wave",
+  "A-Wave"
+ ],
+ "publisher": [
+  "King Record",
+  "King Records"
+ ],
+ "genre": [
+  "Action",
+  "Fighting",
+  "Wrestling"
+ ],
+ "tags": [
+  "fighting",
+  "horizontal",
+  "martialarts",
+  "sideways"
+ ],
+ "description": "A mixed martial arts fighting game for the Super Famicom, developed by A-Wave and published by King Records, that was released exclusively in Japan in 1992.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/5/4/8/312548_front.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

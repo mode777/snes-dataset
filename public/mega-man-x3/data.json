@@ -1,0 +1,53 @@
+{
+ "title": "Mega Man X3",
+ "aliases": [],
+ "year": 1996,
+ "release_dates": {
+  "first_release": "1996-01-26",
+  "europe": "January 1996",
+  "usa": "January 1996"
+ },
+ "developer": [
+  "Capcom"
+ ],
+ "publisher": [
+  "Capcom"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "horizontal",
+  "jumper",
+  "platform",
+  "scifi",
+  "shooter",
+  "sideways"
+ ],
+ "description": "The third installment of the Mega Man X franchise has both Mega Man X and the rebuilt Zero (playable for the first time) hunting down the Maverick scientist Dr. Doppler, who has congregated the reformed Mavericks for a more sinister purpose.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "English, Japanese"
+ ],
+ "gf_score": 4.11,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/7e97c1a1-79a2-4a72-b948-c5509c3dce1c.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/3/20123_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/2/20122_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/1/2/2/20122_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

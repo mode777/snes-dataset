@@ -1,0 +1,53 @@
+{
+ "title": "3 Ninjas Kick Back",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "north_america": "June 19, 1994",
+  "first_release": "1994-11",
+  "usa": "November 1994"
+ },
+ "developer": [
+  "Malibu Interactive",
+  "Malibu"
+ ],
+ "publisher": [
+  "Sony Imagesoft"
+ ],
+ "genre": [
+  "Action",
+  "Platformer",
+  "2D"
+ ],
+ "tags": [
+  "action",
+  "fighter",
+  "horizontal",
+  "movie",
+  "platform",
+  "sideways"
+ ],
+ "description": "A ninja-themed video game based on the 1994 movie of the same name. Three ninja brothers must retrieve a stolen dagger.",
+ "description_source": "snes_csv",
+ "players": "1 - 2 (2 simultaneous)",
+ "languages": [
+  "English"
+ ],
+ "gf_score": 2.13,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/7dd5fc9d-a696-4adb-952b-7cd8446a863d.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/3/50483_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/4/8/3/50483_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "opengamedb",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

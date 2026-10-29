@@ -1,0 +1,45 @@
+{
+ "title": "Winning Post 2",
+ "aliases": [],
+ "year": 1995,
+ "release_dates": {
+  "japan": "Mar 18, 1995"
+ },
+ "developer": [
+  "KOEI"
+ ],
+ "publisher": [
+  "KOEI"
+ ],
+ "genre": [
+  "Sports",
+  "Alternative",
+  "Horse Racing"
+ ],
+ "tags": [
+  "gambling",
+  "horseracing",
+  "management"
+ ],
+ "description": "Sequel in the popular horse-racing franchise by Koei. The game would later see two \"enhanced\" versions that expand the game's features, the first of which would be released in North America on the Sega Saturn as Winning Post.",
+ "description_source": "snes_csv",
+ "players": "1",
+ "languages": [
+  "Japanese"
+ ],
+ "gf_score": null,
+ "metascore": null,
+ "cover_urls": [
+  "https://gamefaqs.gamespot.com/a/box/0/6/1/307061_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/0/6/1/307061_back.jpg"
+ ],
+ "sources": [
+  "snes_csv",
+  "wikipedia",
+  "openvgdb"
+ ],
+ "images": {
+  "thumb": "thumb.png",
+  "box": "box.jpeg"
+ }
+}

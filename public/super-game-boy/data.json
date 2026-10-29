@@ -1,0 +1,38 @@
+{
+ "title": "Super Game Boy",
+ "aliases": [],
+ "year": 1994,
+ "release_dates": {
+  "first_release": "1994-",
+  "japan": "1994",
+  "europe": "1994",
+  "usa": "1994"
+ },
+ "developer": [
+  "Nintendo"
+ ],
+ "publisher": [],
+ "genre": [
+  "Miscellaneous",
+  "General"
+ ],
+ "tags": [],
+ "description": "The Super Game Boy is a peripheral that allows Game Boy cartridges to be played on a Super Nintendo Entertainment System console. Released in June 1994, it retailed for $59.99 in the United States and £49.99 in the United Kingdom.",
+ "description_source": "opengamedb",
+ "players": null,
+ "languages": [],
+ "gf_score": 4.17,
+ "metascore": null,
+ "cover_urls": [
+  "https://images.launchbox-app.com/c5812695-ff6a-489f-a233-b8358d7a9171.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/3/51283_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/3/51283_back.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/4/51284_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/1/51281_front.jpg",
+  "https://gamefaqs.gamespot.com/a/box/2/8/1/51281_back.jpg"
+ ],
+ "sources": [
+  "opengamedb",
+  "openvgdb"
+ ]
+}
