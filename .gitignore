@@ -1,5 +1,6 @@
-# --- Data outputs (never commit crawled content) ---
-data/
+# --- Data outputs (never commit crawled content), but keep the folder ---
+data/*
+!data/.gitkeep
 out/
 
 # --- Python ---
