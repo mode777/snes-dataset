@@ -79,6 +79,10 @@ and `name`, set `start_urls`, and fill in `parse()` selectors.
 - Identifiable User-Agent — **set a real contact URL before crawling**
 - HTTP cache enabled so selector work doesn't re-download pages
 
+## Data sources
+
+See [docs/data-sources.md](docs/data-sources.md) — research on datasets/APIs (recommendation: start from the CC0 Kaggle pair + IGDB, not crawling).
+
 ## Status
 
 `gamefaqs_list` validated against the archived copy of page 1 (100/100 games
