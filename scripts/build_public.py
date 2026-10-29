@@ -2,7 +2,8 @@
 """Build the public/ static dataset (intended for GitHub Pages).
 
 Reads data/snes_merged.json and produces:
-  public/index.json                  { "<slug>": "<Original Title>", ... }
+  public/index.json                  { "<Original Title>": "<slug>", ... }
+  public/index-reverse.json          { "<slug>": "<Original Title>", ... }
   public/catalog.json                [{slug,title,year,developer,...}] for the UI grid
   public/<slug>/data.json            full metadata; images referenced by filename
   public/<slug>/thumb.<ext>          box art thumbnail (Kaggle "small" set) if available
@@ -53,12 +54,14 @@ def main() -> None:
     for entry in PUBLIC.iterdir():
         if entry.is_dir():
             shutil.rmtree(entry)
-        elif entry.name in ("index.json", "catalog.json"):
+        elif entry.name in ("index.json", "index-reverse.json", "catalog.json", "README.md"):
             entry.unlink()
     PUBLIC.mkdir(exist_ok=True)
     (PUBLIC / ".nojekyll").touch()
+    shutil.copy2(ROOT / "docs" / "API.md", PUBLIC / "README.md")
 
-    index: dict[str, str] = {}
+    index: dict[str, str] = {}          # title -> slug
+    reverse: dict[str, str] = {}        # slug -> title
     catalog: list[dict] = []
     used: set[str] = set()
     with_thumb = with_box = 0
@@ -67,7 +70,11 @@ def main() -> None:
         title = game["title"]
         slug = unique_slug(slugify(title), used)
         used.add(slug)
-        index[slug] = title
+        index[title] = slug
+        reverse[slug] = title
+        # guard: duplicate display titles would silently collapse in the JSON object
+        if index.get(title) != slug:
+            index[f"{title} ({slug})"] = slug
 
         game_dir = PUBLIC / slug
         game_dir.mkdir()
@@ -107,6 +114,9 @@ def main() -> None:
 
     (PUBLIC / "index.json").write_text(
         json.dumps(index, indent=1, ensure_ascii=False), encoding="utf-8"
+    )
+    (PUBLIC / "index-reverse.json").write_text(
+        json.dumps(reverse, indent=1, ensure_ascii=False), encoding="utf-8"
     )
     (PUBLIC / "catalog.json").write_text(
         json.dumps(catalog, ensure_ascii=False), encoding="utf-8"

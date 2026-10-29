@@ -5,7 +5,9 @@ All findings verified hands-on unless marked otherwise.
 
 ## TL;DR recommendation
 
-You do **not** need to crawl anything for a solid dataset:
+You do **not** need to crawl anything for a solid dataset — no crawler exists
+in this repo (direct GameFAQs access is blocked from hosting-provider IPs, and
+open datasets cover everything it offered):
 
 1. **Base metadata + images: Kaggle pair (CC0)** — `sergenkaraoglan/super-nintendo-entertainment-system-games` (snes.csv: title, publisher, year, developer, players, tags, description) + `...-box-art` (3,544 box art images, joinable by title).
 2. **API for completeness + screenshots: IGDB** (free non-commercial, Twitch account, 4 req/s). One-time pull of all SNES games (platform 19) takes minutes.
@@ -29,7 +31,6 @@ GameFAQs direct crawling is effectively dead from any datacenter IP (see README)
 | karlforshaw/opengamedb | CSV | ✅ | ✅ URLs | ✅ (Wikipedia-style) | ✅ | ❌ (in desc text) | ✅ | ❌ + **scores (GameFAQs/Metacritic!)** | open CSV on GitHub | 2026-07 |
 | RAWG | API | — | — | — | — | — | — | — | **avoid**: unstable since 2024, multi-day outage Aug 2026 | declining |
 | Giant Bomb | API | — | — | — | — | — | — | — | **offline** during Fandom separation rebuild | — |
-| GameFAQs direct | crawl | ✅ | ✅ (blocked from DC IPs) | ✅ | ✅ | ✅ | ✅ | ✅ | IP-range block on hosting providers | n/a from here |
 
 ## Details
 

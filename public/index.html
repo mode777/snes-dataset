@@ -146,8 +146,9 @@ async function boot() {
   try {
     catalog = await (await fetch("catalog.json")).json();
   } catch {
+    // fallback: index.json maps title -> slug
     const idx = await (await fetch("index.json")).json();
-    catalog = Object.entries(idx).map(([slug, title]) => ({ slug, title }));
+    catalog = Object.entries(idx).map(([title, slug]) => ({ slug, title }));
   }
   state.items = catalog;
   $("#q").addEventListener("input", (e) => { state.q = e.target.value; apply(); });
